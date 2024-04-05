@@ -1,0 +1,1463 @@
+%  Iran (Islamic Republic of) - IRN 
+%  Wed Sep 06 18:51:11 2023 
+
+country(irn,'Iran (Islamic Republic of)'). 
+date('Wed Sep 06 18:51:11 2023').
+
+estimate_required(irn,bcg,1997,na,'na').
+ estimate_required(irn,bcg,1998,na,'na').
+ estimate_required(irn,bcg,1999,na,'na').
+ estimate_required(irn,bcg,2000,na,'na').
+ estimate_required(irn,bcg,2001,na,'na').
+ estimate_required(irn,bcg,2002,na,'na').
+ estimate_required(irn,bcg,2003,na,'na').
+ estimate_required(irn,bcg,2004,na,'na').
+ estimate_required(irn,bcg,2005,na,'na').
+ estimate_required(irn,bcg,2006,na,'na').
+ estimate_required(irn,bcg,2007,na,'na').
+ estimate_required(irn,bcg,2008,na,'na').
+ estimate_required(irn,bcg,2009,na,'na').
+ estimate_required(irn,bcg,2010,na,'na').
+ estimate_required(irn,bcg,2011,na,'na').
+ estimate_required(irn,bcg,2012,na,'na').
+ estimate_required(irn,bcg,2013,na,'na').
+ estimate_required(irn,bcg,2014,na,'na').
+ estimate_required(irn,bcg,2015,na,'na').
+ estimate_required(irn,bcg,2016,na,'na').
+ estimate_required(irn,bcg,2017,na,'na').
+ estimate_required(irn,bcg,2018,na,'na').
+ estimate_required(irn,bcg,2019,na,'na').
+ estimate_required(irn,bcg,2020,na,'na').
+ estimate_required(irn,bcg,2021,na,'na').
+ estimate_required(irn,bcg,2022,na,'na').
+ estimate_required(irn,dtp1,1997,na,'na').
+ estimate_required(irn,dtp1,1998,na,'na').
+ estimate_required(irn,dtp1,1999,na,'na').
+ estimate_required(irn,dtp1,2000,na,'na').
+ estimate_required(irn,dtp1,2001,na,'na').
+ estimate_required(irn,dtp1,2002,na,'na').
+ estimate_required(irn,dtp1,2003,na,'na').
+ estimate_required(irn,dtp1,2004,na,'na').
+ estimate_required(irn,dtp1,2005,na,'na').
+ estimate_required(irn,dtp1,2006,na,'na').
+ estimate_required(irn,dtp1,2007,na,'na').
+ estimate_required(irn,dtp1,2008,na,'na').
+ estimate_required(irn,dtp1,2009,na,'na').
+ estimate_required(irn,dtp1,2010,na,'na').
+ estimate_required(irn,dtp1,2011,na,'na').
+ estimate_required(irn,dtp1,2012,na,'na').
+ estimate_required(irn,dtp1,2013,na,'na').
+ estimate_required(irn,dtp1,2014,na,'na').
+ estimate_required(irn,dtp1,2015,na,'na').
+ estimate_required(irn,dtp1,2016,na,'na').
+ estimate_required(irn,dtp1,2017,na,'na').
+ estimate_required(irn,dtp1,2018,na,'na').
+ estimate_required(irn,dtp1,2019,na,'na').
+ estimate_required(irn,dtp1,2020,na,'na').
+ estimate_required(irn,dtp1,2021,na,'na').
+ estimate_required(irn,dtp1,2022,na,'na').
+ estimate_required(irn,dtp3,1997,na,'na').
+ estimate_required(irn,dtp3,1998,na,'na').
+ estimate_required(irn,dtp3,1999,na,'na').
+ estimate_required(irn,dtp3,2000,na,'na').
+ estimate_required(irn,dtp3,2001,na,'na').
+ estimate_required(irn,dtp3,2002,na,'na').
+ estimate_required(irn,dtp3,2003,na,'na').
+ estimate_required(irn,dtp3,2004,na,'na').
+ estimate_required(irn,dtp3,2005,na,'na').
+ estimate_required(irn,dtp3,2006,na,'na').
+ estimate_required(irn,dtp3,2007,na,'na').
+ estimate_required(irn,dtp3,2008,na,'na').
+ estimate_required(irn,dtp3,2009,na,'na').
+ estimate_required(irn,dtp3,2010,na,'na').
+ estimate_required(irn,dtp3,2011,na,'na').
+ estimate_required(irn,dtp3,2012,na,'na').
+ estimate_required(irn,dtp3,2013,na,'na').
+ estimate_required(irn,dtp3,2014,na,'na').
+ estimate_required(irn,dtp3,2015,na,'na').
+ estimate_required(irn,dtp3,2016,na,'na').
+ estimate_required(irn,dtp3,2017,na,'na').
+ estimate_required(irn,dtp3,2018,na,'na').
+ estimate_required(irn,dtp3,2019,na,'na').
+ estimate_required(irn,dtp3,2020,na,'na').
+ estimate_required(irn,dtp3,2021,na,'na').
+ estimate_required(irn,dtp3,2022,na,'na').
+ estimate_required(irn,hepb3,1997,hepb ,'na').
+ estimate_required(irn,hepb3,1998,hepb ,'na').
+ estimate_required(irn,hepb3,1999,hepb ,'na').
+ estimate_required(irn,hepb3,2000,hepb ,'na').
+ estimate_required(irn,hepb3,2001,hepb ,'na').
+ estimate_required(irn,hepb3,2002,hepb ,'na').
+ estimate_required(irn,hepb3,2003,hepb ,'na').
+ estimate_required(irn,hepb3,2004,hepb ,'na').
+ estimate_required(irn,hepb3,2005,hepb ,'na').
+ estimate_required(irn,hepb3,2006,hepb ,'na').
+ estimate_required(irn,hepb3,2007,hepb ,'na').
+ estimate_required(irn,hepb3,2008,hepb ,'na').
+ estimate_required(irn,hepb3,2009,hepb ,'na').
+ estimate_required(irn,hepb3,2010,hepb ,'na').
+ estimate_required(irn,hepb3,2011,hepb ,'na').
+ estimate_required(irn,hepb3,2012,hepb ,'na').
+ estimate_required(irn,hepb3,2013,hepb ,'na').
+ estimate_required(irn,hepb3,2014,dtphepbhib,'na').
+ estimate_required(irn,hepb3,2015,dtphepbhib,'na').
+ estimate_required(irn,hepb3,2016,dtphepbhib,'na').
+ estimate_required(irn,hepb3,2017,dtphepbhib,'na').
+ estimate_required(irn,hepb3,2018,dtphepbhib,'na').
+ estimate_required(irn,hepb3,2019,dtphepbhib,'na').
+ estimate_required(irn,hepb3,2020,dtphepbhib,'na').
+ estimate_required(irn,hepb3,2021,dtphepbhib,'na').
+ estimate_required(irn,hepb3,2022,dtphepbhib,'na').
+ estimate_required(irn,hepbb,2000,hepb ,'na').
+ estimate_required(irn,hepbb,2001,hepb ,'na').
+ estimate_required(irn,hepbb,2002,hepb ,'na').
+ estimate_required(irn,hepbb,2003,hepb ,'na').
+ estimate_required(irn,hepbb,2004,hepb ,'na').
+ estimate_required(irn,hepbb,2005,hepb ,'na').
+ estimate_required(irn,hepbb,2006,hepb ,'na').
+ estimate_required(irn,hepbb,2007,hepb ,'na').
+ estimate_required(irn,hepbb,2008,hepb ,'na').
+ estimate_required(irn,hepbb,2009,hepb ,'na').
+ estimate_required(irn,hepbb,2010,hepb ,'na').
+ estimate_required(irn,hepbb,2011,hepb ,'na').
+ estimate_required(irn,hepbb,2012,hepb ,'na').
+ estimate_required(irn,hepbb,2013,hepb ,'na').
+ estimate_required(irn,hepbb,2014,hepb,'na').
+ estimate_required(irn,hepbb,2015,hepb,'na').
+ estimate_required(irn,hepbb,2016,hepb,'na').
+ estimate_required(irn,hepbb,2017,hepb,'na').
+ estimate_required(irn,hepbb,2018,hepb,'na').
+ estimate_required(irn,hepbb,2019,hepb,'na').
+ estimate_required(irn,hepbb,2020,hepb,'na').
+ estimate_required(irn,hepbb,2021,hepb,'na').
+ estimate_required(irn,hepbb,2022,hepb,'na').
+ estimate_required(irn,hib3,2015,dtphepbhib,'na').
+ estimate_required(irn,hib3,2016,dtphepbhib,'na').
+ estimate_required(irn,hib3,2017,dtphepbhib,'na').
+ estimate_required(irn,hib3,2018,dtphepbhib,'na').
+ estimate_required(irn,hib3,2019,dtphepbhib,'na').
+ estimate_required(irn,hib3,2020,dtphepbhib,'na').
+ estimate_required(irn,hib3,2021,dtphepbhib,'na').
+ estimate_required(irn,hib3,2022,dtphepbhib,'na').
+ estimate_required(irn,ipv1,2018,ipv,'na').
+ estimate_required(irn,ipv1,2019,ipv,'na').
+ estimate_required(irn,ipv1,2020,ipv,'na').
+ estimate_required(irn,ipv1,2021,ipv,'na').
+ estimate_required(irn,ipv1,2022,ipv,'na').
+ estimate_required(irn,mcv1,1997,na,'na').
+ estimate_required(irn,mcv1,1998,na,'na').
+ estimate_required(irn,mcv1,1999,na,'na').
+ estimate_required(irn,mcv1,2000,na,'na').
+ estimate_required(irn,mcv1,2001,na,'na').
+ estimate_required(irn,mcv1,2002,na,'na').
+ estimate_required(irn,mcv1,2003,na,'na').
+ estimate_required(irn,mcv1,2004,na,'na').
+ estimate_required(irn,mcv1,2005,na,'na').
+ estimate_required(irn,mcv1,2006,na,'na').
+ estimate_required(irn,mcv1,2007,na,'na').
+ estimate_required(irn,mcv1,2008,na,'na').
+ estimate_required(irn,mcv1,2009,na,'na').
+ estimate_required(irn,mcv1,2010,na,'na').
+ estimate_required(irn,mcv1,2011,na,'na').
+ estimate_required(irn,mcv1,2012,na,'na').
+ estimate_required(irn,mcv1,2013,na,'na').
+ estimate_required(irn,mcv1,2014,na,'na').
+ estimate_required(irn,mcv1,2015,na,'na').
+ estimate_required(irn,mcv1,2016,na,'na').
+ estimate_required(irn,mcv1,2017,na,'na').
+ estimate_required(irn,mcv1,2018,na,'na').
+ estimate_required(irn,mcv1,2019,na,'na').
+ estimate_required(irn,mcv1,2020,na,'na').
+ estimate_required(irn,mcv1,2021,na,'na').
+ estimate_required(irn,mcv1,2022,na,'na').
+ estimate_required(irn,mcv2,1999,na,'na').
+ estimate_required(irn,mcv2,2000,na,'na').
+ estimate_required(irn,mcv2,2001,na,'na').
+ estimate_required(irn,mcv2,2002,na,'na').
+ estimate_required(irn,mcv2,2003,na,'na').
+ estimate_required(irn,mcv2,2004,na,'na').
+ estimate_required(irn,mcv2,2005,na,'na').
+ estimate_required(irn,mcv2,2006,na,'na').
+ estimate_required(irn,mcv2,2007,na,'na').
+ estimate_required(irn,mcv2,2008,na,'na').
+ estimate_required(irn,mcv2,2009,na,'na').
+ estimate_required(irn,mcv2,2010,na,'na').
+ estimate_required(irn,mcv2,2011,na,'na').
+ estimate_required(irn,mcv2,2012,na,'na').
+ estimate_required(irn,mcv2,2013,na,'na').
+ estimate_required(irn,mcv2,2014,mmr,'na').
+ estimate_required(irn,mcv2,2015,mmr,'na').
+ estimate_required(irn,mcv2,2016,mmr,'na').
+ estimate_required(irn,mcv2,2017,mmr,'na').
+ estimate_required(irn,mcv2,2018,mmr,'na').
+ estimate_required(irn,mcv2,2019,mmr,'na').
+ estimate_required(irn,mcv2,2020,mmr,'na').
+ estimate_required(irn,mcv2,2021,mmr,'na').
+ estimate_required(irn,mcv2,2022,mmr,'na').
+ estimate_required(irn,pol3,1997,na,'na').
+ estimate_required(irn,pol3,1998,na,'na').
+ estimate_required(irn,pol3,1999,na,'na').
+ estimate_required(irn,pol3,2000,na,'na').
+ estimate_required(irn,pol3,2001,na,'na').
+ estimate_required(irn,pol3,2002,na,'na').
+ estimate_required(irn,pol3,2003,na,'na').
+ estimate_required(irn,pol3,2004,na,'na').
+ estimate_required(irn,pol3,2005,na,'na').
+ estimate_required(irn,pol3,2006,na,'na').
+ estimate_required(irn,pol3,2007,na,'na').
+ estimate_required(irn,pol3,2008,na,'na').
+ estimate_required(irn,pol3,2009,na,'na').
+ estimate_required(irn,pol3,2010,na,'na').
+ estimate_required(irn,pol3,2011,na,'na').
+ estimate_required(irn,pol3,2012,na,'na').
+ estimate_required(irn,pol3,2013,na,'na').
+ estimate_required(irn,pol3,2014,na,'na').
+ estimate_required(irn,pol3,2015,na,'na').
+ estimate_required(irn,pol3,2016,na,'na').
+ estimate_required(irn,pol3,2017,na,'na').
+ estimate_required(irn,pol3,2018,na,'na').
+ estimate_required(irn,pol3,2019,na,'na').
+ estimate_required(irn,pol3,2020,na,'na').
+ estimate_required(irn,pol3,2021,na,'na').
+ estimate_required(irn,pol3,2022,na,'na').
+ estimate_required(irn,rcv1,2004,mmr,'na').
+ estimate_required(irn,rcv1,2005,mmr,'na').
+ estimate_required(irn,rcv1,2006,mmr,'na').
+ estimate_required(irn,rcv1,2007,mmr,'na').
+ estimate_required(irn,rcv1,2008,mmr,'na').
+ estimate_required(irn,rcv1,2009,mmr,'na').
+ estimate_required(irn,rcv1,2010,mmr,'na').
+ estimate_required(irn,rcv1,2011,mmr,'na').
+ estimate_required(irn,rcv1,2012,mmr,'na').
+ estimate_required(irn,rcv1,2013,mmr,'na').
+ estimate_required(irn,rcv1,2014,mmr,'na').
+ estimate_required(irn,rcv1,2015,mmr,'na').
+ estimate_required(irn,rcv1,2016,mmr,'na').
+ estimate_required(irn,rcv1,2017,mmr,'na').
+ estimate_required(irn,rcv1,2018,mmr,'na').
+ estimate_required(irn,rcv1,2019,mmr,'na').
+ estimate_required(irn,rcv1,2020,mmr,'na').
+ estimate_required(irn,rcv1,2021,mmr,'na').
+ estimate_required(irn,rcv1,2022,mmr,'na').
+
+admin(irn,bcg,1999,99).
+ admin(irn,bcg,2000,99).
+ admin(irn,bcg,2001,91).
+ admin(irn,bcg,2002,97).
+ admin(irn,bcg,2003,104).
+ admin(irn,bcg,2004,103).
+ admin(irn,bcg,2005,99).
+ admin(irn,bcg,2006,99).
+ admin(irn,bcg,2007,99).
+ admin(irn,bcg,2008,99).
+ admin(irn,bcg,2009,99).
+ admin(irn,bcg,2010,99).
+ admin(irn,bcg,2011,99).
+ admin(irn,bcg,2012,100).
+ admin(irn,bcg,2013,100).
+ admin(irn,bcg,2014,100).
+ admin(irn,bcg,2015,99).
+ admin(irn,bcg,2016,100).
+ admin(irn,bcg,2017,100).
+ admin(irn,bcg,2018,100).
+ admin(irn,bcg,2019,98).
+ admin(irn,bcg,2020,98).
+ admin(irn,bcg,2021,99).
+ admin(irn,bcg,2022,97).
+ admin(irn,dtp1,2000,100).
+ admin(irn,dtp1,2001,96).
+ admin(irn,dtp1,2002,99).
+ admin(irn,dtp1,2003,100).
+ admin(irn,dtp1,2004,102).
+ admin(irn,dtp1,2005,97).
+ admin(irn,dtp1,2006,98).
+ admin(irn,dtp1,2007,99).
+ admin(irn,dtp1,2008,99).
+ admin(irn,dtp1,2009,99).
+ admin(irn,dtp1,2010,99).
+ admin(irn,dtp1,2011,99).
+ admin(irn,dtp1,2012,98).
+ admin(irn,dtp1,2013,97).
+ admin(irn,dtp1,2014,99).
+ admin(irn,dtp1,2015,99).
+ admin(irn,dtp1,2016,99).
+ admin(irn,dtp1,2017,98).
+ admin(irn,dtp1,2018,97).
+ admin(irn,dtp1,2019,98).
+ admin(irn,dtp1,2020,99).
+ admin(irn,dtp1,2021,98).
+ admin(irn,dtp1,2022,100).
+ admin(irn,dtp3,1999,100).
+ admin(irn,dtp3,2000,100).
+ admin(irn,dtp3,2001,96).
+ admin(irn,dtp3,2002,99).
+ admin(irn,dtp3,2003,99).
+ admin(irn,dtp3,2004,99).
+ admin(irn,dtp3,2005,95).
+ admin(irn,dtp3,2006,98).
+ admin(irn,dtp3,2007,99).
+ admin(irn,dtp3,2008,99).
+ admin(irn,dtp3,2009,99).
+ admin(irn,dtp3,2010,99).
+ admin(irn,dtp3,2011,99).
+ admin(irn,dtp3,2012,99).
+ admin(irn,dtp3,2013,98).
+ admin(irn,dtp3,2014,99).
+ admin(irn,dtp3,2015,98).
+ admin(irn,dtp3,2016,99).
+ admin(irn,dtp3,2017,100).
+ admin(irn,dtp3,2018,100).
+ admin(irn,dtp3,2019,100).
+ admin(irn,dtp3,2020,100).
+ admin(irn,dtp3,2021,98).
+ admin(irn,dtp3,2022,99).
+ admin(irn,hepb3,1999,95).
+ admin(irn,hepb3,2000,100).
+ admin(irn,hepb3,2001,94).
+ admin(irn,hepb3,2002,99).
+ admin(irn,hepb3,2003,98).
+ admin(irn,hepb3,2004,95).
+ admin(irn,hepb3,2005,94).
+ admin(irn,hepb3,2006,98).
+ admin(irn,hepb3,2007,97).
+ admin(irn,hepb3,2008,98).
+ admin(irn,hepb3,2009,99).
+ admin(irn,hepb3,2010,99).
+ admin(irn,hepb3,2011,99).
+ admin(irn,hepb3,2012,98).
+ admin(irn,hepb3,2013,99).
+ admin(irn,hepb3,2014,99).
+ admin(irn,hepb3,2015,98).
+ admin(irn,hepb3,2016,99).
+ admin(irn,hepb3,2017,100).
+ admin(irn,hepb3,2018,100).
+ admin(irn,hepb3,2019,100).
+ admin(irn,hepb3,2020,100).
+ admin(irn,hepb3,2021,98).
+ admin(irn,hepb3,2022,99).
+ admin(irn,hepbb,2000,99).
+ admin(irn,hepbb,2001,91).
+ admin(irn,hepbb,2002,98).
+ admin(irn,hepbb,2003,99).
+ admin(irn,hepbb,2004,103).
+ admin(irn,hepbb,2005,96).
+ admin(irn,hepbb,2006,110).
+ admin(irn,hepbb,2007,99).
+ admin(irn,hepbb,2008,99).
+ admin(irn,hepbb,2009,99).
+ admin(irn,hepbb,2010,96).
+ admin(irn,hepbb,2011,99).
+ admin(irn,hepbb,2012,96).
+ admin(irn,hepbb,2013,97).
+ admin(irn,hepbb,2014,97).
+ admin(irn,hepbb,2015,95).
+ admin(irn,hepbb,2016,95).
+ admin(irn,hepbb,2017,94).
+ admin(irn,hepbb,2018,95).
+ admin(irn,hepbb,2019,95).
+ admin(irn,hepbb,2020,95).
+ admin(irn,hepbb,2021,96).
+ admin(irn,hepbb,2022,95).
+ admin(irn,hib3,2015,98).
+ admin(irn,hib3,2016,99).
+ admin(irn,hib3,2017,100).
+ admin(irn,hib3,2018,100).
+ admin(irn,hib3,2019,100).
+ admin(irn,hib3,2020,100).
+ admin(irn,hib3,2021,98).
+ admin(irn,hib3,2022,99).
+ admin(irn,ipv1,2018,43).
+ admin(irn,ipv1,2019,100).
+ admin(irn,ipv1,2020,99).
+ admin(irn,ipv1,2021,98).
+ admin(irn,ipv1,2022,100).
+ admin(irn,mcv1,1999,99).
+ admin(irn,mcv1,2000,100).
+ admin(irn,mcv1,2001,96).
+ admin(irn,mcv1,2002,100).
+ admin(irn,mcv1,2003,99).
+ admin(irn,mcv1,2004,96).
+ admin(irn,mcv1,2005,94).
+ admin(irn,mcv1,2006,99).
+ admin(irn,mcv1,2007,97).
+ admin(irn,mcv1,2008,98).
+ admin(irn,mcv1,2009,99).
+ admin(irn,mcv1,2010,99).
+ admin(irn,mcv1,2011,99).
+ admin(irn,mcv1,2012,98).
+ admin(irn,mcv1,2013,98).
+ admin(irn,mcv1,2014,99).
+ admin(irn,mcv1,2015,99).
+ admin(irn,mcv1,2016,99).
+ admin(irn,mcv1,2017,100).
+ admin(irn,mcv1,2018,101).
+ admin(irn,mcv1,2019,98).
+ admin(irn,mcv1,2020,103).
+ admin(irn,mcv1,2021,100).
+ admin(irn,mcv1,2022,99).
+ admin(irn,mcv2,1999,96).
+ admin(irn,mcv2,2000,100).
+ admin(irn,mcv2,2001,94).
+ admin(irn,mcv2,2002,96).
+ admin(irn,mcv2,2003,96).
+ admin(irn,mcv2,2004,104).
+ admin(irn,mcv2,2005,92).
+ admin(irn,mcv2,2006,98).
+ admin(irn,mcv2,2007,95).
+ admin(irn,mcv2,2008,96).
+ admin(irn,mcv2,2009,99).
+ admin(irn,mcv2,2010,99).
+ admin(irn,mcv2,2011,99).
+ admin(irn,mcv2,2012,95).
+ admin(irn,mcv2,2013,97).
+ admin(irn,mcv2,2014,98).
+ admin(irn,mcv2,2015,97).
+ admin(irn,mcv2,2016,99).
+ admin(irn,mcv2,2017,101).
+ admin(irn,mcv2,2018,98).
+ admin(irn,mcv2,2019,100).
+ admin(irn,mcv2,2020,98).
+ admin(irn,mcv2,2021,98).
+ admin(irn,mcv2,2022,98).
+ admin(irn,pol3,1999,100).
+ admin(irn,pol3,2000,100).
+ admin(irn,pol3,2001,95).
+ admin(irn,pol3,2002,100).
+ admin(irn,pol3,2003,99).
+ admin(irn,pol3,2004,98).
+ admin(irn,pol3,2005,95).
+ admin(irn,pol3,2006,99).
+ admin(irn,pol3,2007,98).
+ admin(irn,pol3,2008,99).
+ admin(irn,pol3,2009,99).
+ admin(irn,pol3,2010,99).
+ admin(irn,pol3,2011,99).
+ admin(irn,pol3,2012,99).
+ admin(irn,pol3,2013,98).
+ admin(irn,pol3,2014,100).
+ admin(irn,pol3,2015,99).
+ admin(irn,pol3,2016,99).
+ admin(irn,pol3,2017,100).
+ admin(irn,pol3,2018,100).
+ admin(irn,pol3,2019,100).
+ admin(irn,pol3,2020,99).
+ admin(irn,pol3,2021,98).
+ admin(irn,pol3,2022,100).
+
+gov(irn,bcg,1997,91).
+ gov(irn,bcg,1998,99).
+ gov(irn,bcg,1999,99).
+ gov(irn,bcg,2000,99).
+ gov(irn,bcg,2001,91).
+ gov(irn,bcg,2002,97).
+ gov(irn,bcg,2003,100).
+ gov(irn,bcg,2004,100).
+ gov(irn,bcg,2005,99).
+ gov(irn,bcg,2006,99).
+ gov(irn,bcg,2007,99).
+ gov(irn,bcg,2008,99).
+ gov(irn,bcg,2009,99).
+ gov(irn,bcg,2010,99).
+ gov(irn,bcg,2011,99).
+ gov(irn,bcg,2012,100).
+ gov(irn,bcg,2013,100).
+ gov(irn,bcg,2014,100).
+ gov(irn,bcg,2015,100).
+ gov(irn,bcg,2016,100).
+ gov(irn,bcg,2017,99).
+ gov(irn,bcg,2018,100).
+ gov(irn,bcg,2019,100).
+ gov(irn,bcg,2020,98).
+ gov(irn,bcg,2021,99).
+ gov(irn,bcg,2022,99).
+ gov(irn,dtp1,2000,100).
+ gov(irn,dtp1,2001,96).
+ gov(irn,dtp1,2002,99).
+ gov(irn,dtp1,2003,100).
+ gov(irn,dtp1,2004,100).
+ gov(irn,dtp1,2005,97).
+ gov(irn,dtp1,2006,98).
+ gov(irn,dtp1,2007,99).
+ gov(irn,dtp1,2008,99).
+ gov(irn,dtp1,2009,99).
+ gov(irn,dtp1,2010,99).
+ gov(irn,dtp1,2011,99).
+ gov(irn,dtp1,2012,98).
+ gov(irn,dtp1,2013,98).
+ gov(irn,dtp1,2014,99).
+ gov(irn,dtp1,2015,99).
+ gov(irn,dtp1,2016,99).
+ gov(irn,dtp1,2017,99).
+ gov(irn,dtp1,2018,99).
+ gov(irn,dtp1,2019,99).
+ gov(irn,dtp1,2020,99).
+ gov(irn,dtp1,2021,98).
+ gov(irn,dtp1,2022,99).
+ gov(irn,dtp3,1997,100).
+ gov(irn,dtp3,1998,100).
+ gov(irn,dtp3,1999,100).
+ gov(irn,dtp3,2000,100).
+ gov(irn,dtp3,2001,96).
+ gov(irn,dtp3,2002,99).
+ gov(irn,dtp3,2003,99).
+ gov(irn,dtp3,2004,99).
+ gov(irn,dtp3,2005,95).
+ gov(irn,dtp3,2006,98).
+ gov(irn,dtp3,2007,99).
+ gov(irn,dtp3,2008,99).
+ gov(irn,dtp3,2009,99).
+ gov(irn,dtp3,2010,99).
+ gov(irn,dtp3,2011,99).
+ gov(irn,dtp3,2012,99).
+ gov(irn,dtp3,2013,98).
+ gov(irn,dtp3,2014,99).
+ gov(irn,dtp3,2015,98).
+ gov(irn,dtp3,2016,99).
+ gov(irn,dtp3,2017,99).
+ gov(irn,dtp3,2018,99).
+ gov(irn,dtp3,2019,99).
+ gov(irn,dtp3,2020,100).
+ gov(irn,dtp3,2021,98).
+ gov(irn,dtp3,2022,99).
+ gov(irn,hepb3,1997,93).
+ gov(irn,hepb3,1998,94).
+ gov(irn,hepb3,1999,95).
+ gov(irn,hepb3,2000,100).
+ gov(irn,hepb3,2001,94).
+ gov(irn,hepb3,2002,99).
+ gov(irn,hepb3,2003,98).
+ gov(irn,hepb3,2004,95).
+ gov(irn,hepb3,2005,94).
+ gov(irn,hepb3,2006,98).
+ gov(irn,hepb3,2007,97).
+ gov(irn,hepb3,2008,99).
+ gov(irn,hepb3,2009,99).
+ gov(irn,hepb3,2010,99).
+ gov(irn,hepb3,2011,99).
+ gov(irn,hepb3,2012,98).
+ gov(irn,hepb3,2013,99).
+ gov(irn,hepb3,2014,99).
+ gov(irn,hepb3,2015,98).
+ gov(irn,hepb3,2016,99).
+ gov(irn,hepb3,2017,99).
+ gov(irn,hepb3,2018,99).
+ gov(irn,hepb3,2019,99).
+ gov(irn,hepb3,2020,100).
+ gov(irn,hepb3,2021,98).
+ gov(irn,hepb3,2022,99).
+ gov(irn,hepbb,2000,99).
+ gov(irn,hepbb,2001,94).
+ gov(irn,hepbb,2002,100).
+ gov(irn,hepbb,2003,99).
+ gov(irn,hepbb,2004,100).
+ gov(irn,hepbb,2005,96).
+ gov(irn,hepbb,2006,99).
+ gov(irn,hepbb,2007,99).
+ gov(irn,hepbb,2008,99).
+ gov(irn,hepbb,2009,99).
+ gov(irn,hepbb,2010,99).
+ gov(irn,hepbb,2011,99).
+ gov(irn,hepbb,2012,96).
+ gov(irn,hepbb,2013,99).
+ gov(irn,hepbb,2014,97).
+ gov(irn,hepbb,2015,96).
+ gov(irn,hepbb,2016,95).
+ gov(irn,hepbb,2017,95).
+ gov(irn,hepbb,2018,95).
+ gov(irn,hepbb,2019,95).
+ gov(irn,hepbb,2020,95).
+ gov(irn,hepbb,2021,96).
+ gov(irn,hepbb,2022,95).
+ gov(irn,hib3,2015,98).
+ gov(irn,hib3,2016,99).
+ gov(irn,hib3,2017,99).
+ gov(irn,hib3,2018,99).
+ gov(irn,hib3,2019,99).
+ gov(irn,hib3,2020,100).
+ gov(irn,hib3,2021,98).
+ gov(irn,hib3,2022,99).
+ gov(irn,ipv1,2019,99).
+ gov(irn,ipv1,2020,99).
+ gov(irn,ipv1,2021,98).
+ gov(irn,ipv1,2022,99).
+ gov(irn,mcv1,1997,95).
+ gov(irn,mcv1,1998,100).
+ gov(irn,mcv1,1999,99).
+ gov(irn,mcv1,2000,100).
+ gov(irn,mcv1,2001,96).
+ gov(irn,mcv1,2002,100).
+ gov(irn,mcv1,2003,99).
+ gov(irn,mcv1,2004,96).
+ gov(irn,mcv1,2005,94).
+ gov(irn,mcv1,2006,99).
+ gov(irn,mcv1,2007,97).
+ gov(irn,mcv1,2008,98).
+ gov(irn,mcv1,2009,99).
+ gov(irn,mcv1,2010,99).
+ gov(irn,mcv1,2011,99).
+ gov(irn,mcv1,2012,98).
+ gov(irn,mcv1,2013,98).
+ gov(irn,mcv1,2014,99).
+ gov(irn,mcv1,2015,99).
+ gov(irn,mcv1,2016,99).
+ gov(irn,mcv1,2017,99).
+ gov(irn,mcv1,2018,99).
+ gov(irn,mcv1,2019,99).
+ gov(irn,mcv1,2020,99).
+ gov(irn,mcv1,2021,100).
+ gov(irn,mcv1,2022,99).
+ gov(irn,mcv2,1999,96).
+ gov(irn,mcv2,2000,100).
+ gov(irn,mcv2,2001,94).
+ gov(irn,mcv2,2002,96).
+ gov(irn,mcv2,2003,96).
+ gov(irn,mcv2,2004,100).
+ gov(irn,mcv2,2005,92).
+ gov(irn,mcv2,2007,97).
+ gov(irn,mcv2,2008,96).
+ gov(irn,mcv2,2009,99).
+ gov(irn,mcv2,2010,99).
+ gov(irn,mcv2,2011,99).
+ gov(irn,mcv2,2012,97).
+ gov(irn,mcv2,2013,97).
+ gov(irn,mcv2,2014,98).
+ gov(irn,mcv2,2015,98).
+ gov(irn,mcv2,2016,98).
+ gov(irn,mcv2,2017,98).
+ gov(irn,mcv2,2018,98).
+ gov(irn,mcv2,2019,98).
+ gov(irn,mcv2,2020,98).
+ gov(irn,mcv2,2021,98).
+ gov(irn,mcv2,2022,98).
+ gov(irn,pol3,1997,100).
+ gov(irn,pol3,1998,100).
+ gov(irn,pol3,1999,100).
+ gov(irn,pol3,2000,100).
+ gov(irn,pol3,2001,95).
+ gov(irn,pol3,2002,100).
+ gov(irn,pol3,2003,99).
+ gov(irn,pol3,2004,98).
+ gov(irn,pol3,2005,95).
+ gov(irn,pol3,2006,99).
+ gov(irn,pol3,2007,98).
+ gov(irn,pol3,2008,99).
+ gov(irn,pol3,2009,99).
+ gov(irn,pol3,2010,99).
+ gov(irn,pol3,2011,99).
+ gov(irn,pol3,2012,99).
+ gov(irn,pol3,2013,98).
+ gov(irn,pol3,2014,99).
+ gov(irn,pol3,2015,98).
+ gov(irn,pol3,2016,99).
+ gov(irn,pol3,2017,99).
+ gov(irn,pol3,2018,99).
+ gov(irn,pol3,2019,99).
+ gov(irn,pol3,2020,99).
+ gov(irn,pol3,2021,98).
+ gov(irn,pol3,2022,99).
+
+legacy(irn,bcg,1997,91).
+ legacy(irn,bcg,1998,99).
+ legacy(irn,bcg,1999,99).
+ legacy(irn,bcg,2000,99).
+ legacy(irn,bcg,2001,91).
+ legacy(irn,bcg,2002,97).
+ legacy(irn,bcg,2003,99).
+ legacy(irn,bcg,2004,99).
+ legacy(irn,bcg,2005,99).
+ legacy(irn,bcg,2006,99).
+ legacy(irn,bcg,2007,99).
+ legacy(irn,bcg,2008,99).
+ legacy(irn,bcg,2009,99).
+ legacy(irn,bcg,2010,99).
+ legacy(irn,bcg,2011,99).
+ legacy(irn,bcg,2012,99).
+ legacy(irn,bcg,2013,99).
+ legacy(irn,bcg,2014,99).
+ legacy(irn,bcg,2015,99).
+ legacy(irn,bcg,2016,99).
+ legacy(irn,bcg,2017,99).
+ legacy(irn,bcg,2018,99).
+ legacy(irn,bcg,2019,99).
+ legacy(irn,bcg,2020,98).
+ legacy(irn,bcg,2021,99).
+ legacy(irn,dtp1,1997,99).
+ legacy(irn,dtp1,1998,99).
+ legacy(irn,dtp1,1999,99).
+ legacy(irn,dtp1,2000,99).
+ legacy(irn,dtp1,2001,96).
+ legacy(irn,dtp1,2002,99).
+ legacy(irn,dtp1,2003,99).
+ legacy(irn,dtp1,2004,99).
+ legacy(irn,dtp1,2005,97).
+ legacy(irn,dtp1,2006,98).
+ legacy(irn,dtp1,2007,99).
+ legacy(irn,dtp1,2008,99).
+ legacy(irn,dtp1,2009,99).
+ legacy(irn,dtp1,2010,99).
+ legacy(irn,dtp1,2011,99).
+ legacy(irn,dtp1,2012,99).
+ legacy(irn,dtp1,2013,98).
+ legacy(irn,dtp1,2014,99).
+ legacy(irn,dtp1,2015,99).
+ legacy(irn,dtp1,2016,99).
+ legacy(irn,dtp1,2017,99).
+ legacy(irn,dtp1,2018,99).
+ legacy(irn,dtp1,2019,99).
+ legacy(irn,dtp1,2020,99).
+ legacy(irn,dtp1,2021,98).
+ legacy(irn,dtp3,1997,99).
+ legacy(irn,dtp3,1998,99).
+ legacy(irn,dtp3,1999,99).
+ legacy(irn,dtp3,2000,99).
+ legacy(irn,dtp3,2001,96).
+ legacy(irn,dtp3,2002,99).
+ legacy(irn,dtp3,2003,99).
+ legacy(irn,dtp3,2004,99).
+ legacy(irn,dtp3,2005,95).
+ legacy(irn,dtp3,2006,98).
+ legacy(irn,dtp3,2007,99).
+ legacy(irn,dtp3,2008,99).
+ legacy(irn,dtp3,2009,99).
+ legacy(irn,dtp3,2010,99).
+ legacy(irn,dtp3,2011,99).
+ legacy(irn,dtp3,2012,99).
+ legacy(irn,dtp3,2013,98).
+ legacy(irn,dtp3,2014,99).
+ legacy(irn,dtp3,2015,98).
+ legacy(irn,dtp3,2016,99).
+ legacy(irn,dtp3,2017,99).
+ legacy(irn,dtp3,2018,99).
+ legacy(irn,dtp3,2019,99).
+ legacy(irn,dtp3,2020,99).
+ legacy(irn,dtp3,2021,98).
+ legacy(irn,hepb3,1997,93).
+ legacy(irn,hepb3,1998,94).
+ legacy(irn,hepb3,1999,95).
+ legacy(irn,hepb3,2000,99).
+ legacy(irn,hepb3,2001,94).
+ legacy(irn,hepb3,2002,99).
+ legacy(irn,hepb3,2003,98).
+ legacy(irn,hepb3,2004,95).
+ legacy(irn,hepb3,2005,94).
+ legacy(irn,hepb3,2006,98).
+ legacy(irn,hepb3,2007,97).
+ legacy(irn,hepb3,2008,99).
+ legacy(irn,hepb3,2009,99).
+ legacy(irn,hepb3,2010,99).
+ legacy(irn,hepb3,2011,99).
+ legacy(irn,hepb3,2012,98).
+ legacy(irn,hepb3,2013,99).
+ legacy(irn,hepb3,2014,99).
+ legacy(irn,hepb3,2015,98).
+ legacy(irn,hepb3,2016,99).
+ legacy(irn,hepb3,2017,99).
+ legacy(irn,hepb3,2018,99).
+ legacy(irn,hepb3,2019,99).
+ legacy(irn,hepb3,2020,99).
+ legacy(irn,hepb3,2021,98).
+ legacy(irn,hepbb,2000,99).
+ legacy(irn,hepbb,2001,94).
+ legacy(irn,hepbb,2002,99).
+ legacy(irn,hepbb,2003,99).
+ legacy(irn,hepbb,2004,99).
+ legacy(irn,hepbb,2005,96).
+ legacy(irn,hepbb,2006,99).
+ legacy(irn,hepbb,2007,99).
+ legacy(irn,hepbb,2008,99).
+ legacy(irn,hepbb,2009,99).
+ legacy(irn,hepbb,2010,99).
+ legacy(irn,hepbb,2011,99).
+ legacy(irn,hepbb,2012,96).
+ legacy(irn,hepbb,2013,99).
+ legacy(irn,hepbb,2014,97).
+ legacy(irn,hepbb,2015,96).
+ legacy(irn,hepbb,2016,95).
+ legacy(irn,hepbb,2017,95).
+ legacy(irn,hepbb,2018,95).
+ legacy(irn,hepbb,2019,95).
+ legacy(irn,hepbb,2020,95).
+ legacy(irn,hepbb,2021,96).
+ legacy(irn,hib3,2015,98).
+ legacy(irn,hib3,2016,99).
+ legacy(irn,hib3,2017,99).
+ legacy(irn,hib3,2018,99).
+ legacy(irn,hib3,2019,99).
+ legacy(irn,hib3,2020,99).
+ legacy(irn,hib3,2021,98).
+ legacy(irn,ipv1,2018,43).
+ legacy(irn,ipv1,2019,99).
+ legacy(irn,ipv1,2020,99).
+ legacy(irn,ipv1,2021,98).
+ legacy(irn,mcv1,1997,95).
+ legacy(irn,mcv1,1998,99).
+ legacy(irn,mcv1,1999,99).
+ legacy(irn,mcv1,2000,99).
+ legacy(irn,mcv1,2001,96).
+ legacy(irn,mcv1,2002,99).
+ legacy(irn,mcv1,2003,99).
+ legacy(irn,mcv1,2004,96).
+ legacy(irn,mcv1,2005,94).
+ legacy(irn,mcv1,2006,99).
+ legacy(irn,mcv1,2007,97).
+ legacy(irn,mcv1,2008,98).
+ legacy(irn,mcv1,2009,99).
+ legacy(irn,mcv1,2010,99).
+ legacy(irn,mcv1,2011,99).
+ legacy(irn,mcv1,2012,98).
+ legacy(irn,mcv1,2013,98).
+ legacy(irn,mcv1,2014,99).
+ legacy(irn,mcv1,2015,99).
+ legacy(irn,mcv1,2016,99).
+ legacy(irn,mcv1,2017,99).
+ legacy(irn,mcv1,2018,99).
+ legacy(irn,mcv1,2019,99).
+ legacy(irn,mcv1,2020,99).
+ legacy(irn,mcv1,2021,99).
+ legacy(irn,mcv2,1999,96).
+ legacy(irn,mcv2,2000,99).
+ legacy(irn,mcv2,2001,94).
+ legacy(irn,mcv2,2002,96).
+ legacy(irn,mcv2,2003,96).
+ legacy(irn,mcv2,2004,99).
+ legacy(irn,mcv2,2005,92).
+ legacy(irn,mcv2,2006,98).
+ legacy(irn,mcv2,2007,97).
+ legacy(irn,mcv2,2008,96).
+ legacy(irn,mcv2,2009,99).
+ legacy(irn,mcv2,2010,99).
+ legacy(irn,mcv2,2011,99).
+ legacy(irn,mcv2,2012,97).
+ legacy(irn,mcv2,2013,97).
+ legacy(irn,mcv2,2014,98).
+ legacy(irn,mcv2,2015,98).
+ legacy(irn,mcv2,2016,98).
+ legacy(irn,mcv2,2017,98).
+ legacy(irn,mcv2,2018,98).
+ legacy(irn,mcv2,2019,98).
+ legacy(irn,mcv2,2020,98).
+ legacy(irn,mcv2,2021,98).
+ legacy(irn,pol3,1997,99).
+ legacy(irn,pol3,1998,99).
+ legacy(irn,pol3,1999,99).
+ legacy(irn,pol3,2000,99).
+ legacy(irn,pol3,2001,95).
+ legacy(irn,pol3,2002,99).
+ legacy(irn,pol3,2003,99).
+ legacy(irn,pol3,2004,98).
+ legacy(irn,pol3,2005,95).
+ legacy(irn,pol3,2006,99).
+ legacy(irn,pol3,2007,98).
+ legacy(irn,pol3,2008,99).
+ legacy(irn,pol3,2009,99).
+ legacy(irn,pol3,2010,99).
+ legacy(irn,pol3,2011,99).
+ legacy(irn,pol3,2012,99).
+ legacy(irn,pol3,2013,98).
+ legacy(irn,pol3,2014,99).
+ legacy(irn,pol3,2015,98).
+ legacy(irn,pol3,2016,99).
+ legacy(irn,pol3,2017,99).
+ legacy(irn,pol3,2018,99).
+ legacy(irn,pol3,2019,99).
+ legacy(irn,pol3,2020,99).
+ legacy(irn,pol3,2021,98).
+ legacy(irn,rcv1,2004,96).
+ legacy(irn,rcv1,2005,94).
+ legacy(irn,rcv1,2006,99).
+ legacy(irn,rcv1,2007,97).
+ legacy(irn,rcv1,2008,98).
+ legacy(irn,rcv1,2009,99).
+ legacy(irn,rcv1,2010,99).
+ legacy(irn,rcv1,2011,99).
+ legacy(irn,rcv1,2012,98).
+ legacy(irn,rcv1,2013,98).
+ legacy(irn,rcv1,2014,99).
+ legacy(irn,rcv1,2015,99).
+ legacy(irn,rcv1,2016,99).
+ legacy(irn,rcv1,2017,99).
+ legacy(irn,rcv1,2018,99).
+ legacy(irn,rcv1,2019,99).
+ legacy(irn,rcv1,2020,99).
+ legacy(irn,rcv1,2021,99).
+
+vaccinated(irn,bcg,1999,1147414).
+ vaccinated(irn,bcg,2000,1108665).
+ vaccinated(irn,bcg,2001,1101524).
+ vaccinated(irn,bcg,2002,1164130).
+ vaccinated(irn,bcg,2003,1166068).
+ vaccinated(irn,bcg,2004,1165448).
+ vaccinated(irn,bcg,2005,1345960).
+ vaccinated(irn,bcg,2006,1279515).
+ vaccinated(irn,bcg,2007,1203951).
+ vaccinated(irn,bcg,2008,1196266).
+ vaccinated(irn,bcg,2009,1239215).
+ vaccinated(irn,bcg,2010,1252654).
+ vaccinated(irn,bcg,2011,1360884).
+ vaccinated(irn,bcg,2012,1405466).
+ vaccinated(irn,bcg,2013,1483838).
+ vaccinated(irn,bcg,2014,1506805).
+ vaccinated(irn,bcg,2015,1534803).
+ vaccinated(irn,bcg,2016,1541561).
+ vaccinated(irn,bcg,2017,1532613).
+ vaccinated(irn,bcg,2018,1466992).
+ vaccinated(irn,bcg,2019,1310656).
+ vaccinated(irn,bcg,2020,1171054).
+ vaccinated(irn,bcg,2021,1089316).
+ vaccinated(irn,bcg,2022,1047047).
+ vaccinated(irn,dtp1,2000,1115218).
+ vaccinated(irn,dtp1,2001,1116366).
+ vaccinated(irn,dtp1,2002,1153416).
+ vaccinated(irn,dtp1,2003,1082140).
+ vaccinated(irn,dtp1,2004,1116486).
+ vaccinated(irn,dtp1,2005,1268803).
+ vaccinated(irn,dtp1,2006,1227590).
+ vaccinated(irn,dtp1,2007,1167466).
+ vaccinated(irn,dtp1,2008,1162556).
+ vaccinated(irn,dtp1,2009,1183141).
+ vaccinated(irn,dtp1,2010,1223359).
+ vaccinated(irn,dtp1,2011,1351290).
+ vaccinated(irn,dtp1,2012,1385080).
+ vaccinated(irn,dtp1,2013,1400767).
+ vaccinated(irn,dtp1,2014,1481744).
+ vaccinated(irn,dtp1,2015,1514298).
+ vaccinated(irn,dtp1,2016,1505244).
+ vaccinated(irn,dtp1,2017,1492400).
+ vaccinated(irn,dtp1,2018,1407042).
+ vaccinated(irn,dtp1,2019,1292433).
+ vaccinated(irn,dtp1,2020,1165865).
+ vaccinated(irn,dtp1,2021,1069208).
+ vaccinated(irn,dtp1,2022,1063198).
+ vaccinated(irn,dtp3,1999,1155779).
+ vaccinated(irn,dtp3,2000,1129897).
+ vaccinated(irn,dtp3,2001,1134267).
+ vaccinated(irn,dtp3,2002,1148058).
+ vaccinated(irn,dtp3,2003,1077160).
+ vaccinated(irn,dtp3,2004,1079372).
+ vaccinated(irn,dtp3,2005,1247309).
+ vaccinated(irn,dtp3,2006,1238069).
+ vaccinated(irn,dtp3,2007,1166539).
+ vaccinated(irn,dtp3,2008,1162010).
+ vaccinated(irn,dtp3,2009,1181144).
+ vaccinated(irn,dtp3,2010,1221023).
+ vaccinated(irn,dtp3,2011,1351048).
+ vaccinated(irn,dtp3,2012,1393428).
+ vaccinated(irn,dtp3,2013,1428142).
+ vaccinated(irn,dtp3,2014,1483739).
+ vaccinated(irn,dtp3,2015,1505535).
+ vaccinated(irn,dtp3,2016,1510388).
+ vaccinated(irn,dtp3,2017,1517194).
+ vaccinated(irn,dtp3,2018,1446336).
+ vaccinated(irn,dtp3,2019,1321389).
+ vaccinated(irn,dtp3,2020,1175848).
+ vaccinated(irn,dtp3,2021,1071139).
+ vaccinated(irn,dtp3,2022,1058765).
+ vaccinated(irn,hepb3,1999,1102908).
+ vaccinated(irn,hepb3,2000,1108494).
+ vaccinated(irn,hepb3,2001,1111908).
+ vaccinated(irn,hepb3,2002,1152790).
+ vaccinated(irn,hepb3,2003,1066419).
+ vaccinated(irn,hepb3,2004,1034754).
+ vaccinated(irn,hepb3,2005,1236241).
+ vaccinated(irn,hepb3,2006,1226740).
+ vaccinated(irn,hepb3,2007,1143745).
+ vaccinated(irn,hepb3,2008,1153456).
+ vaccinated(irn,hepb3,2009,1185566).
+ vaccinated(irn,hepb3,2010,1222114).
+ vaccinated(irn,hepb3,2011,1350882).
+ vaccinated(irn,hepb3,2012,1382964).
+ vaccinated(irn,hepb3,2013,1431709).
+ vaccinated(irn,hepb3,2014,1482475).
+ vaccinated(irn,hepb3,2015,1503161).
+ vaccinated(irn,hepb3,2016,1510388).
+ vaccinated(irn,hepb3,2017,1517194).
+ vaccinated(irn,hepb3,2018,1446336).
+ vaccinated(irn,hepb3,2019,1320428).
+ vaccinated(irn,hepb3,2020,1175848).
+ vaccinated(irn,hepb3,2021,1069139).
+ vaccinated(irn,hepb3,2022,1058765).
+ vaccinated(irn,hepbb,2000,1113714).
+ vaccinated(irn,hepbb,2001,1119090).
+ vaccinated(irn,hepbb,2002,1175814).
+ vaccinated(irn,hepbb,2003,1104440).
+ vaccinated(irn,hepbb,2004,1162742).
+ vaccinated(irn,hepbb,2005,1297145).
+ vaccinated(irn,hepbb,2006,1274764).
+ vaccinated(irn,hepbb,2007,1207552).
+ vaccinated(irn,hepbb,2008,1196300).
+ vaccinated(irn,hepbb,2009,1239257).
+ vaccinated(irn,hepbb,2010,1210480).
+ vaccinated(irn,hepbb,2011,1360164).
+ vaccinated(irn,hepbb,2012,1345012).
+ vaccinated(irn,hepbb,2013,1436772).
+ vaccinated(irn,hepbb,2014,1468885).
+ vaccinated(irn,hepbb,2015,1473634).
+ vaccinated(irn,hepbb,2016,1458243).
+ vaccinated(irn,hepbb,2017,1448171).
+ vaccinated(irn,hepbb,2018,1401691).
+ vaccinated(irn,hepbb,2019,1269874).
+ vaccinated(irn,hepbb,2020,1141375).
+ vaccinated(irn,hepbb,2021,1055845).
+ vaccinated(irn,hepbb,2022,1025310).
+ vaccinated(irn,hib3,2015,1505535).
+ vaccinated(irn,hib3,2016,1510388).
+ vaccinated(irn,hib3,2017,1517194).
+ vaccinated(irn,hib3,2018,1446336).
+ vaccinated(irn,hib3,2019,1320428).
+ vaccinated(irn,hib3,2020,1175848).
+ vaccinated(irn,hib3,2021,1069139).
+ vaccinated(irn,hib3,2022,1058765).
+ vaccinated(irn,ipv1,2018,620984).
+ vaccinated(irn,ipv1,2019,1318941).
+ vaccinated(irn,ipv1,2020,1168440).
+ vaccinated(irn,ipv1,2021,1067456).
+ vaccinated(irn,ipv1,2022,1060144).
+ vaccinated(irn,ipv2,2021,1061328).
+ vaccinated(irn,mcv1,1999,1143433).
+ vaccinated(irn,mcv1,2000,1133880).
+ vaccinated(irn,mcv1,2001,1138888).
+ vaccinated(irn,mcv1,2002,1172546).
+ vaccinated(irn,mcv1,2003,1081266).
+ vaccinated(irn,mcv1,2004,1054983).
+ vaccinated(irn,mcv1,2005,1239736).
+ vaccinated(irn,mcv1,2006,1211882).
+ vaccinated(irn,mcv1,2007,1142641).
+ vaccinated(irn,mcv1,2008,1152425).
+ vaccinated(irn,mcv1,2009,1180786).
+ vaccinated(irn,mcv1,2010,1221656).
+ vaccinated(irn,mcv1,2011,1350267).
+ vaccinated(irn,mcv1,2012,1378764).
+ vaccinated(irn,mcv1,2013,1419274).
+ vaccinated(irn,mcv1,2014,1482049).
+ vaccinated(irn,mcv1,2015,1482696).
+ vaccinated(irn,mcv1,2016,1519270).
+ vaccinated(irn,mcv1,2017,1516612).
+ vaccinated(irn,mcv1,2018,1469925).
+ vaccinated(irn,mcv1,2019,1382634).
+ vaccinated(irn,mcv1,2020,1211252).
+ vaccinated(irn,mcv1,2021,1085796).
+ vaccinated(irn,mcv1,2022,1051113).
+ vaccinated(irn,mcv2,1999,1115414).
+ vaccinated(irn,mcv2,2000,1107877).
+ vaccinated(irn,mcv2,2001,1116083).
+ vaccinated(irn,mcv2,2002,1116507).
+ vaccinated(irn,mcv2,2003,1047843).
+ vaccinated(irn,mcv2,2004,1136777).
+ vaccinated(irn,mcv2,2005,1205911).
+ vaccinated(irn,mcv2,2006,1113571).
+ vaccinated(irn,mcv2,2007,1125183).
+ vaccinated(irn,mcv2,2008,1130678).
+ vaccinated(irn,mcv2,2009,1175349).
+ vaccinated(irn,mcv2,2010,1221218).
+ vaccinated(irn,mcv2,2011,1347879).
+ vaccinated(irn,mcv2,2012,1332666).
+ vaccinated(irn,mcv2,2013,1399019).
+ vaccinated(irn,mcv2,2014,1453149).
+ vaccinated(irn,mcv2,2015,1453115).
+ vaccinated(irn,mcv2,2016,1508122).
+ vaccinated(irn,mcv2,2017,1535638).
+ vaccinated(irn,mcv2,2018,1474758).
+ vaccinated(irn,mcv2,2019,1427635).
+ vaccinated(irn,mcv2,2020,1269672).
+ vaccinated(irn,mcv2,2021,1156810).
+ vaccinated(irn,mcv2,2022,1066573).
+ vaccinated(irn,pol3,1999,1156330).
+ vaccinated(irn,pol3,2000,1142440).
+ vaccinated(irn,pol3,2001,1129479).
+ vaccinated(irn,pol3,2002,1161600).
+ vaccinated(irn,pol3,2003,1079402).
+ vaccinated(irn,pol3,2004,1067781).
+ vaccinated(irn,pol3,2005,1249675).
+ vaccinated(irn,pol3,2006,1244947).
+ vaccinated(irn,pol3,2007,1158600).
+ vaccinated(irn,pol3,2008,1162420).
+ vaccinated(irn,pol3,2009,1183156).
+ vaccinated(irn,pol3,2010,1222114).
+ vaccinated(irn,pol3,2011,1351076).
+ vaccinated(irn,pol3,2012,1399801).
+ vaccinated(irn,pol3,2013,1419536).
+ vaccinated(irn,pol3,2014,1487845).
+ vaccinated(irn,pol3,2015,1507530).
+ vaccinated(irn,pol3,2016,1511107).
+ vaccinated(irn,pol3,2017,1519670).
+ vaccinated(irn,pol3,2018,1450907).
+ vaccinated(irn,pol3,2019,1320008).
+ vaccinated(irn,pol3,2020,1168440).
+ vaccinated(irn,pol3,2021,1069317).
+ vaccinated(irn,pol3,2022,1064003).
+ vaccinated(irn,rcv1,2016,1519270).
+ vaccinated(irn,rcv1,2017,1516612).
+
+target(irn,bcg,1999,1157608).
+ target(irn,bcg,2000,1121454).
+ target(irn,bcg,2001,1226666).
+ target(irn,bcg,2002,1197000).
+ target(irn,bcg,2003,1118759).
+ target(irn,bcg,2004,1126866).
+ target(irn,bcg,2005,1353325).
+ target(irn,bcg,2006,1163009).
+ target(irn,bcg,2007,1213756).
+ target(irn,bcg,2008,1208350).
+ target(irn,bcg,2009,1251732).
+ target(irn,bcg,2010,1260917).
+ target(irn,bcg,2011,1363542).
+ target(irn,bcg,2012,1407684).
+ target(irn,bcg,2013,1476287).
+ target(irn,bcg,2014,1514264).
+ target(irn,bcg,2015,1551618).
+ target(irn,bcg,2016,1542038).
+ target(irn,bcg,2017,1535967).
+ target(irn,bcg,2018,1468423).
+ target(irn,bcg,2019,1336496).
+ target(irn,bcg,2020,1196135).
+ target(irn,bcg,2021,1101709).
+ target(irn,bcg,2022,1075365).
+ target(irn,dtp1,2000,1090909).
+ target(irn,dtp1,2001,1192319).
+ target(irn,dtp1,2002,1162766).
+ target(irn,dtp1,2003,1086762).
+ target(irn,dtp1,2004,1094638).
+ target(irn,dtp1,2005,1314619).
+ target(irn,dtp1,2006,1130672).
+ target(irn,dtp1,2007,1180008).
+ target(irn,dtp1,2008,1173794).
+ target(irn,dtp1,2009,1193072).
+ target(irn,dtp1,2010,1235717).
+ target(irn,dtp1,2011,1351865).
+ target(irn,dtp1,2012,1382541).
+ target(irn,dtp1,2013,1450725).
+ target(irn,dtp1,2014,1492622).
+ target(irn,dtp1,2015,1529332).
+ target(irn,dtp1,2016,1520752).
+ target(irn,dtp1,2017,1522143).
+ target(irn,dtp1,2018,1451220).
+ target(irn,dtp1,2019,1320776).
+ target(irn,dtp1,2020,1179063).
+ target(irn,dtp1,2021,1088489).
+ target(irn,dtp1,2022,1064612).
+ target(irn,dtp3,1999,1157608).
+ target(irn,dtp3,2000,1090909).
+ target(irn,dtp3,2001,1192319).
+ target(irn,dtp3,2002,1162766).
+ target(irn,dtp3,2003,1086762).
+ target(irn,dtp3,2004,1094638).
+ target(irn,dtp3,2005,1314619).
+ target(irn,dtp3,2006,1130672).
+ target(irn,dtp3,2007,1180008).
+ target(irn,dtp3,2008,1173794).
+ target(irn,dtp3,2009,1193072).
+ target(irn,dtp3,2010,1235717).
+ target(irn,dtp3,2011,1351865).
+ target(irn,dtp3,2012,1382541).
+ target(irn,dtp3,2013,1450725).
+ target(irn,dtp3,2014,1492622).
+ target(irn,dtp3,2015,1529332).
+ target(irn,dtp3,2016,1520752).
+ target(irn,dtp3,2017,1522143).
+ target(irn,dtp3,2018,1451220).
+ target(irn,dtp3,2019,1320776).
+ target(irn,dtp3,2020,1179063).
+ target(irn,dtp3,2021,1088489).
+ target(irn,dtp3,2022,1064612).
+ target(irn,hepb3,1999,1157608).
+ target(irn,hepb3,2000,1090909).
+ target(irn,hepb3,2001,1192319).
+ target(irn,hepb3,2002,1162766).
+ target(irn,hepb3,2003,1086762).
+ target(irn,hepb3,2004,1094638).
+ target(irn,hepb3,2005,1314619).
+ target(irn,hepb3,2006,1130672).
+ target(irn,hepb3,2007,1180008).
+ target(irn,hepb3,2008,1173794).
+ target(irn,hepb3,2009,1193072).
+ target(irn,hepb3,2010,1235717).
+ target(irn,hepb3,2011,1351865).
+ target(irn,hepb3,2012,1382541).
+ target(irn,hepb3,2013,1450725).
+ target(irn,hepb3,2014,1492622).
+ target(irn,hepb3,2015,1529332).
+ target(irn,hepb3,2016,1520752).
+ target(irn,hepb3,2017,1522143).
+ target(irn,hepb3,2018,1451220).
+ target(irn,hepb3,2019,1320776).
+ target(irn,hepb3,2020,1179063).
+ target(irn,hepb3,2021,1088489).
+ target(irn,hepb3,2022,1064612).
+ target(irn,hepbb,2000,1121454).
+ target(irn,hepbb,2001,1226666).
+ target(irn,hepbb,2002,1197000).
+ target(irn,hepbb,2003,1118759).
+ target(irn,hepbb,2004,1126866).
+ target(irn,hepbb,2005,1353325).
+ target(irn,hepbb,2006,1163009).
+ target(irn,hepbb,2007,1213756).
+ target(irn,hepbb,2008,1208350).
+ target(irn,hepbb,2009,1251732).
+ target(irn,hepbb,2010,1260917).
+ target(irn,hepbb,2011,1363542).
+ target(irn,hepbb,2012,1407684).
+ target(irn,hepbb,2013,1476287).
+ target(irn,hepbb,2014,1514264).
+ target(irn,hepbb,2015,1551618).
+ target(irn,hepbb,2016,1542038).
+ target(irn,hepbb,2017,1535967).
+ target(irn,hepbb,2018,1468423).
+ target(irn,hepbb,2019,1336496).
+ target(irn,hepbb,2020,1196135).
+ target(irn,hepbb,2021,1101709).
+ target(irn,hepbb,2022,1075365).
+ target(irn,hib3,2015,1529332).
+ target(irn,hib3,2016,1520752).
+ target(irn,hib3,2017,1522143).
+ target(irn,hib3,2018,1451220).
+ target(irn,hib3,2019,1320776).
+ target(irn,hib3,2020,1179063).
+ target(irn,hib3,2021,1088489).
+ target(irn,hib3,2022,1064612).
+ target(irn,ipv1,2018,1451220).
+ target(irn,ipv1,2019,1320776).
+ target(irn,ipv1,2020,1179063).
+ target(irn,ipv1,2021,1088489).
+ target(irn,ipv1,2022,1064612).
+ target(irn,ipv2,2021,1088489).
+ target(irn,mcv1,1999,1157608).
+ target(irn,mcv1,2000,1090909).
+ target(irn,mcv1,2001,1192319).
+ target(irn,mcv1,2002,1162766).
+ target(irn,mcv1,2003,1086762).
+ target(irn,mcv1,2004,1094638).
+ target(irn,mcv1,2005,1314619).
+ target(irn,mcv1,2006,1130672).
+ target(irn,mcv1,2007,1180008).
+ target(irn,mcv1,2008,1173794).
+ target(irn,mcv1,2009,1193072).
+ target(irn,mcv1,2010,1235717).
+ target(irn,mcv1,2011,1351865).
+ target(irn,mcv1,2012,1382541).
+ target(irn,mcv1,2013,1450725).
+ target(irn,mcv1,2014,1492622).
+ target(irn,mcv1,2015,1492622).
+ target(irn,mcv1,2016,1529332).
+ target(irn,mcv1,2017,1520752).
+ target(irn,mcv1,2018,1451220).
+ target(irn,mcv1,2019,1409321).
+ target(irn,mcv1,2020,1179063).
+ target(irn,mcv1,2021,1088489).
+ target(irn,mcv1,2022,1064612).
+ target(irn,mcv2,1999,1157608).
+ target(irn,mcv2,2000,1090909).
+ target(irn,mcv2,2001,1192319).
+ target(irn,mcv2,2002,1162766).
+ target(irn,mcv2,2003,1086762).
+ target(irn,mcv2,2004,1094638).
+ target(irn,mcv2,2005,1314619).
+ target(irn,mcv2,2006,1130672).
+ target(irn,mcv2,2007,1180008).
+ target(irn,mcv2,2008,1173794).
+ target(irn,mcv2,2009,1193072).
+ target(irn,mcv2,2010,1235717).
+ target(irn,mcv2,2011,1351865).
+ target(irn,mcv2,2012,1379645).
+ target(irn,mcv2,2013,1448609).
+ target(irn,mcv2,2014,1488172).
+ target(irn,mcv2,2015,1492622).
+ target(irn,mcv2,2016,1529332).
+ target(irn,mcv2,2017,1520752).
+ target(irn,mcv2,2018,1498067).
+ target(irn,mcv2,2019,1429321).
+ target(irn,mcv2,2020,1290217).
+ target(irn,mcv2,2021,1179063).
+ target(irn,mcv2,2022,1088489).
+ target(irn,pol3,1999,1157608).
+ target(irn,pol3,2000,1090909).
+ target(irn,pol3,2001,1192319).
+ target(irn,pol3,2002,1162766).
+ target(irn,pol3,2003,1086762).
+ target(irn,pol3,2004,1094638).
+ target(irn,pol3,2005,1314619).
+ target(irn,pol3,2008,1173794).
+ target(irn,pol3,2009,1193072).
+ target(irn,pol3,2010,1235717).
+ target(irn,pol3,2011,1351865).
+ target(irn,pol3,2012,1382541).
+ target(irn,pol3,2013,1450725).
+ target(irn,pol3,2014,1492622).
+ target(irn,pol3,2015,1529332).
+ target(irn,pol3,2016,1520752).
+ target(irn,pol3,2017,1522143).
+ target(irn,pol3,2018,1451220).
+ target(irn,pol3,2019,1320776).
+ target(irn,pol3,2020,1179063).
+ target(irn,pol3,2021,1088489).
+ target(irn,pol3,2022,1064612).
+ target(irn,rcv1,2016,1529332).
+ target(irn,rcv1,2017,1520752).
+
+births_UNPD(irn,1997,1081225).
+ births_UNPD(irn,1998,1063733).
+ births_UNPD(irn,1999,1065418).
+ births_UNPD(irn,2000,1071058).
+ births_UNPD(irn,2001,1082051).
+ births_UNPD(irn,2002,1086464).
+ births_UNPD(irn,2003,1081473).
+ births_UNPD(irn,2004,1106849).
+ births_UNPD(irn,2005,1134380).
+ births_UNPD(irn,2006,1173397).
+ births_UNPD(irn,2007,1221115).
+ births_UNPD(irn,2008,1265271).
+ births_UNPD(irn,2009,1303595).
+ births_UNPD(irn,2010,1337387).
+ births_UNPD(irn,2011,1388386).
+ births_UNPD(irn,2012,1463853).
+ births_UNPD(irn,2013,1525843).
+ births_UNPD(irn,2014,1579114).
+ births_UNPD(irn,2015,1582915).
+ births_UNPD(irn,2016,1583969).
+ births_UNPD(irn,2017,1572333).
+ births_UNPD(irn,2018,1474889).
+ births_UNPD(irn,2019,1307977).
+ births_UNPD(irn,2020,1243003).
+ births_UNPD(irn,2021,1204105).
+ births_UNPD(irn,2022,1172709).
+ births_UNPD(irn,2023,1144658).
+ births_UNPD(irn,2024,1117084).
+ births_UNPD(irn,2025,1095741).
+ births_UNPD(irn,2026,1070794).
+ births_UNPD(irn,2027,1051089).
+ births_UNPD(irn,2028,1031738).
+ births_UNPD(irn,2029,1021729).
+ births_UNPD(irn,2030,1010375).
+
+si_UNPD(irn,1997,1081225).
+ si_UNPD(irn,1998,1063733).
+ si_UNPD(irn,1999,1065418).
+ si_UNPD(irn,2000,1071058).
+ si_UNPD(irn,2001,1082051).
+ si_UNPD(irn,2002,1086464).
+ si_UNPD(irn,2003,1081473).
+ si_UNPD(irn,2004,1106849).
+ si_UNPD(irn,2005,1134380).
+ si_UNPD(irn,2006,1173397).
+ si_UNPD(irn,2007,1221115).
+ si_UNPD(irn,2008,1265271).
+ si_UNPD(irn,2009,1303595).
+ si_UNPD(irn,2010,1337387).
+ si_UNPD(irn,2011,1388386).
+ si_UNPD(irn,2012,1463853).
+ si_UNPD(irn,2013,1525843).
+ si_UNPD(irn,2014,1579114).
+ si_UNPD(irn,2015,1582915).
+ si_UNPD(irn,2016,1583969).
+ si_UNPD(irn,2017,1572333).
+ si_UNPD(irn,2018,1474889).
+ si_UNPD(irn,2019,1307977).
+ si_UNPD(irn,2020,1243003).
+ si_UNPD(irn,2021,1204105).
+ si_UNPD(irn,2022,1172709).
+ si_UNPD(irn,2023,1144658).
+ si_UNPD(irn,2024,1117084).
+ si_UNPD(irn,2025,1095741).
+ si_UNPD(irn,2026,1070794).
+ si_UNPD(irn,2027,1051089).
+ si_UNPD(irn,2028,1031738).
+ si_UNPD(irn,2029,1021729).
+ si_UNPD(irn,2030,1010375).
+
+survey_results(irn,dtp3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:924], 96).
+
+ survey_results(irn,mcv1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:833], 96).
+
+ survey_results(irn,mcv1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1757], 97).
+
+ survey_results(irn,hepb3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:924], 96).
+
+ survey_results(irn,hepb3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:833], 97).
+
+ survey_results(irn,hepb3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1757], 96).
+
+ survey_results(irn,hepb1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:924], 99).
+
+ survey_results(irn,bcg,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1757], 99).
+
+ survey_results(irn,hepb1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1757], 99).
+
+ survey_results(irn,pol1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:833], 99).
+
+ survey_results(irn,dtp3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:833], 97).
+
+ survey_results(irn,dtp3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1757], 97).
+
+ survey_results(irn,dtp1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:924], 99).
+
+ survey_results(irn,dtp1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:833], 99).
+
+ survey_results(irn,dtp1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1757], 99).
+
+ survey_results(irn,bcg,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:924], 99).
+
+ survey_results(irn,bcg,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:833], 99).
+
+ survey_results(irn,hepb1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:833], 99).
+
+ survey_results(irn,pol1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:924], 99).
+
+ survey_results(irn,pol3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1757], 96).
+
+ survey_results(irn,pol3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:833], 96).
+
+ survey_results(irn,pol3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:924], 95).
+
+ survey_results(irn,pol1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1757], 99).
+
+ survey_results(irn,mcv1,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:924], 97).
+
+ survey_results(irn,dtp3,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,rcv1,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,pol3,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,pol1,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,mcv1,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,hib3,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,hib1,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,hepbb,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 90).
+
+ survey_results(irn,hepb1,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,dtp1,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,bcg,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+ survey_results(irn,mcv2,2017,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 98).
+
+ survey_results(irn,hepb3,2016,irn2019161,[title:'Final report of the study of the Immunization Coverage of 24 to 36 Months Old Children in Iran, Spring and Summer 2019',type:'16',yrcoll:'2019',cr: 93,confirm:'card or facility',age:'24-36 m',timead:'',val:'crude',ss:8682], 99).
+
+
+wgd(irn,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,91,_,na).
+ wgd(irn,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
+ wgd(irn,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
+ wgd(irn,hepb3,1997,1997,assignAnchor,'Legacy estimate.',na,93,_,na).
+ wgd(irn,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
+ wgd(irn,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
+
+wgd(irn,X,2003,2003,comment,' In March 2005, Iran conducted 41 province specific coverage surveys (n=22 200), 97.8 percent cards seen, age group 15-26 months. Coverage for all infant vaccines greater than 99 percent) which supports reported data.',na,na,na,na).
+ wgd(irn,X,2009,2009,comment,' A 2010 Multiple Indicator Demographic and Health Survey results support reported high levels of coverage.',na,na,na,na).
+ wgd(irn,X,2016,2016,comment,' Survey results for the 2016 birth cohort support high levels of reported vaccination coverage.',na,na,na,na).
+ wgd(irn,X,2019,2019,comment,' Programme notes concerns around the completeness of numerator data during the transition from a paper to electronic registry system. WHO and UNICEF also take note of declines in the reported target population estimates of 5 percent between 2017 and 2018 and of 10 percent between 2018 and 2019. Several sub-national surveys and a 2019 national survey have been completed in Iran. Survey report only includes data for children with documented evidence of vaccination.',na,na,na,na).
+ wgd(irn,X,2020,2020,comment,' Programme notes concerns around the completeness of numerator data during the transition from a paper to electronic registry system and issues with connectivity in certain areas. WHO and UNICEF also take note of declines in the reported target population estimates of 11 percent between 2019 and 2020.',na,na,na,na).
+ wgd(irn,X,2021,2021,comment,' Declines in reported number of doses administered since 2017 are largely not reflected in reported coverage levels due in part to declines in the reported target population.',na,na,na,na).
+ wgd(irn,X,2022,2022,comment,' The National Center of Statistics conducts a national census every 5 years. Declines in reported number of doses administered since 2017 are largely not reflected in reported coverage levels due in part to declines in the reported target population. Country notes a dramatic decline in annual births. From 2017 to 2022 the reported target population has decreased 30 percent.',na,na,na,na).
+ wgd(irn,dtp1,2001,2001,assignAnchor,' Estimate based on reported data.',na,96,na,na).
+ wgd(irn,dtp3,2001,2001,assignAnchor,' Estimate based on reported coverage.',na,96,na,na).
+ wgd(irn,hepb3,1994,1994,comment,' HepB vaccine introduced in 1993. Reporting started in 1994. Vaccine presentation is monovalent HepB.',na,na,na,na).
+ wgd(irn,hib3,2016,2016,comment,' Hib introduction in 2014, reporting started in 2015.',na,na,na,na).
+ wgd(irn,ipv1,2018,2018,assignGoC,' Consistency with other antigens.',na,1,na,na).
+ wgd(irn,ipv1,2018,2018,comment,' Inactivated polio vaccine introduced in 2015. Reporting began in 2018.',na,na,na,na).
+ wgd(irn,ipv1,2019,2019,acceptReported,' Estimate based on reported data following introduction.',na,na,na,na).
+ wgd(irn,pol3,2001,2001,assignAnchor,' Estimate based on reported coverage.',na,95,na,na).
+
