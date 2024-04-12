@@ -1,12 +1,11 @@
 library(zoo)
 library(rolog)
 
-ccode = "jam"
+ccode = "aut"
 args = commandArgs(trailingOnly=TRUE)
 if(length(args))
     ccode = tools::file_path_sans_ext(args[1])
 
-# consult("xsb/ago.pl")
 once(call("load_files", sprintf("countries/%s.pl", ccode), list(call("encoding", quote(iso_latin_1)))))
 
 Vn = c("bcg", "bcgx", "dtp1", "dtp1x", "dtp3", "dtp3x", 
@@ -509,185 +508,209 @@ TS.Src[index] = "extrapolated"
 #     member(age:AgeCohort, Description),
 #     member(AgeCohort, ['12-23 m', '18-29 m', '15-26 m', '24-35 m']).
 
+Svy.Cov = YV_int
+Svy.Expl = YV_char
+Svy.Info = array(NA_character_, dim=c(length(Yn), length(Vn), 0),
+                 dimnames=list(Y=Yn, V=Vn, Id=NULL))
+
 cnf = Survey$Info.confirm == "card or history"
 age = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
-index    = Survey[cnf & age, ]
 
-# MG, discuss: Only needed to find Ids for surveys that are ignored for multiple
-# reasons
-# Example: bcg,1999,afg2000231 ignored because of sample size as well as by a
-# wgd
-Dn = levels(as.factor(Survey$Id))
-Svy.CoH = array(NA_integer_, dim=c(length(Yn), length(Vn), length(Dn)), 
-    dimnames=list(Y=Yn, V=Vn, Id=Dn))
-Svy.CoH[cbind(index$Y, index$V, index$Id)] = index$Cov
-
-# % Reasons to exclude a survey include:
-# %    Sample size < 300,
-# %    The working group decides to exclude the survey.
-# survey_accepted(C, V, Y, ID, Coverage) :-
-#     survey_for_analysis(C, V, Y, ID, Desc, Cov0),
-#     (   decision(C, V, Y, acceptSurvey, _, ID, _)
-#     ;   member(ss:Size, Desc),
-#         Size >= 300,
-#         not(decision(C, V, Y, ignoreSurvey, _, ID, _)),
-#         not(decision(C, V, Y, ignoreSurvey, _, na, _))
-#     ),
-#     % Check if survey needs to be modified
-#     (   survey_modified(C, V, Y, ID, _, Modified)
-#     ->   Coverage = Modified
-#     ;   Coverage = Cov0
-#     ).
-
-size     = Survey$Info.ss >= 300
-index    = Survey[cnf & age & size, ]
-
-Dn = levels(as.factor(Survey$Id))
-Svy.Ana = array(NA_integer_, dim=c(length(Yn), length(Vn), length(Dn)), 
-    dimnames=list(Y=Yn, V=Vn, Id=Dn))
-Svy.Ana[cbind(index$Y, index$V, index$Id)] = index$Cov
-
-Svy.Title = array(NA_character_, dim=c(length(Yn), length(Vn), length(Dn)), 
-    dimnames=list(Yn, Vn, Dn))
-Svy.Title[cbind(index$Y, index$V, index$Id)] = index$Info.title
-
-accept   = Decisions[Decisions$Dec == "acceptSurvey" & !is.na(Decisions$Id), ]
-Svy.Ana[cbind(accept$Y, accept$V, accept$Id)] = accept$Cov
-# MG, check: is a title needed if the survey is explicitly accepted?
-
-# % Recall bias is estimated by comparing the first and third dose of a vaccine
-#
-# vaccine(dtp3, dtp1).
-# vaccine(pol3, pol1).
-# vaccine(hib3, hib1).
-# vaccine(hepb3, hepb1).
-# vaccine(pcv3, pcv1).
-#
-# survey_modified(C, V, Y, ID, Expl, Coverage) :-
-#     member(V, [dtp3, pol3, hib3, hepb3, pcv3]),
-#
-#     % Third dose, card only
-#     survey_results0(C, V, Y, ID, DescriptionCard3Dose, C3Cov),
-#     member(confirm:card, DescriptionCard3Dose),
-#     member(age:AgeCohortCard3Dose, DescriptionCard3Dose),
-#     member(AgeCohortCard3Dose, ['12-23 m', '18-29 m', '15-26 m', '24-35 m']),
-
-V13 = c(dtp1="dtp3", pol1="pol3", hib1="hib3", hepb1="hepb3", pcv1="pcv3")
-vac = Survey$V %in% V13
-cnf = Survey$Info.confirm == "card"
-age = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
-index = Survey[vac & cnf & age, ]
-
-Svy.C3 = array(NA_integer_, dim=c(length(Yn), length(V13), length(Dn)), 
-    dimnames=list(Y=Yn, V=V13, Id=Dn))
-Svy.C3[cbind(index$Y, index$V, index$Id)] = index$Cov
-
-#     % First dose, card or history
-#     vaccine(V, First),
-#     survey_results0(C, First, Y, ID, DescriptionCoH1Dose, CoH1Cov),
-#     member(confirm:'card or history', DescriptionCoH1Dose),
-#     member(age:AgeCohortCoH1, DescriptionCoH1Dose),
-#     member(AgeCohortCoH1, ['12-23 m', '18-29 m', '15-26 m', '24-35 m']),
-
-vac = Survey$V %in% names(V13)
-cnf = Survey$Info.confirm == "card or history"
-age = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
-index = Survey[vac & cnf & age, ]
-
-Svy.CH1 = array(NA_integer_, dim=c(length(Yn), length(names(V13)), length(Dn)), 
-    dimnames=list(Y=Yn, V=names(V13), Id=Dn))
-Svy.CH1[cbind(index$Y, index$V, index$Id)] = index$Cov
-
-#     % First dose, card only
-#     survey_results0(C, First, Y, ID, DescriptionCard1Dose, C1Cov),
-#     C1Cov > 0,
-#     member(confirm:card, DescriptionCard1Dose),
-#     member(age:AgeCohortCard1Dose, DescriptionCard1Dose),
-#     member(AgeCohortCard1Dose, ['12-23 m', '18-29 m', '15-26 m', '24-35 m']),
-
-vac = Survey$V %in% names(V13)
-cnf = Survey$Info.confirm == "card"
-age = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
-cv0 = Survey$Cov > 0
-index = Survey[vac & cnf & age & cv0, ]
-
-Svy.C1 = array(NA_integer_, dim=c(length(Yn), length(names(V13)), length(Dn)), 
-    dimnames=list(Y=Yn, V=names(V13), Id=Dn))
-Svy.C1[cbind(index$Y, index$V, index$Id)] = index$Cov
-
-#     Adj is C3Cov / C1Cov,
-#     ThirdHistoryAdj is (CoH1Cov - C1Cov) * Adj,
-#     CovAdjusted is C3Cov + ThirdHistoryAdj,
-#     bound_0_100(CovAdjusted, Cov0),
-
-Adj = Svy.C3 / Svy.C1
-H3Adj = Adj * (Svy.CH1 - Svy.C1)
-H3Adj[] = pmin(99, pmax(0, tround(Svy.C3 + H3Adj)))
-
-#     survey_for_analysis(C, V, Y, ID, Description, SurveyCoverage),
-#     Cov0 \= SurveyCoverage,
-
-# MG, discuss: Should we use some minimum distance instead of rounding?
-index = which(tround(Svy.Ana[, V13, , drop=FALSE]) != H3Adj, arr.ind=TRUE)
-
-#     SurveyCovRounded is round(SurveyCoverage),
-#     CH1 is round(CoH1Cov),
-#     C1 is round(C1Cov),
-#     C3 is round(C3Cov),
-#     member(title:Title, Description),
-#     concat_atom([Title, ' card or history results of ', SurveyCovRounded,
-#         ' percent modifed for recall bias to ', Cov0,
-#         ' percent based on 1st dose card or history coverage of ',
-#         CH1, ' percent, 1st dose card only coverage of ',
-#         C1, ' percent and 3rd dose card only coverage of ',
-#         C3, ' percent. '], Expl),
-#         Coverage = Cov0.
-
-Svy.Info = array(NA_character_, dim=c(length(Yn), length(Vn), length(Dn)),
-    dimnames=list(Y=Yn, V=Vn, Id=Dn))
-
-if(any(index))
+if(any(cnf & age))
 {
-  Svy.Info[, V13, ][index] = sprintf(
-    "%s card or history results of %.0f percent modifed for recall bias to %.0f percent based on 1st dose card or history coverage of %.0f percent, 1st dose card only coverage of %.0f percent and 3rd dose card only coverage of %.0f percent. ", 
-    Svy.Title[, V13, ][index], tround(Svy.Ana[, V13, ][index]),
-    H3Adj[index], tround(Svy.CH1[index]), tround(Svy.C1[index]), tround(Svy.C3[index]))
-  Svy.Ana[, V13, ][index] = H3Adj[index]
-}
-
-# Some surveys are ignored by the working group
-ignore = Decisions[Decisions$Dec == "ignoreSurvey" & !is.na(Decisions$Id), ]
-Svy.Acc = Svy.Ana
-Svy.Acc[cbind(ignore$Y, ignore$V, ignore$Id)] = NA
-# commented out, keep information
-# Svy.Info[cbind(ignore$Y, ignore$V, ignore$Id)] = NA
-
-# Some surveys are ignored by the working group (by year and vaccine, no Id)
-ignore = Decisions[Decisions$Dec == "ignoreSurvey" & is.na(Decisions$Id), ]
-if(nrow(ignore))
-  for(i in 1:nrow(ignore))
+  index    = Survey[cnf & age, ]
+  
+  # MG, discuss: Only needed to find Ids for surveys that are ignored for multiple
+  # reasons
+  # Example: bcg,1999,afg2000231 ignored because of sample size as well as by a
+  # wgd
+  Dn = levels(as.factor(Survey$Id))
+  Svy.CoH = array(NA_integer_, dim=c(length(Yn), length(Vn), length(Dn)), 
+                  dimnames=list(Y=Yn, V=Vn, Id=Dn))
+  Svy.CoH[cbind(index$Y, index$V, index$Id)] = index$Cov
+  
+  # % Reasons to exclude a survey include:
+  # %    Sample size < 300,
+  # %    The working group decides to exclude the survey.
+  # survey_accepted(C, V, Y, ID, Coverage) :-
+  #     survey_for_analysis(C, V, Y, ID, Desc, Cov0),
+  #     (   decision(C, V, Y, acceptSurvey, _, ID, _)
+  #     ;   member(ss:Size, Desc),
+  #         Size >= 300,
+  #         not(decision(C, V, Y, ignoreSurvey, _, ID, _)),
+  #         not(decision(C, V, Y, ignoreSurvey, _, na, _))
+  #     ),
+  #     % Check if survey needs to be modified
+  #     (   survey_modified(C, V, Y, ID, _, Modified)
+  #     ->   Coverage = Modified
+  #     ;   Coverage = Cov0
+  #     ).
+  
+  index    = Survey[cnf & age, ]
+  
+  Dn = levels(as.factor(Survey$Id))
+  Svy.Title = array(NA_character_, dim=c(length(Yn), length(Vn), length(Dn)), 
+                    dimnames=list(Yn, Vn, Dn))
+  Svy.Title[cbind(index$Y, index$V, index$Id)] = index$Info.title
+  
+  index    = Survey[cnf & age, ]
+  Svy.Ana = array(NA_integer_, dim=c(length(Yn), length(Vn), length(Dn)), 
+                  dimnames=list(Y=Yn, V=Vn, Id=Dn))
+  Svy.Ana[cbind(index$Y, index$V, index$Id)] = index$Cov
+  
+  # % Recall bias is estimated by comparing the first and third dose of a vaccine
+  #
+  # vaccine(dtp3, dtp1).
+  # vaccine(pol3, pol1).
+  # vaccine(hib3, hib1).
+  # vaccine(hepb3, hepb1).
+  # vaccine(pcv3, pcv1).
+  #
+  # survey_modified(C, V, Y, ID, Expl, Coverage) :-
+  #     member(V, [dtp3, pol3, hib3, hepb3, pcv3]),
+  #
+  #     % Third dose, card only
+  #     survey_results0(C, V, Y, ID, DescriptionCard3Dose, C3Cov),
+  #     member(confirm:card, DescriptionCard3Dose),
+  #     member(age:AgeCohortCard3Dose, DescriptionCard3Dose),
+  #     member(AgeCohortCard3Dose, ['12-23 m', '18-29 m', '15-26 m', '24-35 m']),
+  
+  V13 = c(dtp1="dtp3", pol1="pol3", hib1="hib3", hepb1="hepb3", pcv1="pcv3")
+  vac = Survey$V %in% V13
+  cnf = Survey$Info.confirm == "card"
+  age = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
+  index = Survey[vac & cnf & age, ]
+  
+  Svy.C3 = array(NA_integer_, dim=c(length(Yn), length(V13), length(Dn)), 
+                 dimnames=list(Y=Yn, V=V13, Id=Dn))
+  Svy.C3[cbind(index$Y, index$V, index$Id)] = index$Cov
+  
+  #     % First dose, card or history
+  #     vaccine(V, First),
+  #     survey_results0(C, First, Y, ID, DescriptionCoH1Dose, CoH1Cov),
+  #     member(confirm:'card or history', DescriptionCoH1Dose),
+  #     member(age:AgeCohortCoH1, DescriptionCoH1Dose),
+  #     member(AgeCohortCoH1, ['12-23 m', '18-29 m', '15-26 m', '24-35 m']),
+  
+  vac = Survey$V %in% names(V13)
+  cnf = Survey$Info.confirm == "card or history"
+  age = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
+  index = Survey[vac & cnf & age, ]
+  
+  Svy.CH1 = array(NA_integer_, dim=c(length(Yn), length(names(V13)), length(Dn)), 
+                  dimnames=list(Y=Yn, V=names(V13), Id=Dn))
+  Svy.CH1[cbind(index$Y, index$V, index$Id)] = index$Cov
+  
+  #     % First dose, card only
+  #     survey_results0(C, First, Y, ID, DescriptionCard1Dose, C1Cov),
+  #     C1Cov > 0,
+  #     member(confirm:card, DescriptionCard1Dose),
+  #     member(age:AgeCohortCard1Dose, DescriptionCard1Dose),
+  #     member(AgeCohortCard1Dose, ['12-23 m', '18-29 m', '15-26 m', '24-35 m']),
+  
+  vac = Survey$V %in% names(V13)
+  cnf = Survey$Info.confirm == "card"
+  age = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
+  cv0 = Survey$Cov > 0
+  index = Survey[vac & cnf & age & cv0, ]
+  
+  Svy.C1 = array(NA_integer_, dim=c(length(Yn), length(names(V13)), length(Dn)), 
+                 dimnames=list(Y=Yn, V=names(V13), Id=Dn))
+  Svy.C1[cbind(index$Y, index$V, index$Id)] = index$Cov
+  
+  #     Adj is C3Cov / C1Cov,
+  #     ThirdHistoryAdj is (CoH1Cov - C1Cov) * Adj,
+  #     CovAdjusted is C3Cov + ThirdHistoryAdj,
+  #     bound_0_100(CovAdjusted, Cov0),
+  
+  Adj = Svy.C3 / Svy.C1
+  H3Adj = Adj * (Svy.CH1 - Svy.C1)
+  H3Adj[] = pmin(99, pmax(0, tround(Svy.C3 + H3Adj)))
+  
+  #     survey_for_analysis(C, V, Y, ID, Description, SurveyCoverage),
+  #     Cov0 \= SurveyCoverage,
+  
+  # MG, discuss: Should we use some minimum distance instead of rounding?
+  index = which(tround(Svy.Ana[, V13, , drop=FALSE]) != H3Adj, arr.ind=TRUE)
+  index1 = cbind(Y=Yn[index[, "Y"]], V=names(V13)[index[, "V"]], Id=Dn[index[, "Id"]])
+  index3 = cbind(Y=Yn[index[, "Y"]], V=V13[index[, "V"]], Id=Dn[index[, "Id"]])
+  
+  #     SurveyCovRounded is round(SurveyCoverage),
+  #     CH1 is round(CoH1Cov),
+  #     C1 is round(C1Cov),
+  #     C3 is round(C3Cov),
+  #     member(title:Title, Description),
+  #     concat_atom([Title, ' card or history results of ', SurveyCovRounded,
+  #         ' percent modifed for recall bias to ', Cov0,
+  #         ' percent based on 1st dose card or history coverage of ',
+  #         CH1, ' percent, 1st dose card only coverage of ',
+  #         C1, ' percent and 3rd dose card only coverage of ',
+  #         C3, ' percent. '], Expl),
+  #         Coverage = Cov0.
+  
+  Svy.Info = array(NA_character_, dim=c(length(Yn), length(Vn), length(Dn)),
+                   dimnames=list(Y=Yn, V=Vn, Id=Dn))
+  
+  if(any(index))
   {
-    Svy.Acc[ignore$Y[i], ignore$V[i], ] = NA
-    # commented out, keep information
-    # Svy.Info[ignore$Y[i], ignore$V[i], ] = NA
+    Svy.Info[index3] = sprintf(
+      "%s card or history results of %.0f percent modifed for recall bias to %.0f percent based on 1st dose card or history coverage of %.0f percent, 1st dose card only coverage of %.0f percent and 3rd dose card only coverage of %.0f percent. ", 
+      Svy.Title[index3], tround(Svy.Ana[index3]), H3Adj[index3], tround(Svy.CH1[index1]), tround(Svy.C1[index1]), tround(Svy.C3[index3]))
+    Svy.Ana[index3] = H3Adj[index3]
+  }
+  
+  # Some surveys are ignored by the working group
+  ignore = Decisions[Decisions$Dec == "ignoreSurvey" & !is.na(Decisions$Id), ]
+  Svy.Acc = Svy.Ana
+  Svy.Acc[cbind(ignore$Y, ignore$V, ignore$Id)] = NA
+  # commented out, keep information
+  # Svy.Info[cbind(ignore$Y, ignore$V, ignore$Id)] = NA
+  
+  # Some surveys are ignored by the working group (by year and vaccine, no Id)
+  ignore = Decisions[Decisions$Dec == "ignoreSurvey" & is.na(Decisions$Id), ]
+  if(nrow(ignore))
+    for(i in 1:nrow(ignore))
+    {
+      Svy.Acc[ignore$Y[i], ignore$V[i], ] = NA
+      # commented out, keep information
+      # Svy.Info[ignore$Y[i], ignore$V[i], ] = NA
+    }
+  
+  # Workgroup decision: keep
+  accept   = Decisions[Decisions$Dec == "acceptSurvey" & !is.na(Decisions$Id), ]
+  
+  cnf      = Survey$Info.confirm == "card or history"
+  age      = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
+  size     = Survey$Info.ss < 300
+  
+  if(any(cnf & age & size))
+  {
+    ignore   = Survey[cnf & age & size, ]
+    
+    # remove "ignore" if it is already in accept
+    if(nrow(accept))
+    {
+      acc_ign = rbind(accept[, c("Y", "V", "Id")], ignore[, c("Y", "V", "Id")]) 
+      ignore = unique(acc_ign)[-(1:nrow(accept)), , drop=FALSE]
+    }
+    Svy.Acc[cbind(ignore$Y, ignore$V, ignore$Id)] = NA
   }
 
-# % Survey information for given year. Multiple surveys are averaged.
-# survey(C, V, Y, Expl, Coverage) :-
-#     findall(Cov, survey_accepted(C, V, Y, _, Cov), [H | T]),
-#     length([H | T], N),
-#     sum_list([H | T], Sum),
-#     Coverage is round(Sum / N),
-#     concat_atom(['Survey evidence of ', Coverage, ' percent based on ',
-#         N, ' survey(s). '], Expl).
+  # % Survey information for given year. Multiple surveys are averaged.
+  # survey(C, V, Y, Expl, Coverage) :-
+  #     findall(Cov, survey_accepted(C, V, Y, _, Cov), [H | T]),
+  #     length([H | T], N),
+  #     sum_list([H | T], Sum),
+  #     Coverage is round(Sum / N),
+  #     concat_atom(['Survey evidence of ', Coverage, ' percent based on ',
+  #         N, ' survey(s). '], Expl).
+  
+  Svy.Cov = tround(apply(Svy.Acc, c(1, 2), mean, na.rm=TRUE))
+  Svy.Expl[] = sprintf(
+    "Survey evidence of %g percent based on %i survey(s). ", 
+    Svy.Cov, apply(!is.na(Svy.Acc), c(1, 2), sum))
+}
 
-Svy.Cov = YV_int
-Svy.Cov = tround(apply(Svy.Acc, c(1, 2), mean, na.rm=TRUE))
-
-Svy.Expl = YV_char
-Svy.Expl[] = sprintf(
-  "Survey evidence of %g percent based on %i survey(s). ", 
-  Svy.Cov, apply(!is.na(Svy.Acc), c(1, 2), sum))
 
 # 6. Determine coverage value at anchor points defined as years with multiple
 #    data points (reported | survey | wgd).
@@ -963,8 +986,8 @@ rownames(Itp1.Cov) = Yn
 Itp2.Cov = TS.Cov
 Itp2.Cov[index] = NA
 Itp2.Cov = apply(Itp2.Cov, 2, FUN=na.approx, na.rm=FALSE)
-Itp2.Cov[] = tround(Itp2.Cov)
 rownames(Itp2.Cov) = Yn
+Itp2.Cov[] = tround(Itp2.Cov)
 
 # yv = expand.grid(Y=Yn, V=Vn, stringsAsFactors=FALSE)
 Adj = Itp1.Cov - Itp2.Cov
@@ -1107,7 +1130,7 @@ if(length(index))
 #     Coverage is round(-0.0058 * DTP3 * DTP3 + 1.3912 * DTP3 + 18.258).
 
 index = !is.na(Cov[, "dtp1"]) & !is.na(Cov[, "dtp3"]) & Cov[, "dtp3"] > Cov[, "dtp1"]
-index = index | is.na(Cov[, "dtp1"]) & !is.na(Cov[, "dtp3"])
+index = index | (is.na(Cov[, "dtp1"]) & !is.na(Cov[, "dtp3"]))
 Rule[index, "dtp1"] = "RMF:"
 Info[index, "dtp1"] = sprintf("Estimate based on DTP3 coverage of %i. ",
   Cov[index, "dtp3"])
@@ -1458,12 +1481,13 @@ cnf    = Survey$Info.confirm == "card or history"
 age    = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
 # accept = Survey$Id %in% Decisions$Id[Decisions$Dec == "acceptSurvey"]
 size   = Survey$Info.ss < 300
-index  = Survey[cnf & age & size, ]
 
-accept   = Decisions[Decisions$Dec == "acceptSurvey" & !is.na(Decisions$Id), ]
-
-# MG, discuss: bgd, bcg/1999: twice the same message, without Survey ID
-if(nrow(index))
+if(any(cnf & age & size))
+{
+  index  = Survey[cnf & age & size, ]
+  accept   = Decisions[Decisions$Dec == "acceptSurvey" & !is.na(Decisions$Id), ]
+  
+  # MG, discuss: bgd, bcg/1999: twice the same message, without Survey ID
   for(i in 1:nrow(index))
   {
     if(!any(index$V[i] == accept$V & index$Y[i] == accept$Y & index$Id[i] == accept$Id))
@@ -1471,6 +1495,7 @@ if(nrow(index))
         "%sSurvey results ignored. Sample size %i less than 300. ", 
         Expl[index$Yn[i], index$V[i]], index$Info.ss[i])
   }
+}
 
 # % V4: Keeps explanations for the same survey together
 # survey_reason_to_exclude(C, V, Y, ID, Expl) :-
