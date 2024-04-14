@@ -1,7 +1,7 @@
 library(zoo)
 library(rolog)
 
-ccode = "aut"
+ccode = "ton"
 args = commandArgs(trailingOnly=TRUE)
 if(length(args))
     ccode = tools::file_path_sans_ext(args[1])
@@ -1507,21 +1507,22 @@ if(any(cnf & age & size))
 #     concat_atom([Title, ' results ignored by working group. ', Expl0],
 #     Expl).
 
+# Avoid duplicate "ignored by working group"
+Ignored = array("", dim=c(length(Yn), length(Vn), length(Dn)), 
+                dimnames=list(Y=Yn, V=Vn, Id=Dn))
+
 # Some surveys are ignored by the working group (by year and vaccine, no Id)
 ignore = Decisions[Decisions$Dec == "ignoreSurvey" & is.na(Decisions$Id), ]
 if(nrow(ignore))
   for(i in 1:nrow(ignore))
   {
-    Ids = which(!is.na(Svy.Ana[ignore$Y[i], ignore$V[i], , drop=FALSE]), arr.ind=TRUE)
-    Ids = dimnames(Svy.Ana)$Id[Ids[, "Id"]]
+    Ids = Dn[!is.na(Svy.Ana[ignore$Y[i], ignore$V[i], , drop=FALSE])]
     if(length(Ids))
-      for(j in 1:length(Ids))
-      {
-        Expl[ignore$Y[i], ignore$V[i]] = sprintf(
-          "%s%s results ignored by working group. %s",
-          Expl[ignore$Y[i], ignore$V[i]],
-          Survey$Info.title[Survey$Id == Ids[j]][1], ignore$Info[i])
-      }
+      for(j in Ids)
+        Ignored[ignore$Y[i], ignore$V[i], j] = sprintf(
+          "%s%s results ignored by working group.%s ",
+          Ignored[ignore$Y[i], ignore$V[i], j],
+          Survey$Info.title[Survey$Id == j][1], ignore$Info[i])
   }
 
 # Some surveys are ignored by the working group
@@ -1529,12 +1530,13 @@ ignore = Decisions[Decisions$Dec == "ignoreSurvey" & !is.na(Decisions$Id), ]
 if(nrow(ignore))
   for(i in 1:nrow(ignore))
     if(!is.na(Svy.Ana[ignore$Y[i], ignore$V[i], ignore$Id[i]]))
-    {
-      Expl[ignore$Y[i], ignore$V[i]] = sprintf(
-        "%s%s results ignored by working group. %s",
-        Expl[ignore$Y[i], ignore$V[i]],
+      Ignored[ignore$Y[i], ignore$V[i], ignore$Id[i]] = sprintf(
+        "%s%s results ignored by working group.%s ",
+        Ignored[ignore$Y[i], ignore$V[i], ignore$Id[i]],
         Survey$Info.title[Survey$Id == ignore$Id[i]][1], ignore$Info[i])
-    }
+
+Ignored = apply(Ignored, c(1, 2), paste, collapse="")
+Expl[] = sprintf("%s%s", Expl, Ignored)
 
 # explanation(C, V, Y, Expl) :-
 #     survey_modified(C, V, Y, _, Expl, _).
