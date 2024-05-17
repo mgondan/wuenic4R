@@ -1,6 +1,6 @@
 # wuenic4R
 
-Assuming that R.exe is on the PATH,
+Please make sure that R.exe and swipl.exe are on the PATH. R is used for the main task, swipl.exe is used for the SHA checksums.
 
 For a single country
 ````
