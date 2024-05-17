@@ -1,7 +1,7 @@
 library(zoo)
 library(rolog)
 
-ccode = "are"
+ccode = "afg"
 args = commandArgs(trailingOnly=TRUE)
 if(length(args))
     ccode = tools::file_path_sans_ext(args[1])
@@ -869,7 +869,8 @@ Info[index] = sprintf("Reported data calibrated to %s levels. ",
     Prec.Year[index])
 
 yv = expand.grid(Y=Yn, V=Vn, stringsAsFactors=FALSE)
-Adj = Anchor.Cov[cbind(c(Prec.Year), yv$V)] - TS.Cov[cbind(c(Prec.Year), yv$V)]
+Adj = YV_int
+Adj[] = Anchor.Cov[cbind(c(Prec.Year), yv$V)] - TS.Cov[cbind(c(Prec.Year), yv$V)]
 # Cov = YV_int
 Cov[index] = TS.Cov[index] + Adj[index]
 
