@@ -1,7 +1,7 @@
 library(zoo)
 library(rolog)
 
-ccode = "afg"
+ccode = "ago"
 args = commandArgs(trailingOnly=TRUE)
 if(length(args))
     ccode = tools::file_path_sans_ext(args[1])
@@ -148,7 +148,7 @@ rubella = function()
   s$Y = as.character(s$Y)
   
   m = YV_char
-  m[cbind(s$Y, s$V)] = s$Rub
+  m[cbind(s$Y, s$V)] = s$Comb # Changed
   return(m)
 }
 
