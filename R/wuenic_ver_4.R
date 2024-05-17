@@ -1,7 +1,7 @@
 library(zoo)
 library(rolog)
 
-ccode = "ton"
+ccode = "are"
 args = commandArgs(trailingOnly=TRUE)
 if(length(args))
     ccode = tools::file_path_sans_ext(args[1])
@@ -516,6 +516,7 @@ Svy.Info = array(NA_character_, dim=c(length(Yn), length(Vn), 0),
 cnf = Survey$Info.confirm == "card or history"
 age = Survey$Info.age %in% c("12-23 m", "18-29 m", "15-26 m", "24-35 m")
 
+Dn = levels(as.factor(Survey$Id))
 if(any(cnf & age))
 {
   index    = Survey[cnf & age, ]
@@ -524,7 +525,6 @@ if(any(cnf & age))
   # reasons
   # Example: bcg,1999,afg2000231 ignored because of sample size as well as by a
   # wgd
-  Dn = levels(as.factor(Survey$Id))
   Svy.CoH = array(NA_integer_, dim=c(length(Yn), length(Vn), length(Dn)), 
                   dimnames=list(Y=Yn, V=Vn, Id=Dn))
   Svy.CoH[cbind(index$Y, index$V, index$Id)] = index$Cov
