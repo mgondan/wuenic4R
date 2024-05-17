@@ -19,5 +19,5 @@ sha1all.bat > v4R.txt
 
 Compare SHA to Version 4:
 ````
-diff v4R.txt ..\wuenic4R\v4R.txt
+diff v4R.txt ..\wuenic4\v4.txt
 ````
