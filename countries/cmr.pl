@@ -1,8 +1,8 @@
 %  Cameroon - CMR 
-%  Wed Sep 06 18:42:14 2023 
+%  Fri May 17 11:57:52 2024 
 
 country(cmr,'Cameroon'). 
-date('Wed Sep 06 18:42:14 2023').
+date('Fri May 17 11:57:52 2024').
 
 estimate_required(cmr,bcg,1997,na,'na').
  estimate_required(cmr,bcg,1998,na,'na').
@@ -1285,40 +1285,40 @@ births_UNPD(cmr,1997,572921).
  births_UNPD(cmr,2029,1038682).
  births_UNPD(cmr,2030,1047710).
 
-si_UNPD(cmr,1997,572921).
- si_UNPD(cmr,1998,588050).
- si_UNPD(cmr,1999,607379).
- si_UNPD(cmr,2000,619552).
- si_UNPD(cmr,2001,632231).
- si_UNPD(cmr,2002,652126).
- si_UNPD(cmr,2003,674200).
- si_UNPD(cmr,2004,694186).
- si_UNPD(cmr,2005,710508).
- si_UNPD(cmr,2006,727750).
- si_UNPD(cmr,2007,744779).
- si_UNPD(cmr,2008,761824).
- si_UNPD(cmr,2009,779486).
- si_UNPD(cmr,2010,794590).
- si_UNPD(cmr,2011,805374).
- si_UNPD(cmr,2012,815462).
- si_UNPD(cmr,2013,827404).
- si_UNPD(cmr,2014,841623).
- si_UNPD(cmr,2015,869475).
- si_UNPD(cmr,2016,895033).
- si_UNPD(cmr,2017,913262).
- si_UNPD(cmr,2018,920977).
- si_UNPD(cmr,2019,932283).
- si_UNPD(cmr,2020,940891).
- si_UNPD(cmr,2021,950546).
- si_UNPD(cmr,2022,959096).
- si_UNPD(cmr,2023,967736).
- si_UNPD(cmr,2024,978716).
- si_UNPD(cmr,2025,988676).
- si_UNPD(cmr,2026,1001231).
- si_UNPD(cmr,2027,1012599).
- si_UNPD(cmr,2028,1025761).
- si_UNPD(cmr,2029,1038682).
- si_UNPD(cmr,2030,1047710).
+si_UNPD(cmr,1997,536133).
+ si_UNPD(cmr,1998,550360).
+ si_UNPD(cmr,1999,568801).
+ si_UNPD(cmr,2000,580732).
+ si_UNPD(cmr,2001,593286).
+ si_UNPD(cmr,2002,612774).
+ si_UNPD(cmr,2003,634385).
+ si_UNPD(cmr,2004,654054).
+ si_UNPD(cmr,2005,670261).
+ si_UNPD(cmr,2006,687416).
+ si_UNPD(cmr,2007,704161).
+ si_UNPD(cmr,2008,720896).
+ si_UNPD(cmr,2009,738241).
+ si_UNPD(cmr,2010,753379).
+ si_UNPD(cmr,2011,764507).
+ si_UNPD(cmr,2012,775117).
+ si_UNPD(cmr,2013,787567).
+ si_UNPD(cmr,2014,802187).
+ si_UNPD(cmr,2015,829919).
+ si_UNPD(cmr,2016,855440).
+ si_UNPD(cmr,2017,873955).
+ si_UNPD(cmr,2018,882371).
+ si_UNPD(cmr,2019,894090).
+ si_UNPD(cmr,2020,903212).
+ si_UNPD(cmr,2021,913361).
+ si_UNPD(cmr,2022,923258).
+ si_UNPD(cmr,2023,932600).
+ si_UNPD(cmr,2024,942996).
+ si_UNPD(cmr,2025,951320).
+ si_UNPD(cmr,2026,963887).
+ si_UNPD(cmr,2027,975292).
+ si_UNPD(cmr,2028,988412).
+ si_UNPD(cmr,2029,1001342).
+ si_UNPD(cmr,2030,1010481).
 
 survey_results(cmr,pol1,1997,cmr1998141,[title:'Cameroon Demographic and Health Survey 1998',type:'14',yrcoll:'1998',cr:55,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:748], 84).
 

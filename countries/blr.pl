@@ -1,8 +1,8 @@
 %  Belarus - BLR 
-%  Wed Sep 06 18:38:30 2023 
+%  Fri May 17 11:54:45 2024 
 
 country(blr,'Belarus'). 
-date('Wed Sep 06 18:38:30 2023').
+date('Fri May 17 11:54:45 2024').
 
 estimate_required(blr,bcg,1997,na,'na').
  estimate_required(blr,bcg,1998,na,'na').
@@ -1377,40 +1377,40 @@ births_UNPD(blr,1997,94438).
  births_UNPD(blr,2029,78784).
  births_UNPD(blr,2030,78527).
 
-si_UNPD(blr,1997,94438).
- si_UNPD(blr,1998,97306).
- si_UNPD(blr,1999,98061).
- si_UNPD(blr,2000,98533).
- si_UNPD(blr,2001,96506).
- si_UNPD(blr,2002,94055).
- si_UNPD(blr,2003,93851).
- si_UNPD(blr,2004,94454).
- si_UNPD(blr,2005,95244).
- si_UNPD(blr,2006,98274).
- si_UNPD(blr,2007,104347).
- si_UNPD(blr,2008,108282).
- si_UNPD(blr,2009,114506).
- si_UNPD(blr,2010,112104).
- si_UNPD(blr,2011,112930).
- si_UNPD(blr,2012,118860).
- si_UNPD(blr,2013,121519).
- si_UNPD(blr,2014,121732).
- si_UNPD(blr,2015,121637).
- si_UNPD(blr,2016,118469).
- si_UNPD(blr,2017,104281).
- si_UNPD(blr,2018,95501).
- si_UNPD(blr,2019,93218).
- si_UNPD(blr,2020,91163).
- si_UNPD(blr,2021,88853).
- si_UNPD(blr,2022,87252).
- si_UNPD(blr,2023,86154).
- si_UNPD(blr,2024,84358).
- si_UNPD(blr,2025,82810).
- si_UNPD(blr,2026,81437).
- si_UNPD(blr,2027,80379).
- si_UNPD(blr,2028,79369).
- si_UNPD(blr,2029,78784).
- si_UNPD(blr,2030,78527).
+si_UNPD(blr,1997,93454).
+ si_UNPD(blr,1998,96333).
+ si_UNPD(blr,1999,97135).
+ si_UNPD(blr,2000,97665).
+ si_UNPD(blr,2001,95718).
+ si_UNPD(blr,2002,93345).
+ si_UNPD(blr,2003,93195).
+ si_UNPD(blr,2004,93840).
+ si_UNPD(blr,2005,94672).
+ si_UNPD(blr,2006,97733).
+ si_UNPD(blr,2007,103826).
+ si_UNPD(blr,2008,107792).
+ si_UNPD(blr,2009,114035).
+ si_UNPD(blr,2010,111681).
+ si_UNPD(blr,2011,112537).
+ si_UNPD(blr,2012,118475).
+ si_UNPD(blr,2013,121150).
+ si_UNPD(blr,2014,121384).
+ si_UNPD(blr,2015,121310).
+ si_UNPD(blr,2016,118171).
+ si_UNPD(blr,2017,104037).
+ si_UNPD(blr,2018,95294).
+ si_UNPD(blr,2019,93033).
+ si_UNPD(blr,2020,90996).
+ si_UNPD(blr,2021,88703).
+ si_UNPD(blr,2022,87113).
+ si_UNPD(blr,2023,85995).
+ si_UNPD(blr,2024,84207).
+ si_UNPD(blr,2025,82666).
+ si_UNPD(blr,2026,81300).
+ si_UNPD(blr,2027,80247).
+ si_UNPD(blr,2028,79243).
+ si_UNPD(blr,2029,78662).
+ si_UNPD(blr,2030,78410).
 
 survey_results(blr,hepb3,2004,blr2005231,[title:'Republic of Belarus Multiple Indicator Cluster Survey 2005',type:'23',yrcoll:'2005',cr:100,confirm:'card',age:'18-29 m',timead:'',val:'crude',ss:633], 98).
 

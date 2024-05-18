@@ -1,8 +1,8 @@
 %  Bahrain - BHR 
-%  Wed Sep 06 18:39:17 2023 
+%  Fri May 17 11:55:29 2024 
 
 country(bhr,'Bahrain'). 
-date('Wed Sep 06 18:39:17 2023').
+date('Fri May 17 11:55:29 2024').
 
 estimate_required(bhr,dtp1,1997,na,'na').
  estimate_required(bhr,dtp1,1998,na,'na').
@@ -1465,40 +1465,40 @@ births_UNPD(bhr,1997,13956).
  births_UNPD(bhr,2029,16611).
  births_UNPD(bhr,2030,16744).
 
-si_UNPD(bhr,1997,13956).
- si_UNPD(bhr,1998,14231).
- si_UNPD(bhr,1999,14642).
- si_UNPD(bhr,2000,14689).
- si_UNPD(bhr,2001,14644).
- si_UNPD(bhr,2002,15286).
- si_UNPD(bhr,2003,15968).
- si_UNPD(bhr,2004,16673).
- si_UNPD(bhr,2005,17430).
- si_UNPD(bhr,2006,17660).
- si_UNPD(bhr,2007,17760).
- si_UNPD(bhr,2008,18126).
- si_UNPD(bhr,2009,18558).
- si_UNPD(bhr,2010,19378).
- si_UNPD(bhr,2011,19264).
- si_UNPD(bhr,2012,19459).
- si_UNPD(bhr,2013,19802).
- si_UNPD(bhr,2014,20627).
- si_UNPD(bhr,2015,21277).
- si_UNPD(bhr,2016,21178).
- si_UNPD(bhr,2017,20921).
- si_UNPD(bhr,2018,20574).
- si_UNPD(bhr,2019,19828).
- si_UNPD(bhr,2020,18949).
- si_UNPD(bhr,2021,17501).
- si_UNPD(bhr,2022,16861).
- si_UNPD(bhr,2023,16644).
- si_UNPD(bhr,2024,16477).
- si_UNPD(bhr,2025,16418).
- si_UNPD(bhr,2026,16394).
- si_UNPD(bhr,2027,16443).
- si_UNPD(bhr,2028,16534).
- si_UNPD(bhr,2029,16611).
- si_UNPD(bhr,2030,16744).
+si_UNPD(bhr,1997,13798).
+ si_UNPD(bhr,1998,14082).
+ si_UNPD(bhr,1999,14498).
+ si_UNPD(bhr,2000,14552).
+ si_UNPD(bhr,2001,14513).
+ si_UNPD(bhr,2002,15154).
+ si_UNPD(bhr,2003,15834).
+ si_UNPD(bhr,2004,16537).
+ si_UNPD(bhr,2005,17292).
+ si_UNPD(bhr,2006,17526).
+ si_UNPD(bhr,2007,17631).
+ si_UNPD(bhr,2008,18000).
+ si_UNPD(bhr,2009,18436).
+ si_UNPD(bhr,2010,19256).
+ si_UNPD(bhr,2011,19146).
+ si_UNPD(bhr,2012,19344).
+ si_UNPD(bhr,2013,19688).
+ si_UNPD(bhr,2014,20510).
+ si_UNPD(bhr,2015,21158).
+ si_UNPD(bhr,2016,21061).
+ si_UNPD(bhr,2017,20808).
+ si_UNPD(bhr,2018,20466).
+ si_UNPD(bhr,2019,19727).
+ si_UNPD(bhr,2020,18855).
+ si_UNPD(bhr,2021,17417).
+ si_UNPD(bhr,2022,16783).
+ si_UNPD(bhr,2023,16570).
+ si_UNPD(bhr,2024,16406).
+ si_UNPD(bhr,2025,16349).
+ si_UNPD(bhr,2026,16327).
+ si_UNPD(bhr,2027,16378).
+ si_UNPD(bhr,2028,16471).
+ si_UNPD(bhr,2029,16550).
+ si_UNPD(bhr,2030,16684).
 
 wgd(bhr,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(bhr,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).

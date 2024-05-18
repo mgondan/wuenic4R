@@ -1,8 +1,8 @@
 %  Cook Islands - COK 
-%  Wed Sep 06 18:42:40 2023 
+%  Fri May 17 11:58:15 2024 
 
 country(cok,'Cook Islands'). 
-date('Wed Sep 06 18:42:40 2023').
+date('Fri May 17 11:58:15 2024').
 
 estimate_required(cok,bcg,1997,na,'na').
  estimate_required(cok,bcg,1998,na,'na').
@@ -1222,40 +1222,40 @@ births_UNPD(cok,1997,484).
  births_UNPD(cok,2029,248).
  births_UNPD(cok,2030,246).
 
-si_UNPD(cok,1997,484).
- si_UNPD(cok,1998,449).
- si_UNPD(cok,1999,415).
- si_UNPD(cok,2000,383).
- si_UNPD(cok,2001,349).
- si_UNPD(cok,2002,321).
- si_UNPD(cok,2003,316).
- si_UNPD(cok,2004,310).
- si_UNPD(cok,2005,307).
- si_UNPD(cok,2006,303).
- si_UNPD(cok,2007,298).
- si_UNPD(cok,2008,307).
- si_UNPD(cok,2009,316).
- si_UNPD(cok,2010,326).
- si_UNPD(cok,2011,335).
- si_UNPD(cok,2012,338).
- si_UNPD(cok,2013,329).
- si_UNPD(cok,2014,320).
- si_UNPD(cok,2015,312).
- si_UNPD(cok,2016,306).
- si_UNPD(cok,2017,298).
- si_UNPD(cok,2018,291).
- si_UNPD(cok,2019,285).
- si_UNPD(cok,2020,280).
- si_UNPD(cok,2021,277).
- si_UNPD(cok,2022,275).
- si_UNPD(cok,2023,272).
- si_UNPD(cok,2024,268).
- si_UNPD(cok,2025,263).
- si_UNPD(cok,2026,260).
- si_UNPD(cok,2027,256).
- si_UNPD(cok,2028,252).
- si_UNPD(cok,2029,248).
- si_UNPD(cok,2030,246).
+si_UNPD(cok,1997,475).
+ si_UNPD(cok,1998,442).
+ si_UNPD(cok,1999,409).
+ si_UNPD(cok,2000,378).
+ si_UNPD(cok,2001,345).
+ si_UNPD(cok,2002,317).
+ si_UNPD(cok,2003,312).
+ si_UNPD(cok,2004,307).
+ si_UNPD(cok,2005,304).
+ si_UNPD(cok,2006,300).
+ si_UNPD(cok,2007,295).
+ si_UNPD(cok,2008,304).
+ si_UNPD(cok,2009,313).
+ si_UNPD(cok,2010,323).
+ si_UNPD(cok,2011,332).
+ si_UNPD(cok,2012,336).
+ si_UNPD(cok,2013,327).
+ si_UNPD(cok,2014,318).
+ si_UNPD(cok,2015,310).
+ si_UNPD(cok,2016,304).
+ si_UNPD(cok,2017,296).
+ si_UNPD(cok,2018,289).
+ si_UNPD(cok,2019,283).
+ si_UNPD(cok,2020,278).
+ si_UNPD(cok,2021,276).
+ si_UNPD(cok,2022,274).
+ si_UNPD(cok,2023,271).
+ si_UNPD(cok,2024,267).
+ si_UNPD(cok,2025,262).
+ si_UNPD(cok,2026,259).
+ si_UNPD(cok,2027,255).
+ si_UNPD(cok,2028,251).
+ si_UNPD(cok,2029,247).
+ si_UNPD(cok,2030,245).
 
 wgd(cok,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,85,_,na).
  wgd(cok,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).

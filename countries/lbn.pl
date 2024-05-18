@@ -1,8 +1,8 @@
 %  Lebanon - LBN 
-%  Wed Sep 06 18:54:12 2023 
+%  Fri May 17 12:09:06 2024 
 
 country(lbn,'Lebanon'). 
-date('Wed Sep 06 18:54:12 2023').
+date('Fri May 17 12:09:06 2024').
 
 estimate_required(lbn,dtp1,1997,na,'na').
  estimate_required(lbn,dtp1,1998,na,'na').
@@ -1264,40 +1264,40 @@ births_UNPD(lbn,1997,90235).
  births_UNPD(lbn,2029,54688).
  births_UNPD(lbn,2030,54038).
 
-si_UNPD(lbn,1997,90235).
- si_UNPD(lbn,1998,89515).
- si_UNPD(lbn,1999,89051).
- si_UNPD(lbn,2000,88562).
- si_UNPD(lbn,2001,88500).
- si_UNPD(lbn,2002,87860).
- si_UNPD(lbn,2003,86328).
- si_UNPD(lbn,2004,84904).
- si_UNPD(lbn,2005,83713).
- si_UNPD(lbn,2006,83286).
- si_UNPD(lbn,2007,83152).
- si_UNPD(lbn,2008,83784).
- si_UNPD(lbn,2009,85219).
- si_UNPD(lbn,2010,88131).
- si_UNPD(lbn,2011,90134).
- si_UNPD(lbn,2012,91585).
- si_UNPD(lbn,2013,94948).
- si_UNPD(lbn,2014,109568).
- si_UNPD(lbn,2015,115666).
- si_UNPD(lbn,2016,110828).
- si_UNPD(lbn,2017,105204).
- si_UNPD(lbn,2018,98956).
- si_UNPD(lbn,2019,93362).
- si_UNPD(lbn,2020,87727).
- si_UNPD(lbn,2021,84450).
- si_UNPD(lbn,2022,81179).
- si_UNPD(lbn,2023,76066).
- si_UNPD(lbn,2024,70456).
- si_UNPD(lbn,2025,65661).
- si_UNPD(lbn,2026,61647).
- si_UNPD(lbn,2027,58319).
- si_UNPD(lbn,2028,56139).
- si_UNPD(lbn,2029,54688).
- si_UNPD(lbn,2030,54038).
+si_UNPD(lbn,1997,88644).
+ si_UNPD(lbn,1998,87999).
+ si_UNPD(lbn,1999,87607).
+ si_UNPD(lbn,2000,87195).
+ si_UNPD(lbn,2001,87214).
+ si_UNPD(lbn,2002,86661).
+ si_UNPD(lbn,2003,85223).
+ si_UNPD(lbn,2004,83892).
+ si_UNPD(lbn,2005,82783).
+ si_UNPD(lbn,2006,82423).
+ si_UNPD(lbn,2007,82353).
+ si_UNPD(lbn,2008,83029).
+ si_UNPD(lbn,2009,84492).
+ si_UNPD(lbn,2010,87412).
+ si_UNPD(lbn,2011,89427).
+ si_UNPD(lbn,2012,90896).
+ si_UNPD(lbn,2013,94259).
+ si_UNPD(lbn,2014,108803).
+ si_UNPD(lbn,2015,114890).
+ si_UNPD(lbn,2016,110116).
+ si_UNPD(lbn,2017,104550).
+ si_UNPD(lbn,2018,98359).
+ si_UNPD(lbn,2019,92817).
+ si_UNPD(lbn,2020,87233).
+ si_UNPD(lbn,2021,83990).
+ si_UNPD(lbn,2022,80709).
+ si_UNPD(lbn,2023,75601).
+ si_UNPD(lbn,2024,70090).
+ si_UNPD(lbn,2025,65327).
+ si_UNPD(lbn,2026,61340).
+ si_UNPD(lbn,2027,58035).
+ si_UNPD(lbn,2028,55872).
+ si_UNPD(lbn,2029,54433).
+ si_UNPD(lbn,2030,53792).
 
 survey_results(lbn,dtp3,1999,lbn2000231,[title:'Preliminary Report on the Multiple Cluster Survey on the Situation of Children in Lebanon, 2001',type:'23',yrcoll:'2000',cr:59,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0], 90).
 

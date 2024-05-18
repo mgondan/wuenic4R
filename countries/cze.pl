@@ -1,8 +1,8 @@
 %  Czechia - CZE 
-%  Wed Sep 06 18:43:48 2023 
+%  Fri May 17 11:59:17 2024 
 
 country(cze,'Czechia'). 
-date('Wed Sep 06 18:43:48 2023').
+date('Fri May 17 11:59:17 2024').
 
 estimate_required(cze,bcg,1997,na,'na').
  estimate_required(cze,bcg,1998,na,'na').
@@ -782,40 +782,40 @@ births_UNPD(cze,1997,90664).
  births_UNPD(cze,2029,94530).
  births_UNPD(cze,2030,94518).
 
-si_UNPD(cze,1997,90664).
- si_UNPD(cze,1998,90003).
- si_UNPD(cze,1999,89044).
- si_UNPD(cze,2000,91174).
- si_UNPD(cze,2001,90871).
- si_UNPD(cze,2002,93005).
- si_UNPD(cze,2003,94131).
- si_UNPD(cze,2004,98410).
- si_UNPD(cze,2005,103883).
- si_UNPD(cze,2006,106981).
- si_UNPD(cze,2007,114831).
- si_UNPD(cze,2008,118911).
- si_UNPD(cze,2009,117849).
- si_UNPD(cze,2010,116422).
- si_UNPD(cze,2011,109001).
- si_UNPD(cze,2012,108396).
- si_UNPD(cze,2013,106903).
- si_UNPD(cze,2014,109498).
- si_UNPD(cze,2015,110124).
- si_UNPD(cze,2016,111541).
- si_UNPD(cze,2017,112677).
- si_UNPD(cze,2018,111903).
- si_UNPD(cze,2019,109738).
- si_UNPD(cze,2020,107036).
- si_UNPD(cze,2021,103948).
- si_UNPD(cze,2022,101555).
- si_UNPD(cze,2023,99736).
- si_UNPD(cze,2024,98082).
- si_UNPD(cze,2025,96896).
- si_UNPD(cze,2026,95949).
- si_UNPD(cze,2027,95271).
- si_UNPD(cze,2028,94782).
- si_UNPD(cze,2029,94530).
- si_UNPD(cze,2030,94518).
+si_UNPD(cze,1997,90206).
+ si_UNPD(cze,1998,89597).
+ si_UNPD(cze,1999,88693).
+ si_UNPD(cze,2000,90848).
+ si_UNPD(cze,2001,90559).
+ si_UNPD(cze,2002,92669).
+ si_UNPD(cze,2003,93814).
+ si_UNPD(cze,2004,98086).
+ si_UNPD(cze,2005,103575).
+ si_UNPD(cze,2006,106670).
+ si_UNPD(cze,2007,114511).
+ si_UNPD(cze,2008,118620).
+ si_UNPD(cze,2009,117562).
+ si_UNPD(cze,2010,116162).
+ si_UNPD(cze,2011,108758).
+ si_UNPD(cze,2012,108152).
+ si_UNPD(cze,2013,106679).
+ si_UNPD(cze,2014,109271).
+ si_UNPD(cze,2015,109893).
+ si_UNPD(cze,2016,111270).
+ si_UNPD(cze,2017,112419).
+ si_UNPD(cze,2018,111659).
+ si_UNPD(cze,2019,109499).
+ si_UNPD(cze,2020,106811).
+ si_UNPD(cze,2021,103737).
+ si_UNPD(cze,2022,101350).
+ si_UNPD(cze,2023,99549).
+ si_UNPD(cze,2024,97903).
+ si_UNPD(cze,2025,96724).
+ si_UNPD(cze,2026,95783).
+ si_UNPD(cze,2027,95110).
+ si_UNPD(cze,2028,94626).
+ si_UNPD(cze,2029,94379).
+ si_UNPD(cze,2030,94371).
 
 wgd(cze,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).
  wgd(cze,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).

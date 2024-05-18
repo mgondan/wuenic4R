@@ -1,8 +1,8 @@
 %  Saudi Arabia - SAU 
-%  Wed Sep 06 19:04:17 2023 
+%  Fri May 17 12:18:46 2024 
 
 country(sau,'Saudi Arabia'). 
-date('Wed Sep 06 19:04:17 2023').
+date('Fri May 17 12:18:46 2024').
 
 estimate_required(sau,bcg,1997,na,'na').
  estimate_required(sau,bcg,1998,na,'na').
@@ -1225,40 +1225,40 @@ births_UNPD(sau,1997,575713).
  births_UNPD(sau,2029,577783).
  births_UNPD(sau,2030,575859).
 
-si_UNPD(sau,1997,575713).
- si_UNPD(sau,1998,582075).
- si_UNPD(sau,1999,588360).
- si_UNPD(sau,2000,595746).
- si_UNPD(sau,2001,592858).
- si_UNPD(sau,2002,585563).
- si_UNPD(sau,2003,573744).
- si_UNPD(sau,2004,562975).
- si_UNPD(sau,2005,556955).
- si_UNPD(sau,2006,581232).
- si_UNPD(sau,2007,608075).
- si_UNPD(sau,2008,618625).
- si_UNPD(sau,2009,629970).
- si_UNPD(sau,2010,641461).
- si_UNPD(sau,2011,651336).
- si_UNPD(sau,2012,653880).
- si_UNPD(sau,2013,652558).
- si_UNPD(sau,2014,646971).
- si_UNPD(sau,2015,638755).
- si_UNPD(sau,2016,632305).
- si_UNPD(sau,2017,643748).
- si_UNPD(sau,2018,652649).
- si_UNPD(sau,2019,658884).
- si_UNPD(sau,2020,665930).
- si_UNPD(sau,2021,629339).
- si_UNPD(sau,2022,615690).
- si_UNPD(sau,2023,606692).
- si_UNPD(sau,2024,600716).
- si_UNPD(sau,2025,593185).
- si_UNPD(sau,2026,587387).
- si_UNPD(sau,2027,584118).
- si_UNPD(sau,2028,580171).
- si_UNPD(sau,2029,577783).
- si_UNPD(sau,2030,575859).
+si_UNPD(sau,1997,564308).
+ si_UNPD(sau,1998,571265).
+ si_UNPD(sau,1999,578091).
+ si_UNPD(sau,2000,585960).
+ si_UNPD(sau,2001,583689).
+ si_UNPD(sau,2002,577018).
+ si_UNPD(sau,2003,565840).
+ si_UNPD(sau,2004,555650).
+ si_UNPD(sau,2005,550100).
+ si_UNPD(sau,2006,574500).
+ si_UNPD(sau,2007,601437).
+ si_UNPD(sau,2008,612264).
+ si_UNPD(sau,2009,623833).
+ si_UNPD(sau,2010,635614).
+ si_UNPD(sau,2011,645756).
+ si_UNPD(sau,2012,648609).
+ si_UNPD(sau,2013,647600).
+ si_UNPD(sau,2014,642352).
+ si_UNPD(sau,2015,634455).
+ si_UNPD(sau,2016,628299).
+ si_UNPD(sau,2017,639904).
+ si_UNPD(sau,2018,648937).
+ si_UNPD(sau,2019,655318).
+ si_UNPD(sau,2020,662503).
+ si_UNPD(sau,2021,626222).
+ si_UNPD(sau,2022,612763).
+ si_UNPD(sau,2023,603923).
+ si_UNPD(sau,2024,598085).
+ si_UNPD(sau,2025,590672).
+ si_UNPD(sau,2026,584980).
+ si_UNPD(sau,2027,581801).
+ si_UNPD(sau,2028,577945).
+ si_UNPD(sau,2029,575635).
+ si_UNPD(sau,2030,573788).
 
 survey_results(sau,hib1,2017,sau2019161,[title:'The 2019 Kingdom of Saudi Arabia World Health Survey (KSAWHS 2019)',type:'16',yrcoll:'2019',cr:26,confirm:'card',age:'24-35 m',timead:'',val:'crude',ss:99],100).
 

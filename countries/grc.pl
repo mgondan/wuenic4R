@@ -1,8 +1,8 @@
 %  Greece - GRC 
-%  Wed Sep 06 18:48:37 2023 
+%  Fri May 17 12:03:50 2024 
 
 country(grc,'Greece'). 
-date('Wed Sep 06 18:48:37 2023').
+date('Fri May 17 12:03:50 2024').
 
 estimate_required(grc,dtp1,1997,na,'na').
  estimate_required(grc,dtp1,1998,na,'na').
@@ -614,40 +614,40 @@ births_UNPD(grc,1997,110152).
  births_UNPD(grc,2029,74567).
  births_UNPD(grc,2030,74849).
 
-si_UNPD(grc,1997,110152).
- si_UNPD(grc,1998,109292).
- si_UNPD(grc,1999,108968).
- si_UNPD(grc,2000,110427).
- si_UNPD(grc,2001,109777).
- si_UNPD(grc,2002,109807).
- si_UNPD(grc,2003,109203).
- si_UNPD(grc,2004,109634).
- si_UNPD(grc,2005,110330).
- si_UNPD(grc,2006,111652).
- si_UNPD(grc,2007,112239).
- si_UNPD(grc,2008,114808).
- si_UNPD(grc,2009,114311).
- si_UNPD(grc,2010,110900).
- si_UNPD(grc,2011,104474).
- si_UNPD(grc,2012,98721).
- si_UNPD(grc,2013,93249).
- si_UNPD(grc,2014,90589).
- si_UNPD(grc,2015,89377).
- si_UNPD(grc,2016,88820).
- si_UNPD(grc,2017,85894).
- si_UNPD(grc,2018,83495).
- si_UNPD(grc,2019,81148).
- si_UNPD(grc,2020,81073).
- si_UNPD(grc,2021,79072).
- si_UNPD(grc,2022,77141).
- si_UNPD(grc,2023,76080).
- si_UNPD(grc,2024,75393).
- si_UNPD(grc,2025,74942).
- si_UNPD(grc,2026,74921).
- si_UNPD(grc,2027,74673).
- si_UNPD(grc,2028,74755).
- si_UNPD(grc,2029,74567).
- si_UNPD(grc,2030,74849).
+si_UNPD(grc,1997,109497).
+ si_UNPD(grc,1998,108680).
+ si_UNPD(grc,1999,108395).
+ si_UNPD(grc,2000,109887).
+ si_UNPD(grc,2001,109277).
+ si_UNPD(grc,2002,109343).
+ si_UNPD(grc,2003,108773).
+ si_UNPD(grc,2004,109231).
+ si_UNPD(grc,2005,109950).
+ si_UNPD(grc,2006,111291).
+ si_UNPD(grc,2007,111894).
+ si_UNPD(grc,2008,114468).
+ si_UNPD(grc,2009,113977).
+ si_UNPD(grc,2010,110575).
+ si_UNPD(grc,2011,104166).
+ si_UNPD(grc,2012,98425).
+ si_UNPD(grc,2013,92961).
+ si_UNPD(grc,2014,90300).
+ si_UNPD(grc,2015,89084).
+ si_UNPD(grc,2016,88528).
+ si_UNPD(grc,2017,85615).
+ si_UNPD(grc,2018,83231).
+ si_UNPD(grc,2019,80896).
+ si_UNPD(grc,2020,80826).
+ si_UNPD(grc,2021,78837).
+ si_UNPD(grc,2022,76918).
+ si_UNPD(grc,2023,75885).
+ si_UNPD(grc,2024,75208).
+ si_UNPD(grc,2025,74766).
+ si_UNPD(grc,2026,74751).
+ si_UNPD(grc,2027,74511).
+ si_UNPD(grc,2028,74599).
+ si_UNPD(grc,2029,74417).
+ si_UNPD(grc,2030,74703).
 
 survey_results(grc,hib3,2011,grc2013161,[title:'A cross-sectional vaccination coverage study in preschool children attending nurseries-kindergartens: Implications on economic crisis effect, 2013',type:'16',yrcoll:'2013',cr:82,confirm:'card <12 months',age:'24-35 m',timead:'',val:'crude',ss:3114], 92).
 

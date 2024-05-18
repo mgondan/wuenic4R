@@ -1,8 +1,8 @@
 %  Switzerland - CHE 
-%  Wed Sep 06 18:41:34 2023 
+%  Fri May 17 11:57:30 2024 
 
 country(che,'Switzerland'). 
-date('Wed Sep 06 18:41:34 2023').
+date('Fri May 17 11:57:30 2024').
 
 estimate_required(che,dtp1,1997,na,'na').
  estimate_required(che,dtp1,1998,na,'na').
@@ -683,40 +683,40 @@ births_UNPD(che,1997,80333).
  births_UNPD(che,2029,82377).
  births_UNPD(che,2030,81678).
 
-si_UNPD(che,1997,80333).
- si_UNPD(che,1998,78908).
- si_UNPD(che,1999,77893).
- si_UNPD(che,2000,77495).
- si_UNPD(che,2001,71722).
- si_UNPD(che,2002,71563).
- si_UNPD(che,2003,71213).
- si_UNPD(che,2004,72335).
- si_UNPD(che,2005,72355).
- si_UNPD(che,2006,72757).
- si_UNPD(che,2007,73537).
- si_UNPD(che,2008,75449).
- si_UNPD(che,2009,77282).
- si_UNPD(che,2010,79289).
- si_UNPD(che,2011,79860).
- si_UNPD(che,2012,81213).
- si_UNPD(che,2013,81771).
- si_UNPD(che,2014,84174).
- si_UNPD(che,2015,85758).
- si_UNPD(che,2016,86933).
- si_UNPD(che,2017,86659).
- si_UNPD(che,2018,87004).
- si_UNPD(che,2019,85930).
- si_UNPD(che,2020,86564).
- si_UNPD(che,2021,87086).
- si_UNPD(che,2022,86479).
- si_UNPD(che,2023,86100).
- si_UNPD(che,2024,85633).
- si_UNPD(che,2025,84987).
- si_UNPD(che,2026,84558).
- si_UNPD(che,2027,83898).
- si_UNPD(che,2028,83008).
- si_UNPD(che,2029,82377).
- si_UNPD(che,2030,81678).
+si_UNPD(che,1997,80006).
+ si_UNPD(che,1998,78585).
+ si_UNPD(che,1999,77584).
+ si_UNPD(che,2000,77166).
+ si_UNPD(che,2001,71423).
+ si_UNPD(che,2002,71284).
+ si_UNPD(che,2003,70951).
+ si_UNPD(che,2004,72067).
+ si_UNPD(che,2005,72091).
+ si_UNPD(che,2006,72480).
+ si_UNPD(che,2007,73284).
+ si_UNPD(che,2008,75186).
+ si_UNPD(che,2009,76991).
+ si_UNPD(che,2010,79023).
+ si_UNPD(che,2011,79596).
+ si_UNPD(che,2012,80949).
+ si_UNPD(che,2013,81494).
+ si_UNPD(che,2014,83881).
+ si_UNPD(che,2015,85463).
+ si_UNPD(che,2016,86668).
+ si_UNPD(che,2017,86392).
+ si_UNPD(che,2018,86756).
+ si_UNPD(che,2019,85687).
+ si_UNPD(che,2020,86290).
+ si_UNPD(che,2021,86846).
+ si_UNPD(che,2022,86249).
+ si_UNPD(che,2023,85876).
+ si_UNPD(che,2024,85416).
+ si_UNPD(che,2025,84776).
+ si_UNPD(che,2026,84352).
+ si_UNPD(che,2027,83698).
+ si_UNPD(che,2028,82815).
+ si_UNPD(che,2029,82189).
+ si_UNPD(che,2030,81495).
 
 survey_results(che,hib3,2004,che2007311,[title:'Immunization Coverage in Switzerland 2005-2007',type:'31',yrcoll:'2005',cr:0,confirm:'card',age:'24-35 m',timead:'',val:'crude',ss:8286], 93).
 

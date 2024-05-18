@@ -1,8 +1,8 @@
 %  Italy - ITA 
-%  Wed Sep 06 18:51:48 2023 
+%  Fri May 17 12:06:53 2024 
 
 country(ita,'Italy'). 
-date('Wed Sep 06 18:51:48 2023').
+date('Fri May 17 12:06:53 2024').
 
 estimate_required(ita,dtp1,1997,na,'na').
  estimate_required(ita,dtp1,1998,na,'na').
@@ -889,40 +889,40 @@ births_UNPD(ita,1997,533385).
  births_UNPD(ita,2029,398547).
  births_UNPD(ita,2030,399777).
 
-si_UNPD(ita,1997,533385).
- si_UNPD(ita,1998,532158).
- si_UNPD(ita,1999,538371).
- si_UNPD(ita,2000,541176).
- si_UNPD(ita,2001,534309).
- si_UNPD(ita,2002,535609).
- si_UNPD(ita,2003,539786).
- si_UNPD(ita,2004,558303).
- si_UNPD(ita,2005,555927).
- si_UNPD(ita,2006,559868).
- si_UNPD(ita,2007,561702).
- si_UNPD(ita,2008,574526).
- si_UNPD(ita,2009,569930).
- si_UNPD(ita,2010,563147).
- si_UNPD(ita,2011,548485).
- si_UNPD(ita,2012,534085).
- si_UNPD(ita,2013,511044).
- si_UNPD(ita,2014,495056).
- si_UNPD(ita,2015,478543).
- si_UNPD(ita,2016,465826).
- si_UNPD(ita,2017,450840).
- si_UNPD(ita,2018,432061).
- si_UNPD(ita,2019,418113).
- si_UNPD(ita,2020,410093).
- si_UNPD(ita,2021,410487).
- si_UNPD(ita,2022,407303).
- si_UNPD(ita,2023,406243).
- si_UNPD(ita,2024,403765).
- si_UNPD(ita,2025,402724).
- si_UNPD(ita,2026,401526).
- si_UNPD(ita,2027,402242).
- si_UNPD(ita,2028,399132).
- si_UNPD(ita,2029,398547).
- si_UNPD(ita,2030,399777).
+si_UNPD(ita,1997,530873).
+ si_UNPD(ita,1998,529694).
+ si_UNPD(ita,1999,535995).
+ si_UNPD(ita,2000,539066).
+ si_UNPD(ita,2001,532179).
+ si_UNPD(ita,2002,533571).
+ si_UNPD(ita,2003,538052).
+ si_UNPD(ita,2004,556470).
+ si_UNPD(ita,2005,554221).
+ si_UNPD(ita,2006,558210).
+ si_UNPD(ita,2007,560109).
+ si_UNPD(ita,2008,572882).
+ si_UNPD(ita,2009,568252).
+ si_UNPD(ita,2010,561615).
+ si_UNPD(ita,2011,547038).
+ si_UNPD(ita,2012,532723).
+ si_UNPD(ita,2013,509771).
+ si_UNPD(ita,2014,493890).
+ si_UNPD(ita,2015,477373).
+ si_UNPD(ita,2016,464708).
+ si_UNPD(ita,2017,449734).
+ si_UNPD(ita,2018,431010).
+ si_UNPD(ita,2019,417263).
+ si_UNPD(ita,2020,409281).
+ si_UNPD(ita,2021,409696).
+ si_UNPD(ita,2022,406559).
+ si_UNPD(ita,2023,405526).
+ si_UNPD(ita,2024,403076).
+ si_UNPD(ita,2025,402061).
+ si_UNPD(ita,2026,400884).
+ si_UNPD(ita,2027,401618).
+ si_UNPD(ita,2028,398532).
+ si_UNPD(ita,2029,397966).
+ si_UNPD(ita,2030,399212).
 
 survey_results(ita,hepb3,1997,ita1998161,[title:'ICONA 1998: National Childrens Immunisation Coverage Survey of Children',type:'16',yrcoll:'1998',cr:0,confirm:'card or history',age:'12-24 m',timead:'',val:'crude',ss:4310], 94.5).
 

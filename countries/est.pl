@@ -1,8 +1,8 @@
 %  Estonia - EST 
-%  Wed Sep 06 18:45:56 2023 
+%  Fri May 17 12:01:19 2024 
 
 country(est,'Estonia'). 
-date('Wed Sep 06 18:45:56 2023').
+date('Fri May 17 12:01:19 2024').
 
 estimate_required(est,bcg,1997,na,'na').
  estimate_required(est,bcg,1998,na,'na').
@@ -1323,40 +1323,40 @@ births_UNPD(est,1997,12726).
  births_UNPD(est,2029,11378).
  births_UNPD(est,2030,11196).
 
-si_UNPD(est,1997,12726).
- si_UNPD(est,1998,12340).
- si_UNPD(est,1999,12425).
- si_UNPD(est,2000,13030).
- si_UNPD(est,2001,12700).
- si_UNPD(est,2002,12998).
- si_UNPD(est,2003,13088).
- si_UNPD(est,2004,13985).
- si_UNPD(est,2005,14395).
- si_UNPD(est,2006,14950).
- si_UNPD(est,2007,15765).
- si_UNPD(est,2008,16031).
- si_UNPD(est,2009,15810).
- si_UNPD(est,2010,15804).
- si_UNPD(est,2011,14756).
- si_UNPD(est,2012,14099).
- si_UNPD(est,2013,13593).
- si_UNPD(est,2014,13573).
- si_UNPD(est,2015,13789).
- si_UNPD(est,2016,14023).
- si_UNPD(est,2017,13813).
- si_UNPD(est,2018,14282).
- si_UNPD(est,2019,14158).
- si_UNPD(est,2020,13902).
- si_UNPD(est,2021,13639).
- si_UNPD(est,2022,13422).
- si_UNPD(est,2023,13102).
- si_UNPD(est,2024,12761).
- si_UNPD(est,2025,12412).
- si_UNPD(est,2026,12125).
- si_UNPD(est,2027,11868).
- si_UNPD(est,2028,11627).
- si_UNPD(est,2029,11378).
- si_UNPD(est,2030,11196).
+si_UNPD(est,1997,12610).
+ si_UNPD(est,1998,12221).
+ si_UNPD(est,1999,12320).
+ si_UNPD(est,2000,12916).
+ si_UNPD(est,2001,12600).
+ si_UNPD(est,2002,12920).
+ si_UNPD(est,2003,13004).
+ si_UNPD(est,2004,13902).
+ si_UNPD(est,2005,14315).
+ si_UNPD(est,2006,14890).
+ si_UNPD(est,2007,15696).
+ si_UNPD(est,2008,15958).
+ si_UNPD(est,2009,15757).
+ si_UNPD(est,2010,15749).
+ si_UNPD(est,2011,14716).
+ si_UNPD(est,2012,14054).
+ si_UNPD(est,2013,13563).
+ si_UNPD(est,2014,13537).
+ si_UNPD(est,2015,13756).
+ si_UNPD(est,2016,13991).
+ si_UNPD(est,2017,13782).
+ si_UNPD(est,2018,14260).
+ si_UNPD(est,2019,14139).
+ si_UNPD(est,2020,13884).
+ si_UNPD(est,2021,13622).
+ si_UNPD(est,2022,13402).
+ si_UNPD(est,2023,13083).
+ si_UNPD(est,2024,12743).
+ si_UNPD(est,2025,12395).
+ si_UNPD(est,2026,12108).
+ si_UNPD(est,2027,11852).
+ si_UNPD(est,2028,11612).
+ si_UNPD(est,2029,11364).
+ si_UNPD(est,2030,11182).
 
 wgd(est,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(est,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).

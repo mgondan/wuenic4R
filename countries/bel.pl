@@ -1,8 +1,8 @@
 %  Belgium - BEL 
-%  Wed Sep 06 18:37:55 2023 
+%  Fri May 17 11:54:10 2024 
 
 country(bel,'Belgium'). 
-date('Wed Sep 06 18:37:55 2023').
+date('Fri May 17 11:54:10 2024').
 
 estimate_required(bel,dtp1,1997,na,'na').
  estimate_required(bel,dtp1,1998,na,'na').
@@ -693,40 +693,40 @@ births_UNPD(bel,1997,115236).
  births_UNPD(bel,2029,114455).
  births_UNPD(bel,2030,114098).
 
-si_UNPD(bel,1997,115236).
- si_UNPD(bel,1998,113567).
- si_UNPD(bel,1999,113865).
- si_UNPD(bel,2000,115979).
- si_UNPD(bel,2001,115312).
- si_UNPD(bel,2002,113272).
- si_UNPD(bel,2003,114030).
- si_UNPD(bel,2004,117258).
- si_UNPD(bel,2005,119858).
- si_UNPD(bel,2006,122679).
- si_UNPD(bel,2007,124109).
- si_UNPD(bel,2008,126866).
- si_UNPD(bel,2009,126685).
- si_UNPD(bel,2010,128589).
- si_UNPD(bel,2011,126480).
- si_UNPD(bel,2012,125850).
- si_UNPD(bel,2013,123860).
- si_UNPD(bel,2014,123414).
- si_UNPD(bel,2015,121285).
- si_UNPD(bel,2016,121005).
- si_UNPD(bel,2017,119292).
- si_UNPD(bel,2018,118034).
- si_UNPD(bel,2019,116136).
- si_UNPD(bel,2020,114894).
- si_UNPD(bel,2021,116448).
- si_UNPD(bel,2022,117003).
- si_UNPD(bel,2023,116823).
- si_UNPD(bel,2024,116799).
- si_UNPD(bel,2025,116038).
- si_UNPD(bel,2026,115564).
- si_UNPD(bel,2027,115121).
- si_UNPD(bel,2028,114889).
- si_UNPD(bel,2029,114455).
- si_UNPD(bel,2030,114098).
+si_UNPD(bel,1997,114685).
+ si_UNPD(bel,1998,113064).
+ si_UNPD(bel,1999,113387).
+ si_UNPD(bel,2000,115495).
+ si_UNPD(bel,2001,114864).
+ si_UNPD(bel,2002,112847).
+ si_UNPD(bel,2003,113626).
+ si_UNPD(bel,2004,116873).
+ si_UNPD(bel,2005,119474).
+ si_UNPD(bel,2006,122251).
+ si_UNPD(bel,2007,123672).
+ si_UNPD(bel,2008,126448).
+ si_UNPD(bel,2009,126309).
+ si_UNPD(bel,2010,128189).
+ si_UNPD(bel,2011,126118).
+ si_UNPD(bel,2012,125445).
+ si_UNPD(bel,2013,123495).
+ si_UNPD(bel,2014,123058).
+ si_UNPD(bel,2015,120948).
+ si_UNPD(bel,2016,120678).
+ si_UNPD(bel,2017,118929).
+ si_UNPD(bel,2018,117657).
+ si_UNPD(bel,2019,115774).
+ si_UNPD(bel,2020,114580).
+ si_UNPD(bel,2021,116101).
+ si_UNPD(bel,2022,116716).
+ si_UNPD(bel,2023,116545).
+ si_UNPD(bel,2024,116530).
+ si_UNPD(bel,2025,115778).
+ si_UNPD(bel,2026,115313).
+ si_UNPD(bel,2027,114878).
+ si_UNPD(bel,2028,114653).
+ si_UNPD(bel,2029,114227).
+ si_UNPD(bel,2030,113876).
 
 survey_results(bel,pcv3,2010,bel2012161,[title:'Study of vaccination in young children and adolescents in Flanders in 2012',type:'16',yrcoll:'2012',cr: 92,confirm:'card',age:'18-24 m',timead:'',val:'crude',ss:874], 96).
 

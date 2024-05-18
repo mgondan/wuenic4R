@@ -1,8 +1,8 @@
 %  Sri Lanka - LKA 
-%  Wed Sep 06 18:55:01 2023 
+%  Fri May 17 12:09:56 2024 
 
 country(lka,'Sri Lanka'). 
-date('Wed Sep 06 18:55:01 2023').
+date('Fri May 17 12:09:56 2024').
 
 estimate_required(lka,bcg,1997,na,'na').
  estimate_required(lka,bcg,1998,na,'na').
@@ -1204,40 +1204,40 @@ births_UNPD(lka,1997,331705).
  births_UNPD(lka,2029,289102).
  births_UNPD(lka,2030,287955).
 
-si_UNPD(lka,1997,331705).
- si_UNPD(lka,1998,324815).
- si_UNPD(lka,1999,331406).
- si_UNPD(lka,2000,342452).
- si_UNPD(lka,2001,356061).
- si_UNPD(lka,2002,361696).
- si_UNPD(lka,2003,364787).
- si_UNPD(lka,2004,365898).
- si_UNPD(lka,2005,370691).
- si_UNPD(lka,2006,381925).
- si_UNPD(lka,2007,381352).
- si_UNPD(lka,2008,374755).
- si_UNPD(lka,2009,366700).
- si_UNPD(lka,2010,363013).
- si_UNPD(lka,2011,365456).
- si_UNPD(lka,2012,364854).
- si_UNPD(lka,2013,360151).
- si_UNPD(lka,2014,348984).
- si_UNPD(lka,2015,339695).
- si_UNPD(lka,2016,332739).
- si_UNPD(lka,2017,326988).
- si_UNPD(lka,2018,320196).
- si_UNPD(lka,2019,315324).
- si_UNPD(lka,2020,309760).
- si_UNPD(lka,2021,305877).
- si_UNPD(lka,2022,301383).
- si_UNPD(lka,2023,297987).
- si_UNPD(lka,2024,295432).
- si_UNPD(lka,2025,294245).
- si_UNPD(lka,2026,291602).
- si_UNPD(lka,2027,290163).
- si_UNPD(lka,2028,288952).
- si_UNPD(lka,2029,289102).
- si_UNPD(lka,2030,287955).
+si_UNPD(lka,1997,327133).
+ si_UNPD(lka,1998,320508).
+ si_UNPD(lka,1999,327182).
+ si_UNPD(lka,2000,338246).
+ si_UNPD(lka,2001,351821).
+ si_UNPD(lka,2002,357513).
+ si_UNPD(lka,2003,360635).
+ si_UNPD(lka,2004,360247).
+ si_UNPD(lka,2005,366773).
+ si_UNPD(lka,2006,378078).
+ si_UNPD(lka,2007,377715).
+ si_UNPD(lka,2008,371347).
+ si_UNPD(lka,2009,362284).
+ si_UNPD(lka,2010,359942).
+ si_UNPD(lka,2011,362477).
+ si_UNPD(lka,2012,362032).
+ si_UNPD(lka,2013,357511).
+ si_UNPD(lka,2014,346577).
+ si_UNPD(lka,2015,337504).
+ si_UNPD(lka,2016,330688).
+ si_UNPD(lka,2017,325046).
+ si_UNPD(lka,2018,318425).
+ si_UNPD(lka,2019,313644).
+ si_UNPD(lka,2020,308186).
+ si_UNPD(lka,2021,304378).
+ si_UNPD(lka,2022,299963).
+ si_UNPD(lka,2023,296625).
+ si_UNPD(lka,2024,294123).
+ si_UNPD(lka,2025,292978).
+ si_UNPD(lka,2026,290383).
+ si_UNPD(lka,2027,288987).
+ si_UNPD(lka,2028,287815).
+ si_UNPD(lka,2029,287996).
+ si_UNPD(lka,2030,286884).
 
 survey_results(lka,pol3,1999,lka2000141,[title:'Sri Lanka Demographic and Health Survey 2000',type:'14',yrcoll:'2000',cr: 89,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:569], 87).
 

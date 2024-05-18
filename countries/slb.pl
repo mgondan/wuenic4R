@@ -1,8 +1,8 @@
 %  Solomon Islands - SLB 
-%  Wed Sep 06 19:05:23 2023 
+%  Fri May 17 12:19:47 2024 
 
 country(slb,'Solomon Islands'). 
-date('Wed Sep 06 19:05:23 2023').
+date('Fri May 17 12:19:47 2024').
 
 estimate_required(slb,bcg,1997,na,'na').
  estimate_required(slb,bcg,1998,na,'na').
@@ -1221,40 +1221,40 @@ births_UNPD(slb,1997,14391).
  births_UNPD(slb,2029,22449).
  births_UNPD(slb,2030,22734).
 
-si_UNPD(slb,1997,14391).
- si_UNPD(slb,1998,14686).
- si_UNPD(slb,1999,14967).
- si_UNPD(slb,2000,15207).
- si_UNPD(slb,2001,15457).
- si_UNPD(slb,2002,15672).
- si_UNPD(slb,2003,15914).
- si_UNPD(slb,2004,16146).
- si_UNPD(slb,2005,16400).
- si_UNPD(slb,2006,16834).
- si_UNPD(slb,2007,17123).
- si_UNPD(slb,2008,17424).
- si_UNPD(slb,2009,17763).
- si_UNPD(slb,2010,18223).
- si_UNPD(slb,2011,18661).
- si_UNPD(slb,2012,19122).
- si_UNPD(slb,2013,19592).
- si_UNPD(slb,2014,20031).
- si_UNPD(slb,2015,20203).
- si_UNPD(slb,2016,20365).
- si_UNPD(slb,2017,20458).
- si_UNPD(slb,2018,20608).
- si_UNPD(slb,2019,20791).
- si_UNPD(slb,2020,20904).
- si_UNPD(slb,2021,21098).
- si_UNPD(slb,2022,21262).
- si_UNPD(slb,2023,21398).
- si_UNPD(slb,2024,21556).
- si_UNPD(slb,2025,21733).
- si_UNPD(slb,2026,21837).
- si_UNPD(slb,2027,22027).
- si_UNPD(slb,2028,22300).
- si_UNPD(slb,2029,22449).
- si_UNPD(slb,2030,22734).
+si_UNPD(slb,1997,14055).
+ si_UNPD(slb,1998,14348).
+ si_UNPD(slb,1999,14627).
+ si_UNPD(slb,2000,14866).
+ si_UNPD(slb,2001,15114).
+ si_UNPD(slb,2002,15327).
+ si_UNPD(slb,2003,15567).
+ si_UNPD(slb,2004,15796).
+ si_UNPD(slb,2005,16048).
+ si_UNPD(slb,2006,16477).
+ si_UNPD(slb,2007,16761).
+ si_UNPD(slb,2008,17066).
+ si_UNPD(slb,2009,17400).
+ si_UNPD(slb,2010,17865).
+ si_UNPD(slb,2011,18304).
+ si_UNPD(slb,2012,18766).
+ si_UNPD(slb,2013,19235).
+ si_UNPD(slb,2014,19664).
+ si_UNPD(slb,2015,19855).
+ si_UNPD(slb,2016,20025).
+ si_UNPD(slb,2017,20125).
+ si_UNPD(slb,2018,20282).
+ si_UNPD(slb,2019,20472).
+ si_UNPD(slb,2020,20590).
+ si_UNPD(slb,2021,20794).
+ si_UNPD(slb,2022,20960).
+ si_UNPD(slb,2023,21101).
+ si_UNPD(slb,2024,21262).
+ si_UNPD(slb,2025,21443).
+ si_UNPD(slb,2026,21552).
+ si_UNPD(slb,2027,21745).
+ si_UNPD(slb,2028,22021).
+ si_UNPD(slb,2029,22174).
+ si_UNPD(slb,2030,22461).
 
 survey_results(slb,mcv1,2005,slb2007141,[title:'Solomon Islands Demographic and Health Survey 2006-07',type:'14',yrcoll:'2006',cr:86,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:78],  9).
 

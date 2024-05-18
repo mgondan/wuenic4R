@@ -1,8 +1,8 @@
 %  Andorra - AND 
-%  Wed Sep 06 18:36:12 2023 
+%  Fri May 17 11:52:31 2024 
 
 country(and,'Andorra'). 
-date('Wed Sep 06 18:36:12 2023').
+date('Fri May 17 11:52:31 2024').
 
 estimate_required(and,dtp1,1997,na,'na').
  estimate_required(and,dtp1,1998,na,'na').
@@ -672,40 +672,40 @@ births_UNPD(and,1997,756).
  births_UNPD(and,2029,551).
  births_UNPD(and,2030,550).
 
-si_UNPD(and,1997,756).
- si_UNPD(and,1998,751).
- si_UNPD(and,1999,813).
- si_UNPD(and,2000,728).
- si_UNPD(and,2001,753).
- si_UNPD(and,2002,796).
- si_UNPD(and,2003,736).
- si_UNPD(and,2004,815).
- si_UNPD(and,2005,864).
- si_UNPD(and,2006,901).
- si_UNPD(and,2007,839).
- si_UNPD(and,2008,910).
- si_UNPD(and,2009,851).
- si_UNPD(and,2010,869).
- si_UNPD(and,2011,809).
- si_UNPD(and,2012,753).
- si_UNPD(and,2013,673).
- si_UNPD(and,2014,683).
- si_UNPD(and,2015,714).
- si_UNPD(and,2016,679).
- si_UNPD(and,2017,618).
- si_UNPD(and,2018,593).
- si_UNPD(and,2019,590).
- si_UNPD(and,2020,591).
- si_UNPD(and,2021,567).
- si_UNPD(and,2022,575).
- si_UNPD(and,2023,569).
- si_UNPD(and,2024,564).
- si_UNPD(and,2025,560).
- si_UNPD(and,2026,554).
- si_UNPD(and,2027,550).
- si_UNPD(and,2028,551).
- si_UNPD(and,2029,551).
- si_UNPD(and,2030,550).
+si_UNPD(and,1997,751).
+ si_UNPD(and,1998,745).
+ si_UNPD(and,1999,808).
+ si_UNPD(and,2000,723).
+ si_UNPD(and,2001,748).
+ si_UNPD(and,2002,791).
+ si_UNPD(and,2003,732).
+ si_UNPD(and,2004,809).
+ si_UNPD(and,2005,859).
+ si_UNPD(and,2006,896).
+ si_UNPD(and,2007,834).
+ si_UNPD(and,2008,905).
+ si_UNPD(and,2009,846).
+ si_UNPD(and,2010,864).
+ si_UNPD(and,2011,804).
+ si_UNPD(and,2012,749).
+ si_UNPD(and,2013,669).
+ si_UNPD(and,2014,679).
+ si_UNPD(and,2015,710).
+ si_UNPD(and,2016,675).
+ si_UNPD(and,2017,615).
+ si_UNPD(and,2018,590).
+ si_UNPD(and,2019,587).
+ si_UNPD(and,2020,588).
+ si_UNPD(and,2021,564).
+ si_UNPD(and,2022,572).
+ si_UNPD(and,2023,566).
+ si_UNPD(and,2024,561).
+ si_UNPD(and,2025,557).
+ si_UNPD(and,2026,552).
+ si_UNPD(and,2027,548).
+ si_UNPD(and,2028,549).
+ si_UNPD(and,2029,549).
+ si_UNPD(and,2030,548).
 
 wgd(and,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).
  wgd(and,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,90,_,na).

@@ -1,8 +1,8 @@
 %  Albania - ALB 
-%  Wed Sep 06 18:36:04 2023 
+%  Fri May 17 11:52:24 2024 
 
 country(alb,'Albania'). 
-date('Wed Sep 06 18:36:04 2023').
+date('Fri May 17 11:52:24 2024').
 
 estimate_required(alb,bcg,1997,na,'na').
  estimate_required(alb,bcg,1998,na,'na').
@@ -1435,40 +1435,40 @@ births_UNPD(alb,1997,65082).
  births_UNPD(alb,2029,26601).
  births_UNPD(alb,2030,26184).
 
-si_UNPD(alb,1997,65082).
- si_UNPD(alb,1998,61371).
- si_UNPD(alb,1999,58257).
- si_UNPD(alb,2000,54861).
- si_UNPD(alb,2001,51320).
- si_UNPD(alb,2002,47945).
- si_UNPD(alb,2003,45781).
- si_UNPD(alb,2004,43180).
- si_UNPD(alb,2005,40463).
- si_UNPD(alb,2006,37946).
- si_UNPD(alb,2007,36175).
- si_UNPD(alb,2008,35256).
- si_UNPD(alb,2009,34903).
- si_UNPD(alb,2010,34904).
- si_UNPD(alb,2011,35059).
- si_UNPD(alb,2012,35489).
- si_UNPD(alb,2013,35555).
- si_UNPD(alb,2014,35130).
- si_UNPD(alb,2015,33845).
- si_UNPD(alb,2016,32584).
- si_UNPD(alb,2017,31350).
- si_UNPD(alb,2018,30304).
- si_UNPD(alb,2019,29773).
- si_UNPD(alb,2020,29535).
- si_UNPD(alb,2021,29289).
- si_UNPD(alb,2022,28795).
- si_UNPD(alb,2023,28538).
- si_UNPD(alb,2024,28334).
- si_UNPD(alb,2025,28153).
- si_UNPD(alb,2026,27933).
- si_UNPD(alb,2027,27538).
- si_UNPD(alb,2028,27135).
- si_UNPD(alb,2029,26601).
- si_UNPD(alb,2030,26184).
+si_UNPD(alb,1997,63483).
+ si_UNPD(alb,1998,59955).
+ si_UNPD(alb,1999,56962).
+ si_UNPD(alb,2000,53689).
+ si_UNPD(alb,2001,50273).
+ si_UNPD(alb,2002,47019).
+ si_UNPD(alb,2003,44950).
+ si_UNPD(alb,2004,42448).
+ si_UNPD(alb,2005,39824).
+ si_UNPD(alb,2006,37391).
+ si_UNPD(alb,2007,35687).
+ si_UNPD(alb,2008,34819).
+ si_UNPD(alb,2009,34506).
+ si_UNPD(alb,2010,34541).
+ si_UNPD(alb,2011,34726).
+ si_UNPD(alb,2012,35179).
+ si_UNPD(alb,2013,35266).
+ si_UNPD(alb,2014,34859).
+ si_UNPD(alb,2015,33593).
+ si_UNPD(alb,2016,32345).
+ si_UNPD(alb,2017,31120).
+ si_UNPD(alb,2018,30079).
+ si_UNPD(alb,2019,29548).
+ si_UNPD(alb,2020,29309).
+ si_UNPD(alb,2021,29062).
+ si_UNPD(alb,2022,28591).
+ si_UNPD(alb,2023,28341).
+ si_UNPD(alb,2024,28169).
+ si_UNPD(alb,2025,27994).
+ si_UNPD(alb,2026,27782).
+ si_UNPD(alb,2027,27394).
+ si_UNPD(alb,2028,26998).
+ si_UNPD(alb,2029,26472).
+ si_UNPD(alb,2030,26061).
 
 survey_results(alb,bcg,1998,alb1999311,[title:'National survey of EPI coverage, 1999',type:'31',yrcoll:'1999',cr:100,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:2455], 93).
 

@@ -1,8 +1,8 @@
 %  Marshall Islands - MHL 
-%  Wed Sep 06 18:56:41 2023 
+%  Fri May 17 12:11:30 2024 
 
 country(mhl,'Marshall Islands'). 
-date('Wed Sep 06 18:56:41 2023').
+date('Fri May 17 12:11:30 2024').
 
 estimate_required(mhl,bcg,1997,na,'na').
  estimate_required(mhl,bcg,1998,na,'na').
@@ -1478,40 +1478,40 @@ births_UNPD(mhl,1997,1910).
  births_UNPD(mhl,2029,772).
  births_UNPD(mhl,2030,780).
 
-si_UNPD(mhl,1997,1910).
- si_UNPD(mhl,1998,1912).
- si_UNPD(mhl,1999,1919).
- si_UNPD(mhl,2000,1920).
- si_UNPD(mhl,2001,1920).
- si_UNPD(mhl,2002,1912).
- si_UNPD(mhl,2003,1908).
- si_UNPD(mhl,2004,1902).
- si_UNPD(mhl,2005,1889).
- si_UNPD(mhl,2006,1867).
- si_UNPD(mhl,2007,1831).
- si_UNPD(mhl,2008,1777).
- si_UNPD(mhl,2009,1713).
- si_UNPD(mhl,2010,1631).
- si_UNPD(mhl,2011,1542).
- si_UNPD(mhl,2012,1455).
- si_UNPD(mhl,2013,1369).
- si_UNPD(mhl,2014,1284).
- si_UNPD(mhl,2015,1205).
- si_UNPD(mhl,2016,1134).
- si_UNPD(mhl,2017,1072).
- si_UNPD(mhl,2018,1009).
- si_UNPD(mhl,2019,947).
- si_UNPD(mhl,2020,887).
- si_UNPD(mhl,2021,829).
- si_UNPD(mhl,2022,770).
- si_UNPD(mhl,2023,762).
- si_UNPD(mhl,2024,756).
- si_UNPD(mhl,2025,751).
- si_UNPD(mhl,2026,751).
- si_UNPD(mhl,2027,758).
- si_UNPD(mhl,2028,764).
- si_UNPD(mhl,2029,772).
- si_UNPD(mhl,2030,780).
+si_UNPD(mhl,1997,1856).
+ si_UNPD(mhl,1998,1857).
+ si_UNPD(mhl,1999,1864).
+ si_UNPD(mhl,2000,1864).
+ si_UNPD(mhl,2001,1865).
+ si_UNPD(mhl,2002,1857).
+ si_UNPD(mhl,2003,1853).
+ si_UNPD(mhl,2004,1848).
+ si_UNPD(mhl,2005,1835).
+ si_UNPD(mhl,2006,1814).
+ si_UNPD(mhl,2007,1780).
+ si_UNPD(mhl,2008,1728).
+ si_UNPD(mhl,2009,1666).
+ si_UNPD(mhl,2010,1587).
+ si_UNPD(mhl,2011,1500).
+ si_UNPD(mhl,2012,1416).
+ si_UNPD(mhl,2013,1333).
+ si_UNPD(mhl,2014,1251).
+ si_UNPD(mhl,2015,1175).
+ si_UNPD(mhl,2016,1106).
+ si_UNPD(mhl,2017,1046).
+ si_UNPD(mhl,2018,985).
+ si_UNPD(mhl,2019,925).
+ si_UNPD(mhl,2020,867).
+ si_UNPD(mhl,2021,811).
+ si_UNPD(mhl,2022,753).
+ si_UNPD(mhl,2023,746).
+ si_UNPD(mhl,2024,740).
+ si_UNPD(mhl,2025,735).
+ si_UNPD(mhl,2026,735).
+ si_UNPD(mhl,2027,742).
+ si_UNPD(mhl,2028,748).
+ si_UNPD(mhl,2029,756).
+ si_UNPD(mhl,2030,764).
 
 survey_results(mhl,dtp3,1999,mhl2000161,[title:'NA',type:'16',yrcoll:'2000',cr: 0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:0],82).
 

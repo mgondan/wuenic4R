@@ -1,8 +1,8 @@
 %  Fiji - FJI 
-%  Wed Sep 06 18:46:26 2023 
+%  Fri May 17 12:01:46 2024 
 
 country(fji,'Fiji'). 
-date('Wed Sep 06 18:46:26 2023').
+date('Fri May 17 12:01:46 2024').
 
 estimate_required(fji,bcg,1997,na,'na').
  estimate_required(fji,bcg,1998,na,'na').
@@ -1306,40 +1306,40 @@ births_UNPD(fji,1997,20505).
  births_UNPD(fji,2029,17344).
  births_UNPD(fji,2030,17328).
 
-si_UNPD(fji,1997,20505).
- si_UNPD(fji,1998,20266).
- si_UNPD(fji,1999,20298).
- si_UNPD(fji,2000,20338).
- si_UNPD(fji,2001,20512).
- si_UNPD(fji,2002,20703).
- si_UNPD(fji,2003,20888).
- si_UNPD(fji,2004,20939).
- si_UNPD(fji,2005,20900).
- si_UNPD(fji,2006,21327).
- si_UNPD(fji,2007,21347).
- si_UNPD(fji,2008,21288).
- si_UNPD(fji,2009,21005).
- si_UNPD(fji,2010,20632).
- si_UNPD(fji,2011,20215).
- si_UNPD(fji,2012,20094).
- si_UNPD(fji,2013,20066).
- si_UNPD(fji,2014,19971).
- si_UNPD(fji,2015,19791).
- si_UNPD(fji,2016,19447).
- si_UNPD(fji,2017,19002).
- si_UNPD(fji,2018,18668).
- si_UNPD(fji,2019,18452).
- si_UNPD(fji,2020,18123).
- si_UNPD(fji,2021,17943).
- si_UNPD(fji,2022,17821).
- si_UNPD(fji,2023,17676).
- si_UNPD(fji,2024,17547).
- si_UNPD(fji,2025,17498).
- si_UNPD(fji,2026,17376).
- si_UNPD(fji,2027,17363).
- si_UNPD(fji,2028,17344).
- si_UNPD(fji,2029,17344).
- si_UNPD(fji,2030,17328).
+si_UNPD(fji,1997,20146).
+ si_UNPD(fji,1998,19920).
+ si_UNPD(fji,1999,19955).
+ si_UNPD(fji,2000,19997).
+ si_UNPD(fji,2001,20171).
+ si_UNPD(fji,2002,20358).
+ si_UNPD(fji,2003,20536).
+ si_UNPD(fji,2004,20582).
+ si_UNPD(fji,2005,20540).
+ si_UNPD(fji,2006,20954).
+ si_UNPD(fji,2007,20969).
+ si_UNPD(fji,2008,20910).
+ si_UNPD(fji,2009,20630).
+ si_UNPD(fji,2010,20269).
+ si_UNPD(fji,2011,19860).
+ si_UNPD(fji,2012,19738).
+ si_UNPD(fji,2013,19712).
+ si_UNPD(fji,2014,19615).
+ si_UNPD(fji,2015,19432).
+ si_UNPD(fji,2016,19083).
+ si_UNPD(fji,2017,18641).
+ si_UNPD(fji,2018,18303).
+ si_UNPD(fji,2019,18083).
+ si_UNPD(fji,2020,17753).
+ si_UNPD(fji,2021,17572).
+ si_UNPD(fji,2022,17538).
+ si_UNPD(fji,2023,17403).
+ si_UNPD(fji,2024,17284).
+ si_UNPD(fji,2025,17243).
+ si_UNPD(fji,2026,17130).
+ si_UNPD(fji,2027,17124).
+ si_UNPD(fji,2028,17112).
+ si_UNPD(fji,2029,17119).
+ si_UNPD(fji,2030,17109).
 
 survey_results(fji,dtp1,1998,fji1999161,[title:'Fiji National EPI Survey 1999',type:'16',yrcoll:'1999',cr:  0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0], 95).
 

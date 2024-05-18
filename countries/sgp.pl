@@ -1,8 +1,8 @@
 %  Singapore - SGP 
-%  Wed Sep 06 19:05:15 2023 
+%  Fri May 17 12:19:40 2024 
 
 country(sgp,'Singapore'). 
-date('Wed Sep 06 19:05:15 2023').
+date('Fri May 17 12:19:40 2024').
 
 estimate_required(sgp,bcg,1997,na,'na').
  estimate_required(sgp,bcg,1998,na,'na').
@@ -1280,40 +1280,40 @@ births_UNPD(sgp,1997,54586).
  births_UNPD(sgp,2029,42867).
  births_UNPD(sgp,2030,42675).
 
-si_UNPD(sgp,1997,54586).
- si_UNPD(sgp,1998,45118).
- si_UNPD(sgp,1999,44255).
- si_UNPD(sgp,2000,54411).
- si_UNPD(sgp,2001,42989).
- si_UNPD(sgp,2002,47426).
- si_UNPD(sgp,2003,44625).
- si_UNPD(sgp,2004,44010).
- si_UNPD(sgp,2005,44182).
- si_UNPD(sgp,2006,45554).
- si_UNPD(sgp,2007,47126).
- si_UNPD(sgp,2008,48154).
- si_UNPD(sgp,2009,47513).
- si_UNPD(sgp,2010,46601).
- si_UNPD(sgp,2011,49085).
- si_UNPD(sgp,2012,52502).
- si_UNPD(sgp,2013,49683).
- si_UNPD(sgp,2014,52219).
- si_UNPD(sgp,2015,51891).
- si_UNPD(sgp,2016,42370).
- si_UNPD(sgp,2017,40318).
- si_UNPD(sgp,2018,39753).
- si_UNPD(sgp,2019,40247).
- si_UNPD(sgp,2020,41375).
- si_UNPD(sgp,2021,42215).
- si_UNPD(sgp,2022,42333).
- si_UNPD(sgp,2023,42560).
- si_UNPD(sgp,2024,42892).
- si_UNPD(sgp,2025,42999).
- si_UNPD(sgp,2026,43320).
- si_UNPD(sgp,2027,43331).
- si_UNPD(sgp,2028,43296).
- si_UNPD(sgp,2029,42867).
- si_UNPD(sgp,2030,42675).
+si_UNPD(sgp,1997,54412).
+ si_UNPD(sgp,1998,44981).
+ si_UNPD(sgp,1999,44129).
+ si_UNPD(sgp,2000,54267).
+ si_UNPD(sgp,2001,42884).
+ si_UNPD(sgp,2002,47319).
+ si_UNPD(sgp,2003,44530).
+ si_UNPD(sgp,2004,43921).
+ si_UNPD(sgp,2005,44096).
+ si_UNPD(sgp,2006,45468).
+ si_UNPD(sgp,2007,47038).
+ si_UNPD(sgp,2008,48064).
+ si_UNPD(sgp,2009,47424).
+ si_UNPD(sgp,2010,46514).
+ si_UNPD(sgp,2011,48995).
+ si_UNPD(sgp,2012,52407).
+ si_UNPD(sgp,2013,49594).
+ si_UNPD(sgp,2014,52126).
+ si_UNPD(sgp,2015,51798).
+ si_UNPD(sgp,2016,42295).
+ si_UNPD(sgp,2017,40249).
+ si_UNPD(sgp,2018,39688).
+ si_UNPD(sgp,2019,40185).
+ si_UNPD(sgp,2020,41317).
+ si_UNPD(sgp,2021,42161).
+ si_UNPD(sgp,2022,42273).
+ si_UNPD(sgp,2023,42501).
+ si_UNPD(sgp,2024,42834).
+ si_UNPD(sgp,2025,42942).
+ si_UNPD(sgp,2026,43264).
+ si_UNPD(sgp,2027,43276).
+ si_UNPD(sgp,2028,43242).
+ si_UNPD(sgp,2029,42815).
+ si_UNPD(sgp,2030,42624).
 
 wgd(sgp,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(sgp,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).

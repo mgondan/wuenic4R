@@ -1,8 +1,8 @@
 %  Mexico - MEX 
-%  Wed Sep 06 18:56:30 2023 
+%  Fri May 17 12:11:19 2024 
 
 country(mex,'Mexico'). 
-date('Wed Sep 06 18:56:30 2023').
+date('Fri May 17 12:11:19 2024').
 
 estimate_required(mex,bcg,1997,na,'na').
  estimate_required(mex,bcg,1998,na,'na').
@@ -1463,40 +1463,40 @@ births_UNPD(mex,1997,2381468).
  births_UNPD(mex,2029,1813165).
  births_UNPD(mex,2030,1805220).
 
-si_UNPD(mex,1997,2381468).
- si_UNPD(mex,1998,2366195).
- si_UNPD(mex,1999,2376083).
- si_UNPD(mex,2000,2369103).
- si_UNPD(mex,2001,2361422).
- si_UNPD(mex,2002,2350590).
- si_UNPD(mex,2003,2339268).
- si_UNPD(mex,2004,2326284).
- si_UNPD(mex,2005,2312543).
- si_UNPD(mex,2006,2296928).
- si_UNPD(mex,2007,2286462).
- si_UNPD(mex,2008,2279101).
- si_UNPD(mex,2009,2273032).
- si_UNPD(mex,2010,2268110).
- si_UNPD(mex,2011,2273571).
- si_UNPD(mex,2012,2273326).
- si_UNPD(mex,2013,2267699).
- si_UNPD(mex,2014,2222905).
- si_UNPD(mex,2015,2159314).
- si_UNPD(mex,2016,2116264).
- si_UNPD(mex,2017,2081548).
- si_UNPD(mex,2018,2042458).
- si_UNPD(mex,2019,1965139).
- si_UNPD(mex,2020,1961267).
- si_UNPD(mex,2021,1882362).
- si_UNPD(mex,2022,1866399).
- si_UNPD(mex,2023,1857407).
- si_UNPD(mex,2024,1848943).
- si_UNPD(mex,2025,1840144).
- si_UNPD(mex,2026,1832692).
- si_UNPD(mex,2027,1818358).
- si_UNPD(mex,2028,1812708).
- si_UNPD(mex,2029,1813165).
- si_UNPD(mex,2030,1805220).
+si_UNPD(mex,1997,2325278).
+ si_UNPD(mex,1998,2312538).
+ si_UNPD(mex,1999,2324318).
+ si_UNPD(mex,2000,2319502).
+ si_UNPD(mex,2001,2313912).
+ si_UNPD(mex,2002,2305333).
+ si_UNPD(mex,2003,2296082).
+ si_UNPD(mex,2004,2285055).
+ si_UNPD(mex,2005,2273113).
+ si_UNPD(mex,2006,2259238).
+ si_UNPD(mex,2007,2250295).
+ si_UNPD(mex,2008,2244299).
+ si_UNPD(mex,2009,2239498).
+ si_UNPD(mex,2010,2235762).
+ si_UNPD(mex,2011,2242235).
+ si_UNPD(mex,2012,2243038).
+ si_UNPD(mex,2013,2238493).
+ si_UNPD(mex,2014,2195220).
+ si_UNPD(mex,2015,2133313).
+ si_UNPD(mex,2016,2091617).
+ si_UNPD(mex,2017,2058123).
+ si_UNPD(mex,2018,2020262).
+ si_UNPD(mex,2019,1944503).
+ si_UNPD(mex,2020,1941370).
+ si_UNPD(mex,2021,1863705).
+ si_UNPD(mex,2022,1848667).
+ si_UNPD(mex,2023,1840414).
+ si_UNPD(mex,2024,1832630).
+ si_UNPD(mex,2025,1824490).
+ si_UNPD(mex,2026,1817655).
+ si_UNPD(mex,2027,1803962).
+ si_UNPD(mex,2028,1798838).
+ si_UNPD(mex,2029,1799771).
+ si_UNPD(mex,2030,1792332).
 
 survey_results(mex,dtp3,2004,mex2006351,[title:'National Health and Nutrition Survey, 2006',type:'35',yrcoll:'2006',cr:85,confirm:'card',age:'12-35 m',timead:'',val:'crude',ss:0], 93).
 
@@ -2049,20 +2049,7 @@ wgd(mex,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(mex,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,91,_,na).
  wgd(mex,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
 
-wgd(mex,pol3,2020,2020,assignWUENIC,' Estimate is based reported numerator and a recomputed target population based on 2019 and 2021 target population information given an unexplained 17 percent decline in reported target population in 2020.',na,72,na,na).
- wgd(mex,rcv1,2014,2014,ignoreSurvey,' Survey results inconsistent with those of other antigens vis-à-vis reported data.',na,na,na,na).
- wgd(mex,rcv1,2016,2016,comment,' Programme reports district level stockouts of unknown duration for rubella containing vaccine.',na,na,na,na).
- wgd(mex,rcv1,2020,2020,assignWUENIC,' Estimate is based reported numerator and a recomputed target population based on 2019 and 2021 target population information given an unexplained 17 percent decline in reported target population in 2020.',na,92,na,na).
- wgd(mex,rotac,2008,2008,assignAnchor,' Partial introduction, 100 percent coverage achieved in 47 percent of the country.',na,47,na,na).
- wgd(mex,rotac,2008,2008,comment,' Rotavirus vaccine introduced in 2007, reporting started in 2008.',na,na,na,na).
- wgd(mex,rotac,2009,2009,assignAnchor,' Rapid increase from to routine levels of other vaccines following introduction.',na,93,na,na).
- wgd(mex,rotac,2013,2014,ignoreSurvey,' Survey results adjusted for recall bias (not shown here) support reported coverage levels.',na,na,na,na).
- wgd(mex,rotac,2016,2016,comment,' Programme reports district level stockouts of unknown duration for rotavirus vaccine.',na,na,na,na).
- wgd(mex,rotac,2019,2019,ignoreGov,' Unexplained official estimate and estimate inconsistent with other vaccine doses.',na,na,na,na).
- wgd(mex,rotac,2020,2020,acceptReported,' Estimate is based on reported data consistent with other antigens.',na,na,na,na).
- wgd(mex,rotac,2020,2020,assignWUENIC,' Estimate is based reported numerator and a recomputed target population based on 2019 and 2021 target population information given an unexplained 17 percent decline in reported target population in 2020.',na,69,na,na).
- wgd(mex,rotac,2021,2021,acceptReported,' Estimate is informed by reported data.',na,na,na,na).
- wgd(mex,X,2008,2008,comment,' Estimated number of children in target populations varies between antigens and across years. Nationally estimated target is approximately 20 percent lower than that estimated by the UN Population Division.',na,na,na,na).
+wgd(mex,X,2008,2008,comment,' Estimated number of children in target populations varies between antigens and across years. Nationally estimated target is approximately 20 percent lower than that estimated by the UN Population Division.',na,na,na,na).
  wgd(mex,X,2013,2013,acceptReported,' Estimate is based on official government estimate.',na,na,na,na).
  wgd(mex,X,2013,2013,comment,' The method to obtain administrative coverage changed in 2013.',na,na,na,na).
  wgd(mex,X,2020,2020,ignoreSurvey,' Survey results for cohort are inconsistent with those for prior year cohort and with declines in reported doses administered, likely due to the timing of the field work.',na,na,na,na).
@@ -2125,4 +2112,17 @@ wgd(mex,pol3,2020,2020,assignWUENIC,' Estimate is based reported numerator and a
  wgd(mex,pcv3,2021,2021,acceptReported,' Estimate is informed by reported data.',na,na,na,na).
  wgd(mex,pol3,2016,2016,ignoreGov,' Consistency with DTP3.',na,na,na,na).
  wgd(mex,pol3,2017,2017,assignAnchor,' Estimate is based on reported data supported by survey.',na,85,na,na).
+ wgd(mex,pol3,2020,2020,assignWUENIC,' Estimate is based reported numerator and a recomputed target population based on 2019 and 2021 target population information given an unexplained 17 percent decline in reported target population in 2020.',na,72,na,na).
+ wgd(mex,rcv1,2014,2014,ignoreSurvey,' Survey results inconsistent with those of other antigens vis-à-vis reported data.',na,na,na,na).
+ wgd(mex,rcv1,2016,2016,comment,' Programme reports district level stockouts of unknown duration for rubella containing vaccine.',na,na,na,na).
+ wgd(mex,rcv1,2020,2020,assignWUENIC,' Estimate is based reported numerator and a recomputed target population based on 2019 and 2021 target population information given an unexplained 17 percent decline in reported target population in 2020.',na,92,na,na).
+ wgd(mex,rotac,2008,2008,assignAnchor,' Partial introduction, 100 percent coverage achieved in 47 percent of the country.',na,47,na,na).
+ wgd(mex,rotac,2008,2008,comment,' Rotavirus vaccine introduced in 2007, reporting started in 2008.',na,na,na,na).
+ wgd(mex,rotac,2009,2009,assignAnchor,' Rapid increase from to routine levels of other vaccines following introduction.',na,93,na,na).
+ wgd(mex,rotac,2013,2014,ignoreSurvey,' Survey results adjusted for recall bias (not shown here) support reported coverage levels.',na,na,na,na).
+ wgd(mex,rotac,2016,2016,comment,' Programme reports district level stockouts of unknown duration for rotavirus vaccine.',na,na,na,na).
+ wgd(mex,rotac,2019,2019,ignoreGov,' Unexplained official estimate and estimate inconsistent with other vaccine doses.',na,na,na,na).
+ wgd(mex,rotac,2020,2020,acceptReported,' Estimate is based on reported data consistent with other antigens.',na,na,na,na).
+ wgd(mex,rotac,2020,2020,assignWUENIC,' Estimate is based reported numerator and a recomputed target population based on 2019 and 2021 target population information given an unexplained 17 percent decline in reported target population in 2020.',na,69,na,na).
+ wgd(mex,rotac,2021,2021,acceptReported,' Estimate is informed by reported data.',na,na,na,na).
 

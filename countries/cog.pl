@@ -1,8 +1,8 @@
 %  Congo - COG 
-%  Wed Sep 06 18:42:31 2023 
+%  Fri May 17 11:58:07 2024 
 
 country(cog,'Congo'). 
-date('Wed Sep 06 18:42:31 2023').
+date('Fri May 17 11:58:07 2024').
 
 estimate_required(cog,bcg,1997,na,'na').
  estimate_required(cog,bcg,1998,na,'na').
@@ -1243,40 +1243,40 @@ births_UNPD(cog,1997,110479).
  births_UNPD(cog,2029,200785).
  births_UNPD(cog,2030,204109).
 
-si_UNPD(cog,1997,110479).
- si_UNPD(cog,1998,111343).
- si_UNPD(cog,1999,113712).
- si_UNPD(cog,2000,114981).
- si_UNPD(cog,2001,122462).
- si_UNPD(cog,2002,125401).
- si_UNPD(cog,2003,127161).
- si_UNPD(cog,2004,132084).
- si_UNPD(cog,2005,136536).
- si_UNPD(cog,2006,142379).
- si_UNPD(cog,2007,148481).
- si_UNPD(cog,2008,156305).
- si_UNPD(cog,2009,161996).
- si_UNPD(cog,2010,172311).
- si_UNPD(cog,2011,175194).
- si_UNPD(cog,2012,177311).
- si_UNPD(cog,2013,176662).
- si_UNPD(cog,2014,176057).
- si_UNPD(cog,2015,175788).
- si_UNPD(cog,2016,175075).
- si_UNPD(cog,2017,175642).
- si_UNPD(cog,2018,176098).
- si_UNPD(cog,2019,176563).
- si_UNPD(cog,2020,177736).
- si_UNPD(cog,2021,179193).
- si_UNPD(cog,2022,180175).
- si_UNPD(cog,2023,182217).
- si_UNPD(cog,2024,183955).
- si_UNPD(cog,2025,186720).
- si_UNPD(cog,2026,189879).
- si_UNPD(cog,2027,193046).
- si_UNPD(cog,2028,196934).
- si_UNPD(cog,2029,200785).
- si_UNPD(cog,2030,204109).
+si_UNPD(cog,1997,104562).
+ si_UNPD(cog,1998,105382).
+ si_UNPD(cog,1999,107680).
+ si_UNPD(cog,2000,108929).
+ si_UNPD(cog,2001,116111).
+ si_UNPD(cog,2002,119056).
+ si_UNPD(cog,2003,120934).
+ si_UNPD(cog,2004,125885).
+ si_UNPD(cog,2005,130427).
+ si_UNPD(cog,2006,136318).
+ si_UNPD(cog,2007,142465).
+ si_UNPD(cog,2008,150270).
+ si_UNPD(cog,2009,155992).
+ si_UNPD(cog,2010,166120).
+ si_UNPD(cog,2011,169074).
+ si_UNPD(cog,2012,171252).
+ si_UNPD(cog,2013,170752).
+ si_UNPD(cog,2014,170319).
+ si_UNPD(cog,2015,170201).
+ si_UNPD(cog,2016,169651).
+ si_UNPD(cog,2017,170336).
+ si_UNPD(cog,2018,170901).
+ si_UNPD(cog,2019,171231).
+ si_UNPD(cog,2020,172741).
+ si_UNPD(cog,2021,174283).
+ si_UNPD(cog,2022,174567).
+ si_UNPD(cog,2023,176591).
+ si_UNPD(cog,2024,178321).
+ si_UNPD(cog,2025,181045).
+ si_UNPD(cog,2026,184168).
+ si_UNPD(cog,2027,187300).
+ si_UNPD(cog,2028,191130).
+ si_UNPD(cog,2029,194925).
+ si_UNPD(cog,2030,198209).
 
 survey_results(cog,pol1,2004,cog2005141,[title:'Congo Demographic and Health Survey 2005',type:'14',yrcoll:'2005',cr:60,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:899], 93).
 

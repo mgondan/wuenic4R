@@ -1,8 +1,8 @@
 %  Angola - AGO 
-%  Wed Sep 06 18:35:39 2023 
+%  Fri May 17 11:51:58 2024 
 
 country(ago,'Angola'). 
-date('Wed Sep 06 18:35:39 2023').
+date('Fri May 17 11:51:58 2024').
 
 estimate_required(ago,bcg,1997,na,'na').
  estimate_required(ago,bcg,1998,na,'na').
@@ -1328,40 +1328,40 @@ births_UNPD(ago,1997,718872).
  births_UNPD(ago,2029,1521988).
  births_UNPD(ago,2030,1547459).
 
-si_UNPD(ago,1997,718872).
- si_UNPD(ago,1998,736639).
- si_UNPD(ago,1999,757141).
- si_UNPD(ago,2000,780036).
- si_UNPD(ago,2001,804851).
- si_UNPD(ago,2002,829886).
- si_UNPD(ago,2003,854768).
- si_UNPD(ago,2004,882792).
- si_UNPD(ago,2005,911861).
- si_UNPD(ago,2006,939039).
- si_UNPD(ago,2007,966438).
- si_UNPD(ago,2008,993966).
- si_UNPD(ago,2009,1022476).
- si_UNPD(ago,2010,1048894).
- si_UNPD(ago,2011,1074349).
- si_UNPD(ago,2012,1102911).
- si_UNPD(ago,2013,1129971).
- si_UNPD(ago,2014,1156171).
- si_UNPD(ago,2015,1180604).
- si_UNPD(ago,2016,1204674).
- si_UNPD(ago,2017,1231485).
- si_UNPD(ago,2018,1257353).
- si_UNPD(ago,2019,1284366).
- si_UNPD(ago,2020,1312910).
- si_UNPD(ago,2021,1338792).
- si_UNPD(ago,2022,1359723).
- si_UNPD(ago,2023,1381742).
- si_UNPD(ago,2024,1404185).
- si_UNPD(ago,2025,1426882).
- si_UNPD(ago,2026,1451467).
- si_UNPD(ago,2027,1474494).
- si_UNPD(ago,2028,1499488).
- si_UNPD(ago,2029,1521988).
- si_UNPD(ago,2030,1547459).
+si_UNPD(ago,1997,655142).
+ si_UNPD(ago,1998,670965).
+ si_UNPD(ago,1999,691521).
+ si_UNPD(ago,2000,713130).
+ si_UNPD(ago,2001,738026).
+ si_UNPD(ago,2002,762399).
+ si_UNPD(ago,2003,788871).
+ si_UNPD(ago,2004,817399).
+ si_UNPD(ago,2005,847245).
+ si_UNPD(ago,2006,875518).
+ si_UNPD(ago,2007,904500).
+ si_UNPD(ago,2008,933699).
+ si_UNPD(ago,2009,963877).
+ si_UNPD(ago,2010,991758).
+ si_UNPD(ago,2011,1017855).
+ si_UNPD(ago,2012,1047128).
+ si_UNPD(ago,2013,1074856).
+ si_UNPD(ago,2014,1101711).
+ si_UNPD(ago,2015,1126722).
+ si_UNPD(ago,2016,1151301).
+ si_UNPD(ago,2017,1178417).
+ si_UNPD(ago,2018,1204595).
+ si_UNPD(ago,2019,1231870).
+ si_UNPD(ago,2020,1260616).
+ si_UNPD(ago,2021,1286766).
+ si_UNPD(ago,2022,1306749).
+ si_UNPD(ago,2023,1328505).
+ si_UNPD(ago,2024,1350858).
+ si_UNPD(ago,2025,1373465).
+ si_UNPD(ago,2026,1397860).
+ si_UNPD(ago,2027,1420806).
+ si_UNPD(ago,2028,1445662).
+ si_UNPD(ago,2029,1468147).
+ si_UNPD(ago,2030,1493534).
 
 survey_results(ago,pol3,2000,ago2001231,[title:'Angola Multiple Indicator Cluster Survey 2001',type:'23',yrcoll:'2001',cr:34,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1102], 24).
 

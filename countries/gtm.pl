@@ -1,8 +1,8 @@
 %  Guatemala - GTM 
-%  Wed Sep 06 18:48:59 2023 
+%  Fri May 17 12:04:10 2024 
 
 country(gtm,'Guatemala'). 
-date('Wed Sep 06 18:48:59 2023').
+date('Fri May 17 12:04:10 2024').
 
 estimate_required(gtm,bcg,1997,na,'na').
  estimate_required(gtm,bcg,1998,na,'na').
@@ -1327,40 +1327,40 @@ births_UNPD(gtm,1997,395916).
  births_UNPD(gtm,2029,376214).
  births_UNPD(gtm,2030,375783).
 
-si_UNPD(gtm,1997,395916).
- si_UNPD(gtm,1998,400984).
- si_UNPD(gtm,1999,401118).
- si_UNPD(gtm,2000,406154).
- si_UNPD(gtm,2001,411106).
- si_UNPD(gtm,2002,409264).
- si_UNPD(gtm,2003,406252).
- si_UNPD(gtm,2004,404259).
- si_UNPD(gtm,2005,400462).
- si_UNPD(gtm,2006,398396).
- si_UNPD(gtm,2007,400490).
- si_UNPD(gtm,2008,398030).
- si_UNPD(gtm,2009,398938).
- si_UNPD(gtm,2010,400830).
- si_UNPD(gtm,2011,403938).
- si_UNPD(gtm,2012,407582).
- si_UNPD(gtm,2013,406634).
- si_UNPD(gtm,2014,410334).
- si_UNPD(gtm,2015,414042).
- si_UNPD(gtm,2016,416628).
- si_UNPD(gtm,2017,411557).
- si_UNPD(gtm,2018,403834).
- si_UNPD(gtm,2019,391582).
- si_UNPD(gtm,2020,378935).
- si_UNPD(gtm,2021,372146).
- si_UNPD(gtm,2022,372335).
- si_UNPD(gtm,2023,373431).
- si_UNPD(gtm,2024,375341).
- si_UNPD(gtm,2025,375208).
- si_UNPD(gtm,2026,377122).
- si_UNPD(gtm,2027,375439).
- si_UNPD(gtm,2028,375207).
- si_UNPD(gtm,2029,376214).
- si_UNPD(gtm,2030,375783).
+si_UNPD(gtm,1997,381105).
+ si_UNPD(gtm,1998,386399).
+ si_UNPD(gtm,1999,386999).
+ si_UNPD(gtm,2000,392284).
+ si_UNPD(gtm,2001,397493).
+ si_UNPD(gtm,2002,396130).
+ si_UNPD(gtm,2003,393618).
+ si_UNPD(gtm,2004,392074).
+ si_UNPD(gtm,2005,388635).
+ si_UNPD(gtm,2006,387122).
+ si_UNPD(gtm,2007,389517).
+ si_UNPD(gtm,2008,387471).
+ si_UNPD(gtm,2009,388715).
+ si_UNPD(gtm,2010,390891).
+ si_UNPD(gtm,2011,394263).
+ si_UNPD(gtm,2012,398169).
+ si_UNPD(gtm,2013,397570).
+ si_UNPD(gtm,2014,401498).
+ si_UNPD(gtm,2015,405404).
+ si_UNPD(gtm,2016,408229).
+ si_UNPD(gtm,2017,403546).
+ si_UNPD(gtm,2018,396241).
+ si_UNPD(gtm,2019,384493).
+ si_UNPD(gtm,2020,372306).
+ si_UNPD(gtm,2021,365842).
+ si_UNPD(gtm,2022,365758).
+ si_UNPD(gtm,2023,366570).
+ si_UNPD(gtm,2024,369534).
+ si_UNPD(gtm,2025,369574).
+ si_UNPD(gtm,2026,371618).
+ si_UNPD(gtm,2027,370112).
+ si_UNPD(gtm,2028,370034).
+ si_UNPD(gtm,2029,371178).
+ si_UNPD(gtm,2030,370889).
 
 survey_results(gtm,pol3,1998,gtm1999211,[title:'Guatemala Maternal and Child Health Survey 1998-1999',type:'21',yrcoll:'1998',cr:68,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:848], 56).
 

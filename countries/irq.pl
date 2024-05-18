@@ -1,8 +1,8 @@
 %  Iraq - IRQ 
-%  Wed Sep 06 18:51:18 2023 
+%  Fri May 17 12:06:25 2024 
 
 country(irq,'Iraq'). 
-date('Wed Sep 06 18:51:18 2023').
+date('Fri May 17 12:06:25 2024').
 
 estimate_required(irq,bcg,1997,na,'na').
  estimate_required(irq,bcg,1998,na,'na').
@@ -1369,40 +1369,40 @@ births_UNPD(irq,1997,834525).
  births_UNPD(irq,2029,1298371).
  births_UNPD(irq,2030,1315984).
 
-si_UNPD(irq,1997,834525).
- si_UNPD(irq,1998,853238).
- si_UNPD(irq,1999,873199).
- si_UNPD(irq,2000,891409).
- si_UNPD(irq,2001,905480).
- si_UNPD(irq,2002,915658).
- si_UNPD(irq,2003,936534).
- si_UNPD(irq,2004,962517).
- si_UNPD(irq,2005,975190).
- si_UNPD(irq,2006,997787).
- si_UNPD(irq,2007,976259).
- si_UNPD(irq,2008,971626).
- si_UNPD(irq,2009,1019478).
- si_UNPD(irq,2010,1070845).
- si_UNPD(irq,2011,1131949).
- si_UNPD(irq,2012,1158752).
- si_UNPD(irq,2013,1191996).
- si_UNPD(irq,2014,1215610).
- si_UNPD(irq,2015,1192944).
- si_UNPD(irq,2016,1168384).
- si_UNPD(irq,2017,1145887).
- si_UNPD(irq,2018,1153939).
- si_UNPD(irq,2019,1167607).
- si_UNPD(irq,2020,1179335).
- si_UNPD(irq,2021,1192345).
- si_UNPD(irq,2022,1203188).
- si_UNPD(irq,2023,1216097).
- si_UNPD(irq,2024,1225578).
- si_UNPD(irq,2025,1240380).
- si_UNPD(irq,2026,1252833).
- si_UNPD(irq,2027,1263818).
- si_UNPD(irq,2028,1281195).
- si_UNPD(irq,2029,1298371).
- si_UNPD(irq,2030,1315984).
+si_UNPD(irq,1997,807692).
+ si_UNPD(irq,1998,826419).
+ si_UNPD(irq,1999,846179).
+ si_UNPD(irq,2000,864298).
+ si_UNPD(irq,2001,878399).
+ si_UNPD(irq,2002,888726).
+ si_UNPD(irq,2003,909462).
+ si_UNPD(irq,2004,935167).
+ si_UNPD(irq,2005,947980).
+ si_UNPD(irq,2006,970483).
+ si_UNPD(irq,2007,950113).
+ si_UNPD(irq,2008,946189).
+ si_UNPD(irq,2009,993379).
+ si_UNPD(irq,2010,1044074).
+ si_UNPD(irq,2011,1104437).
+ si_UNPD(irq,2012,1131351).
+ si_UNPD(irq,2013,1164407).
+ si_UNPD(irq,2014,1188486).
+ si_UNPD(irq,2015,1166987).
+ si_UNPD(irq,2016,1143755).
+ si_UNPD(irq,2017,1122401).
+ si_UNPD(irq,2018,1130885).
+ si_UNPD(irq,2019,1144875).
+ si_UNPD(irq,2020,1157092).
+ si_UNPD(irq,2021,1170541).
+ si_UNPD(irq,2022,1183936).
+ si_UNPD(irq,2023,1194618).
+ si_UNPD(irq,2024,1204320).
+ si_UNPD(irq,2025,1219267).
+ si_UNPD(irq,2026,1231918).
+ si_UNPD(irq,2027,1243093).
+ si_UNPD(irq,2028,1260580).
+ si_UNPD(irq,2029,1277870).
+ si_UNPD(irq,2030,1295571).
 
 survey_results(irq,dtp1,1999,irq2000231,[title:'Iraq Multiple Indicator Cluster Survey 2000',type:'23',yrcoll:'2000',cr:78,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:434], 93).
 

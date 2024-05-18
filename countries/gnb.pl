@@ -1,8 +1,8 @@
 %  Guinea-Bissau - GNB 
-%  Wed Sep 06 18:48:11 2023 
+%  Fri May 17 12:03:26 2024 
 
 country(gnb,'Guinea-Bissau'). 
-date('Wed Sep 06 18:48:11 2023').
+date('Fri May 17 12:03:26 2024').
 
 estimate_required(gnb,bcg,1997,na,'na').
  estimate_required(gnb,bcg,1998,na,'na').
@@ -1123,40 +1123,40 @@ births_UNPD(gnb,1997,50580).
  births_UNPD(gnb,2029,68210).
  births_UNPD(gnb,2030,68811).
 
-si_UNPD(gnb,1997,50580).
- si_UNPD(gnb,1998,51132).
- si_UNPD(gnb,1999,51721).
- si_UNPD(gnb,2000,52459).
- si_UNPD(gnb,2001,53115).
- si_UNPD(gnb,2002,54462).
- si_UNPD(gnb,2003,55446).
- si_UNPD(gnb,2004,56225).
- si_UNPD(gnb,2005,57169).
- si_UNPD(gnb,2006,58117).
- si_UNPD(gnb,2007,59432).
- si_UNPD(gnb,2008,59612).
- si_UNPD(gnb,2009,59773).
- si_UNPD(gnb,2010,60273).
- si_UNPD(gnb,2011,61675).
- si_UNPD(gnb,2012,62749).
- si_UNPD(gnb,2013,63631).
- si_UNPD(gnb,2014,63609).
- si_UNPD(gnb,2015,63567).
- si_UNPD(gnb,2016,63320).
- si_UNPD(gnb,2017,62588).
- si_UNPD(gnb,2018,62889).
- si_UNPD(gnb,2019,63263).
- si_UNPD(gnb,2020,63738).
- si_UNPD(gnb,2021,64086).
- si_UNPD(gnb,2022,64479).
- si_UNPD(gnb,2023,64777).
- si_UNPD(gnb,2024,65299).
- si_UNPD(gnb,2025,65981).
- si_UNPD(gnb,2026,66446).
- si_UNPD(gnb,2027,67017).
- si_UNPD(gnb,2028,67699).
- si_UNPD(gnb,2029,68210).
- si_UNPD(gnb,2030,68811).
+si_UNPD(gnb,1997,46547).
+ si_UNPD(gnb,1998,47210).
+ si_UNPD(gnb,1999,47816).
+ si_UNPD(gnb,2000,48623).
+ si_UNPD(gnb,2001,49333).
+ si_UNPD(gnb,2002,50691).
+ si_UNPD(gnb,2003,51724).
+ si_UNPD(gnb,2004,52572).
+ si_UNPD(gnb,2005,53553).
+ si_UNPD(gnb,2006,54599).
+ si_UNPD(gnb,2007,55969).
+ si_UNPD(gnb,2008,56256).
+ si_UNPD(gnb,2009,56529).
+ si_UNPD(gnb,2010,57086).
+ si_UNPD(gnb,2011,58499).
+ si_UNPD(gnb,2012,59599).
+ si_UNPD(gnb,2013,60518).
+ si_UNPD(gnb,2014,60570).
+ si_UNPD(gnb,2015,60600).
+ si_UNPD(gnb,2016,60431).
+ si_UNPD(gnb,2017,59798).
+ si_UNPD(gnb,2018,60146).
+ si_UNPD(gnb,2019,60567).
+ si_UNPD(gnb,2020,61083).
+ si_UNPD(gnb,2021,61475).
+ si_UNPD(gnb,2022,61890).
+ si_UNPD(gnb,2023,62141).
+ si_UNPD(gnb,2024,62699).
+ si_UNPD(gnb,2025,63387).
+ si_UNPD(gnb,2026,63869).
+ si_UNPD(gnb,2027,64453).
+ si_UNPD(gnb,2028,65144).
+ si_UNPD(gnb,2029,65669).
+ si_UNPD(gnb,2030,66281).
 
 survey_results(gnb,pol1,1999,gnb2000231,[title:'Multiple Indicator Cluster Survey Guinea Bissau, 2000',type:'23',yrcoll:'2000',cr:63,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:1119], 33).
 

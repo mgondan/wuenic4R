@@ -1,8 +1,8 @@
 %  Colombia - COL 
-%  Wed Sep 06 18:42:48 2023 
+%  Fri May 17 11:58:22 2024 
 
 country(col,'Colombia'). 
-date('Wed Sep 06 18:42:48 2023').
+date('Fri May 17 11:58:22 2024').
 
 estimate_required(col,bcg,1997,na,'na').
  estimate_required(col,bcg,1998,na,'na').
@@ -1705,40 +1705,40 @@ births_UNPD(col,1997,885195).
  births_UNPD(col,2029,661864).
  births_UNPD(col,2030,653804).
 
-si_UNPD(col,1997,885195).
- si_UNPD(col,1998,879217).
- si_UNPD(col,1999,874245).
- si_UNPD(col,2000,867516).
- si_UNPD(col,2001,859788).
- si_UNPD(col,2002,850588).
- si_UNPD(col,2003,839623).
- si_UNPD(col,2004,827013).
- si_UNPD(col,2005,813688).
- si_UNPD(col,2006,799623).
- si_UNPD(col,2007,787414).
- si_UNPD(col,2008,776110).
- si_UNPD(col,2009,765905).
- si_UNPD(col,2010,758072).
- si_UNPD(col,2011,752881).
- si_UNPD(col,2012,748734).
- si_UNPD(col,2013,744381).
- si_UNPD(col,2014,739615).
- si_UNPD(col,2015,734664).
- si_UNPD(col,2016,730565).
- si_UNPD(col,2017,726008).
- si_UNPD(col,2018,727649).
- si_UNPD(col,2019,733940).
- si_UNPD(col,2020,733491).
- si_UNPD(col,2021,730203).
- si_UNPD(col,2022,723264).
- si_UNPD(col,2023,714422).
- si_UNPD(col,2024,703054).
- si_UNPD(col,2025,692906).
- si_UNPD(col,2026,683569).
- si_UNPD(col,2027,676170).
- si_UNPD(col,2028,667710).
- si_UNPD(col,2029,661864).
- si_UNPD(col,2030,653804).
+si_UNPD(col,1997,866977).
+ si_UNPD(col,1998,861680).
+ si_UNPD(col,1999,857314).
+ si_UNPD(col,2000,851290).
+ si_UNPD(col,2001,844108).
+ si_UNPD(col,2002,835651).
+ si_UNPD(col,2003,825350).
+ si_UNPD(col,2004,813366).
+ si_UNPD(col,2005,800646).
+ si_UNPD(col,2006,787198).
+ si_UNPD(col,2007,775543).
+ si_UNPD(col,2008,764806).
+ si_UNPD(col,2009,755110).
+ si_UNPD(col,2010,747681).
+ si_UNPD(col,2011,742885).
+ si_UNPD(col,2012,739171).
+ si_UNPD(col,2013,735204).
+ si_UNPD(col,2014,730785).
+ si_UNPD(col,2015,726176).
+ si_UNPD(col,2016,722402).
+ si_UNPD(col,2017,718136).
+ si_UNPD(col,2018,720031).
+ si_UNPD(col,2019,726503).
+ si_UNPD(col,2020,726305).
+ si_UNPD(col,2021,723229).
+ si_UNPD(col,2022,716393).
+ si_UNPD(col,2023,707951).
+ si_UNPD(col,2024,696916).
+ si_UNPD(col,2025,687030).
+ si_UNPD(col,2026,677945).
+ si_UNPD(col,2027,670769).
+ si_UNPD(col,2028,662537).
+ si_UNPD(col,2029,656888).
+ si_UNPD(col,2030,649033).
 
 survey_results(col,pol1,1999,col2000141,[title:'Colombia Demographic and Health Survey 2000',type:'14',yrcoll:'2000',cr:75,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:890], 74).
 

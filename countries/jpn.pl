@@ -1,8 +1,8 @@
 %  Japan - JPN 
-%  Wed Sep 06 18:52:12 2023 
+%  Fri May 17 12:07:15 2024 
 
 country(jpn,'Japan'). 
-date('Wed Sep 06 18:52:12 2023').
+date('Fri May 17 12:07:15 2024').
 
 estimate_required(jpn,bcg,2007,na,'na').
  estimate_required(jpn,bcg,2008,na,'na').
@@ -946,40 +946,40 @@ births_UNPD(jpn,1997,1210386).
  births_UNPD(jpn,2029,815430).
  births_UNPD(jpn,2030,814714).
 
-si_UNPD(jpn,1997,1210386).
- si_UNPD(jpn,1998,1211319).
- si_UNPD(jpn,1999,1191573).
- si_UNPD(jpn,2000,1217577).
- si_UNPD(jpn,2001,1187011).
- si_UNPD(jpn,2002,1172365).
- si_UNPD(jpn,2003,1142034).
- si_UNPD(jpn,2004,1128391).
- si_UNPD(jpn,2005,1102137).
- si_UNPD(jpn,2006,1122960).
- si_UNPD(jpn,2007,1124190).
- si_UNPD(jpn,2008,1125048).
- si_UNPD(jpn,2009,1104950).
- si_UNPD(jpn,2010,1095286).
- si_UNPD(jpn,2011,1072936).
- si_UNPD(jpn,2012,1063425).
- si_UNPD(jpn,2013,1055041).
- si_UNPD(jpn,2014,1027950).
- si_UNPD(jpn,2015,1020821).
- si_UNPD(jpn,2016,990949).
- si_UNPD(jpn,2017,917160).
- si_UNPD(jpn,2018,885105).
- si_UNPD(jpn,2019,837463).
- si_UNPD(jpn,2020,827602).
- si_UNPD(jpn,2021,818509).
- si_UNPD(jpn,2022,814705).
- si_UNPD(jpn,2023,813751).
- si_UNPD(jpn,2024,815536).
- si_UNPD(jpn,2025,811241).
- si_UNPD(jpn,2026,814263).
- si_UNPD(jpn,2027,816057).
- si_UNPD(jpn,2028,815366).
- si_UNPD(jpn,2029,815430).
- si_UNPD(jpn,2030,814714).
+si_UNPD(jpn,1997,1206574).
+ si_UNPD(jpn,1998,1207506).
+ si_UNPD(jpn,1999,1188122).
+ si_UNPD(jpn,2000,1214151).
+ si_UNPD(jpn,2001,1183875).
+ si_UNPD(jpn,2002,1169344).
+ si_UNPD(jpn,2003,1139128).
+ si_UNPD(jpn,2004,1125668).
+ si_UNPD(jpn,2005,1099542).
+ si_UNPD(jpn,2006,1120376).
+ si_UNPD(jpn,2007,1121685).
+ si_UNPD(jpn,2008,1122567).
+ si_UNPD(jpn,2009,1102694).
+ si_UNPD(jpn,2010,1093103).
+ si_UNPD(jpn,2011,1070779).
+ si_UNPD(jpn,2012,1061408).
+ si_UNPD(jpn,2013,1053115).
+ si_UNPD(jpn,2014,1026123).
+ si_UNPD(jpn,2015,1019115).
+ si_UNPD(jpn,2016,989263).
+ si_UNPD(jpn,2017,915715).
+ si_UNPD(jpn,2018,883684).
+ si_UNPD(jpn,2019,836129).
+ si_UNPD(jpn,2020,826352).
+ si_UNPD(jpn,2021,817283).
+ si_UNPD(jpn,2022,813535).
+ si_UNPD(jpn,2023,812611).
+ si_UNPD(jpn,2024,814422).
+ si_UNPD(jpn,2025,810158).
+ si_UNPD(jpn,2026,813204).
+ si_UNPD(jpn,2027,815019).
+ si_UNPD(jpn,2028,814354).
+ si_UNPD(jpn,2029,814441).
+ si_UNPD(jpn,2030,813748).
 
 wgd(jpn,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,88,_,na).
  wgd(jpn,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,70,_,na).

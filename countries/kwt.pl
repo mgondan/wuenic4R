@@ -1,8 +1,8 @@
 %  Kuwait - KWT 
-%  Wed Sep 06 18:53:52 2023 
+%  Fri May 17 12:08:47 2024 
 
 country(kwt,'Kuwait'). 
-date('Wed Sep 06 18:53:52 2023').
+date('Fri May 17 12:08:47 2024').
 
 estimate_required(kwt,bcg,2006,na,'na').
  estimate_required(kwt,bcg,2007,na,'na').
@@ -1161,40 +1161,40 @@ births_UNPD(kwt,1997,40795).
  births_UNPD(kwt,2029,39725).
  births_UNPD(kwt,2030,40649).
 
-si_UNPD(kwt,1997,40795).
- si_UNPD(kwt,1998,40706).
- si_UNPD(kwt,1999,40856).
- si_UNPD(kwt,2000,41618).
- si_UNPD(kwt,2001,42943).
- si_UNPD(kwt,2002,44318).
- si_UNPD(kwt,2003,46031).
- si_UNPD(kwt,2004,47590).
- si_UNPD(kwt,2005,48688).
- si_UNPD(kwt,2006,51103).
- si_UNPD(kwt,2007,53951).
- si_UNPD(kwt,2008,56544).
- si_UNPD(kwt,2009,59149).
- si_UNPD(kwt,2010,61450).
- si_UNPD(kwt,2011,63863).
- si_UNPD(kwt,2012,66113).
- si_UNPD(kwt,2013,67912).
- si_UNPD(kwt,2014,69377).
- si_UNPD(kwt,2015,63845).
- si_UNPD(kwt,2016,60579).
- si_UNPD(kwt,2017,58329).
- si_UNPD(kwt,2018,57053).
- si_UNPD(kwt,2019,55174).
- si_UNPD(kwt,2020,52942).
- si_UNPD(kwt,2021,44412).
- si_UNPD(kwt,2022,41456).
- si_UNPD(kwt,2023,39901).
- si_UNPD(kwt,2024,38934).
- si_UNPD(kwt,2025,38317).
- si_UNPD(kwt,2026,38289).
- si_UNPD(kwt,2027,38346).
- si_UNPD(kwt,2028,38876).
- si_UNPD(kwt,2029,39725).
- si_UNPD(kwt,2030,40649).
+si_UNPD(kwt,1997,40386).
+ si_UNPD(kwt,1998,40309).
+ si_UNPD(kwt,1999,40468).
+ si_UNPD(kwt,2000,41234).
+ si_UNPD(kwt,2001,42554).
+ si_UNPD(kwt,2002,43923).
+ si_UNPD(kwt,2003,45628).
+ si_UNPD(kwt,2004,47180).
+ si_UNPD(kwt,2005,48275).
+ si_UNPD(kwt,2006,50676).
+ si_UNPD(kwt,2007,53506).
+ si_UNPD(kwt,2008,56086).
+ si_UNPD(kwt,2009,58680).
+ si_UNPD(kwt,2010,60977).
+ si_UNPD(kwt,2011,63390).
+ si_UNPD(kwt,2012,65644).
+ si_UNPD(kwt,2013,67449).
+ si_UNPD(kwt,2014,68918).
+ si_UNPD(kwt,2015,63430).
+ si_UNPD(kwt,2016,60190).
+ si_UNPD(kwt,2017,57955).
+ si_UNPD(kwt,2018,56685).
+ si_UNPD(kwt,2019,54815).
+ si_UNPD(kwt,2020,52595).
+ si_UNPD(kwt,2021,44119).
+ si_UNPD(kwt,2022,41217).
+ si_UNPD(kwt,2023,39680).
+ si_UNPD(kwt,2024,38726).
+ si_UNPD(kwt,2025,38120).
+ si_UNPD(kwt,2026,38101).
+ si_UNPD(kwt,2027,38165).
+ si_UNPD(kwt,2028,38699).
+ si_UNPD(kwt,2029,39551).
+ si_UNPD(kwt,2030,40477).
 
 survey_results(kwt,pol3,1997,kwt1998161,[title:'Vaccine Assessment in State of Kuwait 1999, documentation not available',type:'16',yrcoll:'1998',cr:73,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0], 99).
 

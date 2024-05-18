@@ -1,8 +1,8 @@
 %  Algeria - DZA 
-%  Wed Sep 06 18:44:51 2023 
+%  Fri May 17 12:00:18 2024 
 
 country(dza,'Algeria'). 
-date('Wed Sep 06 18:44:51 2023').
+date('Fri May 17 12:00:18 2024').
 
 estimate_required(dza,bcg,1997,na,'na').
  estimate_required(dza,bcg,1998,na,'na').
@@ -1141,40 +1141,40 @@ births_UNPD(dza,1997,623072).
  births_UNPD(dza,2029,778830).
  births_UNPD(dza,2030,771542).
 
-si_UNPD(dza,1997,623072).
- si_UNPD(dza,1998,598945).
- si_UNPD(dza,1999,597324).
- si_UNPD(dza,2000,601641).
- si_UNPD(dza,2001,606613).
- si_UNPD(dza,2002,614591).
- si_UNPD(dza,2003,640386).
- si_UNPD(dza,2004,668185).
- si_UNPD(dza,2005,698990).
- si_UNPD(dza,2006,730551).
- si_UNPD(dza,2007,770485).
- si_UNPD(dza,2008,810140).
- si_UNPD(dza,2009,847255).
- si_UNPD(dza,2010,877676).
- si_UNPD(dza,2011,907559).
- si_UNPD(dza,2012,946579).
- si_UNPD(dza,2013,959572).
- si_UNPD(dza,2014,985393).
- si_UNPD(dza,2015,1005272).
- si_UNPD(dza,2016,1015743).
- si_UNPD(dza,2017,1018808).
- si_UNPD(dza,2018,1009713).
- si_UNPD(dza,2019,995239).
- si_UNPD(dza,2020,974703).
- si_UNPD(dza,2021,950888).
- si_UNPD(dza,2022,923648).
- si_UNPD(dza,2023,895418).
- si_UNPD(dza,2024,869364).
- si_UNPD(dza,2025,845541).
- si_UNPD(dza,2026,823688).
- si_UNPD(dza,2027,806611).
- si_UNPD(dza,2028,790186).
- si_UNPD(dza,2029,778830).
- si_UNPD(dza,2030,771542).
+si_UNPD(dza,1997,605005).
+ si_UNPD(dza,1998,581803).
+ si_UNPD(dza,1999,580387).
+ si_UNPD(dza,2000,584744).
+ si_UNPD(dza,2001,589703).
+ si_UNPD(dza,2002,597994).
+ si_UNPD(dza,2003,623527).
+ si_UNPD(dza,2004,651252).
+ si_UNPD(dza,2005,681911).
+ si_UNPD(dza,2006,713352).
+ si_UNPD(dza,2007,752977).
+ si_UNPD(dza,2008,792375).
+ si_UNPD(dza,2009,829297).
+ si_UNPD(dza,2010,859620).
+ si_UNPD(dza,2011,889331).
+ si_UNPD(dza,2012,927939).
+ si_UNPD(dza,2013,940971).
+ si_UNPD(dza,2014,966519).
+ si_UNPD(dza,2015,986247).
+ si_UNPD(dza,2016,996817).
+ si_UNPD(dza,2017,1000182).
+ si_UNPD(dza,2018,991640).
+ si_UNPD(dza,2019,977837).
+ si_UNPD(dza,2020,958076).
+ si_UNPD(dza,2021,935085).
+ si_UNPD(dza,2022,910050).
+ si_UNPD(dza,2023,882766).
+ si_UNPD(dza,2024,857575).
+ si_UNPD(dza,2025,834517).
+ si_UNPD(dza,2026,813384).
+ si_UNPD(dza,2027,796923).
+ si_UNPD(dza,2028,781080).
+ si_UNPD(dza,2029,770199).
+ si_UNPD(dza,2030,763283).
 
 survey_results(dza,mcv1,1999,dza2000231,[title:'Algeria Multiple Indicator Cluster Survey 2000',type:'23',yrcoll:'2000',cr: 93,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:837], 94.2).
 

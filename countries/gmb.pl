@@ -1,8 +1,8 @@
 %  Gambia - GMB 
-%  Wed Sep 06 18:47:59 2023 
+%  Fri May 17 12:03:15 2024 
 
 country(gmb,'Gambia'). 
-date('Wed Sep 06 18:47:59 2023').
+date('Fri May 17 12:03:15 2024').
 
 estimate_required(gmb,bcg,1997,na,'na').
  estimate_required(gmb,bcg,1998,na,'na').
@@ -1489,40 +1489,40 @@ births_UNPD(gmb,1997,58168).
  births_UNPD(gmb,2029,93664).
  births_UNPD(gmb,2030,94419).
 
-si_UNPD(gmb,1997,58168).
- si_UNPD(gmb,1998,59877).
- si_UNPD(gmb,1999,60986).
- si_UNPD(gmb,2000,62130).
- si_UNPD(gmb,2001,63614).
- si_UNPD(gmb,2002,64839).
- si_UNPD(gmb,2003,66290).
- si_UNPD(gmb,2004,68137).
- si_UNPD(gmb,2005,70058).
- si_UNPD(gmb,2006,72591).
- si_UNPD(gmb,2007,74350).
- si_UNPD(gmb,2008,76091).
- si_UNPD(gmb,2009,77957).
- si_UNPD(gmb,2010,79665).
- si_UNPD(gmb,2011,81379).
- si_UNPD(gmb,2012,82788).
- si_UNPD(gmb,2013,83780).
- si_UNPD(gmb,2014,84309).
- si_UNPD(gmb,2015,84732).
- si_UNPD(gmb,2016,84854).
- si_UNPD(gmb,2017,85183).
- si_UNPD(gmb,2018,85459).
- si_UNPD(gmb,2019,86087).
- si_UNPD(gmb,2020,86835).
- si_UNPD(gmb,2021,87840).
- si_UNPD(gmb,2022,88535).
- si_UNPD(gmb,2023,89518).
- si_UNPD(gmb,2024,90217).
- si_UNPD(gmb,2025,91141).
- si_UNPD(gmb,2026,91824).
- si_UNPD(gmb,2027,92338).
- si_UNPD(gmb,2028,92748).
- si_UNPD(gmb,2029,93664).
- si_UNPD(gmb,2030,94419).
+si_UNPD(gmb,1997,55132).
+ si_UNPD(gmb,1998,56834).
+ si_UNPD(gmb,1999,57949).
+ si_UNPD(gmb,2000,59124).
+ si_UNPD(gmb,2001,60614).
+ si_UNPD(gmb,2002,61863).
+ si_UNPD(gmb,2003,63329).
+ si_UNPD(gmb,2004,65177).
+ si_UNPD(gmb,2005,67095).
+ si_UNPD(gmb,2006,69614).
+ si_UNPD(gmb,2007,71388).
+ si_UNPD(gmb,2008,73148).
+ si_UNPD(gmb,2009,75028).
+ si_UNPD(gmb,2010,76759).
+ si_UNPD(gmb,2011,78500).
+ si_UNPD(gmb,2012,79943).
+ si_UNPD(gmb,2013,80984).
+ si_UNPD(gmb,2014,81578).
+ si_UNPD(gmb,2015,82070).
+ si_UNPD(gmb,2016,82265).
+ si_UNPD(gmb,2017,82659).
+ si_UNPD(gmb,2018,83000).
+ si_UNPD(gmb,2019,83677).
+ si_UNPD(gmb,2020,84469).
+ si_UNPD(gmb,2021,85508).
+ si_UNPD(gmb,2022,86361).
+ si_UNPD(gmb,2023,87416).
+ si_UNPD(gmb,2024,88079).
+ si_UNPD(gmb,2025,88858).
+ si_UNPD(gmb,2026,89560).
+ si_UNPD(gmb,2027,90096).
+ si_UNPD(gmb,2028,90530).
+ si_UNPD(gmb,2029,91457).
+ si_UNPD(gmb,2030,92227).
 
 survey_results(gmb,pol1,1999,gmb2000231,[title:'The Gambia 2000 Multiple Indicator Cluster Survey',type:'23',yrcoll:'2000',cr: 91,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:835], 97.2).
 

@@ -1,8 +1,8 @@
 %  Liberia - LBR 
-%  Wed Sep 06 18:54:23 2023 
+%  Fri May 17 12:09:18 2024 
 
 country(lbr,'Liberia'). 
-date('Wed Sep 06 18:54:23 2023').
+date('Fri May 17 12:09:18 2024').
 
 estimate_required(lbr,bcg,1999,na,'na').
  estimate_required(lbr,bcg,2000,na,'na').
@@ -1215,40 +1215,40 @@ births_UNPD(lbr,1997,99559).
  births_UNPD(lbr,2029,179087).
  births_UNPD(lbr,2030,181355).
 
-si_UNPD(lbr,1997,99559).
- si_UNPD(lbr,1998,114668).
- si_UNPD(lbr,1999,121782).
- si_UNPD(lbr,2000,126317).
- si_UNPD(lbr,2001,128201).
- si_UNPD(lbr,2002,130026).
- si_UNPD(lbr,2003,130974).
- si_UNPD(lbr,2004,129496).
- si_UNPD(lbr,2005,133431).
- si_UNPD(lbr,2006,141238).
- si_UNPD(lbr,2007,147134).
- si_UNPD(lbr,2008,150548).
- si_UNPD(lbr,2009,152049).
- si_UNPD(lbr,2010,153011).
- si_UNPD(lbr,2011,154647).
- si_UNPD(lbr,2012,162129).
- si_UNPD(lbr,2013,160385).
- si_UNPD(lbr,2014,158978).
- si_UNPD(lbr,2015,158069).
- si_UNPD(lbr,2016,159119).
- si_UNPD(lbr,2017,159429).
- si_UNPD(lbr,2018,160303).
- si_UNPD(lbr,2019,160753).
- si_UNPD(lbr,2020,161486).
- si_UNPD(lbr,2021,162685).
- si_UNPD(lbr,2022,164452).
- si_UNPD(lbr,2023,166979).
- si_UNPD(lbr,2024,169153).
- si_UNPD(lbr,2025,171399).
- si_UNPD(lbr,2026,173760).
- si_UNPD(lbr,2027,175391).
- si_UNPD(lbr,2028,178075).
- si_UNPD(lbr,2029,179087).
- si_UNPD(lbr,2030,181355).
+si_UNPD(lbr,1997,88991).
+ si_UNPD(lbr,1998,103046).
+ si_UNPD(lbr,1999,110060).
+ si_UNPD(lbr,2000,114823).
+ si_UNPD(lbr,2001,117240).
+ si_UNPD(lbr,2002,119620).
+ si_UNPD(lbr,2003,120979).
+ si_UNPD(lbr,2004,120464).
+ si_UNPD(lbr,2005,124714).
+ si_UNPD(lbr,2006,132551).
+ si_UNPD(lbr,2007,138547).
+ si_UNPD(lbr,2008,142154).
+ si_UNPD(lbr,2009,143814).
+ si_UNPD(lbr,2010,144895).
+ si_UNPD(lbr,2011,146588).
+ si_UNPD(lbr,2012,153810).
+ si_UNPD(lbr,2013,152270).
+ si_UNPD(lbr,2014,150940).
+ si_UNPD(lbr,2015,150160).
+ si_UNPD(lbr,2016,151371).
+ si_UNPD(lbr,2017,151775).
+ si_UNPD(lbr,2018,152716).
+ si_UNPD(lbr,2019,153262).
+ si_UNPD(lbr,2020,154094).
+ si_UNPD(lbr,2021,155385).
+ si_UNPD(lbr,2022,157137).
+ si_UNPD(lbr,2023,159677).
+ si_UNPD(lbr,2024,161875).
+ si_UNPD(lbr,2025,164141).
+ si_UNPD(lbr,2026,166524).
+ si_UNPD(lbr,2027,168205).
+ si_UNPD(lbr,2028,170897).
+ si_UNPD(lbr,2029,171987).
+ si_UNPD(lbr,2030,174281).
 
 survey_results(lbr,mcv1,1999,lbr2000141,[title:'Liberia National Nutrition Survey 1999-2000, 2001',type:'14',yrcoll:'1999',cr:27,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:1000], 50).
 

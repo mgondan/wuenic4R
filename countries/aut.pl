@@ -1,8 +1,8 @@
 %  Austria - AUT 
-%  Wed Sep 06 18:37:16 2023 
+%  Fri May 17 11:53:33 2024 
 
 country(aut,'Austria'). 
-date('Wed Sep 06 18:37:16 2023').
+date('Fri May 17 11:53:33 2024').
 
 estimate_required(aut,dtp1,1997,na,'na').
  estimate_required(aut,dtp1,1998,na,'na').
@@ -849,40 +849,40 @@ births_UNPD(aut,1997,84075).
  births_UNPD(aut,2029,79563).
  births_UNPD(aut,2030,78588).
 
-si_UNPD(aut,1997,84075).
- si_UNPD(aut,1998,81119).
- si_UNPD(aut,1999,78059).
- si_UNPD(aut,2000,77772).
- si_UNPD(aut,2001,75404).
- si_UNPD(aut,2002,77477).
- si_UNPD(aut,2003,76515).
- si_UNPD(aut,2004,78187).
- si_UNPD(aut,2005,77691).
- si_UNPD(aut,2006,77517).
- si_UNPD(aut,2007,76004).
- si_UNPD(aut,2008,77176).
- si_UNPD(aut,2009,76298).
- si_UNPD(aut,2010,78061).
- si_UNPD(aut,2011,77842).
- si_UNPD(aut,2012,78392).
- si_UNPD(aut,2013,78867).
- si_UNPD(aut,2014,80985).
- si_UNPD(aut,2015,83521).
- si_UNPD(aut,2016,86827).
- si_UNPD(aut,2017,87092).
- si_UNPD(aut,2018,85281).
- si_UNPD(aut,2019,84744).
- si_UNPD(aut,2020,83345).
- si_UNPD(aut,2021,84647).
- si_UNPD(aut,2022,84394).
- si_UNPD(aut,2023,84132).
- si_UNPD(aut,2024,83373).
- si_UNPD(aut,2025,83176).
- si_UNPD(aut,2026,82455).
- si_UNPD(aut,2027,81543).
- si_UNPD(aut,2028,80634).
- si_UNPD(aut,2029,79563).
- si_UNPD(aut,2030,78588).
+si_UNPD(aut,1997,83747).
+ si_UNPD(aut,1998,80782).
+ si_UNPD(aut,1999,77774).
+ si_UNPD(aut,2000,77453).
+ si_UNPD(aut,2001,75096).
+ si_UNPD(aut,2002,77198).
+ si_UNPD(aut,2003,76224).
+ si_UNPD(aut,2004,77881).
+ si_UNPD(aut,2005,77414).
+ si_UNPD(aut,2006,77277).
+ si_UNPD(aut,2007,75766).
+ si_UNPD(aut,2008,76928).
+ si_UNPD(aut,2009,76051).
+ si_UNPD(aut,2010,77794).
+ si_UNPD(aut,2011,77603).
+ si_UNPD(aut,2012,78174).
+ si_UNPD(aut,2013,78655).
+ si_UNPD(aut,2014,80768).
+ si_UNPD(aut,2015,83296).
+ si_UNPD(aut,2016,86591).
+ si_UNPD(aut,2017,86873).
+ si_UNPD(aut,2018,85084).
+ si_UNPD(aut,2019,84527).
+ si_UNPD(aut,2020,83136).
+ si_UNPD(aut,2021,84439).
+ si_UNPD(aut,2022,84214).
+ si_UNPD(aut,2023,83959).
+ si_UNPD(aut,2024,83208).
+ si_UNPD(aut,2025,83017).
+ si_UNPD(aut,2026,82302).
+ si_UNPD(aut,2027,81397).
+ si_UNPD(aut,2028,80495).
+ si_UNPD(aut,2029,79430).
+ si_UNPD(aut,2030,78461).
 
 wgd(aut,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).
  wgd(aut,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,90,_,na).

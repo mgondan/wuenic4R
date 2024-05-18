@@ -1,8 +1,8 @@
 %  Brazil - BRA 
-%  Wed Sep 06 18:39:53 2023 
+%  Fri May 17 11:56:01 2024 
 
 country(bra,'Brazil'). 
-date('Wed Sep 06 18:39:53 2023').
+date('Fri May 17 11:56:01 2024').
 
 estimate_required(bra,bcg,1997,na,'na').
  estimate_required(bra,bcg,1998,na,'na').
@@ -1706,40 +1706,40 @@ births_UNPD(bra,1997,3620076).
  births_UNPD(bra,2029,2571891).
  births_UNPD(bra,2030,2564251).
 
-si_UNPD(bra,1997,3620076).
- si_UNPD(bra,1998,3602190).
- si_UNPD(bra,1999,3546785).
- si_UNPD(bra,2000,3489128).
- si_UNPD(bra,2001,3433869).
- si_UNPD(bra,2002,3351520).
- si_UNPD(bra,2003,3259436).
- si_UNPD(bra,2004,3257137).
- si_UNPD(bra,2005,3238499).
- si_UNPD(bra,2006,3182010).
- si_UNPD(bra,2007,3123429).
- si_UNPD(bra,2008,3071834).
- si_UNPD(bra,2009,3057083).
- si_UNPD(bra,2010,3041789).
- si_UNPD(bra,2011,3033630).
- si_UNPD(bra,2012,2986828).
- si_UNPD(bra,2013,2962857).
- si_UNPD(bra,2014,3001591).
- si_UNPD(bra,2015,3021946).
- si_UNPD(bra,2016,2905301).
- si_UNPD(bra,2017,2952133).
- si_UNPD(bra,2018,2969862).
- si_UNPD(bra,2019,2886359).
- si_UNPD(bra,2020,2787294).
- si_UNPD(bra,2021,2760958).
- si_UNPD(bra,2022,2723266).
- si_UNPD(bra,2023,2699785).
- si_UNPD(bra,2024,2676826).
- si_UNPD(bra,2025,2658092).
- si_UNPD(bra,2026,2649944).
- si_UNPD(bra,2027,2617828).
- si_UNPD(bra,2028,2598402).
- si_UNPD(bra,2029,2571891).
- si_UNPD(bra,2030,2564251).
+si_UNPD(bra,1997,3509050).
+ si_UNPD(bra,1998,3497389).
+ si_UNPD(bra,1999,3448961).
+ si_UNPD(bra,2000,3397962).
+ si_UNPD(bra,2001,3349018).
+ si_UNPD(bra,2002,3273357).
+ si_UNPD(bra,2003,3187714).
+ si_UNPD(bra,2004,3189597).
+ si_UNPD(bra,2005,3175550).
+ si_UNPD(bra,2006,3124106).
+ si_UNPD(bra,2007,3070026).
+ si_UNPD(bra,2008,3022268).
+ si_UNPD(bra,2009,3010340).
+ si_UNPD(bra,2010,2997442).
+ si_UNPD(bra,2011,2991128).
+ si_UNPD(bra,2012,2946626).
+ si_UNPD(bra,2013,2924200).
+ si_UNPD(bra,2014,2963436).
+ si_UNPD(bra,2015,2984375).
+ si_UNPD(bra,2016,2869852).
+ si_UNPD(bra,2017,2916616).
+ si_UNPD(bra,2018,2934678).
+ si_UNPD(bra,2019,2852706).
+ si_UNPD(bra,2020,2755362).
+ si_UNPD(bra,2021,2729876).
+ si_UNPD(bra,2022,2694048).
+ si_UNPD(bra,2023,2675508).
+ si_UNPD(bra,2024,2653768).
+ si_UNPD(bra,2025,2636159).
+ si_UNPD(bra,2026,2629059).
+ si_UNPD(bra,2027,2597945).
+ si_UNPD(bra,2028,2579405).
+ si_UNPD(bra,2029,2553772).
+ si_UNPD(bra,2030,2546851).
 
 wgd(bra,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(bra,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).

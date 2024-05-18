@@ -1,8 +1,8 @@
 %  Panama - PAN 
-%  Wed Sep 06 19:01:19 2023 
+%  Fri May 17 12:15:55 2024 
 
 country(pan,'Panama'). 
-date('Wed Sep 06 19:01:19 2023').
+date('Fri May 17 12:15:55 2024').
 
 estimate_required(pan,bcg,1997,na,'na').
  estimate_required(pan,bcg,1998,na,'na').
@@ -1573,40 +1573,40 @@ births_UNPD(pan,1997,68964).
  births_UNPD(pan,2029,76746).
  births_UNPD(pan,2030,76762).
 
-si_UNPD(pan,1997,68964).
- si_UNPD(pan,1998,69618).
- si_UNPD(pan,1999,70189).
- si_UNPD(pan,2000,70627).
- si_UNPD(pan,2001,71169).
- si_UNPD(pan,2002,71596).
- si_UNPD(pan,2003,72150).
- si_UNPD(pan,2004,73561).
- si_UNPD(pan,2005,73788).
- si_UNPD(pan,2006,73958).
- si_UNPD(pan,2007,74740).
- si_UNPD(pan,2008,75663).
- si_UNPD(pan,2009,76120).
- si_UNPD(pan,2010,76646).
- si_UNPD(pan,2011,78206).
- si_UNPD(pan,2012,79288).
- si_UNPD(pan,2013,79271).
- si_UNPD(pan,2014,79497).
- si_UNPD(pan,2015,79495).
- si_UNPD(pan,2016,79220).
- si_UNPD(pan,2017,79014).
- si_UNPD(pan,2018,78255).
- si_UNPD(pan,2019,77044).
- si_UNPD(pan,2020,76898).
- si_UNPD(pan,2021,76933).
- si_UNPD(pan,2022,76637).
- si_UNPD(pan,2023,76640).
- si_UNPD(pan,2024,76804).
- si_UNPD(pan,2025,76822).
- si_UNPD(pan,2026,76894).
- si_UNPD(pan,2027,76871).
- si_UNPD(pan,2028,76862).
- si_UNPD(pan,2029,76746).
- si_UNPD(pan,2030,76762).
+si_UNPD(pan,1997,67512).
+ si_UNPD(pan,1998,68184).
+ si_UNPD(pan,1999,68774).
+ si_UNPD(pan,2000,69239).
+ si_UNPD(pan,2001,69807).
+ si_UNPD(pan,2002,70262).
+ si_UNPD(pan,2003,70845).
+ si_UNPD(pan,2004,72267).
+ si_UNPD(pan,2005,72531).
+ si_UNPD(pan,2006,72734).
+ si_UNPD(pan,2007,73540).
+ si_UNPD(pan,2008,74475).
+ si_UNPD(pan,2009,74961).
+ si_UNPD(pan,2010,75503).
+ si_UNPD(pan,2011,77068).
+ si_UNPD(pan,2012,78158).
+ si_UNPD(pan,2013,78168).
+ si_UNPD(pan,2014,78415).
+ si_UNPD(pan,2015,78441).
+ si_UNPD(pan,2016,78195).
+ si_UNPD(pan,2017,78017).
+ si_UNPD(pan,2018,77293).
+ si_UNPD(pan,2019,76120).
+ si_UNPD(pan,2020,75991).
+ si_UNPD(pan,2021,76053).
+ si_UNPD(pan,2022,75783).
+ si_UNPD(pan,2023,75780).
+ si_UNPD(pan,2024,75966).
+ si_UNPD(pan,2025,76005).
+ si_UNPD(pan,2026,76099).
+ si_UNPD(pan,2027,76099).
+ si_UNPD(pan,2028,76112).
+ si_UNPD(pan,2029,76018).
+ si_UNPD(pan,2030,76054).
 
 wgd(pan,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(pan,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).

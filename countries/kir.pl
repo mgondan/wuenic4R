@@ -1,8 +1,8 @@
 %  Kiribati - KIR 
-%  Wed Sep 06 18:53:19 2023 
+%  Fri May 17 12:08:17 2024 
 
 country(kir,'Kiribati'). 
-date('Wed Sep 06 18:53:19 2023').
+date('Fri May 17 12:08:17 2024').
 
 estimate_required(kir,bcg,1997,na,'na').
  estimate_required(kir,bcg,1998,na,'na').
@@ -1242,40 +1242,40 @@ births_UNPD(kir,1997,2782).
  births_UNPD(kir,2029,3444).
  births_UNPD(kir,2030,3429).
 
-si_UNPD(kir,1997,2782).
- si_UNPD(kir,1998,2777).
- si_UNPD(kir,1999,2756).
- si_UNPD(kir,2000,2735).
- si_UNPD(kir,2001,2708).
- si_UNPD(kir,2002,2684).
- si_UNPD(kir,2003,2668).
- si_UNPD(kir,2004,2753).
- si_UNPD(kir,2005,2833).
- si_UNPD(kir,2006,2934).
- si_UNPD(kir,2007,3055).
- si_UNPD(kir,2008,3168).
- si_UNPD(kir,2009,3249).
- si_UNPD(kir,2010,3335).
- si_UNPD(kir,2011,3419).
- si_UNPD(kir,2012,3424).
- si_UNPD(kir,2013,3422).
- si_UNPD(kir,2014,3412).
- si_UNPD(kir,2015,3419).
- si_UNPD(kir,2016,3433).
- si_UNPD(kir,2017,3456).
- si_UNPD(kir,2018,3491).
- si_UNPD(kir,2019,3497).
- si_UNPD(kir,2020,3500).
- si_UNPD(kir,2021,3510).
- si_UNPD(kir,2022,3512).
- si_UNPD(kir,2023,3495).
- si_UNPD(kir,2024,3480).
- si_UNPD(kir,2025,3466).
- si_UNPD(kir,2026,3462).
- si_UNPD(kir,2027,3458).
- si_UNPD(kir,2028,3444).
- si_UNPD(kir,2029,3444).
- si_UNPD(kir,2030,3429).
+si_UNPD(kir,1997,2659).
+ si_UNPD(kir,1998,2657).
+ si_UNPD(kir,1999,2639).
+ si_UNPD(kir,2000,2621).
+ si_UNPD(kir,2001,2597).
+ si_UNPD(kir,2002,2575).
+ si_UNPD(kir,2003,2560).
+ si_UNPD(kir,2004,2642).
+ si_UNPD(kir,2005,2719).
+ si_UNPD(kir,2006,2815).
+ si_UNPD(kir,2007,2931).
+ si_UNPD(kir,2008,3039).
+ si_UNPD(kir,2009,3117).
+ si_UNPD(kir,2010,3201).
+ si_UNPD(kir,2011,3283).
+ si_UNPD(kir,2012,3290).
+ si_UNPD(kir,2013,3290).
+ si_UNPD(kir,2014,3283).
+ si_UNPD(kir,2015,3292).
+ si_UNPD(kir,2016,3308).
+ si_UNPD(kir,2017,3333).
+ si_UNPD(kir,2018,3369).
+ si_UNPD(kir,2019,3378).
+ si_UNPD(kir,2020,3384).
+ si_UNPD(kir,2021,3396).
+ si_UNPD(kir,2022,3400).
+ si_UNPD(kir,2023,3386).
+ si_UNPD(kir,2024,3374).
+ si_UNPD(kir,2025,3363).
+ si_UNPD(kir,2026,3362).
+ si_UNPD(kir,2027,3360).
+ si_UNPD(kir,2028,3349).
+ si_UNPD(kir,2029,3351).
+ si_UNPD(kir,2030,3338).
 
 survey_results(kir,hib3,2008,kir2009141,[title:'Kiribati Demographic and Health Survey 2009',type:'14',yrcoll:'2009',cr:22,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:181],48).
 

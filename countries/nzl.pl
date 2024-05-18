@@ -1,8 +1,8 @@
 %  New Zealand - NZL 
-%  Wed Sep 06 19:00:48 2023 
+%  Fri May 17 12:15:26 2024 
 
 country(nzl,'New Zealand'). 
-date('Wed Sep 06 19:00:48 2023').
+date('Fri May 17 12:15:26 2024').
 
 estimate_required(nzl,dtp1,1997,na,'na').
  estimate_required(nzl,dtp1,1998,na,'na').
@@ -1099,40 +1099,40 @@ births_UNPD(nzl,1997,57095).
  births_UNPD(nzl,2029,61753).
  births_UNPD(nzl,2030,61450).
 
-si_UNPD(nzl,1997,57095).
- si_UNPD(nzl,1998,55319).
- si_UNPD(nzl,1999,56895).
- si_UNPD(nzl,2000,56547).
- si_UNPD(nzl,2001,55549).
- si_UNPD(nzl,2002,53590).
- si_UNPD(nzl,2003,55396).
- si_UNPD(nzl,2004,57363).
- si_UNPD(nzl,2005,57289).
- si_UNPD(nzl,2006,58800).
- si_UNPD(nzl,2007,63475).
- si_UNPD(nzl,2008,64003).
- si_UNPD(nzl,2009,62334).
- si_UNPD(nzl,2010,63355).
- si_UNPD(nzl,2011,61271).
- si_UNPD(nzl,2012,60979).
- si_UNPD(nzl,2013,58360).
- si_UNPD(nzl,2014,56737).
- si_UNPD(nzl,2015,59977).
- si_UNPD(nzl,2016,58476).
- si_UNPD(nzl,2017,60564).
- si_UNPD(nzl,2018,56905).
- si_UNPD(nzl,2019,63079).
- si_UNPD(nzl,2020,63130).
- si_UNPD(nzl,2021,63557).
- si_UNPD(nzl,2022,64103).
- si_UNPD(nzl,2023,64118).
- si_UNPD(nzl,2024,63805).
- si_UNPD(nzl,2025,63615).
- si_UNPD(nzl,2026,63383).
- si_UNPD(nzl,2027,62695).
- si_UNPD(nzl,2028,62233).
- si_UNPD(nzl,2029,61753).
- si_UNPD(nzl,2030,61450).
+si_UNPD(nzl,1997,56770).
+ si_UNPD(nzl,1998,55067).
+ si_UNPD(nzl,1999,56617).
+ si_UNPD(nzl,2000,56247).
+ si_UNPD(nzl,2001,55293).
+ si_UNPD(nzl,2002,53341).
+ si_UNPD(nzl,2003,55160).
+ si_UNPD(nzl,2004,57086).
+ si_UNPD(nzl,2005,57031).
+ si_UNPD(nzl,2006,58539).
+ si_UNPD(nzl,2007,63199).
+ si_UNPD(nzl,2008,63749).
+ si_UNPD(nzl,2009,62076).
+ si_UNPD(nzl,2010,63080).
+ si_UNPD(nzl,2011,61031).
+ si_UNPD(nzl,2012,60761).
+ si_UNPD(nzl,2013,58145).
+ si_UNPD(nzl,2014,56506).
+ si_UNPD(nzl,2015,59748).
+ si_UNPD(nzl,2016,58281).
+ si_UNPD(nzl,2017,60375).
+ si_UNPD(nzl,2018,56712).
+ si_UNPD(nzl,2019,62871).
+ si_UNPD(nzl,2020,62927).
+ si_UNPD(nzl,2021,63341).
+ si_UNPD(nzl,2022,63911).
+ si_UNPD(nzl,2023,63930).
+ si_UNPD(nzl,2024,63622).
+ si_UNPD(nzl,2025,63437).
+ si_UNPD(nzl,2026,63209).
+ si_UNPD(nzl,2027,62527).
+ si_UNPD(nzl,2028,62070).
+ si_UNPD(nzl,2029,61594).
+ si_UNPD(nzl,2030,61295).
 
 wgd(nzl,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(nzl,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,86,_,na).

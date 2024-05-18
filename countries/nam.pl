@@ -1,8 +1,8 @@
 %  Namibia - NAM 
-%  Wed Sep 06 18:58:56 2023 
+%  Fri May 17 12:13:37 2024 
 
 country(nam,'Namibia'). 
-date('Wed Sep 06 18:58:56 2023').
+date('Fri May 17 12:13:37 2024').
 
 estimate_required(nam,bcg,1997,na,'na').
  estimate_required(nam,bcg,1998,na,'na').
@@ -1123,40 +1123,40 @@ births_UNPD(nam,1997,55143).
  births_UNPD(nam,2029,69277).
  births_UNPD(nam,2030,69334).
 
-si_UNPD(nam,1997,55143).
- si_UNPD(nam,1998,56446).
- si_UNPD(nam,1999,57293).
- si_UNPD(nam,2000,57037).
- si_UNPD(nam,2001,56361).
- si_UNPD(nam,2002,56077).
- si_UNPD(nam,2003,55982).
- si_UNPD(nam,2004,56374).
- si_UNPD(nam,2005,57065).
- si_UNPD(nam,2006,57754).
- si_UNPD(nam,2007,59063).
- si_UNPD(nam,2008,60753).
- si_UNPD(nam,2009,62421).
- si_UNPD(nam,2010,64014).
- si_UNPD(nam,2011,65777).
- si_UNPD(nam,2012,67459).
- si_UNPD(nam,2013,68215).
- si_UNPD(nam,2014,69037).
- si_UNPD(nam,2015,69517).
- si_UNPD(nam,2016,69953).
- si_UNPD(nam,2017,69888).
- si_UNPD(nam,2018,69909).
- si_UNPD(nam,2019,69686).
- si_UNPD(nam,2020,69444).
- si_UNPD(nam,2021,69486).
- si_UNPD(nam,2022,69157).
- si_UNPD(nam,2023,69215).
- si_UNPD(nam,2024,69037).
- si_UNPD(nam,2025,68964).
- si_UNPD(nam,2026,68892).
- si_UNPD(nam,2027,69182).
- si_UNPD(nam,2028,69005).
- si_UNPD(nam,2029,69277).
- si_UNPD(nam,2030,69334).
+si_UNPD(nam,1997,52970).
+ si_UNPD(nam,1998,54201).
+ si_UNPD(nam,1999,55003).
+ si_UNPD(nam,2000,54758).
+ si_UNPD(nam,2001,54113).
+ si_UNPD(nam,2002,53859).
+ si_UNPD(nam,2003,53774).
+ si_UNPD(nam,2004,54152).
+ si_UNPD(nam,2005,54893).
+ si_UNPD(nam,2006,55667).
+ si_UNPD(nam,2007,57035).
+ si_UNPD(nam,2008,58801).
+ si_UNPD(nam,2009,60501).
+ si_UNPD(nam,2010,62135).
+ si_UNPD(nam,2011,63831).
+ si_UNPD(nam,2012,65441).
+ si_UNPD(nam,2013,66215).
+ si_UNPD(nam,2014,67050).
+ si_UNPD(nam,2015,67522).
+ si_UNPD(nam,2016,67991).
+ si_UNPD(nam,2017,67978).
+ si_UNPD(nam,2018,68028).
+ si_UNPD(nam,2019,67877).
+ si_UNPD(nam,2020,67701).
+ si_UNPD(nam,2021,67796).
+ si_UNPD(nam,2022,67362).
+ si_UNPD(nam,2023,67323).
+ si_UNPD(nam,2024,67392).
+ si_UNPD(nam,2025,67343).
+ si_UNPD(nam,2026,67292).
+ si_UNPD(nam,2027,67598).
+ si_UNPD(nam,2028,67447).
+ si_UNPD(nam,2029,67733).
+ si_UNPD(nam,2030,67808).
 
 survey_results(nam,pol1,1999,nam2000141,[title:'NA',type:'14',yrcoll:'2000',cr:74,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:816], 20).
 

@@ -1,8 +1,8 @@
 %  Republic of Moldova - MDA 
-%  Wed Sep 06 18:56:04 2023 
+%  Fri May 17 12:10:55 2024 
 
 country(mda,'Republic of Moldova'). 
-date('Wed Sep 06 18:56:04 2023').
+date('Fri May 17 12:10:55 2024').
 
 estimate_required(mda,bcg,1997,na,'na').
  estimate_required(mda,bcg,1998,na,'na').
@@ -1462,40 +1462,40 @@ births_UNPD(mda,1997,57896).
  births_UNPD(mda,2029,36154).
  births_UNPD(mda,2030,35521).
 
-si_UNPD(mda,1997,57896).
- si_UNPD(mda,1998,54489).
- si_UNPD(mda,1999,51644).
- si_UNPD(mda,2000,49804).
- si_UNPD(mda,2001,48605).
- si_UNPD(mda,2002,47645).
- si_UNPD(mda,2003,49037).
- si_UNPD(mda,2004,51090).
- si_UNPD(mda,2005,50770).
- si_UNPD(mda,2006,51055).
- si_UNPD(mda,2007,51661).
- si_UNPD(mda,2008,53018).
- si_UNPD(mda,2009,54292).
- si_UNPD(mda,2010,53080).
- si_UNPD(mda,2011,50459).
- si_UNPD(mda,2012,48840).
- si_UNPD(mda,2013,47046).
- si_UNPD(mda,2014,49925).
- si_UNPD(mda,2015,49270).
- si_UNPD(mda,2016,47979).
- si_UNPD(mda,2017,44192).
- si_UNPD(mda,2018,42468).
- si_UNPD(mda,2019,40266).
- si_UNPD(mda,2020,38584).
- si_UNPD(mda,2021,38146).
- si_UNPD(mda,2022,36943).
- si_UNPD(mda,2023,49667).
- si_UNPD(mda,2024,45320).
- si_UNPD(mda,2025,41838).
- si_UNPD(mda,2026,39217).
- si_UNPD(mda,2027,37832).
- si_UNPD(mda,2028,36799).
- si_UNPD(mda,2029,36154).
- si_UNPD(mda,2030,35521).
+si_UNPD(mda,1997,56328).
+ si_UNPD(mda,1998,53064).
+ si_UNPD(mda,1999,50364).
+ si_UNPD(mda,2000,48655).
+ si_UNPD(mda,2001,47574).
+ si_UNPD(mda,2002,46726).
+ si_UNPD(mda,2003,48180).
+ si_UNPD(mda,2004,50268).
+ si_UNPD(mda,2005,50007).
+ si_UNPD(mda,2006,50327).
+ si_UNPD(mda,2007,50952).
+ si_UNPD(mda,2008,52310).
+ si_UNPD(mda,2009,53582).
+ si_UNPD(mda,2010,52399).
+ si_UNPD(mda,2011,49823).
+ si_UNPD(mda,2012,48235).
+ si_UNPD(mda,2013,46473).
+ si_UNPD(mda,2014,49328).
+ si_UNPD(mda,2015,48690).
+ si_UNPD(mda,2016,47423).
+ si_UNPD(mda,2017,43688).
+ si_UNPD(mda,2018,41991).
+ si_UNPD(mda,2019,39822).
+ si_UNPD(mda,2020,38166).
+ si_UNPD(mda,2021,37740).
+ si_UNPD(mda,2022,36541).
+ si_UNPD(mda,2023,49151).
+ si_UNPD(mda,2024,44963).
+ si_UNPD(mda,2025,41518).
+ si_UNPD(mda,2026,38927).
+ si_UNPD(mda,2027,37560).
+ si_UNPD(mda,2028,36544).
+ si_UNPD(mda,2029,35911).
+ si_UNPD(mda,2030,35290).
 
 survey_results(mda,hepb3,1999,mda2000231,[title:'NA',type:'23',yrcoll:'2000',cr: 94,confirm:'card or history',age:'15-26 m',timead:'',val:'crude',ss:342], 90).
 

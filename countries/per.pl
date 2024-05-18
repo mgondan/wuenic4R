@@ -1,8 +1,8 @@
 %  Peru - PER 
-%  Wed Sep 06 19:01:34 2023 
+%  Fri May 17 12:16:10 2024 
 
 country(per,'Peru'). 
-date('Wed Sep 06 19:01:34 2023').
+date('Fri May 17 12:16:10 2024').
 
 estimate_required(per,bcg,1997,na,'na').
  estimate_required(per,bcg,1998,na,'na').
@@ -1616,40 +1616,40 @@ births_UNPD(per,1997,646054).
  births_UNPD(per,2029,569527).
  births_UNPD(per,2030,566809).
 
-si_UNPD(per,1997,646054).
- si_UNPD(per,1998,640417).
- si_UNPD(per,1999,636064).
- si_UNPD(per,2000,633322).
- si_UNPD(per,2001,620232).
- si_UNPD(per,2002,616261).
- si_UNPD(per,2003,615508).
- si_UNPD(per,2004,623674).
- si_UNPD(per,2005,631197).
- si_UNPD(per,2006,634801).
- si_UNPD(per,2007,632563).
- si_UNPD(per,2008,626301).
- si_UNPD(per,2009,623635).
- si_UNPD(per,2010,617632).
- si_UNPD(per,2011,613180).
- si_UNPD(per,2012,602813).
- si_UNPD(per,2013,592938).
- si_UNPD(per,2014,584699).
- si_UNPD(per,2015,577568).
- si_UNPD(per,2016,575208).
- si_UNPD(per,2017,576461).
- si_UNPD(per,2018,579697).
- si_UNPD(per,2019,591025).
- si_UNPD(per,2020,593207).
- si_UNPD(per,2021,593523).
- si_UNPD(per,2022,592156).
- si_UNPD(per,2023,588886).
- si_UNPD(per,2024,583908).
- si_UNPD(per,2025,579726).
- si_UNPD(per,2026,577184).
- si_UNPD(per,2027,573296).
- si_UNPD(per,2028,571853).
- si_UNPD(per,2029,569527).
- si_UNPD(per,2030,566809).
+si_UNPD(per,1997,626050).
+ si_UNPD(per,1998,621706).
+ si_UNPD(per,1999,618635).
+ si_UNPD(per,2000,617284).
+ si_UNPD(per,2001,605509).
+ si_UNPD(per,2002,602522).
+ si_UNPD(per,2003,602604).
+ si_UNPD(per,2004,611390).
+ si_UNPD(per,2005,619545).
+ si_UNPD(per,2006,623791).
+ si_UNPD(per,2007,622210).
+ si_UNPD(per,2008,616646).
+ si_UNPD(per,2009,614531).
+ si_UNPD(per,2010,609061).
+ si_UNPD(per,2011,605107).
+ si_UNPD(per,2012,595233).
+ si_UNPD(per,2013,585813).
+ si_UNPD(per,2014,577979).
+ si_UNPD(per,2015,571211).
+ si_UNPD(per,2016,569139).
+ si_UNPD(per,2017,570595).
+ si_UNPD(per,2018,574067).
+ si_UNPD(per,2019,585495).
+ si_UNPD(per,2020,587870).
+ si_UNPD(per,2021,588365).
+ si_UNPD(per,2022,587155).
+ si_UNPD(per,2023,584131).
+ si_UNPD(per,2024,579373).
+ si_UNPD(per,2025,575380).
+ si_UNPD(per,2026,573003).
+ si_UNPD(per,2027,569281).
+ si_UNPD(per,2028,567962).
+ si_UNPD(per,2029,565760).
+ si_UNPD(per,2030,563167).
 
 survey_results(per,pol1,1999,per2000141,[title:'NA',type:'14',yrcoll:'2000',cr:58,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:2353], 96).
 

@@ -1,8 +1,8 @@
 %  Comoros - COM 
-%  Wed Sep 06 18:42:57 2023 
+%  Fri May 17 11:58:30 2024 
 
 country(com,'Comoros'). 
-date('Wed Sep 06 18:42:57 2023').
+date('Fri May 17 11:58:30 2024').
 
 estimate_required(com,bcg,1997,na,'na').
  estimate_required(com,bcg,1998,na,'na').
@@ -991,40 +991,40 @@ births_UNPD(com,1997,18993).
  births_UNPD(com,2029,24308).
  births_UNPD(com,2030,24308).
 
-si_UNPD(com,1997,18993).
- si_UNPD(com,1998,19164).
- si_UNPD(com,1999,19289).
- si_UNPD(com,2000,19317).
- si_UNPD(com,2001,19488).
- si_UNPD(com,2002,19614).
- si_UNPD(com,2003,19734).
- si_UNPD(com,2004,20142).
- si_UNPD(com,2005,20506).
- si_UNPD(com,2006,20783).
- si_UNPD(com,2007,21064).
- si_UNPD(com,2008,21408).
- si_UNPD(com,2009,21853).
- si_UNPD(com,2010,22298).
- si_UNPD(com,2011,22716).
- si_UNPD(com,2012,22904).
- si_UNPD(com,2013,23108).
- si_UNPD(com,2014,23320).
- si_UNPD(com,2015,23498).
- si_UNPD(com,2016,23717).
- si_UNPD(com,2017,23911).
- si_UNPD(com,2018,24003).
- si_UNPD(com,2019,24092).
- si_UNPD(com,2020,24128).
- si_UNPD(com,2021,24180).
- si_UNPD(com,2022,24201).
- si_UNPD(com,2023,24191).
- si_UNPD(com,2024,24214).
- si_UNPD(com,2025,24216).
- si_UNPD(com,2026,24226).
- si_UNPD(com,2027,24245).
- si_UNPD(com,2028,24245).
- si_UNPD(com,2029,24308).
- si_UNPD(com,2030,24308).
+si_UNPD(com,1997,17980).
+ si_UNPD(com,1998,18144).
+ si_UNPD(com,1999,18272).
+ si_UNPD(com,2000,18300).
+ si_UNPD(com,2001,18468).
+ si_UNPD(com,2002,18586).
+ si_UNPD(com,2003,18705).
+ si_UNPD(com,2004,19098).
+ si_UNPD(com,2005,19455).
+ si_UNPD(com,2006,19731).
+ si_UNPD(com,2007,20013).
+ si_UNPD(com,2008,20359).
+ si_UNPD(com,2009,20800).
+ si_UNPD(com,2010,21243).
+ si_UNPD(com,2011,21663).
+ si_UNPD(com,2012,21862).
+ si_UNPD(com,2013,22079).
+ si_UNPD(com,2014,22301).
+ si_UNPD(com,2015,22492).
+ si_UNPD(com,2016,22725).
+ si_UNPD(com,2017,22932).
+ si_UNPD(com,2018,23043).
+ si_UNPD(com,2019,23151).
+ si_UNPD(com,2020,23208).
+ si_UNPD(com,2021,23279).
+ si_UNPD(com,2022,23300).
+ si_UNPD(com,2023,23325).
+ si_UNPD(com,2024,23366).
+ si_UNPD(com,2025,23386).
+ si_UNPD(com,2026,23414).
+ si_UNPD(com,2027,23450).
+ si_UNPD(com,2028,23467).
+ si_UNPD(com,2029,23544).
+ si_UNPD(com,2030,23561).
 
 survey_results(com,dtp1,1999,com2000231,[title:'Comoros Multiple Indicator Cluster Survey 2000',type:'23',yrcoll:'2000',cr:71,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:956], 73).
 

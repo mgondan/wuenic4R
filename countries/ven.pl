@@ -1,8 +1,8 @@
 %  Venezuela (Bolivarian Republic of) - VEN 
-%  Wed Sep 06 19:11:21 2023 
+%  Fri May 17 12:25:51 2024 
 
 country(ven,'Venezuela (Bolivarian Republic of)'). 
-date('Wed Sep 06 19:11:21 2023').
+date('Fri May 17 12:25:51 2024').
 
 estimate_required(ven,bcg,1997,na,'na').
  estimate_required(ven,bcg,1998,na,'na').
@@ -1622,40 +1622,40 @@ births_UNPD(ven,1997,575771).
  births_UNPD(ven,2029,528576).
  births_UNPD(ven,2030,532741).
 
-si_UNPD(ven,1997,575771).
- si_UNPD(ven,1998,578179).
- si_UNPD(ven,1999,581742).
- si_UNPD(ven,2000,583868).
- si_UNPD(ven,2001,585491).
- si_UNPD(ven,2002,587961).
- si_UNPD(ven,2003,589684).
- si_UNPD(ven,2004,592327).
- si_UNPD(ven,2005,595864).
- si_UNPD(ven,2006,598207).
- si_UNPD(ven,2007,598922).
- si_UNPD(ven,2008,599178).
- si_UNPD(ven,2009,598737).
- si_UNPD(ven,2010,597976).
- si_UNPD(ven,2011,596017).
- si_UNPD(ven,2012,594156).
- si_UNPD(ven,2013,592164).
- si_UNPD(ven,2014,589574).
- si_UNPD(ven,2015,586927).
- si_UNPD(ven,2016,583617).
- si_UNPD(ven,2017,573013).
- si_UNPD(ven,2018,543836).
- si_UNPD(ven,2019,497361).
- si_UNPD(ven,2020,466065).
- si_UNPD(ven,2021,451855).
- si_UNPD(ven,2022,438384).
- si_UNPD(ven,2023,454898).
- si_UNPD(ven,2024,470929).
- si_UNPD(ven,2025,487173).
- si_UNPD(ven,2026,501107).
- si_UNPD(ven,2027,512799).
- si_UNPD(ven,2028,521890).
- si_UNPD(ven,2029,528576).
- si_UNPD(ven,2030,532741).
+si_UNPD(ven,1997,565235).
+ si_UNPD(ven,1998,568059).
+ si_UNPD(ven,1999,571789).
+ si_UNPD(ven,2000,574461).
+ si_UNPD(ven,2001,576354).
+ si_UNPD(ven,2002,579028).
+ si_UNPD(ven,2003,580978).
+ si_UNPD(ven,2004,583863).
+ si_UNPD(ven,2005,587628).
+ si_UNPD(ven,2006,590222).
+ si_UNPD(ven,2007,591133).
+ si_UNPD(ven,2008,591514).
+ si_UNPD(ven,2009,591127).
+ si_UNPD(ven,2010,590359).
+ si_UNPD(ven,2011,588386).
+ si_UNPD(ven,2012,586475).
+ si_UNPD(ven,2013,584383).
+ si_UNPD(ven,2014,581658).
+ si_UNPD(ven,2015,578891).
+ si_UNPD(ven,2016,575537).
+ si_UNPD(ven,2017,565023).
+ si_UNPD(ven,2018,536251).
+ si_UNPD(ven,2019,490445).
+ si_UNPD(ven,2020,459591).
+ si_UNPD(ven,2021,445578).
+ si_UNPD(ven,2022,432686).
+ si_UNPD(ven,2023,449458).
+ si_UNPD(ven,2024,465512).
+ si_UNPD(ven,2025,481779).
+ si_UNPD(ven,2026,495782).
+ si_UNPD(ven,2027,507551).
+ si_UNPD(ven,2028,516752).
+ si_UNPD(ven,2029,523575).
+ si_UNPD(ven,2030,527847).
 
 survey_results(ven,pol3,1999,ven2000231,[title:'Venezuela Multiple Indicator Cluster Survey 2000',type:'23',yrcoll:'2000',cr:0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0],40).
 

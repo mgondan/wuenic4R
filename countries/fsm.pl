@@ -1,8 +1,8 @@
 %  Micronesia (Federated States of ) - FSM 
-%  Wed Sep 06 18:46:58 2023 
+%  Fri May 17 12:02:18 2024 
 
 country(fsm,'Micronesia (Federated States of )'). 
-date('Wed Sep 06 18:46:58 2023').
+date('Fri May 17 12:02:18 2024').
 
 estimate_required(fsm,bcg,1997,na,'na').
  estimate_required(fsm,bcg,1998,na,'na').
@@ -1458,40 +1458,40 @@ births_UNPD(fsm,1997,3646).
  births_UNPD(fsm,2029,2442).
  births_UNPD(fsm,2030,2433).
 
-si_UNPD(fsm,1997,3646).
- si_UNPD(fsm,1998,3642).
- si_UNPD(fsm,1999,3605).
- si_UNPD(fsm,2000,3556).
- si_UNPD(fsm,2001,3441).
- si_UNPD(fsm,2002,3313).
- si_UNPD(fsm,2003,3210).
- si_UNPD(fsm,2004,3124).
- si_UNPD(fsm,2005,3034).
- si_UNPD(fsm,2006,2925).
- si_UNPD(fsm,2007,2826).
- si_UNPD(fsm,2008,2737).
- si_UNPD(fsm,2009,2656).
- si_UNPD(fsm,2010,2570).
- si_UNPD(fsm,2011,2545).
- si_UNPD(fsm,2012,2505).
- si_UNPD(fsm,2013,2478).
- si_UNPD(fsm,2014,2444).
- si_UNPD(fsm,2015,2408).
- si_UNPD(fsm,2016,2402).
- si_UNPD(fsm,2017,2383).
- si_UNPD(fsm,2018,2365).
- si_UNPD(fsm,2019,2359).
- si_UNPD(fsm,2020,2343).
- si_UNPD(fsm,2021,2357).
- si_UNPD(fsm,2022,2368).
- si_UNPD(fsm,2023,2392).
- si_UNPD(fsm,2024,2400).
- si_UNPD(fsm,2025,2415).
- si_UNPD(fsm,2026,2426).
- si_UNPD(fsm,2027,2439).
- si_UNPD(fsm,2028,2448).
- si_UNPD(fsm,2029,2442).
- si_UNPD(fsm,2030,2433).
+si_UNPD(fsm,1997,3541).
+ si_UNPD(fsm,1998,3540).
+ si_UNPD(fsm,1999,3507).
+ si_UNPD(fsm,2000,3460).
+ si_UNPD(fsm,2001,3352).
+ si_UNPD(fsm,2002,3225).
+ si_UNPD(fsm,2003,3129).
+ si_UNPD(fsm,2004,3046).
+ si_UNPD(fsm,2005,2959).
+ si_UNPD(fsm,2006,2853).
+ si_UNPD(fsm,2007,2756).
+ si_UNPD(fsm,2008,2670).
+ si_UNPD(fsm,2009,2592).
+ si_UNPD(fsm,2010,2509).
+ si_UNPD(fsm,2011,2485).
+ si_UNPD(fsm,2012,2448).
+ si_UNPD(fsm,2013,2423).
+ si_UNPD(fsm,2014,2391).
+ si_UNPD(fsm,2015,2356).
+ si_UNPD(fsm,2016,2352).
+ si_UNPD(fsm,2017,2335).
+ si_UNPD(fsm,2018,2319).
+ si_UNPD(fsm,2019,2315).
+ si_UNPD(fsm,2020,2300).
+ si_UNPD(fsm,2021,2315).
+ si_UNPD(fsm,2022,2328).
+ si_UNPD(fsm,2023,2352).
+ si_UNPD(fsm,2024,2362).
+ si_UNPD(fsm,2025,2378).
+ si_UNPD(fsm,2026,2390).
+ si_UNPD(fsm,2027,2404).
+ si_UNPD(fsm,2028,2414).
+ si_UNPD(fsm,2029,2409).
+ si_UNPD(fsm,2030,2402).
 
 wgd(fsm,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,48,_,na).
  wgd(fsm,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,91,_,na).

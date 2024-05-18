@@ -1,8 +1,8 @@
 %  Sweden - SWE 
-%  Wed Sep 06 19:07:24 2023 
+%  Fri May 17 12:21:37 2024 
 
 country(swe,'Sweden'). 
-date('Wed Sep 06 19:07:24 2023').
+date('Fri May 17 12:21:37 2024').
 
 estimate_required(swe,bcg,1997,na,'na').
  estimate_required(swe,bcg,1998,na,'na').
@@ -717,40 +717,40 @@ births_UNPD(swe,1997,89877).
  births_UNPD(swe,2029,110941).
  births_UNPD(swe,2030,110573).
 
-si_UNPD(swe,1997,89877).
- si_UNPD(swe,1998,88535).
- si_UNPD(swe,1999,87994).
- si_UNPD(swe,2000,90146).
- si_UNPD(swe,2001,91450).
- si_UNPD(swe,2002,95571).
- si_UNPD(swe,2003,98766).
- si_UNPD(swe,2004,100654).
- si_UNPD(swe,2005,101619).
- si_UNPD(swe,2006,105746).
- si_UNPD(swe,2007,107281).
- si_UNPD(swe,2008,108777).
- si_UNPD(swe,2009,110969).
- si_UNPD(swe,2010,114346).
- si_UNPD(swe,2011,111390).
- si_UNPD(swe,2012,112663).
- si_UNPD(swe,2013,113021).
- si_UNPD(swe,2014,114755).
- si_UNPD(swe,2015,115078).
- si_UNPD(swe,2016,117061).
- si_UNPD(swe,2017,115038).
- si_UNPD(swe,2018,114949).
- si_UNPD(swe,2019,114109).
- si_UNPD(swe,2020,112361).
- si_UNPD(swe,2021,113322).
- si_UNPD(swe,2022,114080).
- si_UNPD(swe,2023,113685).
- si_UNPD(swe,2024,113422).
- si_UNPD(swe,2025,112923).
- si_UNPD(swe,2026,112145).
- si_UNPD(swe,2027,111876).
- si_UNPD(swe,2028,111375).
- si_UNPD(swe,2029,110941).
- si_UNPD(swe,2030,110573).
+si_UNPD(swe,1997,89605).
+ si_UNPD(swe,1998,88267).
+ si_UNPD(swe,1999,87742).
+ si_UNPD(swe,2000,89879).
+ si_UNPD(swe,2001,91165).
+ si_UNPD(swe,2002,95298).
+ si_UNPD(swe,2003,98499).
+ si_UNPD(swe,2004,100386).
+ si_UNPD(swe,2005,101408).
+ si_UNPD(swe,2006,105489).
+ si_UNPD(swe,2007,107051).
+ si_UNPD(swe,2008,108545).
+ si_UNPD(swe,2009,110730).
+ si_UNPD(swe,2010,114096).
+ si_UNPD(swe,2011,111193).
+ si_UNPD(swe,2012,112413).
+ si_UNPD(swe,2013,112762).
+ si_UNPD(swe,2014,114541).
+ si_UNPD(swe,2015,114839).
+ si_UNPD(swe,2016,116814).
+ si_UNPD(swe,2017,114807).
+ si_UNPD(swe,2018,114751).
+ si_UNPD(swe,2019,113911).
+ si_UNPD(swe,2020,112137).
+ si_UNPD(swe,2021,113135).
+ si_UNPD(swe,2022,113902).
+ si_UNPD(swe,2023,113513).
+ si_UNPD(swe,2024,113256).
+ si_UNPD(swe,2025,112762).
+ si_UNPD(swe,2026,111990).
+ si_UNPD(swe,2027,111726).
+ si_UNPD(swe,2028,111230).
+ si_UNPD(swe,2029,110800).
+ si_UNPD(swe,2030,110436).
 
 wgd(swe,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,15,_,na).
  wgd(swe,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).

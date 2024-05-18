@@ -1,8 +1,8 @@
 %  São Tomé and Principe - STP 
-%  Wed Sep 06 19:06:51 2023 
+%  Fri May 17 12:21:06 2024 
 
 country(stp,'São Tomé and Principe'). 
-date('Wed Sep 06 19:06:51 2023').
+date('Fri May 17 12:21:06 2024').
 
 estimate_required(stp,bcg,1997,na,'na').
  estimate_required(stp,bcg,1998,na,'na').
@@ -1197,40 +1197,40 @@ births_UNPD(stp,1997,5350).
  births_UNPD(stp,2029,7009).
  births_UNPD(stp,2030,7080).
 
-si_UNPD(stp,1997,5350).
- si_UNPD(stp,1998,5462).
- si_UNPD(stp,1999,5585).
- si_UNPD(stp,2000,5725).
- si_UNPD(stp,2001,5877).
- si_UNPD(stp,2002,5988).
- si_UNPD(stp,2003,6114).
- si_UNPD(stp,2004,6236).
- si_UNPD(stp,2005,6342).
- si_UNPD(stp,2006,6434).
- si_UNPD(stp,2007,6520).
- si_UNPD(stp,2008,6605).
- si_UNPD(stp,2009,6680).
- si_UNPD(stp,2010,6751).
- si_UNPD(stp,2011,6854).
- si_UNPD(stp,2012,6906).
- si_UNPD(stp,2013,6843).
- si_UNPD(stp,2014,6751).
- si_UNPD(stp,2015,6616).
- si_UNPD(stp,2016,6494).
- si_UNPD(stp,2017,6352).
- si_UNPD(stp,2018,6268).
- si_UNPD(stp,2019,6230).
- si_UNPD(stp,2020,6218).
- si_UNPD(stp,2021,6318).
- si_UNPD(stp,2022,6370).
- si_UNPD(stp,2023,6447).
- si_UNPD(stp,2024,6538).
- si_UNPD(stp,2025,6632).
- si_UNPD(stp,2026,6745).
- si_UNPD(stp,2027,6822).
- si_UNPD(stp,2028,6921).
- si_UNPD(stp,2029,7009).
- si_UNPD(stp,2030,7080).
+si_UNPD(stp,1997,5094).
+ si_UNPD(stp,1998,5208).
+ si_UNPD(stp,1999,5334).
+ si_UNPD(stp,2000,5478).
+ si_UNPD(stp,2001,5634).
+ si_UNPD(stp,2002,5753).
+ si_UNPD(stp,2003,5887).
+ si_UNPD(stp,2004,6017).
+ si_UNPD(stp,2005,6130).
+ si_UNPD(stp,2006,6234).
+ si_UNPD(stp,2007,6331).
+ si_UNPD(stp,2008,6426).
+ si_UNPD(stp,2009,6511).
+ si_UNPD(stp,2010,6591).
+ si_UNPD(stp,2011,6703).
+ si_UNPD(stp,2012,6765).
+ si_UNPD(stp,2013,6714).
+ si_UNPD(stp,2014,6635).
+ si_UNPD(stp,2015,6512).
+ si_UNPD(stp,2016,6400).
+ si_UNPD(stp,2017,6267).
+ si_UNPD(stp,2018,6190).
+ si_UNPD(stp,2019,6157).
+ si_UNPD(stp,2020,6149).
+ si_UNPD(stp,2021,6251).
+ si_UNPD(stp,2022,6300).
+ si_UNPD(stp,2023,6377).
+ si_UNPD(stp,2024,6468).
+ si_UNPD(stp,2025,6562).
+ si_UNPD(stp,2026,6675).
+ si_UNPD(stp,2027,6753).
+ si_UNPD(stp,2028,6852).
+ si_UNPD(stp,2029,6940).
+ si_UNPD(stp,2030,7012).
 
 survey_results(stp,dtp1,1999,stp2000231,[title:'Sao Tome and Principe Multiple Indicator Cluster Survey 2000',type:'23',yrcoll:'2000',cr:  0,confirm:'card <12 months',age:'12-23 m',timead:'',val:'crude',ss:0], 97.0).
 

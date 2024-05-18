@@ -1,8 +1,8 @@
 %  Nicaragua - NIC 
-%  Wed Sep 06 18:59:54 2023 
+%  Fri May 17 12:14:34 2024 
 
 country(nic,'Nicaragua'). 
-date('Wed Sep 06 18:59:54 2023').
+date('Fri May 17 12:14:34 2024').
 
 estimate_required(nic,bcg,1997,na,'na').
  estimate_required(nic,bcg,1998,na,'na').
@@ -1350,40 +1350,40 @@ births_UNPD(nic,1997,146684).
  births_UNPD(nic,2029,133561).
  births_UNPD(nic,2030,132624).
 
-si_UNPD(nic,1997,146684).
- si_UNPD(nic,1998,145038).
- si_UNPD(nic,1999,143461).
- si_UNPD(nic,2000,142026).
- si_UNPD(nic,2001,140800).
- si_UNPD(nic,2002,139813).
- si_UNPD(nic,2003,139008).
- si_UNPD(nic,2004,138324).
- si_UNPD(nic,2005,137901).
- si_UNPD(nic,2006,138352).
- si_UNPD(nic,2007,138991).
- si_UNPD(nic,2008,139750).
- si_UNPD(nic,2009,140646).
- si_UNPD(nic,2010,141517).
- si_UNPD(nic,2011,142265).
- si_UNPD(nic,2012,142943).
- si_UNPD(nic,2013,143424).
- si_UNPD(nic,2014,143745).
- si_UNPD(nic,2015,143872).
- si_UNPD(nic,2016,143755).
- si_UNPD(nic,2017,143399).
- si_UNPD(nic,2018,142870).
- si_UNPD(nic,2019,142181).
- si_UNPD(nic,2020,141324).
- si_UNPD(nic,2021,140589).
- si_UNPD(nic,2022,139164).
- si_UNPD(nic,2023,138073).
- si_UNPD(nic,2024,137110).
- si_UNPD(nic,2025,136567).
- si_UNPD(nic,2026,135747).
- si_UNPD(nic,2027,134671).
- si_UNPD(nic,2028,133988).
- si_UNPD(nic,2029,133561).
- si_UNPD(nic,2030,132624).
+si_UNPD(nic,1997,142143).
+ si_UNPD(nic,1998,140482).
+ si_UNPD(nic,1999,139405).
+ si_UNPD(nic,2000,138192).
+ si_UNPD(nic,2001,137163).
+ si_UNPD(nic,2002,136356).
+ si_UNPD(nic,2003,135713).
+ si_UNPD(nic,2004,135177).
+ si_UNPD(nic,2005,134888).
+ si_UNPD(nic,2006,135448).
+ si_UNPD(nic,2007,136170).
+ si_UNPD(nic,2008,137049).
+ si_UNPD(nic,2009,138047).
+ si_UNPD(nic,2010,138995).
+ si_UNPD(nic,2011,139846).
+ si_UNPD(nic,2012,140613).
+ si_UNPD(nic,2013,141177).
+ si_UNPD(nic,2014,141590).
+ si_UNPD(nic,2015,141801).
+ si_UNPD(nic,2016,141768).
+ si_UNPD(nic,2017,141490).
+ si_UNPD(nic,2018,141042).
+ si_UNPD(nic,2019,140428).
+ si_UNPD(nic,2020,139644).
+ si_UNPD(nic,2021,138979).
+ si_UNPD(nic,2022,137669).
+ si_UNPD(nic,2023,136641).
+ si_UNPD(nic,2024,135739).
+ si_UNPD(nic,2025,135250).
+ si_UNPD(nic,2026,134482).
+ si_UNPD(nic,2027,133459).
+ si_UNPD(nic,2028,132825).
+ si_UNPD(nic,2029,132438).
+ si_UNPD(nic,2030,131548).
 
 survey_results(nic,dtp3,1997,nic1998141,[title:'NA',type:'14',yrcoll:'1997',cr:66,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:1486], 80).
 

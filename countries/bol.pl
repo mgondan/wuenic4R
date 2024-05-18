@@ -1,8 +1,8 @@
 %  Bolivia (Plurinational State of) - BOL 
-%  Wed Sep 06 18:39:40 2023 
+%  Fri May 17 11:55:50 2024 
 
 country(bol,'Bolivia (Plurinational State of)'). 
-date('Wed Sep 06 18:39:40 2023').
+date('Fri May 17 11:55:50 2024').
 
 estimate_required(bol,bcg,1997,na,'na').
  estimate_required(bol,bcg,1998,na,'na').
@@ -1402,40 +1402,40 @@ births_UNPD(bol,1997,253619).
  births_UNPD(bol,2029,266289).
  births_UNPD(bol,2030,266744).
 
-si_UNPD(bol,1997,253619).
- si_UNPD(bol,1998,254750).
- si_UNPD(bol,1999,256767).
- si_UNPD(bol,2000,255609).
- si_UNPD(bol,2001,254327).
- si_UNPD(bol,2002,254547).
- si_UNPD(bol,2003,255467).
- si_UNPD(bol,2004,256008).
- si_UNPD(bol,2005,257377).
- si_UNPD(bol,2006,261924).
- si_UNPD(bol,2007,262274).
- si_UNPD(bol,2008,262479).
- si_UNPD(bol,2009,262835).
- si_UNPD(bol,2010,263411).
- si_UNPD(bol,2011,263576).
- si_UNPD(bol,2012,263698).
- si_UNPD(bol,2013,263801).
- si_UNPD(bol,2014,263668).
- si_UNPD(bol,2015,263405).
- si_UNPD(bol,2016,263168).
- si_UNPD(bol,2017,262967).
- si_UNPD(bol,2018,262815).
- si_UNPD(bol,2019,263006).
- si_UNPD(bol,2020,263322).
- si_UNPD(bol,2021,263820).
- si_UNPD(bol,2022,264070).
- si_UNPD(bol,2023,263936).
- si_UNPD(bol,2024,265235).
- si_UNPD(bol,2025,266191).
- si_UNPD(bol,2026,266974).
- si_UNPD(bol,2027,266660).
- si_UNPD(bol,2028,266211).
- si_UNPD(bol,2029,266289).
- si_UNPD(bol,2030,266744).
+si_UNPD(bol,1997,240877).
+ si_UNPD(bol,1998,242379).
+ si_UNPD(bol,1999,244732).
+ si_UNPD(bol,2000,244045).
+ si_UNPD(bol,2001,243227).
+ si_UNPD(bol,2002,243819).
+ si_UNPD(bol,2003,245077).
+ si_UNPD(bol,2004,245953).
+ si_UNPD(bol,2005,247618).
+ si_UNPD(bol,2006,252336).
+ si_UNPD(bol,2007,253020).
+ si_UNPD(bol,2008,253582).
+ si_UNPD(bol,2009,254304).
+ si_UNPD(bol,2010,255220).
+ si_UNPD(bol,2011,255709).
+ si_UNPD(bol,2012,256127).
+ si_UNPD(bol,2013,256453).
+ si_UNPD(bol,2014,256507).
+ si_UNPD(bol,2015,256394).
+ si_UNPD(bol,2016,256280).
+ si_UNPD(bol,2017,256188).
+ si_UNPD(bol,2018,256154).
+ si_UNPD(bol,2019,256465).
+ si_UNPD(bol,2020,256938).
+ si_UNPD(bol,2021,257599).
+ si_UNPD(bol,2022,258219).
+ si_UNPD(bol,2023,258244).
+ si_UNPD(bol,2024,259703).
+ si_UNPD(bol,2025,260843).
+ si_UNPD(bol,2026,261807).
+ si_UNPD(bol,2027,261699).
+ si_UNPD(bol,2028,261440).
+ si_UNPD(bol,2029,261686).
+ si_UNPD(bol,2030,262302).
 
 survey_results(bol,mcv1,1997,bol1998141,[title:'Bolivia Demographic and Health Survey 1998',type:'14',yrcoll:'1998',cr:40,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:1275], 29).
 

@@ -1,8 +1,8 @@
 %  Kenya - KEN 
-%  Wed Sep 06 18:52:31 2023 
+%  Fri May 17 12:07:32 2024 
 
 country(ken,'Kenya'). 
-date('Wed Sep 06 18:52:31 2023').
+date('Fri May 17 12:07:32 2024').
 
 estimate_required(ken,bcg,1997,na,'na').
  estimate_required(ken,bcg,1998,na,'na').
@@ -1308,40 +1308,40 @@ births_UNPD(ken,1997,1138531).
  births_UNPD(ken,2029,1614199).
  births_UNPD(ken,2030,1626292).
 
-si_UNPD(ken,1997,1138531).
- si_UNPD(ken,1998,1174273).
- si_UNPD(ken,1999,1198705).
- si_UNPD(ken,2000,1232209).
- si_UNPD(ken,2001,1270723).
- si_UNPD(ken,2002,1297933).
- si_UNPD(ken,2003,1318185).
- si_UNPD(ken,2004,1347244).
- si_UNPD(ken,2005,1380255).
- si_UNPD(ken,2006,1413926).
- si_UNPD(ken,2007,1449756).
- si_UNPD(ken,2008,1470999).
- si_UNPD(ken,2009,1475773).
- si_UNPD(ken,2010,1470988).
- si_UNPD(ken,2011,1460603).
- si_UNPD(ken,2012,1451360).
- si_UNPD(ken,2013,1440023).
- si_UNPD(ken,2014,1435746).
- si_UNPD(ken,2015,1452290).
- si_UNPD(ken,2016,1456804).
- si_UNPD(ken,2017,1457610).
- si_UNPD(ken,2018,1459581).
- si_UNPD(ken,2019,1451197).
- si_UNPD(ken,2020,1455947).
- si_UNPD(ken,2021,1468358).
- si_UNPD(ken,2022,1488394).
- si_UNPD(ken,2023,1503360).
- si_UNPD(ken,2024,1519473).
- si_UNPD(ken,2025,1540132).
- si_UNPD(ken,2026,1558304).
- si_UNPD(ken,2027,1581799).
- si_UNPD(ken,2028,1596024).
- si_UNPD(ken,2029,1614199).
- si_UNPD(ken,2030,1626292).
+si_UNPD(ken,1997,1080969).
+ si_UNPD(ken,1998,1115678).
+ si_UNPD(ken,1999,1139998).
+ si_UNPD(ken,2000,1173131).
+ si_UNPD(ken,2001,1211385).
+ si_UNPD(ken,2002,1239009).
+ si_UNPD(ken,2003,1260205).
+ si_UNPD(ken,2004,1289927).
+ si_UNPD(ken,2005,1323832).
+ si_UNPD(ken,2006,1358282).
+ si_UNPD(ken,2007,1394881).
+ si_UNPD(ken,2008,1417894).
+ si_UNPD(ken,2009,1424689).
+ si_UNPD(ken,2010,1421561).
+ si_UNPD(ken,2011,1412754).
+ si_UNPD(ken,2012,1404726).
+ si_UNPD(ken,2013,1394848).
+ si_UNPD(ken,2014,1391825).
+ si_UNPD(ken,2015,1408973).
+ si_UNPD(ken,2016,1414515).
+ si_UNPD(ken,2017,1416207).
+ si_UNPD(ken,2018,1419217).
+ si_UNPD(ken,2019,1412009).
+ si_UNPD(ken,2020,1417397).
+ si_UNPD(ken,2021,1430189).
+ si_UNPD(ken,2022,1451833).
+ si_UNPD(ken,2023,1468754).
+ si_UNPD(ken,2024,1484772).
+ si_UNPD(ken,2025,1503287).
+ si_UNPD(ken,2026,1521630).
+ si_UNPD(ken,2027,1545192).
+ si_UNPD(ken,2028,1559717).
+ si_UNPD(ken,2029,1578026).
+ si_UNPD(ken,2030,1590438).
 
 survey_results(ken,pol1,1997,ken1998141,[title:'Kenya Demographic and Health Survey 1998,1999',type:'14',yrcoll:'1998',cr:55,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1097], 55).
 

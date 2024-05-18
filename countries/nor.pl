@@ -1,8 +1,8 @@
 %  Norway - NOR 
-%  Wed Sep 06 19:00:22 2023 
+%  Fri May 17 12:15:02 2024 
 
 country(nor,'Norway'). 
-date('Wed Sep 06 19:00:22 2023').
+date('Fri May 17 12:15:02 2024').
 
 estimate_required(nor,dtp1,1997,na,'na').
  estimate_required(nor,dtp1,1998,na,'na').
@@ -950,40 +950,40 @@ births_UNPD(nor,1997,59704).
  births_UNPD(nor,2029,56511).
  births_UNPD(nor,2030,56785).
 
-si_UNPD(nor,1997,59704).
- si_UNPD(nor,1998,58587).
- si_UNPD(nor,1999,59105).
- si_UNPD(nor,2000,59197).
- si_UNPD(nor,2001,56706).
- si_UNPD(nor,2002,55360).
- si_UNPD(nor,2003,56297).
- si_UNPD(nor,2004,56737).
- si_UNPD(nor,2005,56626).
- si_UNPD(nor,2006,58118).
- si_UNPD(nor,2007,58081).
- si_UNPD(nor,2008,59833).
- si_UNPD(nor,2009,61092).
- si_UNPD(nor,2010,60599).
- si_UNPD(nor,2011,59658).
- si_UNPD(nor,2012,59547).
- si_UNPD(nor,2013,58450).
- si_UNPD(nor,2014,58540).
- si_UNPD(nor,2015,58582).
- si_UNPD(nor,2016,58550).
- si_UNPD(nor,2017,56423).
- si_UNPD(nor,2018,54982).
- si_UNPD(nor,2019,54384).
- si_UNPD(nor,2020,53588).
- si_UNPD(nor,2021,53868).
- si_UNPD(nor,2022,53988).
- si_UNPD(nor,2023,54464).
- si_UNPD(nor,2024,54965).
- si_UNPD(nor,2025,55275).
- si_UNPD(nor,2026,55585).
- si_UNPD(nor,2027,55929).
- si_UNPD(nor,2028,56170).
- si_UNPD(nor,2029,56511).
- si_UNPD(nor,2030,56785).
+si_UNPD(nor,1997,59496).
+ si_UNPD(nor,1998,58389).
+ si_UNPD(nor,1999,58905).
+ si_UNPD(nor,2000,59005).
+ si_UNPD(nor,2001,56520).
+ si_UNPD(nor,2002,55197).
+ si_UNPD(nor,2003,56133).
+ si_UNPD(nor,2004,56580).
+ si_UNPD(nor,2005,56478).
+ si_UNPD(nor,2006,57959).
+ si_UNPD(nor,2007,57929).
+ si_UNPD(nor,2008,59693).
+ si_UNPD(nor,2009,60929).
+ si_UNPD(nor,2010,60456).
+ si_UNPD(nor,2011,59540).
+ si_UNPD(nor,2012,59421).
+ si_UNPD(nor,2013,58328).
+ si_UNPD(nor,2014,58419).
+ si_UNPD(nor,2015,58465).
+ si_UNPD(nor,2016,58443).
+ si_UNPD(nor,2017,56315).
+ si_UNPD(nor,2018,54874).
+ si_UNPD(nor,2019,54288).
+ si_UNPD(nor,2020,53510).
+ si_UNPD(nor,2021,53777).
+ si_UNPD(nor,2022,53902).
+ si_UNPD(nor,2023,54381).
+ si_UNPD(nor,2024,54884).
+ si_UNPD(nor,2025,55196).
+ si_UNPD(nor,2026,55508).
+ si_UNPD(nor,2027,55854).
+ si_UNPD(nor,2028,56097).
+ si_UNPD(nor,2029,56439).
+ si_UNPD(nor,2030,56715).
 
 wgd(nor,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(nor,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).

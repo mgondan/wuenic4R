@@ -1,8 +1,8 @@
 %  Myanmar - MMR 
-%  Wed Sep 06 18:57:29 2023 
+%  Fri May 17 12:12:15 2024 
 
 country(mmr,'Myanmar'). 
-date('Wed Sep 06 18:57:29 2023').
+date('Fri May 17 12:12:15 2024').
 
 estimate_required(mmr,bcg,1997,na,'na').
  estimate_required(mmr,bcg,1998,na,'na').
@@ -1199,40 +1199,40 @@ births_UNPD(mmr,1997,1059279).
  births_UNPD(mmr,2029,871056).
  births_UNPD(mmr,2030,862042).
 
-si_UNPD(mmr,1997,1059279).
- si_UNPD(mmr,1998,1051400).
- si_UNPD(mmr,1999,1045789).
- si_UNPD(mmr,2000,1045990).
- si_UNPD(mmr,2001,1058926).
- si_UNPD(mmr,2002,1071438).
- si_UNPD(mmr,2003,1053868).
- si_UNPD(mmr,2004,1032976).
- si_UNPD(mmr,2005,1016051).
- si_UNPD(mmr,2006,1003930).
- si_UNPD(mmr,2007,999522).
- si_UNPD(mmr,2008,983686).
- si_UNPD(mmr,2009,972718).
- si_UNPD(mmr,2010,959728).
- si_UNPD(mmr,2011,952059).
- si_UNPD(mmr,2012,942751).
- si_UNPD(mmr,2013,941290).
- si_UNPD(mmr,2014,940644).
- si_UNPD(mmr,2015,948358).
- si_UNPD(mmr,2016,952050).
- si_UNPD(mmr,2017,948906).
- si_UNPD(mmr,2018,942093).
- si_UNPD(mmr,2019,937752).
- si_UNPD(mmr,2020,928106).
- si_UNPD(mmr,2021,920395).
- si_UNPD(mmr,2022,912252).
- si_UNPD(mmr,2023,910042).
- si_UNPD(mmr,2024,901860).
- si_UNPD(mmr,2025,894954).
- si_UNPD(mmr,2026,890946).
- si_UNPD(mmr,2027,883527).
- si_UNPD(mmr,2028,877021).
- si_UNPD(mmr,2029,871056).
- si_UNPD(mmr,2030,862042).
+si_UNPD(mmr,1997,1002841).
+ si_UNPD(mmr,1998,996322).
+ si_UNPD(mmr,1999,991936).
+ si_UNPD(mmr,2000,993054).
+ si_UNPD(mmr,2001,1006296).
+ si_UNPD(mmr,2002,1019190).
+ si_UNPD(mmr,2003,1003511).
+ si_UNPD(mmr,2004,984649).
+ si_UNPD(mmr,2005,969600).
+ si_UNPD(mmr,2006,959151).
+ si_UNPD(mmr,2007,956087).
+ si_UNPD(mmr,2008,935702).
+ si_UNPD(mmr,2009,932832).
+ si_UNPD(mmr,2010,921548).
+ si_UNPD(mmr,2011,915332).
+ si_UNPD(mmr,2012,907514).
+ si_UNPD(mmr,2013,907189).
+ si_UNPD(mmr,2014,907577).
+ si_UNPD(mmr,2015,915905).
+ si_UNPD(mmr,2016,920409).
+ si_UNPD(mmr,2017,918248).
+ si_UNPD(mmr,2018,912530).
+ si_UNPD(mmr,2019,909105).
+ si_UNPD(mmr,2020,900553).
+ si_UNPD(mmr,2021,893712).
+ si_UNPD(mmr,2022,886467).
+ si_UNPD(mmr,2023,884904).
+ si_UNPD(mmr,2024,877509).
+ si_UNPD(mmr,2025,871321).
+ si_UNPD(mmr,2026,867931).
+ si_UNPD(mmr,2027,861347).
+ si_UNPD(mmr,2028,855568).
+ si_UNPD(mmr,2029,850338).
+ si_UNPD(mmr,2030,842099).
 
 survey_results(mmr,pol1,1999,mmr2000231,[title:'Myanmar Multiple Indicator Cluster Survey 2000',type:'23',yrcoll:'2000',cr: 52,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:2831], 96).
 

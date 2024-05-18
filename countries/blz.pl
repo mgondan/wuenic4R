@@ -1,8 +1,8 @@
 %  Belize - BLZ 
-%  Wed Sep 06 18:39:33 2023 
+%  Fri May 17 11:55:43 2024 
 
 country(blz,'Belize'). 
-date('Wed Sep 06 18:39:33 2023').
+date('Fri May 17 11:55:43 2024').
 
 estimate_required(blz,bcg,1997,na,'na').
  estimate_required(blz,bcg,1998,na,'na').
@@ -1285,40 +1285,40 @@ births_UNPD(blz,1997,6872).
  births_UNPD(blz,2029,7188).
  births_UNPD(blz,2030,7171).
 
-si_UNPD(blz,1997,6872).
- si_UNPD(blz,1998,7012).
- si_UNPD(blz,1999,7172).
- si_UNPD(blz,2000,7281).
- si_UNPD(blz,2001,7377).
- si_UNPD(blz,2002,7442).
- si_UNPD(blz,2003,7370).
- si_UNPD(blz,2004,7369).
- si_UNPD(blz,2005,7445).
- si_UNPD(blz,2006,7314).
- si_UNPD(blz,2007,7272).
- si_UNPD(blz,2008,7311).
- si_UNPD(blz,2009,7274).
- si_UNPD(blz,2010,7237).
- si_UNPD(blz,2011,7408).
- si_UNPD(blz,2012,7544).
- si_UNPD(blz,2013,7683).
- si_UNPD(blz,2014,7770).
- si_UNPD(blz,2015,7798).
- si_UNPD(blz,2016,7832).
- si_UNPD(blz,2017,7905).
- si_UNPD(blz,2018,8018).
- si_UNPD(blz,2019,7333).
- si_UNPD(blz,2020,7060).
- si_UNPD(blz,2021,7186).
- si_UNPD(blz,2022,7193).
- si_UNPD(blz,2023,7236).
- si_UNPD(blz,2024,7242).
- si_UNPD(blz,2025,7239).
- si_UNPD(blz,2026,7219).
- si_UNPD(blz,2027,7229).
- si_UNPD(blz,2028,7198).
- si_UNPD(blz,2029,7188).
- si_UNPD(blz,2030,7171).
+si_UNPD(blz,1997,6737).
+ si_UNPD(blz,1998,6878).
+ si_UNPD(blz,1999,7041).
+ si_UNPD(blz,2000,7152).
+ si_UNPD(blz,2001,7248).
+ si_UNPD(blz,2002,7319).
+ si_UNPD(blz,2003,7251).
+ si_UNPD(blz,2004,7252).
+ si_UNPD(blz,2005,7328).
+ si_UNPD(blz,2006,7202).
+ si_UNPD(blz,2007,7162).
+ si_UNPD(blz,2008,7202).
+ si_UNPD(blz,2009,7168).
+ si_UNPD(blz,2010,7135).
+ si_UNPD(blz,2011,7307).
+ si_UNPD(blz,2012,7445).
+ si_UNPD(blz,2013,7586).
+ si_UNPD(blz,2014,7677).
+ si_UNPD(blz,2015,7709).
+ si_UNPD(blz,2016,7747).
+ si_UNPD(blz,2017,7824).
+ si_UNPD(blz,2018,7941).
+ si_UNPD(blz,2019,7266).
+ si_UNPD(blz,2020,6999).
+ si_UNPD(blz,2021,7125).
+ si_UNPD(blz,2022,7130).
+ si_UNPD(blz,2023,7175).
+ si_UNPD(blz,2024,7183).
+ si_UNPD(blz,2025,7182).
+ si_UNPD(blz,2026,7164).
+ si_UNPD(blz,2027,7175).
+ si_UNPD(blz,2028,7146).
+ si_UNPD(blz,2029,7137).
+ si_UNPD(blz,2030,7122).
 
 survey_results(blz,mcv1,2004,blz2006231,[title:'Belize Multiple Indicator Cluster Survey 2006',type:'23',yrcoll:'2006',cr:64,confirm:'history',age:'18-29 m',timead:'',val:'crude',ss:169], 24.4).
 

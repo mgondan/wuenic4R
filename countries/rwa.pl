@@ -1,8 +1,8 @@
 %  Rwanda - RWA 
-%  Wed Sep 06 19:03:59 2023 
+%  Fri May 17 12:18:29 2024 
 
 country(rwa,'Rwanda'). 
-date('Wed Sep 06 19:03:59 2023').
+date('Fri May 17 12:18:29 2024').
 
 estimate_required(rwa,bcg,1997,na,'na').
  estimate_required(rwa,bcg,1998,na,'na').
@@ -1250,40 +1250,40 @@ births_UNPD(rwa,1997,309910).
  births_UNPD(rwa,2029,428239).
  births_UNPD(rwa,2030,430732).
 
-si_UNPD(rwa,1997,309910).
- si_UNPD(rwa,1998,327949).
- si_UNPD(rwa,1999,331224).
- si_UNPD(rwa,2000,333954).
- si_UNPD(rwa,2001,337170).
- si_UNPD(rwa,2002,339099).
- si_UNPD(rwa,2003,344262).
- si_UNPD(rwa,2004,351121).
- si_UNPD(rwa,2005,356713).
- si_UNPD(rwa,2006,360379).
- si_UNPD(rwa,2007,362335).
- si_UNPD(rwa,2008,362102).
- si_UNPD(rwa,2009,361265).
- si_UNPD(rwa,2010,359331).
- si_UNPD(rwa,2011,356113).
- si_UNPD(rwa,2012,356053).
- si_UNPD(rwa,2013,360066).
- si_UNPD(rwa,2014,365060).
- si_UNPD(rwa,2015,370930).
- si_UNPD(rwa,2016,377835).
- si_UNPD(rwa,2017,384173).
- si_UNPD(rwa,2018,390707).
- si_UNPD(rwa,2019,395247).
- si_UNPD(rwa,2020,398512).
- si_UNPD(rwa,2021,403681).
- si_UNPD(rwa,2022,406214).
- si_UNPD(rwa,2023,409837).
- si_UNPD(rwa,2024,412709).
- si_UNPD(rwa,2025,416307).
- si_UNPD(rwa,2026,419664).
- si_UNPD(rwa,2027,421585).
- si_UNPD(rwa,2028,426039).
- si_UNPD(rwa,2029,428239).
- si_UNPD(rwa,2030,430732).
+si_UNPD(rwa,1997,281879).
+ si_UNPD(rwa,1998,299360).
+ si_UNPD(rwa,1999,303763).
+ si_UNPD(rwa,2000,308059).
+ si_UNPD(rwa,2001,313139).
+ si_UNPD(rwa,2002,317057).
+ si_UNPD(rwa,2003,323941).
+ si_UNPD(rwa,2004,332141).
+ si_UNPD(rwa,2005,338634).
+ si_UNPD(rwa,2006,343292).
+ si_UNPD(rwa,2007,346238).
+ si_UNPD(rwa,2008,347039).
+ si_UNPD(rwa,2009,347142).
+ si_UNPD(rwa,2010,346099).
+ si_UNPD(rwa,2011,343776).
+ si_UNPD(rwa,2012,344285).
+ si_UNPD(rwa,2013,348637).
+ si_UNPD(rwa,2014,353857).
+ si_UNPD(rwa,2015,359909).
+ si_UNPD(rwa,2016,366898).
+ si_UNPD(rwa,2017,373331).
+ si_UNPD(rwa,2018,379905).
+ si_UNPD(rwa,2019,384607).
+ si_UNPD(rwa,2020,388064).
+ si_UNPD(rwa,2021,393445).
+ si_UNPD(rwa,2022,396133).
+ si_UNPD(rwa,2023,399979).
+ si_UNPD(rwa,2024,403075).
+ si_UNPD(rwa,2025,406866).
+ si_UNPD(rwa,2026,410425).
+ si_UNPD(rwa,2027,412553).
+ si_UNPD(rwa,2028,417165).
+ si_UNPD(rwa,2029,419570).
+ si_UNPD(rwa,2030,422271).
 
 survey_results(rwa,dtp1,1998,rwa1999161,[title:'NA',type:'16',yrcoll:'1999',cr:  0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0], 93).
 

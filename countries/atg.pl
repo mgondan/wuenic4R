@@ -1,8 +1,8 @@
 %  Antigua and Barbuda - ATG 
-%  Wed Sep 06 18:36:56 2023 
+%  Fri May 17 11:53:14 2024 
 
 country(atg,'Antigua and Barbuda'). 
-date('Wed Sep 06 18:36:56 2023').
+date('Fri May 17 11:53:14 2024').
 
 estimate_required(atg,dtp1,1997,na,'na').
  estimate_required(atg,dtp1,1998,na,'na').
@@ -1062,40 +1062,40 @@ births_UNPD(atg,1997,1428).
  births_UNPD(atg,2029,1070).
  births_UNPD(atg,2030,1062).
 
-si_UNPD(atg,1997,1428).
- si_UNPD(atg,1998,1336).
- si_UNPD(atg,1999,1313).
- si_UNPD(atg,2000,1487).
- si_UNPD(atg,2001,1377).
- si_UNPD(atg,2002,1327).
- si_UNPD(atg,2003,1289).
- si_UNPD(atg,2004,1263).
- si_UNPD(atg,2005,1250).
- si_UNPD(atg,2006,1252).
- si_UNPD(atg,2007,1280).
- si_UNPD(atg,2008,1416).
- si_UNPD(atg,2009,1403).
- si_UNPD(atg,2010,1258).
- si_UNPD(atg,2011,1239).
- si_UNPD(atg,2012,1182).
- si_UNPD(atg,2013,1102).
- si_UNPD(atg,2014,1099).
- si_UNPD(atg,2015,1132).
- si_UNPD(atg,2016,1055).
- si_UNPD(atg,2017,1074).
- si_UNPD(atg,2018,991).
- si_UNPD(atg,2019,1058).
- si_UNPD(atg,2020,1127).
- si_UNPD(atg,2021,1129).
- si_UNPD(atg,2022,1124).
- si_UNPD(atg,2023,1116).
- si_UNPD(atg,2024,1107).
- si_UNPD(atg,2025,1102).
- si_UNPD(atg,2026,1092).
- si_UNPD(atg,2027,1085).
- si_UNPD(atg,2028,1079).
- si_UNPD(atg,2029,1070).
- si_UNPD(atg,2030,1062).
+si_UNPD(atg,1997,1412).
+ si_UNPD(atg,1998,1321).
+ si_UNPD(atg,1999,1298).
+ si_UNPD(atg,2000,1471).
+ si_UNPD(atg,2001,1362).
+ si_UNPD(atg,2002,1313).
+ si_UNPD(atg,2003,1276).
+ si_UNPD(atg,2004,1251).
+ si_UNPD(atg,2005,1239).
+ si_UNPD(atg,2006,1241).
+ si_UNPD(atg,2007,1269).
+ si_UNPD(atg,2008,1405).
+ si_UNPD(atg,2009,1393).
+ si_UNPD(atg,2010,1249).
+ si_UNPD(atg,2011,1231).
+ si_UNPD(atg,2012,1175).
+ si_UNPD(atg,2013,1095).
+ si_UNPD(atg,2014,1093).
+ si_UNPD(atg,2015,1126).
+ si_UNPD(atg,2016,1050).
+ si_UNPD(atg,2017,1069).
+ si_UNPD(atg,2018,986).
+ si_UNPD(atg,2019,1053).
+ si_UNPD(atg,2020,1122).
+ si_UNPD(atg,2021,1124).
+ si_UNPD(atg,2022,1119).
+ si_UNPD(atg,2023,1111).
+ si_UNPD(atg,2024,1103).
+ si_UNPD(atg,2025,1098).
+ si_UNPD(atg,2026,1088).
+ si_UNPD(atg,2027,1081).
+ si_UNPD(atg,2028,1075).
+ si_UNPD(atg,2029,1066).
+ si_UNPD(atg,2030,1058).
 
 survey_results(atg,hib3,2003,atg2005311,[title:'Antigua and Barbuda Survey of Living Conditions 2005-2006',type:'31',yrcoll:'2005',cr:0,confirm:'NA',age:'24-35 m',timead:'',val:'crude',ss:33], 73).
 

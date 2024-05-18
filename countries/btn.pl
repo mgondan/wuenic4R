@@ -1,8 +1,8 @@
 %  Bhutan - BTN 
-%  Wed Sep 06 18:40:47 2023 
+%  Fri May 17 11:56:49 2024 
 
 country(btn,'Bhutan'). 
-date('Wed Sep 06 18:40:47 2023').
+date('Fri May 17 11:56:49 2024').
 
 estimate_required(btn,bcg,1997,na,'na').
  estimate_required(btn,bcg,1998,na,'na').
@@ -1217,40 +1217,40 @@ births_UNPD(btn,1997,16014).
  births_UNPD(btn,2029,9626).
  births_UNPD(btn,2030,9591).
 
-si_UNPD(btn,1997,16014).
- si_UNPD(btn,1998,15645).
- si_UNPD(btn,1999,15249).
- si_UNPD(btn,2000,14940).
- si_UNPD(btn,2001,14632).
- si_UNPD(btn,2002,14411).
- si_UNPD(btn,2003,14135).
- si_UNPD(btn,2004,14531).
- si_UNPD(btn,2005,14575).
- si_UNPD(btn,2006,14374).
- si_UNPD(btn,2007,14380).
- si_UNPD(btn,2008,14259).
- si_UNPD(btn,2009,13974).
- si_UNPD(btn,2010,13800).
- si_UNPD(btn,2011,13558).
- si_UNPD(btn,2012,13378).
- si_UNPD(btn,2013,13285).
- si_UNPD(btn,2014,13073).
- si_UNPD(btn,2015,12761).
- si_UNPD(btn,2016,12059).
- si_UNPD(btn,2017,11271).
- si_UNPD(btn,2018,10503).
- si_UNPD(btn,2019,9873).
- si_UNPD(btn,2020,9770).
- si_UNPD(btn,2021,9703).
- si_UNPD(btn,2022,9648).
- si_UNPD(btn,2023,9634).
- si_UNPD(btn,2024,9627).
- si_UNPD(btn,2025,9648).
- si_UNPD(btn,2026,9621).
- si_UNPD(btn,2027,9638).
- si_UNPD(btn,2028,9611).
- si_UNPD(btn,2029,9626).
- si_UNPD(btn,2030,9591).
+si_UNPD(btn,1997,15201).
+ si_UNPD(btn,1998,14878).
+ si_UNPD(btn,1999,14530).
+ si_UNPD(btn,2000,14230).
+ si_UNPD(btn,2001,13991).
+ si_UNPD(btn,2002,13805).
+ si_UNPD(btn,2003,13565).
+ si_UNPD(btn,2004,13968).
+ si_UNPD(btn,2005,14033).
+ si_UNPD(btn,2006,13863).
+ si_UNPD(btn,2007,13894).
+ si_UNPD(btn,2008,13800).
+ si_UNPD(btn,2009,13543).
+ si_UNPD(btn,2010,13394).
+ si_UNPD(btn,2011,13177).
+ si_UNPD(btn,2012,13019).
+ si_UNPD(btn,2013,12943).
+ si_UNPD(btn,2014,12749).
+ si_UNPD(btn,2015,12455).
+ si_UNPD(btn,2016,11779).
+ si_UNPD(btn,2017,11016).
+ si_UNPD(btn,2018,10273).
+ si_UNPD(btn,2019,9663).
+ si_UNPD(btn,2020,9568).
+ si_UNPD(btn,2021,9507).
+ si_UNPD(btn,2022,9469).
+ si_UNPD(btn,2023,9463).
+ si_UNPD(btn,2024,9463).
+ si_UNPD(btn,2025,9491).
+ si_UNPD(btn,2026,9471).
+ si_UNPD(btn,2027,9494).
+ si_UNPD(btn,2028,9473).
+ si_UNPD(btn,2029,9494).
+ si_UNPD(btn,2030,9465).
 
 survey_results(btn,mcv1,2001,btn2002161,[title:'Bhutan National EPI Coverage Evaluation Survey 2002',type:'16',yrcoll:'2002',cr: 95,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:214], 96).
 

@@ -1,8 +1,8 @@
 %  Ecuador - ECU 
-%  Wed Sep 06 18:45:01 2023 
+%  Fri May 17 12:00:27 2024 
 
 country(ecu,'Ecuador'). 
-date('Wed Sep 06 18:45:01 2023').
+date('Fri May 17 12:00:27 2024').
 
 estimate_required(ecu,bcg,1997,na,'na').
  estimate_required(ecu,bcg,1998,na,'na').
@@ -1555,40 +1555,40 @@ births_UNPD(ecu,1997,321877).
  births_UNPD(ecu,2029,290915).
  births_UNPD(ecu,2030,289830).
 
-si_UNPD(ecu,1997,321877).
- si_UNPD(ecu,1998,322864).
- si_UNPD(ecu,1999,322409).
- si_UNPD(ecu,2000,321270).
- si_UNPD(ecu,2001,320448).
- si_UNPD(ecu,2002,320056).
- si_UNPD(ecu,2003,319753).
- si_UNPD(ecu,2004,319624).
- si_UNPD(ecu,2005,319659).
- si_UNPD(ecu,2006,320941).
- si_UNPD(ecu,2007,322742).
- si_UNPD(ecu,2008,324545).
- si_UNPD(ecu,2009,326551).
- si_UNPD(ecu,2010,328258).
- si_UNPD(ecu,2011,330798).
- si_UNPD(ecu,2012,325267).
- si_UNPD(ecu,2013,316029).
- si_UNPD(ecu,2014,308532).
- si_UNPD(ecu,2015,303340).
- si_UNPD(ecu,2016,299318).
- si_UNPD(ecu,2017,300031).
- si_UNPD(ecu,2018,299106).
- si_UNPD(ecu,2019,300075).
- si_UNPD(ecu,2020,299338).
- si_UNPD(ecu,2021,298989).
- si_UNPD(ecu,2022,298666).
- si_UNPD(ecu,2023,298524).
- si_UNPD(ecu,2024,296231).
- si_UNPD(ecu,2025,294956).
- si_UNPD(ecu,2026,294146).
- si_UNPD(ecu,2027,292903).
- si_UNPD(ecu,2028,291859).
- si_UNPD(ecu,2029,290915).
- si_UNPD(ecu,2030,289830).
+si_UNPD(ecu,1997,313682).
+ si_UNPD(ecu,1998,315085).
+ si_UNPD(ecu,1999,315066).
+ si_UNPD(ecu,2000,314303).
+ si_UNPD(ecu,2001,313810).
+ si_UNPD(ecu,2002,313726).
+ si_UNPD(ecu,2003,313716).
+ si_UNPD(ecu,2004,313838).
+ si_UNPD(ecu,2005,314096).
+ si_UNPD(ecu,2006,315567).
+ si_UNPD(ecu,2007,317553).
+ si_UNPD(ecu,2008,319531).
+ si_UNPD(ecu,2009,321731).
+ si_UNPD(ecu,2010,323625).
+ si_UNPD(ecu,2011,326343).
+ si_UNPD(ecu,2012,321073).
+ si_UNPD(ecu,2013,312132).
+ si_UNPD(ecu,2014,304879).
+ si_UNPD(ecu,2015,299879).
+ si_UNPD(ecu,2016,296000).
+ si_UNPD(ecu,2017,296835).
+ si_UNPD(ecu,2018,296022).
+ si_UNPD(ecu,2019,297085).
+ si_UNPD(ecu,2020,296466).
+ si_UNPD(ecu,2021,296230).
+ si_UNPD(ecu,2022,295881).
+ si_UNPD(ecu,2023,295819).
+ si_UNPD(ecu,2024,293627).
+ si_UNPD(ecu,2025,292435).
+ si_UNPD(ecu,2026,291704).
+ si_UNPD(ecu,2027,290541).
+ si_UNPD(ecu,2028,289573).
+ si_UNPD(ecu,2029,288700).
+ si_UNPD(ecu,2030,287687).
 
 survey_results(ecu,dtp1,1998,ecu1999211,[title:'Survey of Demography and Maternal and Child Health (ENDEMAIN-1999)',type:'21',yrcoll:'1999',cr: 0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:679], 58).
 

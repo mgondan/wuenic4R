@@ -1,8 +1,8 @@
 %  Israel - ISR 
-%  Wed Sep 06 18:51:40 2023 
+%  Fri May 17 12:06:45 2024 
 
 country(isr,'Israel'). 
-date('Wed Sep 06 18:51:40 2023').
+date('Fri May 17 12:06:45 2024').
 
 estimate_required(isr,dtp1,1997,na,'na').
  estimate_required(isr,dtp1,1998,na,'na').
@@ -1027,40 +1027,40 @@ births_UNPD(isr,1997,122800).
  births_UNPD(isr,2029,179548).
  births_UNPD(isr,2030,181333).
 
-si_UNPD(isr,1997,122800).
- si_UNPD(isr,1998,127866).
- si_UNPD(isr,1999,129364).
- si_UNPD(isr,2000,132735).
- si_UNPD(isr,2001,133016).
- si_UNPD(isr,2002,135800).
- si_UNPD(isr,2003,141218).
- si_UNPD(isr,2004,141982).
- si_UNPD(isr,2005,141596).
- si_UNPD(isr,2006,145708).
- si_UNPD(isr,2007,149313).
- si_UNPD(isr,2008,154217).
- si_UNPD(isr,2009,156400).
- si_UNPD(isr,2010,161277).
- si_UNPD(isr,2011,161791).
- si_UNPD(isr,2012,165412).
- si_UNPD(isr,2013,165831).
- si_UNPD(isr,2014,169911).
- si_UNPD(isr,2015,180293).
- si_UNPD(isr,2016,183285).
- si_UNPD(isr,2017,175514).
- si_UNPD(isr,2018,175739).
- si_UNPD(isr,2019,184394).
- si_UNPD(isr,2020,175353).
- si_UNPD(isr,2021,174335).
- si_UNPD(isr,2022,174675).
- si_UNPD(isr,2023,174648).
- si_UNPD(isr,2024,175054).
- si_UNPD(isr,2025,176036).
- si_UNPD(isr,2026,176639).
- si_UNPD(isr,2027,177475).
- si_UNPD(isr,2028,178576).
- si_UNPD(isr,2029,179548).
- si_UNPD(isr,2030,181333).
+si_UNPD(isr,1997,122015).
+ si_UNPD(isr,1998,127110).
+ si_UNPD(isr,1999,128625).
+ si_UNPD(isr,2000,132010).
+ si_UNPD(isr,2001,132319).
+ si_UNPD(isr,2002,135065).
+ si_UNPD(isr,2003,140509).
+ si_UNPD(isr,2004,141355).
+ si_UNPD(isr,2005,141001).
+ si_UNPD(isr,2006,145139).
+ si_UNPD(isr,2007,148760).
+ si_UNPD(isr,2008,153661).
+ si_UNPD(isr,2009,155872).
+ si_UNPD(isr,2010,160752).
+ si_UNPD(isr,2011,161290).
+ si_UNPD(isr,2012,164902).
+ si_UNPD(isr,2013,165375).
+ si_UNPD(isr,2014,169442).
+ si_UNPD(isr,2015,179790).
+ si_UNPD(isr,2016,182782).
+ si_UNPD(isr,2017,175034).
+ si_UNPD(isr,2018,175241).
+ si_UNPD(isr,2019,183877).
+ si_UNPD(isr,2020,174879).
+ si_UNPD(isr,2021,173883).
+ si_UNPD(isr,2022,174237).
+ si_UNPD(isr,2023,174236).
+ si_UNPD(isr,2024,174652).
+ si_UNPD(isr,2025,175644).
+ si_UNPD(isr,2026,176256).
+ si_UNPD(isr,2027,177099).
+ si_UNPD(isr,2028,178207).
+ si_UNPD(isr,2029,179186).
+ si_UNPD(isr,2030,180977).
 
 wgd(isr,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(isr,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).

@@ -1,8 +1,8 @@
 %  Montenegro - MNE 
-%  Wed Sep 06 18:57:37 2023 
+%  Fri May 17 12:12:22 2024 
 
 country(mne,'Montenegro'). 
-date('Wed Sep 06 18:57:37 2023').
+date('Fri May 17 12:12:22 2024').
 
 estimate_required(mne,bcg,2006,na,'na').
  estimate_required(mne,bcg,2007,na,'na').
@@ -882,31 +882,31 @@ births_UNPD(mne,2006,8227).
  births_UNPD(mne,2029,6367).
  births_UNPD(mne,2030,6309).
 
-si_UNPD(mne,2006,8227).
- si_UNPD(mne,2007,8502).
- si_UNPD(mne,2008,8878).
- si_UNPD(mne,2009,9133).
- si_UNPD(mne,2010,7857).
- si_UNPD(mne,2011,7538).
- si_UNPD(mne,2012,7785).
- si_UNPD(mne,2013,7821).
- si_UNPD(mne,2014,7863).
- si_UNPD(mne,2015,7725).
- si_UNPD(mne,2016,7848).
- si_UNPD(mne,2017,7712).
- si_UNPD(mne,2018,7529).
- si_UNPD(mne,2019,7429).
- si_UNPD(mne,2020,7114).
- si_UNPD(mne,2021,6965).
- si_UNPD(mne,2022,6859).
- si_UNPD(mne,2023,6773).
- si_UNPD(mne,2024,6707).
- si_UNPD(mne,2025,6635).
- si_UNPD(mne,2026,6568).
- si_UNPD(mne,2027,6472).
- si_UNPD(mne,2028,6423).
- si_UNPD(mne,2029,6367).
- si_UNPD(mne,2030,6309).
+si_UNPD(mne,2006,8157).
+ si_UNPD(mne,2007,8447).
+ si_UNPD(mne,2008,8828).
+ si_UNPD(mne,2009,9089).
+ si_UNPD(mne,2010,7818).
+ si_UNPD(mne,2011,7510).
+ si_UNPD(mne,2012,7756).
+ si_UNPD(mne,2013,7790).
+ si_UNPD(mne,2014,7833).
+ si_UNPD(mne,2015,7707).
+ si_UNPD(mne,2016,7823).
+ si_UNPD(mne,2017,7697).
+ si_UNPD(mne,2018,7516).
+ si_UNPD(mne,2019,7413).
+ si_UNPD(mne,2020,7101).
+ si_UNPD(mne,2021,6960).
+ si_UNPD(mne,2022,6852).
+ si_UNPD(mne,2023,6760).
+ si_UNPD(mne,2024,6695).
+ si_UNPD(mne,2025,6623).
+ si_UNPD(mne,2026,6557).
+ si_UNPD(mne,2027,6461).
+ si_UNPD(mne,2028,6413).
+ si_UNPD(mne,2029,6357).
+ si_UNPD(mne,2030,6299).
 
 survey_results(mne,mcv1,2004,mne2005231,[title:'Montenegro Multiple Indicator Cluster Survey 2005',type:'23',yrcoll:'2005',cr:71,confirm:'card or history',age:'18-29 m',timead:'',val:'crude',ss:201], 83).
 

@@ -1,8 +1,8 @@
 %  Germany - DEU 
-%  Wed Sep 06 18:43:56 2023 
+%  Fri May 17 11:59:26 2024 
 
 country(deu,'Germany'). 
-date('Wed Sep 06 18:43:56 2023').
+date('Fri May 17 11:59:26 2024').
 
 estimate_required(deu,dtp1,1997,na,'na').
  estimate_required(deu,dtp1,1998,na,'na').
@@ -1100,40 +1100,40 @@ births_UNPD(deu,1997,802831).
  births_UNPD(deu,2029,713126).
  births_UNPD(deu,2030,706360).
 
-si_UNPD(deu,1997,802831).
- si_UNPD(deu,1998,783731).
- si_UNPD(deu,1999,769795).
- si_UNPD(deu,2000,758949).
- si_UNPD(deu,2001,726161).
- si_UNPD(deu,2002,707832).
- si_UNPD(deu,2003,694477).
- si_UNPD(deu,2004,690997).
- si_UNPD(deu,2005,673191).
- si_UNPD(deu,2006,662205).
- si_UNPD(deu,2007,673254).
- si_UNPD(deu,2008,673997).
- si_UNPD(deu,2009,660403).
- si_UNPD(deu,2010,675482).
- si_UNPD(deu,2011,673178).
- si_UNPD(deu,2012,684523).
- si_UNPD(deu,2013,691529).
- si_UNPD(deu,2014,720156).
- si_UNPD(deu,2015,739919).
- si_UNPD(deu,2016,784473).
- si_UNPD(deu,2017,783444).
- si_UNPD(deu,2018,779291).
- si_UNPD(deu,2019,771867).
- si_UNPD(deu,2020,760378).
- si_UNPD(deu,2021,763168).
- si_UNPD(deu,2022,761194).
- si_UNPD(deu,2023,755129).
- si_UNPD(deu,2024,749892).
- si_UNPD(deu,2025,743827).
- si_UNPD(deu,2026,737627).
- si_UNPD(deu,2027,731087).
- si_UNPD(deu,2028,723046).
- si_UNPD(deu,2029,713126).
- si_UNPD(deu,2030,706360).
+si_UNPD(deu,1997,799495).
+ si_UNPD(deu,1998,780634).
+ si_UNPD(deu,1999,766836).
+ si_UNPD(deu,2000,756111).
+ si_UNPD(deu,2001,723542).
+ si_UNPD(deu,2002,705301).
+ si_UNPD(deu,2003,691982).
+ si_UNPD(deu,2004,688546).
+ si_UNPD(deu,2005,670964).
+ si_UNPD(deu,2006,660050).
+ si_UNPD(deu,2007,670992).
+ si_UNPD(deu,2008,671977).
+ si_UNPD(deu,2009,658440).
+ si_UNPD(deu,2010,673473).
+ si_UNPD(deu,2011,671106).
+ si_UNPD(deu,2012,682585).
+ si_UNPD(deu,2013,689570).
+ si_UNPD(deu,2014,718145).
+ si_UNPD(deu,2015,737835).
+ si_UNPD(deu,2016,782107).
+ si_UNPD(deu,2017,781273).
+ si_UNPD(deu,2018,777164).
+ si_UNPD(deu,2019,769764).
+ si_UNPD(deu,2020,758344).
+ si_UNPD(deu,2021,761164).
+ si_UNPD(deu,2022,759263).
+ si_UNPD(deu,2023,753472).
+ si_UNPD(deu,2024,748298).
+ si_UNPD(deu,2025,742291).
+ si_UNPD(deu,2026,736151).
+ si_UNPD(deu,2027,729665).
+ si_UNPD(deu,2028,721682).
+ si_UNPD(deu,2029,711818).
+ si_UNPD(deu,2030,705097).
 
 wgd(deu,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(deu,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,87,_,na).
@@ -1143,7 +1143,41 @@ wgd(deu,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(deu,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(deu,rcv1,1997,1997,assignAnchor,'Legacy estimate.',na,91,_,na).
 
-wgd(deu,X,2012,2012,internalComment,' Extrapolation from data shifted back 5 years achieved by using multi-year assignAnchors on relevant vaccines.',na,na,na,na).
+wgd(deu,mcv1,2013,2013,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
+ wgd(deu,mcv1,2014,2014,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
+ wgd(deu,mcv1,2015,2015,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
+ wgd(deu,mcv1,2016,2020,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
+ wgd(deu,mcv1,2017,2203,assignGoC,' GoC reflects extrapolation from most recent annual birth cohort.',na,1,na,na).
+ wgd(deu,mcv1,2021,2203,assignAnchor,'Reported data reflect vaccinated children aged 5-7 years at school entry examination in 2020 and are incomplete due to a pause of some examinations in some districts due to the COVID-19 pandemic. School entry-based coverage data are validated using analyses of health insurance claims data, which coverage nearly 85 percent of the total population, as described in the following publications: Robert Koch-Institute (2016). KV-Impfsurveillance: Ergänzungen zu den Impfdaten aus den Schuleingangsuntersuchungen. Epid Bull (16):134 and Rieck T et al. (2014). Vaccination coverage among children in Germany estimated by analysis of health insurance claims data. Hum. Vaccin. Immunother. 10 (2): 476-484.',na,97,na,na).
+ wgd(deu,mcv2,1997,2016,assignGoC,' GoC reflects coverage data for birth cohort on school entry.',na,2,na,na).
+ wgd(deu,mcv2,1998,1998,assignAnchor,'.',na,27,na,na).
+ wgd(deu,mcv2,1999,1999,assignAnchor,'.',na,53,na,na).
+ wgd(deu,mcv2,2000,2000,assignAnchor,'.',na,51,na,na).
+ wgd(deu,mcv2,2001,2001,assignAnchor,'.',na,66,na,na).
+ wgd(deu,mcv2,2002,2002,assignAnchor,'.',na,77,na,na).
+ wgd(deu,mcv2,2003,2003,assignAnchor,'.',na,83,na,na).
+ wgd(deu,mcv2,2004,2004,assignAnchor,'.',na,89,na,na).
+ wgd(deu,mcv2,2005,2005,assignAnchor,' Estimate is based on reported data.',na,91,na,na).
+ wgd(deu,mcv2,2006,2006,assignAnchor,' Estimate is based on reported data.',na,90,na,na).
+ wgd(deu,mcv2,2007,2007,assignAnchor,' Estimate is based on reported data.',na,92,na,na).
+ wgd(deu,mcv2,2008,2008,assignAnchor,' Estimate is based on reported data.',na,92,na,na).
+ wgd(deu,mcv2,2009,2009,assignAnchor,' Estimate is based on reported data.',na,93,na,na).
+ wgd(deu,mcv2,2010,2010,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
+ wgd(deu,mcv2,2011,2011,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
+ wgd(deu,mcv2,2012,2012,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
+ wgd(deu,mcv2,2013,2013,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
+ wgd(deu,mcv2,2014,2014,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
+ wgd(deu,mcv2,2015,2015,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
+ wgd(deu,mcv2,2016,2020,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
+ wgd(deu,mcv2,2017,2203,assignGoC,' GoC reflects extrapolation from most recent annual birth cohort.',na,1,na,na).
+ wgd(deu,mcv2,2021,2203,assignAnchor,'Reported data reflect vaccinated children aged 5-7 years at school entry examination in 2020 and are incomplete due to a pause of some examinations in some districts due to the COVID-19 pandemic. School entry-based coverage data are validated using analyses of health insurance claims data, which coverage nearly 85 percent of the total population, as described in the following publications: Robert Koch-Institute (2016). KV-Impfsurveillance: Ergänzungen zu den Impfdaten aus den Schuleingangsuntersuchungen. Epid Bull (16):134 and Rieck T et al. (2014). Vaccination coverage among children in Germany estimated by analysis of health insurance claims data. Hum. Vaccin. Immunother. 10 (2): 476-484.',na,93,na,na).
+ wgd(deu,pcv3,2006,2006,assignAnchor,' Data reported by Germany reflect the immunization status collected on school entry of children 5-7 years of age. Estimates are attributed to the birth cohort five years younger than the reporting year. The study by Rieck, et.al. suggest that coverage by 24 months of age is lower than that suggested by data reported on school entry. See http://dx.doi.org/10.4161/hv.26986.',na,15,na,na).
+ wgd(deu,pcv3,2006,2016,assignGoC,' GoC reflects coverage data for birth cohort on school entry.',na,2,na,na).
+ wgd(deu,pcv3,2006,2006,comment,' Pneumococcal conjugate vaccine was introduced in 2006.',na,na,na,na).
+ wgd(deu,pcv3,2007,2007,assignAnchor,' Refer to most recent year. Estimates based on extrapolation from data reported by national government.',na,41,na,na).
+ wgd(deu,pcv3,2008,2008,assignAnchor,' Estimates based on extrapolation from data reported by national government.',na,68,na,na).
+ wgd(deu,pcv3,2009,2009,assignAnchor,' Estimates based on extrapolation from data reported by national government.',na,84,na,na).
+ wgd(deu,X,2012,2012,internalComment,' Extrapolation from data shifted back 5 years achieved by using multi-year assignAnchors on relevant vaccines.',na,na,na,na).
  wgd(deu,X,2020,2020,internalComment,' Germany communication requests consideration of a GoC of 3 stars rather than 2 stars. Justification for 1/2 stars is related to the delays for identifying problems in the Germany monitoring system. See example of PcV3.',na,na,na,na).
  wgd(deu,dtp1,2007,2007,assignAnchor,' Estimate is based on reported data.',na,99,na,na).
  wgd(deu,dtp1,2007,2016,assignGoC,' GoC reflects coverage data for birth cohort on school entry.',na,2,na,na).
@@ -1245,40 +1279,6 @@ wgd(deu,X,2012,2012,internalComment,' Extrapolation from data shifted back 5 yea
  wgd(deu,mcv1,2010,2010,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
  wgd(deu,mcv1,2011,2011,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
  wgd(deu,mcv1,2012,2012,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
- wgd(deu,mcv1,2013,2013,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
- wgd(deu,mcv1,2014,2014,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
- wgd(deu,mcv1,2015,2015,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
- wgd(deu,mcv1,2016,2020,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,97,na,na).
- wgd(deu,mcv1,2017,2203,assignGoC,' GoC reflects extrapolation from most recent annual birth cohort.',na,1,na,na).
- wgd(deu,mcv1,2021,2203,assignAnchor,'Reported data reflect vaccinated children aged 5-7 years at school entry examination in 2020 and are incomplete due to a pause of some examinations in some districts due to the COVID-19 pandemic. School entry-based coverage data are validated using analyses of health insurance claims data, which coverage nearly 85 percent of the total population, as described in the following publications: Robert Koch-Institute (2016). KV-Impfsurveillance: Ergänzungen zu den Impfdaten aus den Schuleingangsuntersuchungen. Epid Bull (16):134 and Rieck T et al. (2014). Vaccination coverage among children in Germany estimated by analysis of health insurance claims data. Hum. Vaccin. Immunother. 10 (2): 476-484.',na,97,na,na).
- wgd(deu,mcv2,1997,2016,assignGoC,' GoC reflects coverage data for birth cohort on school entry.',na,2,na,na).
- wgd(deu,mcv2,1998,1998,assignAnchor,'.',na,27,na,na).
- wgd(deu,mcv2,1999,1999,assignAnchor,'.',na,53,na,na).
- wgd(deu,mcv2,2000,2000,assignAnchor,'.',na,51,na,na).
- wgd(deu,mcv2,2001,2001,assignAnchor,'.',na,66,na,na).
- wgd(deu,mcv2,2002,2002,assignAnchor,'.',na,77,na,na).
- wgd(deu,mcv2,2003,2003,assignAnchor,'.',na,83,na,na).
- wgd(deu,mcv2,2004,2004,assignAnchor,'.',na,89,na,na).
- wgd(deu,mcv2,2005,2005,assignAnchor,' Estimate is based on reported data.',na,91,na,na).
- wgd(deu,mcv2,2006,2006,assignAnchor,' Estimate is based on reported data.',na,90,na,na).
- wgd(deu,mcv2,2007,2007,assignAnchor,' Estimate is based on reported data.',na,92,na,na).
- wgd(deu,mcv2,2008,2008,assignAnchor,' Estimate is based on reported data.',na,92,na,na).
- wgd(deu,mcv2,2009,2009,assignAnchor,' Estimate is based on reported data.',na,93,na,na).
- wgd(deu,mcv2,2010,2010,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
- wgd(deu,mcv2,2011,2011,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
- wgd(deu,mcv2,2012,2012,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
- wgd(deu,mcv2,2013,2013,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
- wgd(deu,mcv2,2014,2014,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
- wgd(deu,mcv2,2015,2015,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
- wgd(deu,mcv2,2016,2020,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,93,na,na).
- wgd(deu,mcv2,2017,2203,assignGoC,' GoC reflects extrapolation from most recent annual birth cohort.',na,1,na,na).
- wgd(deu,mcv2,2021,2203,assignAnchor,'Reported data reflect vaccinated children aged 5-7 years at school entry examination in 2020 and are incomplete due to a pause of some examinations in some districts due to the COVID-19 pandemic. School entry-based coverage data are validated using analyses of health insurance claims data, which coverage nearly 85 percent of the total population, as described in the following publications: Robert Koch-Institute (2016). KV-Impfsurveillance: Ergänzungen zu den Impfdaten aus den Schuleingangsuntersuchungen. Epid Bull (16):134 and Rieck T et al. (2014). Vaccination coverage among children in Germany estimated by analysis of health insurance claims data. Hum. Vaccin. Immunother. 10 (2): 476-484.',na,93,na,na).
- wgd(deu,pcv3,2006,2006,assignAnchor,' Data reported by Germany reflect the immunization status collected on school entry of children 5-7 years of age. Estimates are attributed to the birth cohort five years younger than the reporting year. The study by Rieck, et.al. suggest that coverage by 24 months of age is lower than that suggested by data reported on school entry. See http://dx.doi.org/10.4161/hv.26986.',na,15,na,na).
- wgd(deu,pcv3,2006,2016,assignGoC,' GoC reflects coverage data for birth cohort on school entry.',na,2,na,na).
- wgd(deu,pcv3,2006,2006,comment,' Pneumococcal conjugate vaccine was introduced in 2006.',na,na,na,na).
- wgd(deu,pcv3,2007,2007,assignAnchor,' Refer to most recent year. Estimates based on extrapolation from data reported by national government.',na,41,na,na).
- wgd(deu,pcv3,2008,2008,assignAnchor,' Estimates based on extrapolation from data reported by national government.',na,68,na,na).
- wgd(deu,pcv3,2009,2009,assignAnchor,' Estimates based on extrapolation from data reported by national government.',na,84,na,na).
  wgd(deu,pcv3,2010,2010,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,85,na,na).
  wgd(deu,pcv3,2011,2011,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,86,na,na).
  wgd(deu,pcv3,2012,2012,assignAnchor,' Estimates based on reported data for vaccinated children at school entry examination. Refer to most recent year for explanation.',na,84,na,na).

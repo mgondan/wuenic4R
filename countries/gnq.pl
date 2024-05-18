@@ -1,8 +1,8 @@
 %  Equatorial Guinea - GNQ 
-%  Wed Sep 06 18:48:25 2023 
+%  Fri May 17 12:03:39 2024 
 
 country(gnq,'Equatorial Guinea'). 
-date('Wed Sep 06 18:48:25 2023').
+date('Fri May 17 12:03:39 2024').
 
 estimate_required(gnq,bcg,1997,na,'na').
  estimate_required(gnq,bcg,1998,na,'na').
@@ -963,40 +963,40 @@ births_UNPD(gnq,1997,25775).
  births_UNPD(gnq,2029,52426).
  births_UNPD(gnq,2030,52783).
 
-si_UNPD(gnq,1997,25775).
- si_UNPD(gnq,1998,26476).
- si_UNPD(gnq,1999,27204).
- si_UNPD(gnq,2000,27991).
- si_UNPD(gnq,2001,28972).
- si_UNPD(gnq,2002,30087).
- si_UNPD(gnq,2003,31341).
- si_UNPD(gnq,2004,32742).
- si_UNPD(gnq,2005,34243).
- si_UNPD(gnq,2006,35769).
- si_UNPD(gnq,2007,37362).
- si_UNPD(gnq,2008,38925).
- si_UNPD(gnq,2009,40441).
- si_UNPD(gnq,2010,41883).
- si_UNPD(gnq,2011,43207).
- si_UNPD(gnq,2012,44383).
- si_UNPD(gnq,2013,45454).
- si_UNPD(gnq,2014,46368).
- si_UNPD(gnq,2015,47145).
- si_UNPD(gnq,2016,47821).
- si_UNPD(gnq,2017,48336).
- si_UNPD(gnq,2018,48816).
- si_UNPD(gnq,2019,49269).
- si_UNPD(gnq,2020,49758).
- si_UNPD(gnq,2021,49749).
- si_UNPD(gnq,2022,49964).
- si_UNPD(gnq,2023,50317).
- si_UNPD(gnq,2024,50600).
- si_UNPD(gnq,2025,50908).
- si_UNPD(gnq,2026,51214).
- si_UNPD(gnq,2027,51538).
- si_UNPD(gnq,2028,51855).
- si_UNPD(gnq,2029,52426).
- si_UNPD(gnq,2030,52783).
+si_UNPD(gnq,1997,23738).
+ si_UNPD(gnq,1998,24417).
+ si_UNPD(gnq,1999,25129).
+ si_UNPD(gnq,2000,25903).
+ si_UNPD(gnq,2001,26861).
+ si_UNPD(gnq,2002,27949).
+ si_UNPD(gnq,2003,29173).
+ si_UNPD(gnq,2004,30539).
+ si_UNPD(gnq,2005,32003).
+ si_UNPD(gnq,2006,33502).
+ si_UNPD(gnq,2007,35067).
+ si_UNPD(gnq,2008,36612).
+ si_UNPD(gnq,2009,38113).
+ si_UNPD(gnq,2010,39548).
+ si_UNPD(gnq,2011,40855).
+ si_UNPD(gnq,2012,42013).
+ si_UNPD(gnq,2013,43073).
+ si_UNPD(gnq,2014,43989).
+ si_UNPD(gnq,2015,44776).
+ si_UNPD(gnq,2016,45467).
+ si_UNPD(gnq,2017,46006).
+ si_UNPD(gnq,2018,46516).
+ si_UNPD(gnq,2019,46996).
+ si_UNPD(gnq,2020,47511).
+ si_UNPD(gnq,2021,47550).
+ si_UNPD(gnq,2022,47845).
+ si_UNPD(gnq,2023,48224).
+ si_UNPD(gnq,2024,48484).
+ si_UNPD(gnq,2025,48721).
+ si_UNPD(gnq,2026,49041).
+ si_UNPD(gnq,2027,49377).
+ si_UNPD(gnq,2028,49706).
+ si_UNPD(gnq,2029,50282).
+ si_UNPD(gnq,2030,50650).
 
 survey_results(gnq,dtp1,1999,gnq2000231,[title:'Equatorial Guinea MICS 2000',type:'23',yrcoll:'2000',cr:42,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:457],65).
 

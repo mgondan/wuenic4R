@@ -1,8 +1,8 @@
 %  Zimbabwe - ZWE 
-%  Wed Sep 06 19:12:50 2023 
+%  Fri May 17 12:27:17 2024 
 
 country(zwe,'Zimbabwe'). 
-date('Wed Sep 06 19:12:50 2023').
+date('Fri May 17 12:27:17 2024').
 
 estimate_required(zwe,bcg,1997,na,'na').
  estimate_required(zwe,bcg,1998,na,'na').
@@ -1160,40 +1160,40 @@ births_UNPD(zwe,1997,384750).
  births_UNPD(zwe,2029,517059).
  births_UNPD(zwe,2030,522660).
 
-si_UNPD(zwe,1997,384750).
- si_UNPD(zwe,1998,399428).
- si_UNPD(zwe,1999,414578).
- si_UNPD(zwe,2000,424280).
- si_UNPD(zwe,2001,430856).
- si_UNPD(zwe,2002,433205).
- si_UNPD(zwe,2003,435443).
- si_UNPD(zwe,2004,433872).
- si_UNPD(zwe,2005,430078).
- si_UNPD(zwe,2006,426605).
- si_UNPD(zwe,2007,436008).
- si_UNPD(zwe,2008,449271).
- si_UNPD(zwe,2009,468604).
- si_UNPD(zwe,2010,478377).
- si_UNPD(zwe,2011,487212).
- si_UNPD(zwe,2012,489502).
- si_UNPD(zwe,2013,492469).
- si_UNPD(zwe,2014,487662).
- si_UNPD(zwe,2015,481660).
- si_UNPD(zwe,2016,480406).
- si_UNPD(zwe,2017,480635).
- si_UNPD(zwe,2018,483783).
- si_UNPD(zwe,2019,484906).
- si_UNPD(zwe,2020,486393).
- si_UNPD(zwe,2021,488807).
- si_UNPD(zwe,2022,491195).
- si_UNPD(zwe,2023,493840).
- si_UNPD(zwe,2024,496655).
- si_UNPD(zwe,2025,498207).
- si_UNPD(zwe,2026,503836).
- si_UNPD(zwe,2027,507954).
- si_UNPD(zwe,2028,512476).
- si_UNPD(zwe,2029,517059).
- si_UNPD(zwe,2030,522660).
+si_UNPD(zwe,1997,366689).
+ si_UNPD(zwe,1998,380754).
+ si_UNPD(zwe,1999,395363).
+ si_UNPD(zwe,2000,404793).
+ si_UNPD(zwe,2001,411313).
+ si_UNPD(zwe,2002,413692).
+ si_UNPD(zwe,2003,415966).
+ si_UNPD(zwe,2004,414372).
+ si_UNPD(zwe,2005,410658).
+ si_UNPD(zwe,2006,407096).
+ si_UNPD(zwe,2007,415981).
+ si_UNPD(zwe,2008,428637).
+ si_UNPD(zwe,2009,447548).
+ si_UNPD(zwe,2010,457754).
+ si_UNPD(zwe,2011,467092).
+ si_UNPD(zwe,2012,470736).
+ si_UNPD(zwe,2013,474632).
+ si_UNPD(zwe,2014,470681).
+ si_UNPD(zwe,2015,465159).
+ si_UNPD(zwe,2016,464459).
+ si_UNPD(zwe,2017,464979).
+ si_UNPD(zwe,2018,468496).
+ si_UNPD(zwe,2019,469639).
+ si_UNPD(zwe,2020,471214).
+ si_UNPD(zwe,2021,473570).
+ si_UNPD(zwe,2022,475650).
+ si_UNPD(zwe,2023,478953).
+ si_UNPD(zwe,2024,481811).
+ si_UNPD(zwe,2025,483437).
+ si_UNPD(zwe,2026,489028).
+ si_UNPD(zwe,2027,493151).
+ si_UNPD(zwe,2028,497660).
+ si_UNPD(zwe,2029,502225).
+ si_UNPD(zwe,2030,507795).
 
 survey_results(zwe,mcv1,1998,zwe1999141,[title:'Zimbabwe Demographic and Health Survey 1999, 2000',type:'14',yrcoll:'1999',cr:69,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:699], 79).
 

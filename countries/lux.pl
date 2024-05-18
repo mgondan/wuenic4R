@@ -1,8 +1,8 @@
 %  Luxembourg - LUX 
-%  Wed Sep 06 18:55:29 2023 
+%  Fri May 17 12:10:23 2024 
 
 country(lux,'Luxembourg'). 
-date('Wed Sep 06 18:55:29 2023').
+date('Fri May 17 12:10:23 2024').
 
 estimate_required(lux,dtp1,1997,na,'na').
  estimate_required(lux,dtp1,1998,na,'na').
@@ -669,40 +669,40 @@ births_UNPD(lux,1997,5451).
  births_UNPD(lux,2029,6684).
  births_UNPD(lux,2030,6655).
 
-si_UNPD(lux,1997,5451).
- si_UNPD(lux,1998,5352).
- si_UNPD(lux,1999,5495).
- si_UNPD(lux,2000,5550).
- si_UNPD(lux,2001,5419).
- si_UNPD(lux,2002,5314).
- si_UNPD(lux,2003,5248).
- si_UNPD(lux,2004,5386).
- si_UNPD(lux,2005,5295).
- si_UNPD(lux,2006,5424).
- si_UNPD(lux,2007,5392).
- si_UNPD(lux,2008,5483).
- si_UNPD(lux,2009,5562).
- si_UNPD(lux,2010,5755).
- si_UNPD(lux,2011,5546).
- si_UNPD(lux,2012,5904).
- si_UNPD(lux,2013,5993).
- si_UNPD(lux,2014,5960).
- si_UNPD(lux,2015,5992).
- si_UNPD(lux,2016,5966).
- si_UNPD(lux,2017,6068).
- si_UNPD(lux,2018,6160).
- si_UNPD(lux,2019,6167).
- si_UNPD(lux,2020,6469).
- si_UNPD(lux,2021,6589).
- si_UNPD(lux,2022,6675).
- si_UNPD(lux,2023,6724).
- si_UNPD(lux,2024,6756).
- si_UNPD(lux,2025,6771).
- si_UNPD(lux,2026,6770).
- si_UNPD(lux,2027,6741).
- si_UNPD(lux,2028,6710).
- si_UNPD(lux,2029,6684).
- si_UNPD(lux,2030,6655).
+si_UNPD(lux,1997,5423).
+ si_UNPD(lux,1998,5317).
+ si_UNPD(lux,1999,5468).
+ si_UNPD(lux,2000,5516).
+ si_UNPD(lux,2001,5389).
+ si_UNPD(lux,2002,5289).
+ si_UNPD(lux,2003,5224).
+ si_UNPD(lux,2004,5363).
+ si_UNPD(lux,2005,5271).
+ si_UNPD(lux,2006,5408).
+ si_UNPD(lux,2007,5381).
+ si_UNPD(lux,2008,5470).
+ si_UNPD(lux,2009,5549).
+ si_UNPD(lux,2010,5736).
+ si_UNPD(lux,2011,5528).
+ si_UNPD(lux,2012,5889).
+ si_UNPD(lux,2013,5970).
+ si_UNPD(lux,2014,5944).
+ si_UNPD(lux,2015,5979).
+ si_UNPD(lux,2016,5947).
+ si_UNPD(lux,2017,6052).
+ si_UNPD(lux,2018,6138).
+ si_UNPD(lux,2019,6144).
+ si_UNPD(lux,2020,6444).
+ si_UNPD(lux,2021,6564).
+ si_UNPD(lux,2022,6658).
+ si_UNPD(lux,2023,6707).
+ si_UNPD(lux,2024,6739).
+ si_UNPD(lux,2025,6755).
+ si_UNPD(lux,2026,6754).
+ si_UNPD(lux,2027,6726).
+ si_UNPD(lux,2028,6695).
+ si_UNPD(lux,2029,6669).
+ si_UNPD(lux,2030,6641).
 
 survey_results(lux,mcv1,1999,lux2002311,[title:'Survey of Immunization Coverage in the Grand Duchy of Luxembourg, January-Februaru 2002',type:'16',yrcoll:'2002',cr: 94,confirm:'card',age:'25-30 m',timead:'',val:'crude',ss:504], 95).
 

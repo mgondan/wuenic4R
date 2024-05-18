@@ -1,8 +1,8 @@
 %  Democratic People’s Republic of Korea - PRK 
-%  Wed Sep 06 19:02:50 2023 
+%  Fri May 17 12:17:21 2024 
 
 country(prk,'Democratic People’s Republic of Korea'). 
-date('Wed Sep 06 19:02:50 2023').
+date('Fri May 17 12:17:21 2024').
 
 estimate_required(prk,bcg,1997,na,'na').
  estimate_required(prk,bcg,1998,na,'na').
@@ -1201,40 +1201,40 @@ births_UNPD(prk,1997,437999).
  births_UNPD(prk,2029,308992).
  births_UNPD(prk,2030,304323).
 
-si_UNPD(prk,1997,437999).
- si_UNPD(prk,1998,430967).
- si_UNPD(prk,1999,420882).
- si_UNPD(prk,2000,407494).
- si_UNPD(prk,2001,398850).
- si_UNPD(prk,2002,379746).
- si_UNPD(prk,2003,363435).
- si_UNPD(prk,2004,360454).
- si_UNPD(prk,2005,350248).
- si_UNPD(prk,2006,344305).
- si_UNPD(prk,2007,340281).
- si_UNPD(prk,2008,342178).
- si_UNPD(prk,2009,337334).
- si_UNPD(prk,2010,313576).
- si_UNPD(prk,2011,315488).
- si_UNPD(prk,2012,322522).
- si_UNPD(prk,2013,329886).
- si_UNPD(prk,2014,338014).
- si_UNPD(prk,2015,341947).
- si_UNPD(prk,2016,343423).
- si_UNPD(prk,2017,344850).
- si_UNPD(prk,2018,345826).
- si_UNPD(prk,2019,347400).
- si_UNPD(prk,2020,344896).
- si_UNPD(prk,2021,343885).
- si_UNPD(prk,2022,340407).
- si_UNPD(prk,2023,338531).
- si_UNPD(prk,2024,334005).
- si_UNPD(prk,2025,330197).
- si_UNPD(prk,2026,326245).
- si_UNPD(prk,2027,321344).
- si_UNPD(prk,2028,315938).
- si_UNPD(prk,2029,308992).
- si_UNPD(prk,2030,304323).
+si_UNPD(prk,1997,417313).
+ si_UNPD(prk,1998,410769).
+ si_UNPD(prk,1999,401320).
+ si_UNPD(prk,2000,388734).
+ si_UNPD(prk,2001,380692).
+ si_UNPD(prk,2002,362698).
+ si_UNPD(prk,2003,354814).
+ si_UNPD(prk,2004,352092).
+ si_UNPD(prk,2005,342293).
+ si_UNPD(prk,2006,336593).
+ si_UNPD(prk,2007,332658).
+ si_UNPD(prk,2008,334665).
+ si_UNPD(prk,2009,330091).
+ si_UNPD(prk,2010,307104).
+ si_UNPD(prk,2011,309347).
+ si_UNPD(prk,2012,316670).
+ si_UNPD(prk,2013,324317).
+ si_UNPD(prk,2014,332677).
+ si_UNPD(prk,2015,336855).
+ si_UNPD(prk,2016,338507).
+ si_UNPD(prk,2017,340214).
+ si_UNPD(prk,2018,341369).
+ si_UNPD(prk,2019,343149).
+ si_UNPD(prk,2020,340864).
+ si_UNPD(prk,2021,340046).
+ si_UNPD(prk,2022,336352).
+ si_UNPD(prk,2023,334590).
+ si_UNPD(prk,2024,330200).
+ si_UNPD(prk,2025,326512).
+ si_UNPD(prk,2026,322682).
+ si_UNPD(prk,2027,317907).
+ si_UNPD(prk,2028,312629).
+ si_UNPD(prk,2029,305824).
+ si_UNPD(prk,2030,301268).
 
 survey_results(prk,pol3,1997,prk1998231,[title:'NA',type:'23',yrcoll:'1998',cr: 94,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:294], 76.5).
 

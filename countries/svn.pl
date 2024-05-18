@@ -1,8 +1,8 @@
 %  Slovenia - SVN 
-%  Wed Sep 06 19:07:16 2023 
+%  Fri May 17 12:21:30 2024 
 
 country(svn,'Slovenia'). 
-date('Wed Sep 06 19:07:16 2023').
+date('Fri May 17 12:21:30 2024').
 
 estimate_required(svn,bcg,1997,na,'na').
  estimate_required(svn,bcg,1998,na,'na').
@@ -630,40 +630,40 @@ births_UNPD(svn,1997,18382).
  births_UNPD(svn,2029,17261).
  births_UNPD(svn,2030,17218).
 
-si_UNPD(svn,1997,18382).
- si_UNPD(svn,1998,18028).
- si_UNPD(svn,1999,17762).
- si_UNPD(svn,2000,18198).
- si_UNPD(svn,2001,17613).
- si_UNPD(svn,2002,17548).
- si_UNPD(svn,2003,17418).
- si_UNPD(svn,2004,18079).
- si_UNPD(svn,2005,18368).
- si_UNPD(svn,2006,19206).
- si_UNPD(svn,2007,20203).
- si_UNPD(svn,2008,22111).
- si_UNPD(svn,2009,22262).
- si_UNPD(svn,2010,22715).
- si_UNPD(svn,2011,22437).
- si_UNPD(svn,2012,22308).
- si_UNPD(svn,2013,21547).
- si_UNPD(svn,2014,21546).
- si_UNPD(svn,2015,21162).
- si_UNPD(svn,2016,20894).
- si_UNPD(svn,2017,20834).
- si_UNPD(svn,2018,20231).
- si_UNPD(svn,2019,19865).
- si_UNPD(svn,2020,19126).
- si_UNPD(svn,2021,19147).
- si_UNPD(svn,2022,18836).
- si_UNPD(svn,2023,18520).
- si_UNPD(svn,2024,18225).
- si_UNPD(svn,2025,17960).
- si_UNPD(svn,2026,17754).
- si_UNPD(svn,2027,17577).
- si_UNPD(svn,2028,17418).
- si_UNPD(svn,2029,17261).
- si_UNPD(svn,2030,17218).
+si_UNPD(svn,1997,18287).
+ si_UNPD(svn,1998,17931).
+ si_UNPD(svn,1999,17678).
+ si_UNPD(svn,2000,18115).
+ si_UNPD(svn,2001,17536).
+ si_UNPD(svn,2002,17483).
+ si_UNPD(svn,2003,17355).
+ si_UNPD(svn,2004,18012).
+ si_UNPD(svn,2005,18299).
+ si_UNPD(svn,2006,19148).
+ si_UNPD(svn,2007,20153).
+ si_UNPD(svn,2008,22058).
+ si_UNPD(svn,2009,22213).
+ si_UNPD(svn,2010,22667).
+ si_UNPD(svn,2011,22382).
+ si_UNPD(svn,2012,22274).
+ si_UNPD(svn,2013,21498).
+ si_UNPD(svn,2014,21512).
+ si_UNPD(svn,2015,21131).
+ si_UNPD(svn,2016,20857).
+ si_UNPD(svn,2017,20800).
+ si_UNPD(svn,2018,20202).
+ si_UNPD(svn,2019,19830).
+ si_UNPD(svn,2020,19093).
+ si_UNPD(svn,2021,19115).
+ si_UNPD(svn,2022,18813).
+ si_UNPD(svn,2023,18499).
+ si_UNPD(svn,2024,18205).
+ si_UNPD(svn,2025,17941).
+ si_UNPD(svn,2026,17736).
+ si_UNPD(svn,2027,17560).
+ si_UNPD(svn,2028,17402).
+ si_UNPD(svn,2029,17246).
+ si_UNPD(svn,2030,17203).
 
 wgd(svn,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).
  wgd(svn,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).

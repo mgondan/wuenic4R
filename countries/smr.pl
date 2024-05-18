@@ -1,8 +1,8 @@
 %  San Marino - SMR 
-%  Wed Sep 06 19:06:14 2023 
+%  Fri May 17 12:20:32 2024 
 
 country(smr,'San Marino'). 
-date('Wed Sep 06 19:06:14 2023').
+date('Fri May 17 12:20:32 2024').
 
 estimate_required(smr,dtp1,1997,na,'na').
  estimate_required(smr,dtp1,1998,na,'na').
@@ -1199,26 +1199,26 @@ births_UNPD(smr,1997,310).
  births_UNPD(smr,2029,208).
  births_UNPD(smr,2030,213).
 
-si_UNPD(smr,1997,310).
- si_UNPD(smr,1998,318).
- si_UNPD(smr,1999,322).
- si_UNPD(smr,2000,311).
- si_UNPD(smr,2001,345).
- si_UNPD(smr,2002,336).
- si_UNPD(smr,2003,337).
- si_UNPD(smr,2004,337).
- si_UNPD(smr,2005,287).
- si_UNPD(smr,2006,299).
- si_UNPD(smr,2007,307).
- si_UNPD(smr,2008,357).
- si_UNPD(smr,2009,305).
- si_UNPD(smr,2010,324).
- si_UNPD(smr,2011,324).
- si_UNPD(smr,2012,290).
- si_UNPD(smr,2013,326).
- si_UNPD(smr,2014,277).
- si_UNPD(smr,2015,253).
- si_UNPD(smr,2016,231).
+si_UNPD(smr,1997,308).
+ si_UNPD(smr,1998,316).
+ si_UNPD(smr,1999,320).
+ si_UNPD(smr,2000,309).
+ si_UNPD(smr,2001,343).
+ si_UNPD(smr,2002,335).
+ si_UNPD(smr,2003,336).
+ si_UNPD(smr,2004,336).
+ si_UNPD(smr,2005,286).
+ si_UNPD(smr,2006,298).
+ si_UNPD(smr,2007,306).
+ si_UNPD(smr,2008,356).
+ si_UNPD(smr,2009,304).
+ si_UNPD(smr,2010,323).
+ si_UNPD(smr,2011,323).
+ si_UNPD(smr,2012,289).
+ si_UNPD(smr,2013,325).
+ si_UNPD(smr,2014,276).
+ si_UNPD(smr,2015,252).
+ si_UNPD(smr,2016,230).
  si_UNPD(smr,2017,209).
  si_UNPD(smr,2018,210).
  si_UNPD(smr,2019,209).

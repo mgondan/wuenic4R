@@ -1,8 +1,8 @@
 %  South Africa - ZAF 
-%  Wed Sep 06 19:12:13 2023 
+%  Fri May 17 12:26:47 2024 
 
 country(zaf,'South Africa'). 
-date('Wed Sep 06 19:12:13 2023').
+date('Fri May 17 12:26:47 2024').
 
 estimate_required(zaf,bcg,1997,na,'na').
  estimate_required(zaf,bcg,1998,na,'na').
@@ -1394,40 +1394,40 @@ births_UNPD(zaf,1997,1054866).
  births_UNPD(zaf,2029,1085681).
  births_UNPD(zaf,2030,1082293).
 
-si_UNPD(zaf,1997,1054866).
- si_UNPD(zaf,1998,1028046).
- si_UNPD(zaf,1999,1013752).
- si_UNPD(zaf,2000,969828).
- si_UNPD(zaf,2001,963390).
- si_UNPD(zaf,2002,954574).
- si_UNPD(zaf,2003,984308).
- si_UNPD(zaf,2004,1031997).
- si_UNPD(zaf,2005,1074006).
- si_UNPD(zaf,2006,1111171).
- si_UNPD(zaf,2007,1131070).
- si_UNPD(zaf,2008,1217792).
- si_UNPD(zaf,2009,1158903).
- si_UNPD(zaf,2010,1152671).
- si_UNPD(zaf,2011,1167985).
- si_UNPD(zaf,2012,1187329).
- si_UNPD(zaf,2013,1194069).
- si_UNPD(zaf,2014,1204040).
- si_UNPD(zaf,2015,1183143).
- si_UNPD(zaf,2016,1151026).
- si_UNPD(zaf,2017,1169583).
- si_UNPD(zaf,2018,1212008).
- si_UNPD(zaf,2019,1235776).
- si_UNPD(zaf,2020,1194619).
- si_UNPD(zaf,2021,1176955).
- si_UNPD(zaf,2022,1155858).
- si_UNPD(zaf,2023,1140735).
- si_UNPD(zaf,2024,1127932).
- si_UNPD(zaf,2025,1114545).
- si_UNPD(zaf,2026,1105630).
- si_UNPD(zaf,2027,1097949).
- si_UNPD(zaf,2028,1089004).
- si_UNPD(zaf,2029,1085681).
- si_UNPD(zaf,2030,1082293).
+si_UNPD(zaf,1997,1014900).
+ si_UNPD(zaf,1998,988879).
+ si_UNPD(zaf,1999,974775).
+ si_UNPD(zaf,2000,933576).
+ si_UNPD(zaf,2001,926432).
+ si_UNPD(zaf,2002,915209).
+ si_UNPD(zaf,2003,942728).
+ si_UNPD(zaf,2004,989872).
+ si_UNPD(zaf,2005,1029701).
+ si_UNPD(zaf,2006,1066888).
+ si_UNPD(zaf,2007,1086940).
+ si_UNPD(zaf,2008,1172612).
+ si_UNPD(zaf,2009,1120596).
+ si_UNPD(zaf,2010,1118107).
+ si_UNPD(zaf,2011,1138934).
+ si_UNPD(zaf,2012,1158579).
+ si_UNPD(zaf,2013,1163264).
+ si_UNPD(zaf,2014,1173473).
+ si_UNPD(zaf,2015,1154280).
+ si_UNPD(zaf,2016,1124599).
+ si_UNPD(zaf,2017,1145117).
+ si_UNPD(zaf,2018,1184869).
+ si_UNPD(zaf,2019,1206809).
+ si_UNPD(zaf,2020,1172109).
+ si_UNPD(zaf,2021,1149260).
+ si_UNPD(zaf,2022,1127365).
+ si_UNPD(zaf,2023,1113795).
+ si_UNPD(zaf,2024,1106820).
+ si_UNPD(zaf,2025,1094056).
+ si_UNPD(zaf,2026,1085669).
+ si_UNPD(zaf,2027,1078503).
+ si_UNPD(zaf,2028,1070060).
+ si_UNPD(zaf,2029,1067125).
+ si_UNPD(zaf,2030,1064130).
 
 survey_results(zaf,pol3,1997,zaf1998141,[title:'South Africa Demographic and Health Survey 1998',type:'14',yrcoll:'1998',cr:75,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:973], 72).
 

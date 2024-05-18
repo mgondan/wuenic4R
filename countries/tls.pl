@@ -1,8 +1,8 @@
 %  Timor-Leste - TLS 
-%  Wed Sep 06 19:08:54 2023 
+%  Fri May 17 12:23:05 2024 
 
 country(tls,'Timor-Leste'). 
-date('Wed Sep 06 19:08:54 2023').
+date('Fri May 17 12:23:05 2024').
 
 estimate_required(tls,bcg,2002,na,'na').
  estimate_required(tls,bcg,2003,na,'na').
@@ -958,35 +958,35 @@ births_UNPD(tls,2002,35639).
  births_UNPD(tls,2029,33035).
  births_UNPD(tls,2030,32768).
 
-si_UNPD(tls,2002,35639).
- si_UNPD(tls,2003,35684).
- si_UNPD(tls,2004,35680).
- si_UNPD(tls,2005,35380).
- si_UNPD(tls,2006,35183).
- si_UNPD(tls,2007,34880).
- si_UNPD(tls,2008,34655).
- si_UNPD(tls,2009,34510).
- si_UNPD(tls,2010,34209).
- si_UNPD(tls,2011,34139).
- si_UNPD(tls,2012,33937).
- si_UNPD(tls,2013,33878).
- si_UNPD(tls,2014,33714).
- si_UNPD(tls,2015,33482).
- si_UNPD(tls,2016,33157).
- si_UNPD(tls,2017,33001).
- si_UNPD(tls,2018,32777).
- si_UNPD(tls,2019,32733).
- si_UNPD(tls,2020,32882).
- si_UNPD(tls,2021,32976).
- si_UNPD(tls,2022,33074).
- si_UNPD(tls,2023,33096).
- si_UNPD(tls,2024,33096).
- si_UNPD(tls,2025,33182).
- si_UNPD(tls,2026,33254).
- si_UNPD(tls,2027,33206).
- si_UNPD(tls,2028,33091).
- si_UNPD(tls,2029,33035).
- si_UNPD(tls,2030,32768).
+si_UNPD(tls,2002,33758).
+ si_UNPD(tls,2003,33866).
+ si_UNPD(tls,2004,33933).
+ si_UNPD(tls,2005,33718).
+ si_UNPD(tls,2006,33598).
+ si_UNPD(tls,2007,33371).
+ si_UNPD(tls,2008,33213).
+ si_UNPD(tls,2009,33125).
+ si_UNPD(tls,2010,32880).
+ si_UNPD(tls,2011,32851).
+ si_UNPD(tls,2012,32694).
+ si_UNPD(tls,2013,32672).
+ si_UNPD(tls,2014,32549).
+ si_UNPD(tls,2015,32360).
+ si_UNPD(tls,2016,32076).
+ si_UNPD(tls,2017,31955).
+ si_UNPD(tls,2018,31765).
+ si_UNPD(tls,2019,31747).
+ si_UNPD(tls,2020,31915).
+ si_UNPD(tls,2021,32027).
+ si_UNPD(tls,2022,32187).
+ si_UNPD(tls,2023,32244).
+ si_UNPD(tls,2024,32276).
+ si_UNPD(tls,2025,32390).
+ si_UNPD(tls,2026,32490).
+ si_UNPD(tls,2027,32472).
+ si_UNPD(tls,2028,32386).
+ si_UNPD(tls,2029,32358).
+ si_UNPD(tls,2030,32120).
 
 survey_results(tls,mcv1,2001,tls2002231,[title:'Multiple Indicator Cluster Survey Timor-Leste 2002',type:'23',yrcoll:'2002',cr:10,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:988], 24).
 
@@ -1338,35 +1338,7 @@ survey_results(tls,mcv1,2001,tls2002231,[title:'Multiple Indicator Cluster Surve
 
 
 
-wgd(tls,ipv1,2016,2016,comment,' Inactivated polio vaccine introduced during 2016. Reporting began in 2016.',na,na,na,na).
- wgd(tls,ipv1,2017,2017,assignWUENIC,' Estimate is based on survey result.',na,80,na,na).
- wgd(tls,ipv1,2018,2018,acceptReported,'.',na,na,na,na).
- wgd(tls,mcv1,2002,2002,assignAnchor,' Subsequent revision of denominator based on 2005 census.',na,56,na,na).
- wgd(tls,mcv1,2003,2003,assignAnchor,' Subsequent revision of denominator based on 2005 census',na,55,na,na).
- wgd(tls,mcv1,2004,2004,assignAnchor,' Subsequent revision of denominator based on 2005 census',na,55,na,na).
- wgd(tls,mcv1,2013,2013,comment,' Programme reports four months stockout at national level and in four districts.',na,na,na,na).
- wgd(tls,mcv1,2015,2015,comment,' WHO and UNICEF are aware of two sub-national surveys conducted during 2015 reflecting coverage for the 2013-14 birth cohorts and encourages efforts to appropriately re-weight the survey results to produce national level coverage results.',na,na,na,na).
- wgd(tls,mcv1,2015,2016,internalComment,' The reported target population estimates for 2016 are lower than those for 2015 due in part to a change from use of projections from the 2009 census to projections from the 2015 census.',na,na,na,na).
- wgd(tls,mcv1,2016,2016,comment,' The reported number of children vaccinated includes children beyond one-year of age but the proportion above one-year is unknown. The reported target population estimates for 2016 are lower than those for 2015 due in part to a change from use of projections from 2010 census to 2015 census.',na,na,na,na).
- wgd(tls,mcv1,2017,2017,assignAnchor,' Estimate is based on survey result.',na,77,na,na).
- wgd(tls,mcv1,2018,2018,assignAnchor,' Estimate is based on reported data.',na,77,na,na).
- wgd(tls,mcv2,2016,2016,assignWUENIC,' Estimate is exceptionally based on reported coverage during introduction year.',na,30,na,na).
- wgd(tls,mcv2,2016,2016,comment,' Second dose of measles containing vaccine introduced in 2016. Reported data exceptionally accepted.',na,na,na,na).
- wgd(tls,mcv2,2017,2017,assignWUENIC,' Estimate is based on the relative difference between estimated and reported coverage for MCV1.',na,57,na,na).
- wgd(tls,mcv2,2018,2018,acceptReported,' Estimate is based on reported.',na,na,na,na).
- wgd(tls,mcv2,2019,2019,acceptReported,'.',na,na,na,na).
- wgd(tls,pol3,2002,2002,assignAnchor,' Subsequent revision of denominator based on 2005 census.',na,38,na,na).
- wgd(tls,pol3,2003,2003,assignAnchor,' Subsequent revision of denominator based on 2005 census.',na,55,na,na).
- wgd(tls,pol3,2004,2004,assignAnchor,' Subsequent revision of denominator based on 2005 census.',na,57,na,na).
- wgd(tls,pol3,2015,2015,comment,' WHO and UNICEF are aware of two sub-national surveys conducted during 2015 reflecting coverage for the 2013-14 birth cohorts and encourages efforts to appropriately re-weight the survey results to produce national level coverage results.',na,na,na,na).
- wgd(tls,pol3,2016,2016,comment,' The reported number of children vaccinated includes children beyond one-year of age but the proportion above one-year is unknown. The reported target population estimates for 2016 are lower than those for 2015 due in part to a change from use of projections from 2010 census to 2015 census.',na,na,na,na).
- wgd(tls,pol3,2017,2017,assignAnchor,' Estimate is based on survey result. Information was not available in the survey report to adjust for recall bias.',na,83,na,na).
- wgd(tls,pol3,2018,2018,acceptReported,' Estimate is based on reported.',na,na,na,na).
- wgd(tls,pol3,2018,2018,assignAnchor,' Estimate is based on reported data.',na,83,na,na).
- wgd(tls,rcv1,2016,2016,comment,' Rubella containing vaccine introduced during 2016.',na,na,na,na).
- wgd(tls,rotac,2021,2021,assignWUENIC,' Vaccine introduced in December 2019, and reporting began in 2021. An exception to the approach used for other antigens, estimate is informed by the reported data during vaccine introduction period.',na,80,na,na).
- wgd(tls,rotac,2022,2022,assignWUENIC,' Estimate informed by prior year estimate consistent with other vaccines.',na,80,na,na).
- wgd(tls,X,2014,2015,assignGoC,' Consistency across vaccines.',na,1,na,na).
+wgd(tls,X,2014,2015,assignGoC,' Consistency across vaccines.',na,1,na,na).
  wgd(tls,X,2015,2015,ignoreGov,' Official government reported data based on two subnational surveys conducted during 2015.',na,na,na,na).
  wgd(tls,X,2016,2016,ignoreReported,' Adjustment to reported official estimates is unexplained.',na,na,na,na).
  wgd(tls,X,2017,2017,ignoreReported,' Adjustment to reported official estimates is unexplained.',na,na,na,na).
@@ -1429,4 +1401,32 @@ wgd(tls,ipv1,2016,2016,comment,' Inactivated polio vaccine introduced during 201
  wgd(tls,hib3,2018,2018,assignAnchor,' Estimate is based on reported data.',na,83,na,na).
  wgd(tls,hib3,2019,2019,internalComment,' Data are excluded pending further clarification on conflicting patterns observed across DTP1 and DTP3.',na,na,na,na).
  wgd(tls,ipv1,2016,2016,assignWUENIC,' Estimate is based on recomputed coverage reported by the country using target population data from the 2009 census.',na,48,na,na).
+ wgd(tls,ipv1,2016,2016,comment,' Inactivated polio vaccine introduced during 2016. Reporting began in 2016.',na,na,na,na).
+ wgd(tls,ipv1,2017,2017,assignWUENIC,' Estimate is based on survey result.',na,80,na,na).
+ wgd(tls,ipv1,2018,2018,acceptReported,'.',na,na,na,na).
+ wgd(tls,mcv1,2002,2002,assignAnchor,' Subsequent revision of denominator based on 2005 census.',na,56,na,na).
+ wgd(tls,mcv1,2003,2003,assignAnchor,' Subsequent revision of denominator based on 2005 census',na,55,na,na).
+ wgd(tls,mcv1,2004,2004,assignAnchor,' Subsequent revision of denominator based on 2005 census',na,55,na,na).
+ wgd(tls,mcv1,2013,2013,comment,' Programme reports four months stockout at national level and in four districts.',na,na,na,na).
+ wgd(tls,mcv1,2015,2015,comment,' WHO and UNICEF are aware of two sub-national surveys conducted during 2015 reflecting coverage for the 2013-14 birth cohorts and encourages efforts to appropriately re-weight the survey results to produce national level coverage results.',na,na,na,na).
+ wgd(tls,mcv1,2015,2016,internalComment,' The reported target population estimates for 2016 are lower than those for 2015 due in part to a change from use of projections from the 2009 census to projections from the 2015 census.',na,na,na,na).
+ wgd(tls,mcv1,2016,2016,comment,' The reported number of children vaccinated includes children beyond one-year of age but the proportion above one-year is unknown. The reported target population estimates for 2016 are lower than those for 2015 due in part to a change from use of projections from 2010 census to 2015 census.',na,na,na,na).
+ wgd(tls,mcv1,2017,2017,assignAnchor,' Estimate is based on survey result.',na,77,na,na).
+ wgd(tls,mcv1,2018,2018,assignAnchor,' Estimate is based on reported data.',na,77,na,na).
+ wgd(tls,mcv2,2016,2016,assignWUENIC,' Estimate is exceptionally based on reported coverage during introduction year.',na,30,na,na).
+ wgd(tls,mcv2,2016,2016,comment,' Second dose of measles containing vaccine introduced in 2016. Reported data exceptionally accepted.',na,na,na,na).
+ wgd(tls,mcv2,2017,2017,assignWUENIC,' Estimate is based on the relative difference between estimated and reported coverage for MCV1.',na,57,na,na).
+ wgd(tls,mcv2,2018,2018,acceptReported,' Estimate is based on reported.',na,na,na,na).
+ wgd(tls,mcv2,2019,2019,acceptReported,'.',na,na,na,na).
+ wgd(tls,pol3,2002,2002,assignAnchor,' Subsequent revision of denominator based on 2005 census.',na,38,na,na).
+ wgd(tls,pol3,2003,2003,assignAnchor,' Subsequent revision of denominator based on 2005 census.',na,55,na,na).
+ wgd(tls,pol3,2004,2004,assignAnchor,' Subsequent revision of denominator based on 2005 census.',na,57,na,na).
+ wgd(tls,pol3,2015,2015,comment,' WHO and UNICEF are aware of two sub-national surveys conducted during 2015 reflecting coverage for the 2013-14 birth cohorts and encourages efforts to appropriately re-weight the survey results to produce national level coverage results.',na,na,na,na).
+ wgd(tls,pol3,2016,2016,comment,' The reported number of children vaccinated includes children beyond one-year of age but the proportion above one-year is unknown. The reported target population estimates for 2016 are lower than those for 2015 due in part to a change from use of projections from 2010 census to 2015 census.',na,na,na,na).
+ wgd(tls,pol3,2017,2017,assignAnchor,' Estimate is based on survey result. Information was not available in the survey report to adjust for recall bias.',na,83,na,na).
+ wgd(tls,pol3,2018,2018,acceptReported,' Estimate is based on reported.',na,na,na,na).
+ wgd(tls,pol3,2018,2018,assignAnchor,' Estimate is based on reported data.',na,83,na,na).
+ wgd(tls,rcv1,2016,2016,comment,' Rubella containing vaccine introduced during 2016.',na,na,na,na).
+ wgd(tls,rotac,2021,2021,assignWUENIC,' Vaccine introduced in December 2019, and reporting began in 2021. An exception to the approach used for other antigens, estimate is informed by the reported data during vaccine introduction period.',na,80,na,na).
+ wgd(tls,rotac,2022,2022,assignWUENIC,' Estimate informed by prior year estimate consistent with other vaccines.',na,80,na,na).
 

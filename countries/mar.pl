@@ -1,8 +1,8 @@
 %  Morocco - MAR 
-%  Wed Sep 06 18:55:47 2023 
+%  Fri May 17 12:10:39 2024 
 
 country(mar,'Morocco'). 
-date('Wed Sep 06 18:55:47 2023').
+date('Fri May 17 12:10:39 2024').
 
 estimate_required(mar,bcg,1997,na,'na').
  estimate_required(mar,bcg,1998,na,'na').
@@ -1285,40 +1285,40 @@ births_UNPD(mar,1997,676443).
  births_UNPD(mar,2029,607325).
  births_UNPD(mar,2030,606213).
 
-si_UNPD(mar,1997,676443).
- si_UNPD(mar,1998,669214).
- si_UNPD(mar,1999,653958).
- si_UNPD(mar,2000,650258).
- si_UNPD(mar,2001,644491).
- si_UNPD(mar,2002,645080).
- si_UNPD(mar,2003,646256).
- si_UNPD(mar,2004,647727).
- si_UNPD(mar,2005,651843).
- si_UNPD(mar,2006,659022).
- si_UNPD(mar,2007,665180).
- si_UNPD(mar,2008,672527).
- si_UNPD(mar,2009,687075).
- si_UNPD(mar,2010,695643).
- si_UNPD(mar,2011,708502).
- si_UNPD(mar,2012,711273).
- si_UNPD(mar,2013,715388).
- si_UNPD(mar,2014,706790).
- si_UNPD(mar,2015,705071).
- si_UNPD(mar,2016,684405).
- si_UNPD(mar,2017,686331).
- si_UNPD(mar,2018,676690).
- si_UNPD(mar,2019,666487).
- si_UNPD(mar,2020,656572).
- si_UNPD(mar,2021,650892).
- si_UNPD(mar,2022,643109).
- si_UNPD(mar,2023,637479).
- si_UNPD(mar,2024,630394).
- si_UNPD(mar,2025,623362).
- si_UNPD(mar,2026,618090).
- si_UNPD(mar,2027,614297).
- si_UNPD(mar,2028,611320).
- si_UNPD(mar,2029,607325).
- si_UNPD(mar,2030,606213).
+si_UNPD(mar,1997,650764).
+ si_UNPD(mar,1998,644552).
+ si_UNPD(mar,1999,630586).
+ si_UNPD(mar,2000,627742).
+ si_UNPD(mar,2001,622930).
+ si_UNPD(mar,2002,624208).
+ si_UNPD(mar,2003,626063).
+ si_UNPD(mar,2004,628177).
+ si_UNPD(mar,2005,632985).
+ si_UNPD(mar,2006,640765).
+ si_UNPD(mar,2007,647658).
+ si_UNPD(mar,2008,655661).
+ si_UNPD(mar,2009,670640).
+ si_UNPD(mar,2010,679733).
+ si_UNPD(mar,2011,693082).
+ si_UNPD(mar,2012,696507).
+ si_UNPD(mar,2013,701306).
+ si_UNPD(mar,2014,693579).
+ si_UNPD(mar,2015,692517).
+ si_UNPD(mar,2016,672769).
+ si_UNPD(mar,2017,675176).
+ si_UNPD(mar,2018,666122).
+ si_UNPD(mar,2019,656443).
+ si_UNPD(mar,2020,647003).
+ si_UNPD(mar,2021,641736).
+ si_UNPD(mar,2022,634624).
+ si_UNPD(mar,2023,629433).
+ si_UNPD(mar,2024,622783).
+ si_UNPD(mar,2025,616160).
+ si_UNPD(mar,2026,611255).
+ si_UNPD(mar,2027,607799).
+ si_UNPD(mar,2028,605121).
+ si_UNPD(mar,2029,601437).
+ si_UNPD(mar,2030,600584).
 
 survey_results(mar,mcv1,2002,mar2003141,[title:'Morocco Demographic and Health Survey 2003-2004',type:'14',yrcoll:'2003',cr:78,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:1130], 85).
 

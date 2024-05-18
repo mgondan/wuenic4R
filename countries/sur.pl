@@ -1,8 +1,8 @@
 %  Suriname - SUR 
-%  Wed Sep 06 19:07:00 2023 
+%  Fri May 17 12:21:15 2024 
 
 country(sur,'Suriname'). 
-date('Wed Sep 06 19:07:00 2023').
+date('Fri May 17 12:21:15 2024').
 
 estimate_required(sur,dtp1,1997,na,'na').
  estimate_required(sur,dtp1,1998,na,'na').
@@ -1152,40 +1152,40 @@ births_UNPD(sur,1997,11728).
  births_UNPD(sur,2029,10912).
  births_UNPD(sur,2030,10889).
 
-si_UNPD(sur,1997,11728).
- si_UNPD(sur,1998,11629).
- si_UNPD(sur,1999,11575).
- si_UNPD(sur,2000,11582).
- si_UNPD(sur,2001,11622).
- si_UNPD(sur,2002,11635).
- si_UNPD(sur,2003,11619).
- si_UNPD(sur,2004,11598).
- si_UNPD(sur,2005,11514).
- si_UNPD(sur,2006,11438).
- si_UNPD(sur,2007,11352).
- si_UNPD(sur,2008,11266).
- si_UNPD(sur,2009,11192).
- si_UNPD(sur,2010,11130).
- si_UNPD(sur,2011,11087).
- si_UNPD(sur,2012,11056).
- si_UNPD(sur,2013,11033).
- si_UNPD(sur,2014,11024).
- si_UNPD(sur,2015,11017).
- si_UNPD(sur,2016,11005).
- si_UNPD(sur,2017,11031).
- si_UNPD(sur,2018,11038).
- si_UNPD(sur,2019,11049).
- si_UNPD(sur,2020,11100).
- si_UNPD(sur,2021,11133).
- si_UNPD(sur,2022,11123).
- si_UNPD(sur,2023,11086).
- si_UNPD(sur,2024,11075).
- si_UNPD(sur,2025,11029).
- si_UNPD(sur,2026,10995).
- si_UNPD(sur,2027,10952).
- si_UNPD(sur,2028,10917).
- si_UNPD(sur,2029,10912).
- si_UNPD(sur,2030,10889).
+si_UNPD(sur,1997,11418).
+ si_UNPD(sur,1998,11331).
+ si_UNPD(sur,1999,11288).
+ si_UNPD(sur,2000,11303).
+ si_UNPD(sur,2001,11351).
+ si_UNPD(sur,2002,11371).
+ si_UNPD(sur,2003,11363).
+ si_UNPD(sur,2004,11349).
+ si_UNPD(sur,2005,11273).
+ si_UNPD(sur,2006,11204).
+ si_UNPD(sur,2007,11127).
+ si_UNPD(sur,2008,11048).
+ si_UNPD(sur,2009,10982).
+ si_UNPD(sur,2010,10926).
+ si_UNPD(sur,2011,10889).
+ si_UNPD(sur,2012,10864).
+ si_UNPD(sur,2013,10846).
+ si_UNPD(sur,2014,10842).
+ si_UNPD(sur,2015,10840).
+ si_UNPD(sur,2016,10833).
+ si_UNPD(sur,2017,10864).
+ si_UNPD(sur,2018,10875).
+ si_UNPD(sur,2019,10891).
+ si_UNPD(sur,2020,10946).
+ si_UNPD(sur,2021,10983).
+ si_UNPD(sur,2022,10965).
+ si_UNPD(sur,2023,10947).
+ si_UNPD(sur,2024,10939).
+ si_UNPD(sur,2025,10898).
+ si_UNPD(sur,2026,10868).
+ si_UNPD(sur,2027,10829).
+ si_UNPD(sur,2028,10797).
+ si_UNPD(sur,2029,10794).
+ si_UNPD(sur,2030,10774).
 
 survey_results(sur,pol1,1999,sur1999231,[title:'Suriname Multiple Indicator Cluster Survey 2000, 2001',type:'23',yrcoll:'1999',cr:85,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:376],  4).
 

@@ -1,8 +1,8 @@
 %  Cambodia - KHM 
-%  Wed Sep 06 18:53:03 2023 
+%  Fri May 17 12:08:02 2024 
 
 country(khm,'Cambodia'). 
-date('Wed Sep 06 18:53:03 2023').
+date('Fri May 17 12:08:02 2024').
 
 estimate_required(khm,bcg,1997,na,'na').
  estimate_required(khm,bcg,1998,na,'na').
@@ -1146,40 +1146,40 @@ births_UNPD(khm,1997,361791).
  births_UNPD(khm,2029,302612).
  births_UNPD(khm,2030,301287).
 
-si_UNPD(khm,1997,361791).
- si_UNPD(khm,1998,343343).
- si_UNPD(khm,1999,341083).
- si_UNPD(khm,2000,334039).
- si_UNPD(khm,2001,332245).
- si_UNPD(khm,2002,332112).
- si_UNPD(khm,2003,330996).
- si_UNPD(khm,2004,331909).
- si_UNPD(khm,2005,333855).
- si_UNPD(khm,2006,335562).
- si_UNPD(khm,2007,341590).
- si_UNPD(khm,2008,341495).
- si_UNPD(khm,2009,341521).
- si_UNPD(khm,2010,340475).
- si_UNPD(khm,2011,341089).
- si_UNPD(khm,2012,344997).
- si_UNPD(khm,2013,346065).
- si_UNPD(khm,2014,346996).
- si_UNPD(khm,2015,345053).
- si_UNPD(khm,2016,342034).
- si_UNPD(khm,2017,338417).
- si_UNPD(khm,2018,333912).
- si_UNPD(khm,2019,329219).
- si_UNPD(khm,2020,325659).
- si_UNPD(khm,2021,320934).
- si_UNPD(khm,2022,318335).
- si_UNPD(khm,2023,313156).
- si_UNPD(khm,2024,310610).
- si_UNPD(khm,2025,307406).
- si_UNPD(khm,2026,305439).
- si_UNPD(khm,2027,302873).
- si_UNPD(khm,2028,302793).
- si_UNPD(khm,2029,302612).
- si_UNPD(khm,2030,301287).
+si_UNPD(khm,1997,339275).
+ si_UNPD(khm,1998,322181).
+ si_UNPD(khm,1999,320504).
+ si_UNPD(khm,2000,314614).
+ si_UNPD(khm,2001,314075).
+ si_UNPD(khm,2002,315204).
+ si_UNPD(khm,2003,315333).
+ si_UNPD(khm,2004,317261).
+ si_UNPD(khm,2005,320050).
+ si_UNPD(khm,2006,322493).
+ si_UNPD(khm,2007,329022).
+ si_UNPD(khm,2008,329669).
+ si_UNPD(khm,2009,330403).
+ si_UNPD(khm,2010,330077).
+ si_UNPD(khm,2011,331278).
+ si_UNPD(khm,2012,335699).
+ si_UNPD(khm,2013,337198).
+ si_UNPD(khm,2014,338544).
+ si_UNPD(khm,2015,337019).
+ si_UNPD(khm,2016,334383).
+ si_UNPD(khm,2017,331141).
+ si_UNPD(khm,2018,326996).
+ si_UNPD(khm,2019,322639).
+ si_UNPD(khm,2020,319367).
+ si_UNPD(khm,2021,314929).
+ si_UNPD(khm,2022,312448).
+ si_UNPD(khm,2023,307691).
+ si_UNPD(khm,2024,305361).
+ si_UNPD(khm,2025,302378).
+ si_UNPD(khm,2026,300601).
+ si_UNPD(khm,2027,298222).
+ si_UNPD(khm,2028,298291).
+ si_UNPD(khm,2029,298228).
+ si_UNPD(khm,2030,297030).
 
 survey_results(khm,pol1,1997,khm1998141,[title:'National Health Survey Cambodia 1998, 1999',type:'14',yrcoll:'1998',cr: 0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:804], 33).
 

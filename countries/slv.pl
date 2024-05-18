@@ -1,8 +1,8 @@
 %  El Salvador - SLV 
-%  Wed Sep 06 19:06:06 2023 
+%  Fri May 17 12:20:24 2024 
 
 country(slv,'El Salvador'). 
-date('Wed Sep 06 19:06:06 2023').
+date('Fri May 17 12:20:24 2024').
 
 estimate_required(slv,bcg,1997,na,'na').
  estimate_required(slv,bcg,1998,na,'na').
@@ -1518,40 +1518,40 @@ births_UNPD(slv,1997,173320).
  births_UNPD(slv,2029,94555).
  births_UNPD(slv,2030,93781).
 
-si_UNPD(slv,1997,173320).
- si_UNPD(slv,1998,174063).
- si_UNPD(slv,1999,170366).
- si_UNPD(slv,2000,165106).
- si_UNPD(slv,2001,156957).
- si_UNPD(slv,2002,148356).
- si_UNPD(slv,2003,141275).
- si_UNPD(slv,2004,134314).
- si_UNPD(slv,2005,129364).
- si_UNPD(slv,2006,125812).
- si_UNPD(slv,2007,122579).
- si_UNPD(slv,2008,120773).
- si_UNPD(slv,2009,119840).
- si_UNPD(slv,2010,119321).
- si_UNPD(slv,2011,119415).
- si_UNPD(slv,2012,118481).
- si_UNPD(slv,2013,117801).
- si_UNPD(slv,2014,117262).
- si_UNPD(slv,2015,115153).
- si_UNPD(slv,2016,110186).
- si_UNPD(slv,2017,106787).
- si_UNPD(slv,2018,104224).
- si_UNPD(slv,2019,103547).
- si_UNPD(slv,2020,102067).
- si_UNPD(slv,2021,101405).
- si_UNPD(slv,2022,100313).
- si_UNPD(slv,2023,99670).
- si_UNPD(slv,2024,99127).
- si_UNPD(slv,2025,97997).
- si_UNPD(slv,2026,97406).
- si_UNPD(slv,2027,96505).
- si_UNPD(slv,2028,95430).
- si_UNPD(slv,2029,94555).
- si_UNPD(slv,2030,93781).
+si_UNPD(slv,1997,168518).
+ si_UNPD(slv,1998,169435).
+ si_UNPD(slv,1999,166089).
+ si_UNPD(slv,2000,161158).
+ si_UNPD(slv,2001,153334).
+ si_UNPD(slv,2002,145131).
+ si_UNPD(slv,2003,138331).
+ si_UNPD(slv,2004,131668).
+ si_UNPD(slv,2005,126935).
+ si_UNPD(slv,2006,123587).
+ si_UNPD(slv,2007,120521).
+ si_UNPD(slv,2008,118842).
+ si_UNPD(slv,2009,118006).
+ si_UNPD(slv,2010,117601).
+ si_UNPD(slv,2011,117770).
+ si_UNPD(slv,2012,116934).
+ si_UNPD(slv,2013,116331).
+ si_UNPD(slv,2014,115860).
+ si_UNPD(slv,2015,113830).
+ si_UNPD(slv,2016,108969).
+ si_UNPD(slv,2017,105651).
+ si_UNPD(slv,2018,103157).
+ si_UNPD(slv,2019,102524).
+ si_UNPD(slv,2020,101091).
+ si_UNPD(slv,2021,100463).
+ si_UNPD(slv,2022,99449).
+ si_UNPD(slv,2023,98826).
+ si_UNPD(slv,2024,98318).
+ si_UNPD(slv,2025,97226).
+ si_UNPD(slv,2026,96669).
+ si_UNPD(slv,2027,95800).
+ si_UNPD(slv,2028,94757).
+ si_UNPD(slv,2029,93905).
+ si_UNPD(slv,2030,93153).
 
 survey_results(slv,mcv1,1997,slv1998171,[title:'El Salvador Family Health Survey 1998',type:'17',yrcoll:'1998',cr: 60,confirm:'card <12 months',age:'12-23 m',timead:'',val:'crude',ss:5155], 59.4).
 

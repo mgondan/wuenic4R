@@ -1,8 +1,8 @@
 %  Somalia - SOM 
-%  Wed Sep 06 19:06:23 2023 
+%  Fri May 17 12:20:40 2024 
 
 country(som,'Somalia'). 
-date('Wed Sep 06 19:06:23 2023').
+date('Fri May 17 12:20:40 2024').
 
 estimate_required(som,bcg,1997,na,'na').
  estimate_required(som,bcg,1998,na,'na').
@@ -873,40 +873,40 @@ births_UNPD(som,1997,388239).
  births_UNPD(som,2029,860312).
  births_UNPD(som,2030,870711).
 
-si_UNPD(som,1997,388239).
- si_UNPD(som,1998,403112).
- si_UNPD(som,1999,418943).
- si_UNPD(som,2000,433978).
- si_UNPD(som,2001,450098).
- si_UNPD(som,2002,467423).
- si_UNPD(som,2003,481788).
- si_UNPD(som,2004,497780).
- si_UNPD(som,2005,512853).
- si_UNPD(som,2006,527402).
- si_UNPD(som,2007,538760).
- si_UNPD(som,2008,554707).
- si_UNPD(som,2009,564972).
- si_UNPD(som,2010,575837).
- si_UNPD(som,2011,588550).
- si_UNPD(som,2012,589585).
- si_UNPD(som,2013,603666).
- si_UNPD(som,2014,622191).
- si_UNPD(som,2015,640231).
- si_UNPD(som,2016,657011).
- si_UNPD(som,2017,674938).
- si_UNPD(som,2018,692627).
- si_UNPD(som,2019,711293).
- si_UNPD(som,2020,728149).
- si_UNPD(som,2021,743932).
- si_UNPD(som,2022,759044).
- si_UNPD(som,2023,774627).
- si_UNPD(som,2024,788171).
- si_UNPD(som,2025,802917).
- si_UNPD(som,2026,817449).
- si_UNPD(som,2027,832330).
- si_UNPD(som,2028,844515).
- si_UNPD(som,2029,860312).
- si_UNPD(som,2030,870711).
+si_UNPD(som,1997,360453).
+ si_UNPD(som,1998,374869).
+ si_UNPD(som,1999,389545).
+ si_UNPD(som,2000,403578).
+ si_UNPD(som,2001,418602).
+ si_UNPD(som,2002,434715).
+ si_UNPD(som,2003,448043).
+ si_UNPD(som,2004,462907).
+ si_UNPD(som,2005,476978).
+ si_UNPD(som,2006,490608).
+ si_UNPD(som,2007,501397).
+ si_UNPD(som,2008,517053).
+ si_UNPD(som,2009,527393).
+ si_UNPD(som,2010,536292).
+ si_UNPD(som,2011,549098).
+ si_UNPD(som,2012,552136).
+ si_UNPD(som,2013,566054).
+ si_UNPD(som,2014,584146).
+ si_UNPD(som,2015,601757).
+ si_UNPD(som,2016,618134).
+ si_UNPD(som,2017,635713).
+ si_UNPD(som,2018,653281).
+ si_UNPD(som,2019,671702).
+ si_UNPD(som,2020,688430).
+ si_UNPD(som,2021,704059).
+ si_UNPD(som,2022,720510).
+ si_UNPD(som,2023,736146).
+ si_UNPD(som,2024,748493).
+ si_UNPD(som,2025,760904).
+ si_UNPD(som,2026,775111).
+ si_UNPD(som,2027,789663).
+ si_UNPD(som,2028,801664).
+ si_UNPD(som,2029,817091).
+ si_UNPD(som,2030,827428).
 
 survey_results(som,pol3,1999,som2000231,[title:'MICS Somalia, 1999',type:'23',yrcoll:'2000',cr: 0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:490],40).
 

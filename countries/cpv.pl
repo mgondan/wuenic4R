@@ -1,8 +1,8 @@
 %  Cabo Verde - CPV 
-%  Wed Sep 06 18:43:06 2023 
+%  Fri May 17 11:58:37 2024 
 
 country(cpv,'Cabo Verde'). 
-date('Wed Sep 06 18:43:06 2023').
+date('Fri May 17 11:58:37 2024').
 
 estimate_required(cpv,bcg,1997,na,'na').
  estimate_required(cpv,bcg,1998,na,'na').
@@ -1201,40 +1201,40 @@ births_UNPD(cpv,1997,13684).
  births_UNPD(cpv,2029,9453).
  births_UNPD(cpv,2030,9398).
 
-si_UNPD(cpv,1997,13684).
- si_UNPD(cpv,1998,13537).
- si_UNPD(cpv,1999,13423).
- si_UNPD(cpv,2000,13339).
- si_UNPD(cpv,2001,13138).
- si_UNPD(cpv,2002,12947).
- si_UNPD(cpv,2003,12732).
- si_UNPD(cpv,2004,12529).
- si_UNPD(cpv,2005,12375).
- si_UNPD(cpv,2006,12217).
- si_UNPD(cpv,2007,12026).
- si_UNPD(cpv,2008,11921).
- si_UNPD(cpv,2009,11785).
- si_UNPD(cpv,2010,11263).
- si_UNPD(cpv,2011,11483).
- si_UNPD(cpv,2012,10813).
- si_UNPD(cpv,2013,10624).
- si_UNPD(cpv,2014,10686).
- si_UNPD(cpv,2015,10605).
- si_UNPD(cpv,2016,10786).
- si_UNPD(cpv,2017,10750).
- si_UNPD(cpv,2018,10188).
- si_UNPD(cpv,2019,10088).
- si_UNPD(cpv,2020,10008).
- si_UNPD(cpv,2021,9976).
- si_UNPD(cpv,2022,9908).
- si_UNPD(cpv,2023,9807).
- si_UNPD(cpv,2024,9763).
- si_UNPD(cpv,2025,9652).
- si_UNPD(cpv,2026,9623).
- si_UNPD(cpv,2027,9585).
- si_UNPD(cpv,2028,9521).
- si_UNPD(cpv,2029,9453).
- si_UNPD(cpv,2030,9398).
+si_UNPD(cpv,1997,13222).
+ si_UNPD(cpv,1998,13109).
+ si_UNPD(cpv,1999,13032).
+ si_UNPD(cpv,2000,12983).
+ si_UNPD(cpv,2001,12815).
+ si_UNPD(cpv,2002,12650).
+ si_UNPD(cpv,2003,12455).
+ si_UNPD(cpv,2004,12265).
+ si_UNPD(cpv,2005,12119).
+ si_UNPD(cpv,2006,11966).
+ si_UNPD(cpv,2007,11780).
+ si_UNPD(cpv,2008,11679).
+ si_UNPD(cpv,2009,11548).
+ si_UNPD(cpv,2010,11044).
+ si_UNPD(cpv,2011,11269).
+ si_UNPD(cpv,2012,10621).
+ si_UNPD(cpv,2013,10447).
+ si_UNPD(cpv,2014,10520).
+ si_UNPD(cpv,2015,10451).
+ si_UNPD(cpv,2016,10641).
+ si_UNPD(cpv,2017,10616).
+ si_UNPD(cpv,2018,10069).
+ si_UNPD(cpv,2019,9977).
+ si_UNPD(cpv,2020,9903).
+ si_UNPD(cpv,2021,9876).
+ si_UNPD(cpv,2022,9809).
+ si_UNPD(cpv,2023,9707).
+ si_UNPD(cpv,2024,9668).
+ si_UNPD(cpv,2025,9562).
+ si_UNPD(cpv,2026,9536).
+ si_UNPD(cpv,2027,9502).
+ si_UNPD(cpv,2028,9442).
+ si_UNPD(cpv,2029,9378).
+ si_UNPD(cpv,2030,9326).
 
 survey_results(cpv,dtp1,1999,cpv2000161,[title:'National Immunisation Coverage Survey, Cape Verde, 2000',type:'16',yrcoll:'2000',cr: 94,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:208], 93).
 

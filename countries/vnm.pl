@@ -1,8 +1,8 @@
 %  Viet Nam - VNM 
-%  Wed Sep 06 19:11:33 2023 
+%  Fri May 17 12:26:04 2024 
 
 country(vnm,'Viet Nam'). 
-date('Wed Sep 06 19:11:33 2023').
+date('Fri May 17 12:26:04 2024').
 
 estimate_required(vnm,bcg,1997,na,'na').
  estimate_required(vnm,bcg,1998,na,'na').
@@ -1105,40 +1105,40 @@ births_UNPD(vnm,1997,1472486).
  births_UNPD(vnm,2029,1315726).
  births_UNPD(vnm,2030,1303184).
 
-si_UNPD(vnm,1997,1472486).
- si_UNPD(vnm,1998,1427801).
- si_UNPD(vnm,1999,1412622).
- si_UNPD(vnm,2000,1427103).
- si_UNPD(vnm,2001,1435805).
- si_UNPD(vnm,2002,1464671).
- si_UNPD(vnm,2003,1458029).
- si_UNPD(vnm,2004,1471700).
- si_UNPD(vnm,2005,1453227).
- si_UNPD(vnm,2006,1427719).
- si_UNPD(vnm,2007,1448264).
- si_UNPD(vnm,2008,1468447).
- si_UNPD(vnm,2009,1471740).
- si_UNPD(vnm,2010,1477881).
- si_UNPD(vnm,2011,1495823).
- si_UNPD(vnm,2012,1525308).
- si_UNPD(vnm,2013,1548488).
- si_UNPD(vnm,2014,1549352).
- si_UNPD(vnm,2015,1547636).
- si_UNPD(vnm,2016,1530775).
- si_UNPD(vnm,2017,1513810).
- si_UNPD(vnm,2018,1506516).
- si_UNPD(vnm,2019,1500104).
- si_UNPD(vnm,2020,1488374).
- si_UNPD(vnm,2021,1462623).
- si_UNPD(vnm,2022,1442809).
- si_UNPD(vnm,2023,1418890).
- si_UNPD(vnm,2024,1397214).
- si_UNPD(vnm,2025,1376256).
- si_UNPD(vnm,2026,1360059).
- si_UNPD(vnm,2027,1346027).
- si_UNPD(vnm,2028,1328133).
- si_UNPD(vnm,2029,1315726).
- si_UNPD(vnm,2030,1303184).
+si_UNPD(vnm,1997,1438084).
+ si_UNPD(vnm,1998,1396111).
+ si_UNPD(vnm,1999,1382507).
+ si_UNPD(vnm,2000,1397940).
+ si_UNPD(vnm,2001,1407570).
+ si_UNPD(vnm,2002,1436874).
+ si_UNPD(vnm,2003,1431182).
+ si_UNPD(vnm,2004,1445309).
+ si_UNPD(vnm,2005,1427747).
+ si_UNPD(vnm,2006,1403164).
+ si_UNPD(vnm,2007,1423765).
+ si_UNPD(vnm,2008,1443975).
+ si_UNPD(vnm,2009,1447515).
+ si_UNPD(vnm,2010,1453799).
+ si_UNPD(vnm,2011,1471684).
+ si_UNPD(vnm,2012,1500934).
+ si_UNPD(vnm,2013,1523938).
+ si_UNPD(vnm,2014,1525024).
+ si_UNPD(vnm,2015,1523524).
+ si_UNPD(vnm,2016,1507106).
+ si_UNPD(vnm,2017,1490558).
+ si_UNPD(vnm,2018,1483544).
+ si_UNPD(vnm,2019,1477389).
+ si_UNPD(vnm,2020,1466021).
+ si_UNPD(vnm,2021,1440888).
+ si_UNPD(vnm,2022,1423035).
+ si_UNPD(vnm,2023,1399931).
+ si_UNPD(vnm,2024,1379017).
+ si_UNPD(vnm,2025,1358785).
+ si_UNPD(vnm,2026,1343245).
+ si_UNPD(vnm,2027,1329837).
+ si_UNPD(vnm,2028,1312510).
+ si_UNPD(vnm,2029,1300596).
+ si_UNPD(vnm,2030,1288561).
 
 survey_results(vnm,bcg,1997,vnm1998161,[title:'EPI Review Vietnam 1998',type:'16',yrcoll:'1998',cr:  0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:1057], 96.0).
 
@@ -1703,8 +1703,7 @@ wgd(vnm,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).
  wgd(vnm,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).
  wgd(vnm,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
 
-wgd(vnm,rcv1,2015,2015,comment,' Measles rubella vaccine introduced during 2015. Rubella administered with the second dose of MCV, recommended for administration at 18 months of age.',na,na,na,na).
- wgd(vnm,X,2003,2003,comment,' HepB vaccine introduced in 2003 Vaccine presentation is HepB .',na,na,na,na).
+wgd(vnm,X,2003,2003,comment,' HepB vaccine introduced in 2003 Vaccine presentation is HepB .',na,na,na,na).
  wgd(vnm,X,2008,2008,comment,' WHO and UNICEF are aware of the conduct of a subnational EPI coverage survey conducted in 2009 with results for the 2008 birth cohort. A review of survey methods has concluded that the survey does not provide nationally representative results and therefore is not taken into consideration here.',na,na,na,na).
  wgd(vnm,X,2008,2008,internalComment,' Immunization coverage survey for 2008 birth cohort was conducted as part of the EPI Review 2009. In May 2016 draft session, it was determined that the survey was, in fact, not providing nationally representative results after reviewing a similar survey conducted in 2015. Survey results withdrawn from wuenic supporting evidence.',vnm2009161,na,na,na).
  wgd(vnm,X,2012,2012,comment,' Survey evidence from MICS was based on 94 percent documented evidence from home-based record plus facility-based records.',na,na,na,na).
@@ -1765,4 +1764,5 @@ wgd(vnm,rcv1,2015,2015,comment,' Measles rubella vaccine introduced during 2015.
  wgd(vnm,pol3,2001,2001,ignoreSurvey,'.',na,na,na,na).
  wgd(vnm,pol3,2020,2020,internalComment,' IPV- six month vaccine stockout reported but Pol3 - OPV3 is the one that dropped',na,na,na,na).
  wgd(vnm,pol3,2022,2022,acceptReported,' Programme reports two months vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(vnm,rcv1,2015,2015,comment,' Measles rubella vaccine introduced during 2015. Rubella administered with the second dose of MCV, recommended for administration at 18 months of age.',na,na,na,na).
 

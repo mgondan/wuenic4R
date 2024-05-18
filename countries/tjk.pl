@@ -1,8 +1,8 @@
 %  Tajikistan - TJK 
-%  Wed Sep 06 19:08:37 2023 
+%  Fri May 17 12:22:50 2024 
 
 country(tjk,'Tajikistan'). 
-date('Wed Sep 06 19:08:37 2023').
+date('Fri May 17 12:22:50 2024').
 
 estimate_required(tjk,bcg,1997,na,'na').
  estimate_required(tjk,bcg,1998,na,'na').
@@ -1289,40 +1289,40 @@ births_UNPD(tjk,1997,207800).
  births_UNPD(tjk,2029,255381).
  births_UNPD(tjk,2030,258575).
 
-si_UNPD(tjk,1997,207800).
- si_UNPD(tjk,1998,207491).
- si_UNPD(tjk,1999,201960).
- si_UNPD(tjk,2000,199562).
- si_UNPD(tjk,2001,198914).
- si_UNPD(tjk,2002,197647).
- si_UNPD(tjk,2003,194718).
- si_UNPD(tjk,2004,196475).
- si_UNPD(tjk,2005,197754).
- si_UNPD(tjk,2006,201954).
- si_UNPD(tjk,2007,208345).
- si_UNPD(tjk,2008,217316).
- si_UNPD(tjk,2009,227945).
- si_UNPD(tjk,2010,237236).
- si_UNPD(tjk,2011,244020).
- si_UNPD(tjk,2012,248476).
- si_UNPD(tjk,2013,255464).
- si_UNPD(tjk,2014,262133).
- si_UNPD(tjk,2015,266537).
- si_UNPD(tjk,2016,263837).
- si_UNPD(tjk,2017,258372).
- si_UNPD(tjk,2018,262049).
- si_UNPD(tjk,2019,264052).
- si_UNPD(tjk,2020,262763).
- si_UNPD(tjk,2021,260838).
- si_UNPD(tjk,2022,259276).
- si_UNPD(tjk,2023,256589).
- si_UNPD(tjk,2024,255447).
- si_UNPD(tjk,2025,253441).
- si_UNPD(tjk,2026,252625).
- si_UNPD(tjk,2027,251739).
- si_UNPD(tjk,2028,252257).
- si_UNPD(tjk,2029,255381).
- si_UNPD(tjk,2030,258575).
+si_UNPD(tjk,1997,195890).
+ si_UNPD(tjk,1998,196162).
+ si_UNPD(tjk,1999,191381).
+ si_UNPD(tjk,2000,189572).
+ si_UNPD(tjk,2001,189444).
+ si_UNPD(tjk,2002,188738).
+ si_UNPD(tjk,2003,186438).
+ si_UNPD(tjk,2004,188595).
+ si_UNPD(tjk,2005,190257).
+ si_UNPD(tjk,2006,194693).
+ si_UNPD(tjk,2007,201192).
+ si_UNPD(tjk,2008,210163).
+ si_UNPD(tjk,2009,220688).
+ si_UNPD(tjk,2010,229890).
+ si_UNPD(tjk,2011,236666).
+ si_UNPD(tjk,2012,241148).
+ si_UNPD(tjk,2013,248075).
+ si_UNPD(tjk,2014,254699).
+ si_UNPD(tjk,2015,259136).
+ si_UNPD(tjk,2016,256672).
+ si_UNPD(tjk,2017,251532).
+ si_UNPD(tjk,2018,255281).
+ si_UNPD(tjk,2019,257406).
+ si_UNPD(tjk,2020,256324).
+ si_UNPD(tjk,2021,254611).
+ si_UNPD(tjk,2022,253849).
+ si_UNPD(tjk,2023,251370).
+ si_UNPD(tjk,2024,250406).
+ si_UNPD(tjk,2025,248598).
+ si_UNPD(tjk,2026,247942).
+ si_UNPD(tjk,2027,247217).
+ si_UNPD(tjk,2028,247878).
+ si_UNPD(tjk,2029,251087).
+ si_UNPD(tjk,2030,254329).
 
 survey_results(tjk,pol1,1999,tjk2000231,[title:'Multiple Indicator Cluster Survey, Tajikistan 2000',type:'23',yrcoll:'2000',cr: 78,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:745], 92).
 

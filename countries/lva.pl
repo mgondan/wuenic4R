@@ -1,8 +1,8 @@
 %  Latvia - LVA 
-%  Wed Sep 06 18:55:39 2023 
+%  Fri May 17 12:10:31 2024 
 
 country(lva,'Latvia'). 
-date('Wed Sep 06 18:55:39 2023').
+date('Fri May 17 12:10:31 2024').
 
 estimate_required(lva,bcg,1997,na,'na').
  estimate_required(lva,bcg,1998,na,'na').
@@ -1495,40 +1495,40 @@ births_UNPD(lva,1997,20035).
  births_UNPD(lva,2029,13600).
  births_UNPD(lva,2030,13322).
 
-si_UNPD(lva,1997,20035).
- si_UNPD(lva,1998,19466).
- si_UNPD(lva,1999,20163).
- si_UNPD(lva,2000,20887).
- si_UNPD(lva,2001,20308).
- si_UNPD(lva,2002,20540).
- si_UNPD(lva,2003,21249).
- si_UNPD(lva,2004,20721).
- si_UNPD(lva,2005,21786).
- si_UNPD(lva,2006,22730).
- si_UNPD(lva,2007,23577).
- si_UNPD(lva,2008,23811).
- si_UNPD(lva,2009,21871).
- si_UNPD(lva,2010,20098).
- si_UNPD(lva,2011,19329).
- si_UNPD(lva,2012,20289).
- si_UNPD(lva,2013,21036).
- si_UNPD(lva,2014,22082).
- si_UNPD(lva,2015,22232).
- si_UNPD(lva,2016,22058).
- si_UNPD(lva,2017,20884).
- si_UNPD(lva,2018,19434).
- si_UNPD(lva,2019,18693).
- si_UNPD(lva,2020,17545).
- si_UNPD(lva,2021,17024).
- si_UNPD(lva,2022,16531).
- si_UNPD(lva,2023,15996).
- si_UNPD(lva,2024,15531).
- si_UNPD(lva,2025,15027).
- si_UNPD(lva,2026,14584).
- si_UNPD(lva,2027,14245).
- si_UNPD(lva,2028,13904).
- si_UNPD(lva,2029,13600).
- si_UNPD(lva,2030,13322).
+si_UNPD(lva,1997,19777).
+ si_UNPD(lva,1998,19219).
+ si_UNPD(lva,1999,19962).
+ si_UNPD(lva,2000,20673).
+ si_UNPD(lva,2001,20114).
+ si_UNPD(lva,2002,20356).
+ si_UNPD(lva,2003,21069).
+ si_UNPD(lva,2004,20563).
+ si_UNPD(lva,2005,21640).
+ si_UNPD(lva,2006,22579).
+ si_UNPD(lva,2007,23410).
+ si_UNPD(lva,2008,23667).
+ si_UNPD(lva,2009,21738).
+ si_UNPD(lva,2010,20009).
+ si_UNPD(lva,2011,19229).
+ si_UNPD(lva,2012,20187).
+ si_UNPD(lva,2013,20961).
+ si_UNPD(lva,2014,22011).
+ si_UNPD(lva,2015,22157).
+ si_UNPD(lva,2016,21989).
+ si_UNPD(lva,2017,20819).
+ si_UNPD(lva,2018,19385).
+ si_UNPD(lva,2019,18641).
+ si_UNPD(lva,2020,17496).
+ si_UNPD(lva,2021,16978).
+ si_UNPD(lva,2022,16491).
+ si_UNPD(lva,2023,15958).
+ si_UNPD(lva,2024,15495).
+ si_UNPD(lva,2025,14993).
+ si_UNPD(lva,2026,14552).
+ si_UNPD(lva,2027,14214).
+ si_UNPD(lva,2028,13875).
+ si_UNPD(lva,2029,13572).
+ si_UNPD(lva,2030,13295).
 
 survey_results(lva,pol3,2013,lva2015161,[title:'The monitoring of child immunization coverage and determination of the reasons for nonination in 2015.',type:'16',yrcoll:'2015',cr:0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:3947], 95).
 

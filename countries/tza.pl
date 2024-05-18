@@ -1,8 +1,8 @@
 %  United Republic of Tanzania - TZA 
-%  Wed Sep 06 19:09:48 2023 
+%  Fri May 17 12:24:07 2024 
 
 country(tza,'United Republic of Tanzania'). 
-date('Wed Sep 06 19:09:48 2023').
+date('Fri May 17 12:24:07 2024').
 
 estimate_required(tza,bcg,1997,na,'na').
  estimate_required(tza,bcg,1998,na,'na').
@@ -1204,40 +1204,40 @@ births_UNPD(tza,1997,1352536).
  births_UNPD(tza,2029,2583691).
  births_UNPD(tza,2030,2618789).
 
-si_UNPD(tza,1997,1352536).
- si_UNPD(tza,1998,1385824).
- si_UNPD(tza,1999,1414954).
- si_UNPD(tza,2000,1452563).
- si_UNPD(tza,2001,1494650).
- si_UNPD(tza,2002,1524918).
- si_UNPD(tza,2003,1565008).
- si_UNPD(tza,2004,1612717).
- si_UNPD(tza,2005,1662377).
- si_UNPD(tza,2006,1696385).
- si_UNPD(tza,2007,1719201).
- si_UNPD(tza,2008,1747574).
- si_UNPD(tza,2009,1773179).
- si_UNPD(tza,2010,1794888).
- si_UNPD(tza,2011,1815651).
- si_UNPD(tza,2012,1832779).
- si_UNPD(tza,2013,1907976).
- si_UNPD(tza,2014,1977547).
- si_UNPD(tza,2015,2032307).
- si_UNPD(tza,2016,2086160).
- si_UNPD(tza,2017,2140107).
- si_UNPD(tza,2018,2181403).
- si_UNPD(tza,2019,2223809).
- si_UNPD(tza,2020,2262300).
- si_UNPD(tza,2021,2303114).
- si_UNPD(tza,2022,2346821).
- si_UNPD(tza,2023,2384603).
- si_UNPD(tza,2024,2416633).
- si_UNPD(tza,2025,2446942).
- si_UNPD(tza,2026,2482397).
- si_UNPD(tza,2027,2517660).
- si_UNPD(tza,2028,2554608).
- si_UNPD(tza,2029,2583691).
- si_UNPD(tza,2030,2618789).
+si_UNPD(tza,1997,1265788).
+ si_UNPD(tza,1998,1299659).
+ si_UNPD(tza,1999,1330265).
+ si_UNPD(tza,2000,1369523).
+ si_UNPD(tza,2001,1413106).
+ si_UNPD(tza,2002,1444631).
+ si_UNPD(tza,2003,1485654).
+ si_UNPD(tza,2004,1533862).
+ si_UNPD(tza,2005,1584004).
+ si_UNPD(tza,2006,1619103).
+ si_UNPD(tza,2007,1643653).
+ si_UNPD(tza,2008,1673251).
+ si_UNPD(tza,2009,1700444).
+ si_UNPD(tza,2010,1723521).
+ si_UNPD(tza,2011,1745912).
+ si_UNPD(tza,2012,1764596).
+ si_UNPD(tza,2013,1839036).
+ si_UNPD(tza,2014,1908312).
+ si_UNPD(tza,2015,1962695).
+ si_UNPD(tza,2016,2016600).
+ si_UNPD(tza,2017,2070557).
+ si_UNPD(tza,2018,2112500).
+ si_UNPD(tza,2019,2155212).
+ si_UNPD(tza,2020,2194167).
+ si_UNPD(tza,2021,2235407).
+ si_UNPD(tza,2022,2282224).
+ si_UNPD(tza,2023,2323200).
+ si_UNPD(tza,2024,2355507).
+ si_UNPD(tza,2025,2383556).
+ si_UNPD(tza,2026,2419908).
+ si_UNPD(tza,2027,2456007).
+ si_UNPD(tza,2028,2493799).
+ si_UNPD(tza,2029,2523895).
+ si_UNPD(tza,2030,2559850).
 
 survey_results(tza,pol1,1998,tza1999141,[title:'Tanzania Reproductive and Child Health Survey 1999, 2000',type:'14',yrcoll:'1999',cr:74,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:593], 20).
 

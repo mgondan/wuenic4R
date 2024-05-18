@@ -1,8 +1,8 @@
 %  China - CHN 
-%  Wed Sep 06 18:41:54 2023 
+%  Fri May 17 11:57:45 2024 
 
 country(chn,'China'). 
-date('Wed Sep 06 18:41:54 2023').
+date('Fri May 17 11:57:45 2024').
 
 estimate_required(chn,bcg,1997,na,'na').
  estimate_required(chn,bcg,1998,na,'na').
@@ -1078,40 +1078,40 @@ births_UNPD(chn,1997,17482506).
  births_UNPD(chn,2029,10083803).
  births_UNPD(chn,2030,10016146).
 
-si_UNPD(chn,1997,17482506).
- si_UNPD(chn,1998,16978997).
- si_UNPD(chn,1999,16689598).
- si_UNPD(chn,2000,17394901).
- si_UNPD(chn,2001,16472561).
- si_UNPD(chn,2002,16315491).
- si_UNPD(chn,2003,16210272).
- si_UNPD(chn,2004,16482670).
- si_UNPD(chn,2005,16663108).
- si_UNPD(chn,2006,16933400).
- si_UNPD(chn,2007,17286419).
- si_UNPD(chn,2008,17787573).
- si_UNPD(chn,2009,18085283).
- si_UNPD(chn,2010,17941969).
- si_UNPD(chn,2011,17826962).
- si_UNPD(chn,2012,19235424).
- si_UNPD(chn,2013,18255844).
- si_UNPD(chn,2014,18711604).
- si_UNPD(chn,2015,17446888).
- si_UNPD(chn,2016,18283156).
- si_UNPD(chn,2017,18427645).
- si_UNPD(chn,2018,15504679).
- si_UNPD(chn,2019,14633834).
- si_UNPD(chn,2020,12243398).
- si_UNPD(chn,2021,10881567).
- si_UNPD(chn,2022,10757794).
- si_UNPD(chn,2023,10660034).
- si_UNPD(chn,2024,10577046).
- si_UNPD(chn,2025,10441801).
- si_UNPD(chn,2026,10326067).
- si_UNPD(chn,2027,10232622).
- si_UNPD(chn,2028,10142147).
- si_UNPD(chn,2029,10083803).
- si_UNPD(chn,2030,10016146).
+si_UNPD(chn,1997,16975835).
+ si_UNPD(chn,1998,16505480).
+ si_UNPD(chn,1999,16244905).
+ si_UNPD(chn,2000,16955222).
+ si_UNPD(chn,2001,16080356).
+ si_UNPD(chn,2002,15952150).
+ si_UNPD(chn,2003,15875068).
+ si_UNPD(chn,2004,16169913).
+ si_UNPD(chn,2005,16374316).
+ si_UNPD(chn,2006,16665077).
+ si_UNPD(chn,2007,17035203).
+ si_UNPD(chn,2008,17547938).
+ si_UNPD(chn,2009,17862240).
+ si_UNPD(chn,2010,17736995).
+ si_UNPD(chn,2011,17638791).
+ si_UNPD(chn,2012,19047569).
+ si_UNPD(chn,2013,18090917).
+ si_UNPD(chn,2014,18555257).
+ si_UNPD(chn,2015,17312046).
+ si_UNPD(chn,2016,18152326).
+ si_UNPD(chn,2017,18305727).
+ si_UNPD(chn,2018,15409744).
+ si_UNPD(chn,2019,14550912).
+ si_UNPD(chn,2020,12179125).
+ si_UNPD(chn,2021,10828527).
+ si_UNPD(chn,2022,10703232).
+ si_UNPD(chn,2023,10607657).
+ si_UNPD(chn,2024,10526759).
+ si_UNPD(chn,2025,10393746).
+ si_UNPD(chn,2026,10280018).
+ si_UNPD(chn,2027,10188437).
+ si_UNPD(chn,2028,10099716).
+ si_UNPD(chn,2029,10042963).
+ si_UNPD(chn,2030,9976836).
 
 survey_results(chn,pol3,2003,chn2004161,[title:'The National EPI Evaluation Report 2004',type:'16',yrcoll:'2004',cr: 96,confirm:'card <12 months',age:'12-23 m',timead:'',val:'crude',ss:155954], 94).
 

@@ -1,8 +1,8 @@
 %  Turkmenistan - TKM 
-%  Wed Sep 06 19:08:46 2023 
+%  Fri May 17 12:22:58 2024 
 
 country(tkm,'Turkmenistan'). 
-date('Wed Sep 06 19:08:46 2023').
+date('Fri May 17 12:22:58 2024').
 
 estimate_required(tkm,bcg,1997,na,'na').
  estimate_required(tkm,bcg,1998,na,'na').
@@ -1042,40 +1042,40 @@ births_UNPD(tkm,1997,115670).
  births_UNPD(tkm,2029,121937).
  births_UNPD(tkm,2030,121983).
 
-si_UNPD(tkm,1997,115670).
- si_UNPD(tkm,1998,112624).
- si_UNPD(tkm,1999,110412).
- si_UNPD(tkm,2000,108433).
- si_UNPD(tkm,2001,105975).
- si_UNPD(tkm,2002,103949).
- si_UNPD(tkm,2003,105144).
- si_UNPD(tkm,2004,106355).
- si_UNPD(tkm,2005,109238).
- si_UNPD(tkm,2006,112310).
- si_UNPD(tkm,2007,115904).
- si_UNPD(tkm,2008,120896).
- si_UNPD(tkm,2009,126882).
- si_UNPD(tkm,2010,133314).
- si_UNPD(tkm,2011,139393).
- si_UNPD(tkm,2012,144565).
- si_UNPD(tkm,2013,148207).
- si_UNPD(tkm,2014,150232).
- si_UNPD(tkm,2015,150465).
- si_UNPD(tkm,2016,149315).
- si_UNPD(tkm,2017,147211).
- si_UNPD(tkm,2018,144719).
- si_UNPD(tkm,2019,142072).
- si_UNPD(tkm,2020,139380).
- si_UNPD(tkm,2021,136968).
- si_UNPD(tkm,2022,133491).
- si_UNPD(tkm,2023,130653).
- si_UNPD(tkm,2024,128418).
- si_UNPD(tkm,2025,126287).
- si_UNPD(tkm,2026,124596).
- si_UNPD(tkm,2027,123135).
- si_UNPD(tkm,2028,122157).
- si_UNPD(tkm,2029,121937).
- si_UNPD(tkm,2030,121983).
+si_UNPD(tkm,1997,110118).
+ si_UNPD(tkm,1998,107309).
+ si_UNPD(tkm,1999,105328).
+ si_UNPD(tkm,2000,103598).
+ si_UNPD(tkm,2001,101424).
+ si_UNPD(tkm,2002,99666).
+ si_UNPD(tkm,2003,100995).
+ si_UNPD(tkm,2004,102339).
+ si_UNPD(tkm,2005,105280).
+ si_UNPD(tkm,2006,108401).
+ si_UNPD(tkm,2007,112009).
+ si_UNPD(tkm,2008,116955).
+ si_UNPD(tkm,2009,122846).
+ si_UNPD(tkm,2010,129151).
+ si_UNPD(tkm,2011,135100).
+ si_UNPD(tkm,2012,140147).
+ si_UNPD(tkm,2013,143688).
+ si_UNPD(tkm,2014,145647).
+ si_UNPD(tkm,2015,145852).
+ si_UNPD(tkm,2016,144707).
+ si_UNPD(tkm,2017,142646).
+ si_UNPD(tkm,2018,140231).
+ si_UNPD(tkm,2019,137699).
+ si_UNPD(tkm,2020,135140).
+ si_UNPD(tkm,2021,132864).
+ si_UNPD(tkm,2022,129706).
+ si_UNPD(tkm,2023,127029).
+ si_UNPD(tkm,2024,124929).
+ si_UNPD(tkm,2025,122935).
+ si_UNPD(tkm,2026,121360).
+ si_UNPD(tkm,2027,120003).
+ si_UNPD(tkm,2028,119119).
+ si_UNPD(tkm,2029,118969).
+ si_UNPD(tkm,2030,119083).
 
 survey_results(tkm,dtp1,1999,tkm2000141,[title:'Turkmenistan Demographic and Health Survey 2000, 2001',type:'14',yrcoll:'2000',cr: 94,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:646], 94).
 

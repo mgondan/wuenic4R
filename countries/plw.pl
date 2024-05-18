@@ -1,8 +1,8 @@
 %  Palau - PLW 
-%  Wed Sep 06 19:02:21 2023 
+%  Fri May 17 12:16:54 2024 
 
 country(plw,'Palau'). 
-date('Wed Sep 06 19:02:21 2023').
+date('Fri May 17 12:16:54 2024').
 
 estimate_required(plw,dtp1,1997,na,'na').
  estimate_required(plw,dtp1,1998,na,'na').
@@ -1381,40 +1381,40 @@ births_UNPD(plw,1997,317).
  births_UNPD(plw,2029,248).
  births_UNPD(plw,2030,245).
 
-si_UNPD(plw,1997,317).
- si_UNPD(plw,1998,294).
- si_UNPD(plw,1999,282).
- si_UNPD(plw,2000,270).
- si_UNPD(plw,2001,275).
- si_UNPD(plw,2002,277).
- si_UNPD(plw,2003,279).
- si_UNPD(plw,2004,279).
- si_UNPD(plw,2005,280).
- si_UNPD(plw,2006,275).
- si_UNPD(plw,2007,271).
- si_UNPD(plw,2008,268).
- si_UNPD(plw,2009,265).
- si_UNPD(plw,2010,262).
- si_UNPD(plw,2011,260).
- si_UNPD(plw,2012,259).
- si_UNPD(plw,2013,258).
- si_UNPD(plw,2014,252).
- si_UNPD(plw,2015,240).
- si_UNPD(plw,2016,245).
- si_UNPD(plw,2017,237).
- si_UNPD(plw,2018,275).
- si_UNPD(plw,2019,279).
- si_UNPD(plw,2020,277).
- si_UNPD(plw,2021,273).
- si_UNPD(plw,2022,270).
- si_UNPD(plw,2023,266).
- si_UNPD(plw,2024,262).
- si_UNPD(plw,2025,259).
- si_UNPD(plw,2026,257).
- si_UNPD(plw,2027,254).
- si_UNPD(plw,2028,251).
- si_UNPD(plw,2029,248).
- si_UNPD(plw,2030,245).
+si_UNPD(plw,1997,309).
+ si_UNPD(plw,1998,287).
+ si_UNPD(plw,1999,276).
+ si_UNPD(plw,2000,264).
+ si_UNPD(plw,2001,269).
+ si_UNPD(plw,2002,271).
+ si_UNPD(plw,2003,273).
+ si_UNPD(plw,2004,273).
+ si_UNPD(plw,2005,274).
+ si_UNPD(plw,2006,269).
+ si_UNPD(plw,2007,266).
+ si_UNPD(plw,2008,263).
+ si_UNPD(plw,2009,260).
+ si_UNPD(plw,2010,257).
+ si_UNPD(plw,2011,255).
+ si_UNPD(plw,2012,254).
+ si_UNPD(plw,2013,254).
+ si_UNPD(plw,2014,248).
+ si_UNPD(plw,2015,236).
+ si_UNPD(plw,2016,241).
+ si_UNPD(plw,2017,233).
+ si_UNPD(plw,2018,271).
+ si_UNPD(plw,2019,275).
+ si_UNPD(plw,2020,273).
+ si_UNPD(plw,2021,269).
+ si_UNPD(plw,2022,267).
+ si_UNPD(plw,2023,263).
+ si_UNPD(plw,2024,259).
+ si_UNPD(plw,2025,256).
+ si_UNPD(plw,2026,254).
+ si_UNPD(plw,2027,251).
+ si_UNPD(plw,2028,248).
+ si_UNPD(plw,2029,245).
+ si_UNPD(plw,2030,242).
 
 survey_results(plw,rotac,2014,plw2016321,[title:'Vaccination among children aged 2 years',type:'32',yrcoll:'2016',cr:0,confirm:'card or history',age:'24-35 m',timead:'',val:'crude',ss:259], 82).
 

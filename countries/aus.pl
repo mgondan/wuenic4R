@@ -1,8 +1,8 @@
 %  Australia - AUS 
-%  Wed Sep 06 18:37:07 2023 
+%  Fri May 17 11:53:25 2024 
 
 country(aus,'Australia'). 
-date('Wed Sep 06 18:37:07 2023').
+date('Fri May 17 11:53:25 2024').
 
 estimate_required(aus,dtp1,1997,na,'na').
  estimate_required(aus,dtp1,1998,na,'na').
@@ -1085,40 +1085,40 @@ births_UNPD(aus,1997,250493).
  births_UNPD(aus,2029,304038).
  births_UNPD(aus,2030,303676).
 
-si_UNPD(aus,1997,250493).
- si_UNPD(aus,1998,248727).
- si_UNPD(aus,1999,248005).
- si_UNPD(aus,2000,248574).
- si_UNPD(aus,2001,245871).
- si_UNPD(aus,2002,249653).
- si_UNPD(aus,2003,249982).
- si_UNPD(aus,2004,253295).
- si_UNPD(aus,2005,262616).
- si_UNPD(aus,2006,269661).
- si_UNPD(aus,2007,288358).
- si_UNPD(aus,2008,297654).
- si_UNPD(aus,2009,297485).
- si_UNPD(aus,2010,300113).
- si_UNPD(aus,2011,299948).
- si_UNPD(aus,2012,306357).
- si_UNPD(aus,2013,305523).
- si_UNPD(aus,2014,299548).
- si_UNPD(aus,2015,305209).
- si_UNPD(aus,2016,309448).
- si_UNPD(aus,2017,311698).
- si_UNPD(aus,2018,320272).
- si_UNPD(aus,2019,305145).
- si_UNPD(aus,2020,296417).
- si_UNPD(aus,2021,298496).
- si_UNPD(aus,2022,300246).
- si_UNPD(aus,2023,301714).
- si_UNPD(aus,2024,303066).
- si_UNPD(aus,2025,304069).
- si_UNPD(aus,2026,304609).
- si_UNPD(aus,2027,305435).
- si_UNPD(aus,2028,305371).
- si_UNPD(aus,2029,304038).
- si_UNPD(aus,2030,303676).
+si_UNPD(aus,1997,249304).
+ si_UNPD(aus,1998,247651).
+ si_UNPD(aus,1999,246790).
+ si_UNPD(aus,2000,247486).
+ si_UNPD(aus,2001,244788).
+ si_UNPD(aus,2002,248579).
+ si_UNPD(aus,2003,248942).
+ si_UNPD(aus,2004,252271).
+ si_UNPD(aus,2005,261468).
+ si_UNPD(aus,2006,268548).
+ si_UNPD(aus,2007,287299).
+ si_UNPD(aus,2008,296567).
+ si_UNPD(aus,2009,296429).
+ si_UNPD(aus,2010,299058).
+ si_UNPD(aus,2011,298973).
+ si_UNPD(aus,2012,305482).
+ si_UNPD(aus,2013,304575).
+ si_UNPD(aus,2014,298686).
+ si_UNPD(aus,2015,304397).
+ si_UNPD(aus,2016,308650).
+ si_UNPD(aus,2017,310818).
+ si_UNPD(aus,2018,319415).
+ si_UNPD(aus,2019,304360).
+ si_UNPD(aus,2020,295672).
+ si_UNPD(aus,2021,297762).
+ si_UNPD(aus,2022,299523).
+ si_UNPD(aus,2023,301005).
+ si_UNPD(aus,2024,302372).
+ si_UNPD(aus,2025,303389).
+ si_UNPD(aus,2026,303942).
+ si_UNPD(aus,2027,304782).
+ si_UNPD(aus,2028,304733).
+ si_UNPD(aus,2029,303417).
+ si_UNPD(aus,2030,303068).
 
 wgd(aus,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,91,_,na).
  wgd(aus,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,77,_,na).

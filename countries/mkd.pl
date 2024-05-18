@@ -1,8 +1,8 @@
 %  North Macedonia - MKD 
-%  Wed Sep 06 18:56:52 2023 
+%  Fri May 17 12:11:41 2024 
 
 country(mkd,'North Macedonia'). 
-date('Wed Sep 06 18:56:52 2023').
+date('Fri May 17 12:11:41 2024').
 
 estimate_required(mkd,bcg,1997,na,'na').
  estimate_required(mkd,bcg,1998,na,'na').
@@ -1224,40 +1224,40 @@ births_UNPD(mkd,1997,26552).
  births_UNPD(mkd,2029,18466).
  births_UNPD(mkd,2030,18217).
 
-si_UNPD(mkd,1997,26552).
- si_UNPD(mkd,1998,26328).
- si_UNPD(mkd,1999,24848).
- si_UNPD(mkd,2000,27033).
- si_UNPD(mkd,2001,26054).
- si_UNPD(mkd,2002,27684).
- si_UNPD(mkd,2003,27118).
- si_UNPD(mkd,2004,23865).
- si_UNPD(mkd,2005,22880).
- si_UNPD(mkd,2006,22944).
- si_UNPD(mkd,2007,23072).
- si_UNPD(mkd,2008,23348).
- si_UNPD(mkd,2009,24081).
- si_UNPD(mkd,2010,24587).
- si_UNPD(mkd,2011,23317).
- si_UNPD(mkd,2012,23893).
- si_UNPD(mkd,2013,23569).
- si_UNPD(mkd,2014,23902).
- si_UNPD(mkd,2015,23478).
- si_UNPD(mkd,2016,23318).
- si_UNPD(mkd,2017,22198).
- si_UNPD(mkd,2018,21705).
- si_UNPD(mkd,2019,20447).
- si_UNPD(mkd,2020,20295).
- si_UNPD(mkd,2021,20114).
- si_UNPD(mkd,2022,19992).
- si_UNPD(mkd,2023,19769).
- si_UNPD(mkd,2024,19569).
- si_UNPD(mkd,2025,19364).
- si_UNPD(mkd,2026,19155).
- si_UNPD(mkd,2027,18928).
- si_UNPD(mkd,2028,18690).
- si_UNPD(mkd,2029,18466).
- si_UNPD(mkd,2030,18217).
+si_UNPD(mkd,1997,26209).
+ si_UNPD(mkd,1998,25953).
+ si_UNPD(mkd,1999,24536).
+ si_UNPD(mkd,2000,26733).
+ si_UNPD(mkd,2001,25782).
+ si_UNPD(mkd,2002,27416).
+ si_UNPD(mkd,2003,26838).
+ si_UNPD(mkd,2004,23633).
+ si_UNPD(mkd,2005,22659).
+ si_UNPD(mkd,2006,22742).
+ si_UNPD(mkd,2007,22884).
+ si_UNPD(mkd,2008,23171).
+ si_UNPD(mkd,2009,23877).
+ si_UNPD(mkd,2010,24442).
+ si_UNPD(mkd,2011,23182).
+ si_UNPD(mkd,2012,23720).
+ si_UNPD(mkd,2013,23395).
+ si_UNPD(mkd,2014,23732).
+ si_UNPD(mkd,2015,23339).
+ si_UNPD(mkd,2016,23125).
+ si_UNPD(mkd,2017,22054).
+ si_UNPD(mkd,2018,21611).
+ si_UNPD(mkd,2019,20360).
+ si_UNPD(mkd,2020,20210).
+ si_UNPD(mkd,2021,20028).
+ si_UNPD(mkd,2022,19907).
+ si_UNPD(mkd,2023,19674).
+ si_UNPD(mkd,2024,19483).
+ si_UNPD(mkd,2025,19281).
+ si_UNPD(mkd,2026,19075).
+ si_UNPD(mkd,2027,18851).
+ si_UNPD(mkd,2028,18617).
+ si_UNPD(mkd,2029,18395).
+ si_UNPD(mkd,2030,18149).
 
 survey_results(mkd,dtp3,1998,mkd2000231,[title:'NA',type:'23',yrcoll:'1999',cr:  0,confirm:'card or history',age:'13-24 m',timead:'',val:'crude',ss:275], 97.9).
 

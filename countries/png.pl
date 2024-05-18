@@ -1,8 +1,8 @@
 %  Papua New Guinea - PNG 
-%  Wed Sep 06 19:02:31 2023 
+%  Fri May 17 12:17:03 2024 
 
 country(png,'Papua New Guinea'). 
-date('Wed Sep 06 19:02:31 2023').
+date('Fri May 17 12:17:03 2024').
 
 estimate_required(png,bcg,1997,na,'na').
  estimate_required(png,bcg,1998,na,'na').
@@ -1320,40 +1320,40 @@ births_UNPD(png,1997,171613).
  births_UNPD(png,2029,258618).
  births_UNPD(png,2030,259488).
 
-si_UNPD(png,1997,171613).
- si_UNPD(png,1998,177028).
- si_UNPD(png,1999,182601).
- si_UNPD(png,2000,187444).
- si_UNPD(png,2001,192565).
- si_UNPD(png,2002,197748).
- si_UNPD(png,2003,202668).
- si_UNPD(png,2004,206340).
- si_UNPD(png,2005,210543).
- si_UNPD(png,2006,214381).
- si_UNPD(png,2007,218018).
- si_UNPD(png,2008,222227).
- si_UNPD(png,2009,225708).
- si_UNPD(png,2010,230148).
- si_UNPD(png,2011,233837).
- si_UNPD(png,2012,236690).
- si_UNPD(png,2013,239637).
- si_UNPD(png,2014,242361).
- si_UNPD(png,2015,244235).
- si_UNPD(png,2016,246159).
- si_UNPD(png,2017,247721).
- si_UNPD(png,2018,250029).
- si_UNPD(png,2019,251340).
- si_UNPD(png,2020,253329).
- si_UNPD(png,2021,253720).
- si_UNPD(png,2022,254718).
- si_UNPD(png,2023,253843).
- si_UNPD(png,2024,254548).
- si_UNPD(png,2025,255773).
- si_UNPD(png,2026,256874).
- si_UNPD(png,2027,256625).
- si_UNPD(png,2028,257725).
- si_UNPD(png,2029,258618).
- si_UNPD(png,2030,259488).
+si_UNPD(png,1997,164067).
+ si_UNPD(png,1998,169220).
+ si_UNPD(png,1999,174752).
+ si_UNPD(png,2000,179480).
+ si_UNPD(png,2001,184473).
+ si_UNPD(png,2002,189528).
+ si_UNPD(png,2003,194358).
+ si_UNPD(png,2004,197992).
+ si_UNPD(png,2005,202143).
+ si_UNPD(png,2006,205953).
+ si_UNPD(png,2007,209568).
+ si_UNPD(png,2008,213767).
+ si_UNPD(png,2009,217256).
+ si_UNPD(png,2010,221680).
+ si_UNPD(png,2011,225389).
+ si_UNPD(png,2012,228288).
+ si_UNPD(png,2013,231291).
+ si_UNPD(png,2014,234081).
+ si_UNPD(png,2015,236058).
+ si_UNPD(png,2016,238094).
+ si_UNPD(png,2017,239779).
+ si_UNPD(png,2018,242195).
+ si_UNPD(png,2019,243661).
+ si_UNPD(png,2020,245774).
+ si_UNPD(png,2021,246340).
+ si_UNPD(png,2022,247322).
+ si_UNPD(png,2023,246597).
+ si_UNPD(png,2024,247397).
+ si_UNPD(png,2025,248707).
+ si_UNPD(png,2026,249886).
+ si_UNPD(png,2027,249757).
+ si_UNPD(png,2028,250942).
+ si_UNPD(png,2029,251921).
+ si_UNPD(png,2030,252872).
 
 survey_results(png,pol1,2005,png2006141,[title:'Papua New Guinea Demographic and Health Survey 2006',type:'14',yrcoll:'2006',cr: 70,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:1254],87).
 
@@ -1571,32 +1571,7 @@ wgd(png,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,88,_,na).
  wgd(png,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,50,_,na).
  wgd(png,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,35,_,na).
 
-wgd(png,pcv3,2016,2016,ignoreSurvey,' Survey results ignored during period of introduction.',na,na,na,na).
- wgd(png,pcv3,2017,2017,assignAnchor,' Estimate is based on estimated DTP3.',na,36,na,na).
- wgd(png,pcv3,2018,2018,assignAnchor,' Estimate is based on estimated DTP3.',na,35,na,na).
- wgd(png,pcv3,2019,2019,assignWUENIC,' Based on estimate for DTP3 for consistency.',na,35,na,na).
- wgd(png,pcv3,2019,2019,comment,' Observed decline in reported coverage for several antigens appears to reflect unexplained seven percent increase in target population. Year to year population growth was previously around three percent.',na,na,na,na).
- wgd(png,pcv3,2020,2020,assignWUENIC,' Estimate informed by relative change in doses administered from 2018 levels to 2020.',na,39,na,na).
- wgd(png,pcv3,2021,2021,assignWUENIC,' Estimate reflects decline in reported coverage from 2020.',na,32,na,na).
- wgd(png,pcv3,2022,2022,assignWUENIC,' Reported data suggest an increase in the number of doses administered during 2022 following a decline from 2020 to 2021. Estimate informed by the absolute difference in reported coverage between 2021 and 2022 applied to the 2021 estimated coverage level.',na,35,na,na).
- wgd(png,pcv3,2022,2022,comment,' Programme reports three months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(png,pol3,2004,2004,ignoreSurvey,' Survey results likely include doses administered during campaigns.',na,na,na,na).
- wgd(png,pol3,2005,2005,assignAnchor,' Estimate based on adjustment factor derived from the difference between estimated and reported DTP3 coverage.',na,61,na,na).
- wgd(png,pol3,2012,2012,acceptReported,' Rise in coverage is attributable to recovery from vaccine shortage.',na,na,na,na).
- wgd(png,pol3,2013,2013,comment,' Programme reports three months stockout at national level.',na,na,na,na).
- wgd(png,pol3,2014,2014,acceptReported,' Programme reports two months stockout at national level.',na,na,na,na).
- wgd(png,pol3,2019,2019,assignWUENIC,' Based on previous year estimate.',na,42,na,na).
- wgd(png,pol3,2019,2019,comment,' Observed decline in reported coverage for several antigens appears to reflect unexplained seven percent increase in target population. Year to year population growth was previously around three percent.',na,na,na,na).
- wgd(png,pol3,2020,2020,assignWUENIC,' Estimate informed by relative change in doses administered from 2018 levels to 2020.',na,41,na,na).
- wgd(png,pol3,2020,2020,comment,' Programme reports half month vaccine stockout at national and district level.',na,na,na,na).
- wgd(png,pol3,2021,2021,assignWUENIC,' Estimate reflects decline in reported coverage from 2020.',na,32,na,na).
- wgd(png,pol3,2022,2022,assignWUENIC,' Reported data suggest an increase in the number of doses administered during 2022 following a decline from 2020 to 2021. Estimate informed by estimated DPT3 coverage.',na,36,na,na).
- wgd(png,rcv1,2016,2016,ignoreSurvey,' Survey results may included doses delivered through campaign.',na,na,na,na).
- wgd(png,rcv1,2019,2019,assignWUENIC,' Estimate is based on estimated MCV1 coverage level.',na,37,na,na).
- wgd(png,rcv1,2020,2020,assignWUENIC,' Estimate is based on estimated MCV1 coverage level.',na,47,na,na).
- wgd(png,rcv1,2021,2021,assignWUENIC,' Estimate is based on estimated MCV1 coverage level.',na,38,na,na).
- wgd(png,rcv1,2022,2022,assignWUENIC,' Estimate informed by estimated MCV1 coverage level.',na,44,na,na).
- wgd(png,X,2005,2017,assignGoC,' See comment in 2018.',na,1,na,na).
+wgd(png,X,2005,2017,assignGoC,' See comment in 2018.',na,1,na,na).
  wgd(png,X,2009,2010,ignoreGov,' Public - private sector discrepancy noted by WHO and UNICEF, however, adjustment inconsistently applied across antigens.',na,na,na,na).
  wgd(png,X,2011,2011,comment,' Administrative coverage is adjusted for vaccinations provided in the private sector. Previous surveys have consistently indicated higher coverage than administrative coverage.',na,na,na,na).
  wgd(png,X,2014,2014,comment,' Target population increase of 13 percent compared to 2013.',na,na,na,na).
@@ -1682,4 +1657,29 @@ wgd(png,pcv3,2016,2016,ignoreSurvey,' Survey results ignored during period of in
  wgd(png,pcv3,2015,2015,comment,' Pneumococcal conjugate vaccine introduced in 2013. Reporting began in 2015.',na,na,na,na).
  wgd(png,pcv3,2016,2016,assignAnchor,' Estimate is based on reported data.',na,20,na,na).
  wgd(png,pcv3,2016,2018,comment,' Estimate based on reported data during period of introduction.',na,na,na,na).
+ wgd(png,pcv3,2016,2016,ignoreSurvey,' Survey results ignored during period of introduction.',na,na,na,na).
+ wgd(png,pcv3,2017,2017,assignAnchor,' Estimate is based on estimated DTP3.',na,36,na,na).
+ wgd(png,pcv3,2018,2018,assignAnchor,' Estimate is based on estimated DTP3.',na,35,na,na).
+ wgd(png,pcv3,2019,2019,assignWUENIC,' Based on estimate for DTP3 for consistency.',na,35,na,na).
+ wgd(png,pcv3,2019,2019,comment,' Observed decline in reported coverage for several antigens appears to reflect unexplained seven percent increase in target population. Year to year population growth was previously around three percent.',na,na,na,na).
+ wgd(png,pcv3,2020,2020,assignWUENIC,' Estimate informed by relative change in doses administered from 2018 levels to 2020.',na,39,na,na).
+ wgd(png,pcv3,2021,2021,assignWUENIC,' Estimate reflects decline in reported coverage from 2020.',na,32,na,na).
+ wgd(png,pcv3,2022,2022,assignWUENIC,' Reported data suggest an increase in the number of doses administered during 2022 following a decline from 2020 to 2021. Estimate informed by the absolute difference in reported coverage between 2021 and 2022 applied to the 2021 estimated coverage level.',na,35,na,na).
+ wgd(png,pcv3,2022,2022,comment,' Programme reports three months vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(png,pol3,2004,2004,ignoreSurvey,' Survey results likely include doses administered during campaigns.',na,na,na,na).
+ wgd(png,pol3,2005,2005,assignAnchor,' Estimate based on adjustment factor derived from the difference between estimated and reported DTP3 coverage.',na,61,na,na).
+ wgd(png,pol3,2012,2012,acceptReported,' Rise in coverage is attributable to recovery from vaccine shortage.',na,na,na,na).
+ wgd(png,pol3,2013,2013,comment,' Programme reports three months stockout at national level.',na,na,na,na).
+ wgd(png,pol3,2014,2014,acceptReported,' Programme reports two months stockout at national level.',na,na,na,na).
+ wgd(png,pol3,2019,2019,assignWUENIC,' Based on previous year estimate.',na,42,na,na).
+ wgd(png,pol3,2019,2019,comment,' Observed decline in reported coverage for several antigens appears to reflect unexplained seven percent increase in target population. Year to year population growth was previously around three percent.',na,na,na,na).
+ wgd(png,pol3,2020,2020,assignWUENIC,' Estimate informed by relative change in doses administered from 2018 levels to 2020.',na,41,na,na).
+ wgd(png,pol3,2020,2020,comment,' Programme reports half month vaccine stockout at national and district level.',na,na,na,na).
+ wgd(png,pol3,2021,2021,assignWUENIC,' Estimate reflects decline in reported coverage from 2020.',na,32,na,na).
+ wgd(png,pol3,2022,2022,assignWUENIC,' Reported data suggest an increase in the number of doses administered during 2022 following a decline from 2020 to 2021. Estimate informed by estimated DPT3 coverage.',na,36,na,na).
+ wgd(png,rcv1,2016,2016,ignoreSurvey,' Survey results may included doses delivered through campaign.',na,na,na,na).
+ wgd(png,rcv1,2019,2019,assignWUENIC,' Estimate is based on estimated MCV1 coverage level.',na,37,na,na).
+ wgd(png,rcv1,2020,2020,assignWUENIC,' Estimate is based on estimated MCV1 coverage level.',na,47,na,na).
+ wgd(png,rcv1,2021,2021,assignWUENIC,' Estimate is based on estimated MCV1 coverage level.',na,38,na,na).
+ wgd(png,rcv1,2022,2022,assignWUENIC,' Estimate informed by estimated MCV1 coverage level.',na,44,na,na).
 

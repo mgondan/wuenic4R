@@ -1,8 +1,8 @@
 %  India - IND 
-%  Wed Sep 06 18:50:50 2023 
+%  Fri May 17 12:05:58 2024 
 
 country(ind,'India'). 
-date('Wed Sep 06 18:50:50 2023').
+date('Fri May 17 12:05:58 2024').
 
 estimate_required(ind,bcg,1997,na,'na').
  estimate_required(ind,bcg,1998,na,'na').
@@ -1176,40 +1176,40 @@ births_UNPD(ind,1997,28340882).
  births_UNPD(ind,2029,22551776).
  births_UNPD(ind,2030,22476542).
 
-si_UNPD(ind,1997,28340882).
- si_UNPD(ind,1998,28380714).
- si_UNPD(ind,1999,28365313).
- si_UNPD(ind,2000,28614635).
- si_UNPD(ind,2001,28842611).
- si_UNPD(ind,2002,28647659).
- si_UNPD(ind,2003,28355763).
- si_UNPD(ind,2004,28098682).
- si_UNPD(ind,2005,27645749).
- si_UNPD(ind,2006,27228667).
- si_UNPD(ind,2007,27029549).
- si_UNPD(ind,2008,26890100).
- si_UNPD(ind,2009,26848279).
- si_UNPD(ind,2010,26598911).
- si_UNPD(ind,2011,26342016).
- si_UNPD(ind,2012,26026697).
- si_UNPD(ind,2013,25739527).
- si_UNPD(ind,2014,24899418).
- si_UNPD(ind,2015,24828119).
- si_UNPD(ind,2016,24783025).
- si_UNPD(ind,2017,24253964).
- si_UNPD(ind,2018,24168443).
- si_UNPD(ind,2019,23583089).
- si_UNPD(ind,2020,23138532).
- si_UNPD(ind,2021,23113533).
- si_UNPD(ind,2022,23056027).
- si_UNPD(ind,2023,23056737).
- si_UNPD(ind,2024,23000685).
- si_UNPD(ind,2025,22979744).
- si_UNPD(ind,2026,22819796).
- si_UNPD(ind,2027,22778973).
- si_UNPD(ind,2028,22664923).
- si_UNPD(ind,2029,22551776).
- si_UNPD(ind,2030,22476542).
+si_UNPD(ind,1997,26826871).
+ si_UNPD(ind,1998,26894318).
+ si_UNPD(ind,1999,26911203).
+ si_UNPD(ind,2000,27181348).
+ si_UNPD(ind,2001,27432135).
+ si_UNPD(ind,2002,27282213).
+ si_UNPD(ind,2003,27039074).
+ si_UNPD(ind,2004,26828244).
+ si_UNPD(ind,2005,26431560).
+ si_UNPD(ind,2006,26068430).
+ si_UNPD(ind,2007,25914172).
+ si_UNPD(ind,2008,25817915).
+ si_UNPD(ind,2009,25816089).
+ si_UNPD(ind,2010,25615194).
+ si_UNPD(ind,2011,25406758).
+ si_UNPD(ind,2012,25141112).
+ si_UNPD(ind,2013,24900659).
+ si_UNPD(ind,2014,24125120).
+ si_UNPD(ind,2015,24091441).
+ si_UNPD(ind,2016,24082048).
+ si_UNPD(ind,2017,23600382).
+ si_UNPD(ind,2018,23548266).
+ si_UNPD(ind,2019,23005022).
+ si_UNPD(ind,2020,22595171).
+ si_UNPD(ind,2021,22591299).
+ si_UNPD(ind,2022,22519905).
+ si_UNPD(ind,2023,22554666).
+ si_UNPD(ind,2024,22518079).
+ si_UNPD(ind,2025,22515792).
+ si_UNPD(ind,2026,22378100).
+ si_UNPD(ind,2027,22356021).
+ si_UNPD(ind,2028,22260732).
+ si_UNPD(ind,2029,22166297).
+ si_UNPD(ind,2030,22107247).
 
 survey_results(ind,dtp1,1997,ind1998161,[title:'Evaluation of Routine Immunization 1998-99',type:'16',yrcoll:'1998',cr:48,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:7855], 73).
 

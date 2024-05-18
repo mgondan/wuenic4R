@@ -1,8 +1,8 @@
 %  Saint Vincent and The Grenadines - VCT 
-%  Wed Sep 06 19:11:07 2023 
+%  Fri May 17 12:25:35 2024 
 
 country(vct,'Saint Vincent and The Grenadines'). 
-date('Wed Sep 06 19:11:07 2023').
+date('Fri May 17 12:25:35 2024').
 
 estimate_required(vct,bcg,1997,na,'na').
  estimate_required(vct,bcg,1998,na,'na').
@@ -1207,40 +1207,40 @@ births_UNPD(vct,1997,2399).
  births_UNPD(vct,2029,1269).
  births_UNPD(vct,2030,1264).
 
-si_UNPD(vct,1997,2399).
- si_UNPD(vct,1998,2327).
- si_UNPD(vct,1999,2286).
- si_UNPD(vct,2000,2245).
- si_UNPD(vct,2001,2185).
- si_UNPD(vct,2002,2095).
- si_UNPD(vct,2003,2014).
- si_UNPD(vct,2004,1943).
- si_UNPD(vct,2005,1900).
- si_UNPD(vct,2006,1868).
- si_UNPD(vct,2007,1867).
- si_UNPD(vct,2008,1895).
- si_UNPD(vct,2009,1894).
- si_UNPD(vct,2010,1856).
- si_UNPD(vct,2011,1805).
- si_UNPD(vct,2012,1797).
- si_UNPD(vct,2013,1765).
- si_UNPD(vct,2014,1741).
- si_UNPD(vct,2015,1702).
- si_UNPD(vct,2016,1616).
- si_UNPD(vct,2017,1512).
- si_UNPD(vct,2018,1448).
- si_UNPD(vct,2019,1405).
- si_UNPD(vct,2020,1370).
- si_UNPD(vct,2021,1348).
- si_UNPD(vct,2022,1324).
- si_UNPD(vct,2023,1307).
- si_UNPD(vct,2024,1296).
- si_UNPD(vct,2025,1290).
- si_UNPD(vct,2026,1283).
- si_UNPD(vct,2027,1278).
- si_UNPD(vct,2028,1273).
- si_UNPD(vct,2029,1269).
- si_UNPD(vct,2030,1264).
+si_UNPD(vct,1997,2359).
+ si_UNPD(vct,1998,2288).
+ si_UNPD(vct,1999,2248).
+ si_UNPD(vct,2000,2208).
+ si_UNPD(vct,2001,2149).
+ si_UNPD(vct,2002,2060).
+ si_UNPD(vct,2003,1981).
+ si_UNPD(vct,2004,1912).
+ si_UNPD(vct,2005,1869).
+ si_UNPD(vct,2006,1838).
+ si_UNPD(vct,2007,1838).
+ si_UNPD(vct,2008,1866).
+ si_UNPD(vct,2009,1865).
+ si_UNPD(vct,2010,1828).
+ si_UNPD(vct,2011,1779).
+ si_UNPD(vct,2012,1772).
+ si_UNPD(vct,2013,1739).
+ si_UNPD(vct,2014,1718).
+ si_UNPD(vct,2015,1681).
+ si_UNPD(vct,2016,1596).
+ si_UNPD(vct,2017,1494).
+ si_UNPD(vct,2018,1432).
+ si_UNPD(vct,2019,1390).
+ si_UNPD(vct,2020,1355).
+ si_UNPD(vct,2021,1334).
+ si_UNPD(vct,2022,1310).
+ si_UNPD(vct,2023,1291).
+ si_UNPD(vct,2024,1280).
+ si_UNPD(vct,2025,1275).
+ si_UNPD(vct,2026,1268).
+ si_UNPD(vct,2027,1264).
+ si_UNPD(vct,2028,1259).
+ si_UNPD(vct,2029,1256).
+ si_UNPD(vct,2030,1251).
 
 wgd(vct,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(vct,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).

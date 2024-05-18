@@ -1,8 +1,8 @@
 %  Ethiopia - ETH 
-%  Wed Sep 06 18:46:04 2023 
+%  Fri May 17 12:01:26 2024 
 
 country(eth,'Ethiopia'). 
-date('Wed Sep 06 18:46:04 2023').
+date('Fri May 17 12:01:26 2024').
 
 estimate_required(eth,bcg,1997,na,'na').
  estimate_required(eth,bcg,1998,na,'na').
@@ -1142,40 +1142,40 @@ births_UNPD(eth,1997,2864920).
  births_UNPD(eth,2029,4121600).
  births_UNPD(eth,2030,4134130).
 
-si_UNPD(eth,1997,2864920).
- si_UNPD(eth,1998,2894639).
- si_UNPD(eth,1999,2945809).
- si_UNPD(eth,2000,2984415).
- si_UNPD(eth,2001,3039805).
- si_UNPD(eth,2002,3084587).
- si_UNPD(eth,2003,3095976).
- si_UNPD(eth,2004,3137819).
- si_UNPD(eth,2005,3177441).
- si_UNPD(eth,2006,3207115).
- si_UNPD(eth,2007,3240151).
- si_UNPD(eth,2008,3244916).
- si_UNPD(eth,2009,3235072).
- si_UNPD(eth,2010,3258513).
- si_UNPD(eth,2011,3289543).
- si_UNPD(eth,2012,3289081).
- si_UNPD(eth,2013,3293590).
- si_UNPD(eth,2014,3345796).
- si_UNPD(eth,2015,3425259).
- si_UNPD(eth,2016,3506866).
- si_UNPD(eth,2017,3576536).
- si_UNPD(eth,2018,3667649).
- si_UNPD(eth,2019,3781463).
- si_UNPD(eth,2020,3841565).
- si_UNPD(eth,2021,3895734).
- si_UNPD(eth,2022,3928445).
- si_UNPD(eth,2023,3964806).
- si_UNPD(eth,2024,3982205).
- si_UNPD(eth,2025,4019968).
- si_UNPD(eth,2026,4049037).
- si_UNPD(eth,2027,4076229).
- si_UNPD(eth,2028,4102815).
- si_UNPD(eth,2029,4121600).
- si_UNPD(eth,2030,4134130).
+si_UNPD(eth,1997,2676235).
+ si_UNPD(eth,1998,2707992).
+ si_UNPD(eth,1999,2759367).
+ si_UNPD(eth,2000,2800425).
+ si_UNPD(eth,2001,2857154).
+ si_UNPD(eth,2002,2904538).
+ si_UNPD(eth,2003,2920774).
+ si_UNPD(eth,2004,2966319).
+ si_UNPD(eth,2005,3010031).
+ si_UNPD(eth,2006,3044140).
+ si_UNPD(eth,2007,3081964).
+ si_UNPD(eth,2008,3092476).
+ si_UNPD(eth,2009,3088624).
+ si_UNPD(eth,2010,3116537).
+ si_UNPD(eth,2011,3151628).
+ si_UNPD(eth,2012,3156202).
+ si_UNPD(eth,2013,3165481).
+ si_UNPD(eth,2014,3220573).
+ si_UNPD(eth,2015,3301950).
+ si_UNPD(eth,2016,3385108).
+ si_UNPD(eth,2017,3457038).
+ si_UNPD(eth,2018,3549317).
+ si_UNPD(eth,2019,3663430).
+ si_UNPD(eth,2020,3725142).
+ si_UNPD(eth,2021,3780606).
+ si_UNPD(eth,2022,3819980).
+ si_UNPD(eth,2023,3861339).
+ si_UNPD(eth,2024,3879750).
+ si_UNPD(eth,2025,3914138).
+ si_UNPD(eth,2026,3945325).
+ si_UNPD(eth,2027,3975216).
+ si_UNPD(eth,2028,4004498).
+ si_UNPD(eth,2029,4026038).
+ si_UNPD(eth,2030,4041369).
 
 survey_results(eth,dtp3,1997,eth1998331,[title:'Ethiopia, Report on the 1998 Health and Nutrition Survey, 1999',type:'33',yrcoll:'1998',cr: 0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0],53.3).
 
@@ -1962,7 +1962,18 @@ wgd(eth,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,54,_,na).
  wgd(eth,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,51,_,na).
  wgd(eth,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,83,_,na).
 
-wgd(eth,X,2000,2000,ignoreSurvey,' Survey results inconsistent with other data.',na,na,na,na).
+wgd(eth,pol3,2011,2011,assignAnchor,'.',na,70,na,na).
+ wgd(eth,pol3,2011,2011,comment,' OPV coverage is not include in the Health Management Information System and the third dose of DTP-HepB-Hib coverage is used as a proxy indicator for coverage of third dose of polio vaccine.',na,na,na,na).
+ wgd(eth,pol3,2012,2012,assignGoC,'Consistency with other antigens',na,1,na,na).
+ wgd(eth,pol3,2012,2021,comment,' Estimated coverage for polio is likely overestimated due to frequent campaigns conducted in the country.',na,na,na,na).
+ wgd(eth,pol3,2013,2013,internalComment,' Estimate is based on estimated DTP3 level.',na,59,na,na).
+ wgd(eth,pol3,2014,2014,comment,' Observed increases between 2013 and 2014 in the reported official coverage are of such magnitude that additional supporting evidence of the increase is needed.',na,na,na,na).
+ wgd(eth,pol3,2014,2014,internalComment,' Estimate is based on estimated DTP3 level.',na,61,na,na).
+ wgd(eth,pol3,2018,2018,ignoreReported,' Unexplained decline in reported coverage.',na,na,na,na).
+ wgd(eth,pol3,2022,2022,comment,' Estimated coverage for polio is likely overestimated due to frequent campaigns conducted in the country, though no polio campaigns were reported for 2022.',na,na,na,na).
+ wgd(eth,rotac,2014,2014,comment,' Rotavirus vaccine introduced during November 2013 and reporting began during 2014.',na,na,na,na).
+ wgd(eth,rotac,2014,2017,interpolate,'.',na,na,na,na).
+ wgd(eth,X,2000,2000,ignoreSurvey,' Survey results inconsistent with other data.',na,na,na,na).
  wgd(eth,X,2005,2005,ignoreSurvey,' Survey results inconsistent with other data.',na,na,na,na).
  wgd(eth,X,2010,2010,ignoreSurvey,' Survey results do not include data obtained from health facility records.',na,na,na,na).
  wgd(eth,X,2011,2011,comment,' Information on child immunization was available from immunization cards for 47 percent of children aged 12-23 months, additional documented information was obtained through health facility review.',na,na,na,na).
@@ -2030,15 +2041,4 @@ wgd(eth,X,2000,2000,ignoreSurvey,' Survey results inconsistent with other data.'
  wgd(eth,pcv3,2014,2014,comment,' Observed increases between 2013 and 2014 in the reported official coverage are of such magnitude that additional supporting evidence of the increase is needed.',na,na,na,na).
  wgd(eth,pcv3,2014,2017,interpolate,'.',na,na,na,na).
  wgd(eth,pol3,1998,2012,ignoreReported,' See comment in 2013 regarding deficiencies in administrative reporting system.',na,na,na,na).
- wgd(eth,pol3,2011,2011,assignAnchor,'.',na,70,na,na).
- wgd(eth,pol3,2011,2011,comment,' OPV coverage is not include in the Health Management Information System and the third dose of DTP-HepB-Hib coverage is used as a proxy indicator for coverage of third dose of polio vaccine.',na,na,na,na).
- wgd(eth,pol3,2012,2012,assignGoC,'Consistency with other antigens',na,1,na,na).
- wgd(eth,pol3,2012,2021,comment,' Estimated coverage for polio is likely overestimated due to frequent campaigns conducted in the country.',na,na,na,na).
- wgd(eth,pol3,2013,2013,internalComment,' Estimate is based on estimated DTP3 level.',na,59,na,na).
- wgd(eth,pol3,2014,2014,comment,' Observed increases between 2013 and 2014 in the reported official coverage are of such magnitude that additional supporting evidence of the increase is needed.',na,na,na,na).
- wgd(eth,pol3,2014,2014,internalComment,' Estimate is based on estimated DTP3 level.',na,61,na,na).
- wgd(eth,pol3,2018,2018,ignoreReported,' Unexplained decline in reported coverage.',na,na,na,na).
- wgd(eth,pol3,2022,2022,comment,' Estimated coverage for polio is likely overestimated due to frequent campaigns conducted in the country, though no polio campaigns were reported for 2022.',na,na,na,na).
- wgd(eth,rotac,2014,2014,comment,' Rotavirus vaccine introduced during November 2013 and reporting began during 2014.',na,na,na,na).
- wgd(eth,rotac,2014,2017,interpolate,'.',na,na,na,na).
 

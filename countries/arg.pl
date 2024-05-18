@@ -1,8 +1,8 @@
 %  Argentina - ARG 
-%  Wed Sep 06 18:36:38 2023 
+%  Fri May 17 11:52:57 2024 
 
 country(arg,'Argentina'). 
-date('Wed Sep 06 18:36:38 2023').
+date('Fri May 17 11:52:57 2024').
 
 estimate_required(arg,bcg,1997,na,'na').
  estimate_required(arg,bcg,1998,na,'na').
@@ -1593,40 +1593,40 @@ births_UNPD(arg,1997,715945).
  births_UNPD(arg,2029,621617).
  births_UNPD(arg,2030,621296).
 
-si_UNPD(arg,1997,715945).
- si_UNPD(arg,1998,715365).
- si_UNPD(arg,1999,721366).
- si_UNPD(arg,2000,718129).
- si_UNPD(arg,2001,711677).
- si_UNPD(arg,2002,710765).
- si_UNPD(arg,2003,706544).
- si_UNPD(arg,2004,709873).
- si_UNPD(arg,2005,717321).
- si_UNPD(arg,2006,718419).
- si_UNPD(arg,2007,718146).
- si_UNPD(arg,2008,717468).
- si_UNPD(arg,2009,726291).
- si_UNPD(arg,2010,734558).
- si_UNPD(arg,2011,739376).
- si_UNPD(arg,2012,743784).
- si_UNPD(arg,2013,747375).
- si_UNPD(arg,2014,749562).
- si_UNPD(arg,2015,750290).
- si_UNPD(arg,2016,734548).
- si_UNPD(arg,2017,713799).
- si_UNPD(arg,2018,674273).
- si_UNPD(arg,2019,661385).
- si_UNPD(arg,2020,635978).
- si_UNPD(arg,2021,629391).
- si_UNPD(arg,2022,627741).
- si_UNPD(arg,2023,624859).
- si_UNPD(arg,2024,623547).
- si_UNPD(arg,2025,623083).
- si_UNPD(arg,2026,623137).
- si_UNPD(arg,2027,623167).
- si_UNPD(arg,2028,622257).
- si_UNPD(arg,2029,621617).
- si_UNPD(arg,2030,621296).
+si_UNPD(arg,1997,703139).
+ si_UNPD(arg,1998,703002).
+ si_UNPD(arg,1999,709321).
+ si_UNPD(arg,2000,706541).
+ si_UNPD(arg,2001,700581).
+ si_UNPD(arg,2002,700056).
+ si_UNPD(arg,2003,696255).
+ si_UNPD(arg,2004,699882).
+ si_UNPD(arg,2005,707562).
+ si_UNPD(arg,2006,708971).
+ si_UNPD(arg,2007,709016).
+ si_UNPD(arg,2008,708652).
+ si_UNPD(arg,2009,717665).
+ si_UNPD(arg,2010,726125).
+ si_UNPD(arg,2011,731173).
+ si_UNPD(arg,2012,735810).
+ si_UNPD(arg,2013,739634).
+ si_UNPD(arg,2014,742061).
+ si_UNPD(arg,2015,743033).
+ si_UNPD(arg,2016,727677).
+ si_UNPD(arg,2017,707334).
+ si_UNPD(arg,2018,668352).
+ si_UNPD(arg,2019,655747).
+ si_UNPD(arg,2020,630707).
+ si_UNPD(arg,2021,624312).
+ si_UNPD(arg,2022,622930).
+ si_UNPD(arg,2023,620289).
+ si_UNPD(arg,2024,619125).
+ si_UNPD(arg,2025,618775).
+ si_UNPD(arg,2026,618940).
+ si_UNPD(arg,2027,619075).
+ si_UNPD(arg,2028,618280).
+ si_UNPD(arg,2029,617745).
+ si_UNPD(arg,2030,617526).
 
 wgd(arg,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(arg,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).

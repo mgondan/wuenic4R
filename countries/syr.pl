@@ -1,8 +1,8 @@
 %  Syrian Arab Republic - SYR 
-%  Wed Sep 06 19:07:51 2023 
+%  Fri May 17 12:22:03 2024 
 
 country(syr,'Syrian Arab Republic'). 
-date('Wed Sep 06 19:07:51 2023').
+date('Fri May 17 12:22:03 2024').
 
 estimate_required(syr,bcg,1997,na,'na').
  estimate_required(syr,bcg,1998,na,'na').
@@ -1385,40 +1385,40 @@ births_UNPD(syr,1997,480549).
  births_UNPD(syr,2029,684175).
  births_UNPD(syr,2030,699103).
 
-si_UNPD(syr,1997,480549).
- si_UNPD(syr,1998,486596).
- si_UNPD(syr,1999,493179).
- si_UNPD(syr,2000,500107).
- si_UNPD(syr,2001,518925).
- si_UNPD(syr,2002,529444).
- si_UNPD(syr,2003,540892).
- si_UNPD(syr,2004,553008).
- si_UNPD(syr,2005,566757).
- si_UNPD(syr,2006,578729).
- si_UNPD(syr,2007,625392).
- si_UNPD(syr,2008,672815).
- si_UNPD(syr,2009,649630).
- si_UNPD(syr,2010,641215).
- si_UNPD(syr,2011,628962).
- si_UNPD(syr,2012,614880).
- si_UNPD(syr,2013,567628).
- si_UNPD(syr,2014,465173).
- si_UNPD(syr,2015,396623).
- si_UNPD(syr,2016,359024).
- si_UNPD(syr,2017,355205).
- si_UNPD(syr,2018,346305).
- si_UNPD(syr,2019,374942).
- si_UNPD(syr,2020,406127).
- si_UNPD(syr,2021,426856).
- si_UNPD(syr,2022,446859).
- si_UNPD(syr,2023,490781).
- si_UNPD(syr,2024,532402).
- si_UNPD(syr,2025,573943).
- si_UNPD(syr,2026,610419).
- si_UNPD(syr,2027,639263).
- si_UNPD(syr,2028,665188).
- si_UNPD(syr,2029,684175).
- si_UNPD(syr,2030,699103).
+si_UNPD(syr,1997,471098).
+ si_UNPD(syr,1998,477427).
+ si_UNPD(syr,1999,484260).
+ si_UNPD(syr,2000,491406).
+ si_UNPD(syr,2001,510206).
+ si_UNPD(syr,2002,520831).
+ si_UNPD(syr,2003,532347).
+ si_UNPD(syr,2004,544482).
+ si_UNPD(syr,2005,558199).
+ si_UNPD(syr,2006,570139).
+ si_UNPD(syr,2007,616226).
+ si_UNPD(syr,2008,663029).
+ si_UNPD(syr,2009,640211).
+ si_UNPD(syr,2010,631904).
+ si_UNPD(syr,2011,619552).
+ si_UNPD(syr,2012,602268).
+ si_UNPD(syr,2013,554462).
+ si_UNPD(syr,2014,454079).
+ si_UNPD(syr,2015,387796).
+ si_UNPD(syr,2016,351227).
+ si_UNPD(syr,2017,349261).
+ si_UNPD(syr,2018,340494).
+ si_UNPD(syr,2019,368789).
+ si_UNPD(syr,2020,399455).
+ si_UNPD(syr,2021,419954).
+ si_UNPD(syr,2022,440207).
+ si_UNPD(syr,2023,483691).
+ si_UNPD(syr,2024,524947).
+ si_UNPD(syr,2025,566142).
+ si_UNPD(syr,2026,602373).
+ si_UNPD(syr,2027,631093).
+ si_UNPD(syr,2028,656954).
+ si_UNPD(syr,2029,675970).
+ si_UNPD(syr,2030,690969).
 
 survey_results(syr,dtp3,2005,syr2006231,[title:'Syrian Arab Republic Multiple Indicator Cluster Survey 2006',type:'23',yrcoll:'2006',cr:55,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:2083], 24).
 
@@ -1526,7 +1526,17 @@ wgd(syr,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,91,_,na).
  wgd(syr,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,84,_,na).
  wgd(syr,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,87,_,na).
 
-wgd(syr,X,2012,2013,acceptReported,' Low levels of coverage associated with the interruption of health services during period of civil unrest.',na,na,na,na).
+wgd(syr,mcv2,2007,2007,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
+ wgd(syr,mcv2,2008,2008,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
+ wgd(syr,mcv2,2009,2009,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
+ wgd(syr,mcv2,2010,2010,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
+ wgd(syr,mcv2,2011,2011,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,71,na,na).
+ wgd(syr,mcv2,2012,2012,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,53,na,na).
+ wgd(syr,mcv2,2013,2013,ignoreReported,' Reported coverage levels may reflect doses delivered during campaign.',na,na,na,na).
+ wgd(syr,mcv2,2022,2022,acceptReported,' Programme reports a three months vaccine stockout at the national and subnational level.',na,na,na,na).
+ wgd(syr,pol3,2012,2014,comment,' Higher estimated coverage levels versus those for the third dose of DTP containing vaccine may suggest inclusion of campaign doses.',na,na,na,na).
+ wgd(syr,pol3,2013,2013,ignoreReported,' Reported coverage levels may reflect doses delivered during campaign.',na,na,na,na).
+ wgd(syr,X,2012,2013,acceptReported,' Low levels of coverage associated with the interruption of health services during period of civil unrest.',na,na,na,na).
  wgd(syr,X,2014,2014,comment,' Low levels of coverage continue associated with the interruption of health services during period of civil unrest.',na,na,na,na).
  wgd(syr,X,2015,2015,comment,' Low levels of coverage continue associated with the interruption of health services during period of civil unrest. Reported target population estimates have exceptionally remained largely unchanged during the period of civil unrest between 2014 and 2015.',na,na,na,na).
  wgd(syr,X,2016,2018,comment,' Low levels of coverage, associated with the interruption of health services during a period of civil unrest, continue.',na,na,na,na).
@@ -1607,14 +1617,4 @@ wgd(syr,X,2012,2013,acceptReported,' Low levels of coverage associated with the 
  wgd(syr,mcv2,2004,2004,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
  wgd(syr,mcv2,2005,2005,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
  wgd(syr,mcv2,2006,2006,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
- wgd(syr,mcv2,2007,2007,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
- wgd(syr,mcv2,2008,2008,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
- wgd(syr,mcv2,2009,2009,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
- wgd(syr,mcv2,2010,2010,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
- wgd(syr,mcv2,2011,2011,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,71,na,na).
- wgd(syr,mcv2,2012,2012,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,53,na,na).
- wgd(syr,mcv2,2013,2013,ignoreReported,' Reported coverage levels may reflect doses delivered during campaign.',na,na,na,na).
- wgd(syr,mcv2,2022,2022,acceptReported,' Programme reports a three months vaccine stockout at the national and subnational level.',na,na,na,na).
- wgd(syr,pol3,2012,2014,comment,' Higher estimated coverage levels versus those for the third dose of DTP containing vaccine may suggest inclusion of campaign doses.',na,na,na,na).
- wgd(syr,pol3,2013,2013,ignoreReported,' Reported coverage levels may reflect doses delivered during campaign.',na,na,na,na).
 

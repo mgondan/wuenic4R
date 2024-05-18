@@ -1,8 +1,8 @@
 %  Jordan - JOR 
-%  Wed Sep 06 18:52:04 2023 
+%  Fri May 17 12:07:07 2024 
 
 country(jor,'Jordan'). 
-date('Wed Sep 06 18:52:04 2023').
+date('Fri May 17 12:07:07 2024').
 
 estimate_required(jor,bcg,2002,na,'na').
  estimate_required(jor,bcg,2003,na,'na').
@@ -1286,40 +1286,40 @@ births_UNPD(jor,1997,155556).
  births_UNPD(jor,2029,234379).
  births_UNPD(jor,2030,233757).
 
-si_UNPD(jor,1997,155556).
- si_UNPD(jor,1998,152896).
- si_UNPD(jor,1999,151661).
- si_UNPD(jor,2000,150336).
- si_UNPD(jor,2001,150869).
- si_UNPD(jor,2002,153418).
- si_UNPD(jor,2003,157069).
- si_UNPD(jor,2004,159161).
- si_UNPD(jor,2005,162418).
- si_UNPD(jor,2006,167378).
- si_UNPD(jor,2007,188623).
- si_UNPD(jor,2008,195073).
- si_UNPD(jor,2009,197686).
- si_UNPD(jor,2010,198219).
- si_UNPD(jor,2011,197841).
- si_UNPD(jor,2012,196810).
- si_UNPD(jor,2013,191474).
- si_UNPD(jor,2014,209692).
- si_UNPD(jor,2015,225940).
- si_UNPD(jor,2016,235628).
- si_UNPD(jor,2017,238327).
- si_UNPD(jor,2018,240188).
- si_UNPD(jor,2019,241468).
- si_UNPD(jor,2020,243141).
- si_UNPD(jor,2021,244557).
- si_UNPD(jor,2022,245484).
- si_UNPD(jor,2023,243221).
- si_UNPD(jor,2024,240649).
- si_UNPD(jor,2025,238928).
- si_UNPD(jor,2026,237233).
- si_UNPD(jor,2027,236558).
- si_UNPD(jor,2028,235368).
- si_UNPD(jor,2029,234379).
- si_UNPD(jor,2030,233757).
+si_UNPD(jor,1997,152196).
+ si_UNPD(jor,1998,149669).
+ si_UNPD(jor,1999,148540).
+ si_UNPD(jor,2000,147323).
+ si_UNPD(jor,2001,147927).
+ si_UNPD(jor,2002,150503).
+ si_UNPD(jor,2003,154163).
+ si_UNPD(jor,2004,156290).
+ si_UNPD(jor,2005,159557).
+ si_UNPD(jor,2006,164504).
+ si_UNPD(jor,2007,185472).
+ si_UNPD(jor,2008,191899).
+ si_UNPD(jor,2009,194552).
+ si_UNPD(jor,2010,195152).
+ si_UNPD(jor,2011,194853).
+ si_UNPD(jor,2012,193904).
+ si_UNPD(jor,2013,188716).
+ si_UNPD(jor,2014,206754).
+ si_UNPD(jor,2015,222859).
+ si_UNPD(jor,2016,232502).
+ si_UNPD(jor,2017,235259).
+ si_UNPD(jor,2018,237182).
+ si_UNPD(jor,2019,238540).
+ si_UNPD(jor,2020,240279).
+ si_UNPD(jor,2021,241764).
+ si_UNPD(jor,2022,242668).
+ si_UNPD(jor,2023,240431).
+ si_UNPD(jor,2024,238167).
+ si_UNPD(jor,2025,236547).
+ si_UNPD(jor,2026,234944).
+ si_UNPD(jor,2027,234341).
+ si_UNPD(jor,2028,233226).
+ si_UNPD(jor,2029,232306).
+ si_UNPD(jor,2030,231741).
 
 survey_results(jor,pol1,2001,jor2002141,[title:'Jordan Population and Family Health Survey 2002',type:'14',yrcoll:'2002',cr:78,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1135], 78).
 

@@ -1,8 +1,8 @@
 %  Libya - LBY 
-%  Wed Sep 06 18:54:34 2023 
+%  Fri May 17 12:09:28 2024 
 
 country(lby,'Libya'). 
-date('Wed Sep 06 18:54:34 2023').
+date('Fri May 17 12:09:28 2024').
 
 estimate_required(lby,bcg,1997,na,'na').
  estimate_required(lby,bcg,1998,na,'na').
@@ -1241,40 +1241,40 @@ births_UNPD(lby,1997,111950).
  births_UNPD(lby,2029,114692).
  births_UNPD(lby,2030,115296).
 
-si_UNPD(lby,1997,111950).
- si_UNPD(lby,1998,110634).
- si_UNPD(lby,1999,109606).
- si_UNPD(lby,2000,108912).
- si_UNPD(lby,2001,119013).
- si_UNPD(lby,2002,122940).
- si_UNPD(lby,2003,127341).
- si_UNPD(lby,2004,132261).
- si_UNPD(lby,2005,137581).
- si_UNPD(lby,2006,141982).
- si_UNPD(lby,2007,143902).
- si_UNPD(lby,2008,145522).
- si_UNPD(lby,2009,146965).
- si_UNPD(lby,2010,152900).
- si_UNPD(lby,2011,158156).
- si_UNPD(lby,2012,128680).
- si_UNPD(lby,2013,130727).
- si_UNPD(lby,2014,133626).
- si_UNPD(lby,2015,131429).
- si_UNPD(lby,2016,129300).
- si_UNPD(lby,2017,126808).
- si_UNPD(lby,2018,124833).
- si_UNPD(lby,2019,123055).
- si_UNPD(lby,2020,121777).
- si_UNPD(lby,2021,120072).
- si_UNPD(lby,2022,117846).
- si_UNPD(lby,2023,116411).
- si_UNPD(lby,2024,115149).
- si_UNPD(lby,2025,114639).
- si_UNPD(lby,2026,114387).
- si_UNPD(lby,2027,114330).
- si_UNPD(lby,2028,114162).
- si_UNPD(lby,2029,114692).
- si_UNPD(lby,2030,115296).
+si_UNPD(lby,1997,109389).
+ si_UNPD(lby,1998,108172).
+ si_UNPD(lby,1999,107230).
+ si_UNPD(lby,2000,106608).
+ si_UNPD(lby,2001,116562).
+ si_UNPD(lby,2002,120477).
+ si_UNPD(lby,2003,124880).
+ si_UNPD(lby,2004,129816).
+ si_UNPD(lby,2005,135171).
+ si_UNPD(lby,2006,139650).
+ si_UNPD(lby,2007,141705).
+ si_UNPD(lby,2008,143456).
+ si_UNPD(lby,2009,145012).
+ si_UNPD(lby,2010,150984).
+ si_UNPD(lby,2011,156071).
+ si_UNPD(lby,2012,127216).
+ si_UNPD(lby,2013,129293).
+ si_UNPD(lby,2014,132188).
+ si_UNPD(lby,2015,130061).
+ si_UNPD(lby,2016,128001).
+ si_UNPD(lby,2017,125598).
+ si_UNPD(lby,2018,123694).
+ si_UNPD(lby,2019,121942).
+ si_UNPD(lby,2020,120726).
+ si_UNPD(lby,2021,119101).
+ si_UNPD(lby,2022,116912).
+ si_UNPD(lby,2023,115510).
+ si_UNPD(lby,2024,114287).
+ si_UNPD(lby,2025,113809).
+ si_UNPD(lby,2026,113586).
+ si_UNPD(lby,2027,113556).
+ si_UNPD(lby,2028,113414).
+ si_UNPD(lby,2029,113965).
+ si_UNPD(lby,2030,114589).
 
 survey_results(lby,pol3,2006,lby2007171,[title:'Libyan Arab Republic 2007 Family Health Survey',type:'17',yrcoll:'2007',cr:81,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:11920], 98).
 

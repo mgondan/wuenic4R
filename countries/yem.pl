@@ -1,8 +1,8 @@
 %  Yemen - YEM 
-%  Wed Sep 06 19:12:06 2023 
+%  Fri May 17 12:26:40 2024 
 
 country(yem,'Yemen'). 
-date('Wed Sep 06 19:12:06 2023').
+date('Fri May 17 12:26:40 2024').
 
 estimate_required(yem,bcg,1997,na,'na').
  estimate_required(yem,bcg,1998,na,'na').
@@ -1344,40 +1344,40 @@ births_UNPD(yem,1997,728814).
  births_UNPD(yem,2029,1031629).
  births_UNPD(yem,2030,1034670).
 
-si_UNPD(yem,1997,728814).
- si_UNPD(yem,1998,732046).
- si_UNPD(yem,1999,746461).
- si_UNPD(yem,2000,751467).
- si_UNPD(yem,2001,752994).
- si_UNPD(yem,2002,762017).
- si_UNPD(yem,2003,780433).
- si_UNPD(yem,2004,794443).
- si_UNPD(yem,2005,809578).
- si_UNPD(yem,2006,830506).
- si_UNPD(yem,2007,842404).
- si_UNPD(yem,2008,857388).
- si_UNPD(yem,2009,870526).
- si_UNPD(yem,2010,886256).
- si_UNPD(yem,2011,904728).
- si_UNPD(yem,2012,921649).
- si_UNPD(yem,2013,939483).
- si_UNPD(yem,2014,956184).
- si_UNPD(yem,2015,968416).
- si_UNPD(yem,2016,976977).
- si_UNPD(yem,2017,983231).
- si_UNPD(yem,2018,995450).
- si_UNPD(yem,2019,1003190).
- si_UNPD(yem,2020,1010361).
- si_UNPD(yem,2021,1008936).
- si_UNPD(yem,2022,1008643).
- si_UNPD(yem,2023,1011668).
- si_UNPD(yem,2024,1016549).
- si_UNPD(yem,2025,1014405).
- si_UNPD(yem,2026,1020679).
- si_UNPD(yem,2027,1021659).
- si_UNPD(yem,2028,1026999).
- si_UNPD(yem,2029,1031629).
- si_UNPD(yem,2030,1034670).
+si_UNPD(yem,1997,687743).
+ si_UNPD(yem,1998,691652).
+ si_UNPD(yem,1999,706330).
+ si_UNPD(yem,2000,712238).
+ si_UNPD(yem,2001,714904).
+ si_UNPD(yem,2002,724819).
+ si_UNPD(yem,2003,743730).
+ si_UNPD(yem,2004,758401).
+ si_UNPD(yem,2005,774080).
+ si_UNPD(yem,2006,795434).
+ si_UNPD(yem,2007,808148).
+ si_UNPD(yem,2008,823702).
+ si_UNPD(yem,2009,837235).
+ si_UNPD(yem,2010,852826).
+ si_UNPD(yem,2011,870736).
+ si_UNPD(yem,2012,886973).
+ si_UNPD(yem,2013,904209).
+ si_UNPD(yem,2014,920213).
+ si_UNPD(yem,2015,931478).
+ si_UNPD(yem,2016,939788).
+ si_UNPD(yem,2017,945834).
+ si_UNPD(yem,2018,957245).
+ si_UNPD(yem,2019,964749).
+ si_UNPD(yem,2020,972080).
+ si_UNPD(yem,2021,970075).
+ si_UNPD(yem,2022,969803).
+ si_UNPD(yem,2023,973693).
+ si_UNPD(yem,2024,981924).
+ si_UNPD(yem,2025,980627).
+ si_UNPD(yem,2026,987429).
+ si_UNPD(yem,2027,989111).
+ si_UNPD(yem,2028,995005).
+ si_UNPD(yem,2029,1000184).
+ si_UNPD(yem,2030,1003807).
 
 survey_results(yem,dtp1,2002,yem2003271,[title:'The Family Health Survey in the Republic of Yemen 2003',type:'27',yrcoll:'2003',cr:27,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:2058],56).
 

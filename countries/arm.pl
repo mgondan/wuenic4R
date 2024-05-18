@@ -1,8 +1,8 @@
 %  Armenia - ARM 
-%  Wed Sep 06 18:36:48 2023 
+%  Fri May 17 11:53:06 2024 
 
 country(arm,'Armenia'). 
-date('Wed Sep 06 18:36:48 2023').
+date('Fri May 17 11:53:06 2024').
 
 estimate_required(arm,bcg,1997,na,'na').
  estimate_required(arm,bcg,1998,na,'na').
@@ -1400,40 +1400,40 @@ births_UNPD(arm,1997,48622).
  births_UNPD(arm,2029,27329).
  births_UNPD(arm,2030,26888).
 
-si_UNPD(arm,1997,48622).
- si_UNPD(arm,1998,45399).
- si_UNPD(arm,1999,42867).
- si_UNPD(arm,2000,39951).
- si_UNPD(arm,2001,38353).
- si_UNPD(arm,2002,38062).
- si_UNPD(arm,2003,38688).
- si_UNPD(arm,2004,39508).
- si_UNPD(arm,2005,39919).
- si_UNPD(arm,2006,35754).
- si_UNPD(arm,2007,37998).
- si_UNPD(arm,2008,39111).
- si_UNPD(arm,2009,42504).
- si_UNPD(arm,2010,41164).
- si_UNPD(arm,2011,41348).
- si_UNPD(arm,2012,44225).
- si_UNPD(arm,2013,43892).
- si_UNPD(arm,2014,46014).
- si_UNPD(arm,2015,42325).
- si_UNPD(arm,2016,41759).
- si_UNPD(arm,2017,38968).
- si_UNPD(arm,2018,37912).
- si_UNPD(arm,2019,36521).
- si_UNPD(arm,2020,35016).
- si_UNPD(arm,2021,33700).
- si_UNPD(arm,2022,32556).
- si_UNPD(arm,2023,31640).
- si_UNPD(arm,2024,30717).
- si_UNPD(arm,2025,29876).
- si_UNPD(arm,2026,29116).
- si_UNPD(arm,2027,28349).
- si_UNPD(arm,2028,27815).
- si_UNPD(arm,2029,27329).
- si_UNPD(arm,2030,26888).
+si_UNPD(arm,1997,47318).
+ si_UNPD(arm,1998,44230).
+ si_UNPD(arm,1999,41808).
+ si_UNPD(arm,2000,39004).
+ si_UNPD(arm,2001,37482).
+ si_UNPD(arm,2002,37235).
+ si_UNPD(arm,2003,37884).
+ si_UNPD(arm,2004,38725).
+ si_UNPD(arm,2005,39169).
+ si_UNPD(arm,2006,35116).
+ si_UNPD(arm,2007,37356).
+ si_UNPD(arm,2008,38484).
+ si_UNPD(arm,2009,41858).
+ si_UNPD(arm,2010,40571).
+ si_UNPD(arm,2011,40783).
+ si_UNPD(arm,2012,43652).
+ si_UNPD(arm,2013,43352).
+ si_UNPD(arm,2014,45477).
+ si_UNPD(arm,2015,41856).
+ si_UNPD(arm,2016,41321).
+ si_UNPD(arm,2017,38580).
+ si_UNPD(arm,2018,37553).
+ si_UNPD(arm,2019,36193).
+ si_UNPD(arm,2020,34717).
+ si_UNPD(arm,2021,33426).
+ si_UNPD(arm,2022,32329).
+ si_UNPD(arm,2023,31389).
+ si_UNPD(arm,2024,30480).
+ si_UNPD(arm,2025,29652).
+ si_UNPD(arm,2026,28904).
+ si_UNPD(arm,2027,28149).
+ si_UNPD(arm,2028,27624).
+ si_UNPD(arm,2029,27147).
+ si_UNPD(arm,2030,26714).
 
 survey_results(arm,dtp3,1998,arm1999161,[title:'Evaluation of the National Immunization Program of the Republic of Armenia 1999',type:'16',yrcoll:'1999',cr:  0,confirm:'card or history',age:'15-26 m',timead:'',val:'crude',ss:2145], 98).
 

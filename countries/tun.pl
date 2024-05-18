@@ -1,8 +1,8 @@
 %  Tunisia - TUN 
-%  Wed Sep 06 19:09:25 2023 
+%  Fri May 17 12:23:39 2024 
 
 country(tun,'Tunisia'). 
-date('Wed Sep 06 19:09:25 2023').
+date('Fri May 17 12:23:39 2024').
 
 estimate_required(tun,bcg,1997,na,'na').
  estimate_required(tun,bcg,1998,na,'na').
@@ -1341,40 +1341,40 @@ births_UNPD(tun,1997,182890).
  births_UNPD(tun,2029,167958).
  births_UNPD(tun,2030,165780).
 
-si_UNPD(tun,1997,182890).
- si_UNPD(tun,1998,176018).
- si_UNPD(tun,1999,169484).
- si_UNPD(tun,2000,168350).
- si_UNPD(tun,2001,166923).
- si_UNPD(tun,2002,167030).
- si_UNPD(tun,2003,170223).
- si_UNPD(tun,2004,172655).
- si_UNPD(tun,2005,175653).
- si_UNPD(tun,2006,177606).
- si_UNPD(tun,2007,181036).
- si_UNPD(tun,2008,185348).
- si_UNPD(tun,2009,190813).
- si_UNPD(tun,2010,198707).
- si_UNPD(tun,2011,208855).
- si_UNPD(tun,2012,214699).
- si_UNPD(tun,2013,218726).
- si_UNPD(tun,2014,220886).
- si_UNPD(tun,2015,221215).
- si_UNPD(tun,2016,219666).
- si_UNPD(tun,2017,217515).
- si_UNPD(tun,2018,211807).
- si_UNPD(tun,2019,207571).
- si_UNPD(tun,2020,202268).
- si_UNPD(tun,2021,197396).
- si_UNPD(tun,2022,192759).
- si_UNPD(tun,2023,188292).
- si_UNPD(tun,2024,183782).
- si_UNPD(tun,2025,180215).
- si_UNPD(tun,2026,176588).
- si_UNPD(tun,2027,173485).
- si_UNPD(tun,2028,170630).
- si_UNPD(tun,2029,167958).
- si_UNPD(tun,2030,165780).
+si_UNPD(tun,1997,178055).
+ si_UNPD(tun,1998,171639).
+ si_UNPD(tun,1999,165521).
+ si_UNPD(tun,2000,164647).
+ si_UNPD(tun,2001,163463).
+ si_UNPD(tun,2002,163774).
+ si_UNPD(tun,2003,167100).
+ si_UNPD(tun,2004,169665).
+ si_UNPD(tun,2005,172765).
+ si_UNPD(tun,2006,174820).
+ si_UNPD(tun,2007,178310).
+ si_UNPD(tun,2008,182659).
+ si_UNPD(tun,2009,188125).
+ si_UNPD(tun,2010,195979).
+ si_UNPD(tun,2011,206038).
+ si_UNPD(tun,2012,211860).
+ si_UNPD(tun,2013,215872).
+ si_UNPD(tun,2014,218035).
+ si_UNPD(tun,2015,218380).
+ si_UNPD(tun,2016,216866).
+ si_UNPD(tun,2017,214747).
+ si_UNPD(tun,2018,209120).
+ si_UNPD(tun,2019,204963).
+ si_UNPD(tun,2020,199762).
+ si_UNPD(tun,2021,194998).
+ si_UNPD(tun,2022,190468).
+ si_UNPD(tun,2023,186331).
+ si_UNPD(tun,2024,181949).
+ si_UNPD(tun,2025,178497).
+ si_UNPD(tun,2026,174975).
+ si_UNPD(tun,2027,171964).
+ si_UNPD(tun,2028,169187).
+ si_UNPD(tun,2029,166588).
+ si_UNPD(tun,2030,164475).
 
 survey_results(tun,dtp3,1999,tun2000231,[title:'Tunisia MICS 2000',type:'23',yrcoll:'2000',cr: 0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:2158], 96.0).
 

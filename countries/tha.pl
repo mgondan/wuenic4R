@@ -1,8 +1,8 @@
 %  Thailand - THA 
-%  Wed Sep 06 19:08:27 2023 
+%  Fri May 17 12:22:39 2024 
 
 country(tha,'Thailand'). 
-date('Wed Sep 06 19:08:27 2023').
+date('Fri May 17 12:22:39 2024').
 
 estimate_required(tha,bcg,1997,na,'na').
  estimate_required(tha,bcg,1998,na,'na').
@@ -891,40 +891,40 @@ births_UNPD(tha,1997,1015218).
  births_UNPD(tha,2029,596884).
  births_UNPD(tha,2030,592191).
 
-si_UNPD(tha,1997,1015218).
- si_UNPD(tha,1998,960890).
- si_UNPD(tha,1999,887602).
- si_UNPD(tha,2000,852143).
- si_UNPD(tha,2001,837664).
- si_UNPD(tha,2002,828622).
- si_UNPD(tha,2003,830429).
- si_UNPD(tha,2004,828479).
- si_UNPD(tha,2005,837077).
- si_UNPD(tha,2006,826617).
- si_UNPD(tha,2007,827113).
- si_UNPD(tha,2008,824123).
- si_UNPD(tha,2009,813367).
- si_UNPD(tha,2010,813828).
- si_UNPD(tha,2011,820730).
- si_UNPD(tha,2012,812420).
- si_UNPD(tha,2013,790888).
- si_UNPD(tha,2014,769461).
- si_UNPD(tha,2015,745375).
- si_UNPD(tha,2016,723924).
- si_UNPD(tha,2017,707256).
- si_UNPD(tha,2018,687154).
- si_UNPD(tha,2019,668571).
- si_UNPD(tha,2020,656102).
- si_UNPD(tha,2021,644325).
- si_UNPD(tha,2022,631239).
- si_UNPD(tha,2023,623992).
- si_UNPD(tha,2024,614663).
- si_UNPD(tha,2025,612535).
- si_UNPD(tha,2026,608732).
- si_UNPD(tha,2027,605852).
- si_UNPD(tha,2028,601450).
- si_UNPD(tha,2029,596884).
- si_UNPD(tha,2030,592191).
+si_UNPD(tha,1997,995891).
+ si_UNPD(tha,1998,943525).
+ si_UNPD(tha,1999,872356).
+ si_UNPD(tha,2000,838207).
+ si_UNPD(tha,2001,824621).
+ si_UNPD(tha,2002,816349).
+ si_UNPD(tha,2003,818740).
+ si_UNPD(tha,2004,817110).
+ si_UNPD(tha,2005,826383).
+ si_UNPD(tha,2006,816517).
+ si_UNPD(tha,2007,817508).
+ si_UNPD(tha,2008,814996).
+ si_UNPD(tha,2009,804766).
+ si_UNPD(tha,2010,805592).
+ si_UNPD(tha,2011,812737).
+ si_UNPD(tha,2012,804938).
+ si_UNPD(tha,2013,783927).
+ si_UNPD(tha,2014,763002).
+ si_UNPD(tha,2015,739406).
+ si_UNPD(tha,2016,718383).
+ si_UNPD(tha,2017,702075).
+ si_UNPD(tha,2018,682356).
+ si_UNPD(tha,2019,664111).
+ si_UNPD(tha,2020,651913).
+ si_UNPD(tha,2021,640380).
+ si_UNPD(tha,2022,627364).
+ si_UNPD(tha,2023,620274).
+ si_UNPD(tha,2024,611109).
+ si_UNPD(tha,2025,609096).
+ si_UNPD(tha,2026,605420).
+ si_UNPD(tha,2027,602652).
+ si_UNPD(tha,2028,598366).
+ si_UNPD(tha,2029,593912).
+ si_UNPD(tha,2030,589321).
 
 survey_results(tha,dtp1,1998,tha1999161,[title:'Immunization Coverage Survey: Thailand 1999',type:'16',yrcoll:'1999',cr: 94,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:3369], 98).
 

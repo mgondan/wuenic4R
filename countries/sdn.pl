@@ -1,8 +1,8 @@
 %  Sudan - SDN 
-%  Wed Sep 06 19:04:24 2023 
+%  Fri May 17 12:18:53 2024 
 
 country(sdn,'Sudan'). 
-date('Wed Sep 06 19:04:24 2023').
+date('Fri May 17 12:18:53 2024').
 
 estimate_required(sdn,bcg,1997,na,'na').
  estimate_required(sdn,bcg,1998,na,'na').
@@ -1149,40 +1149,40 @@ births_UNPD(sdn,1997,1253595).
  births_UNPD(sdn,2029,1649813).
  births_UNPD(sdn,2030,1667763).
 
-si_UNPD(sdn,1997,1253595).
- si_UNPD(sdn,1998,1266678).
- si_UNPD(sdn,1999,1290307).
- si_UNPD(sdn,2000,1316268).
- si_UNPD(sdn,2001,1345712).
- si_UNPD(sdn,2002,1363657).
- si_UNPD(sdn,2003,1373528).
- si_UNPD(sdn,2004,1379735).
- si_UNPD(sdn,2005,1392274).
- si_UNPD(sdn,2006,1438261).
- si_UNPD(sdn,2007,1498739).
- si_UNPD(sdn,2008,1559997).
- si_UNPD(sdn,2009,1610497).
- si_UNPD(sdn,2010,1656167).
- si_UNPD(sdn,2011,1276787).
- si_UNPD(sdn,2012,1281007).
- si_UNPD(sdn,2013,1311188).
- si_UNPD(sdn,2014,1343895).
- si_UNPD(sdn,2015,1389533).
- si_UNPD(sdn,2016,1417640).
- si_UNPD(sdn,2017,1447974).
- si_UNPD(sdn,2018,1478916).
- si_UNPD(sdn,2019,1506276).
- si_UNPD(sdn,2020,1521188).
- si_UNPD(sdn,2021,1534332).
- si_UNPD(sdn,2022,1548473).
- si_UNPD(sdn,2023,1566537).
- si_UNPD(sdn,2024,1580356).
- si_UNPD(sdn,2025,1592895).
- si_UNPD(sdn,2026,1612084).
- si_UNPD(sdn,2027,1623535).
- si_UNPD(sdn,2028,1638430).
- si_UNPD(sdn,2029,1649813).
- si_UNPD(sdn,2030,1667763).
+si_UNPD(sdn,1997,1172554).
+ si_UNPD(sdn,1998,1165734).
+ si_UNPD(sdn,1999,1214311).
+ si_UNPD(sdn,2000,1241646).
+ si_UNPD(sdn,2001,1271640).
+ si_UNPD(sdn,2002,1290783).
+ si_UNPD(sdn,2003,1300964).
+ si_UNPD(sdn,2004,1307079).
+ si_UNPD(sdn,2005,1320576).
+ si_UNPD(sdn,2006,1368089).
+ si_UNPD(sdn,2007,1427867).
+ si_UNPD(sdn,2008,1487534).
+ si_UNPD(sdn,2009,1538234).
+ si_UNPD(sdn,2010,1583571).
+ si_UNPD(sdn,2011,1225185).
+ si_UNPD(sdn,2012,1230177).
+ si_UNPD(sdn,2013,1260080).
+ si_UNPD(sdn,2014,1292520).
+ si_UNPD(sdn,2015,1337480).
+ si_UNPD(sdn,2016,1365607).
+ si_UNPD(sdn,2017,1395983).
+ si_UNPD(sdn,2018,1426958).
+ si_UNPD(sdn,2019,1454431).
+ si_UNPD(sdn,2020,1470023).
+ si_UNPD(sdn,2021,1483986).
+ si_UNPD(sdn,2022,1499138).
+ si_UNPD(sdn,2023,1517347).
+ si_UNPD(sdn,2024,1530358).
+ si_UNPD(sdn,2025,1541164).
+ si_UNPD(sdn,2026,1560255).
+ si_UNPD(sdn,2027,1571852).
+ si_UNPD(sdn,2028,1586814).
+ si_UNPD(sdn,2029,1598333).
+ si_UNPD(sdn,2030,1616239).
 
 survey_results(sdn,pol1,1999,sdn2000231,[title:'Sudan Multiple Indicator Cluster Survey 2000',type:'23',yrcoll:'2000',cr:27,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:3720],21).
 

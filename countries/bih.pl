@@ -1,8 +1,8 @@
 %  Bosnia and Herzegovina - BIH 
-%  Wed Sep 06 18:38:16 2023 
+%  Fri May 17 11:54:30 2024 
 
 country(bih,'Bosnia and Herzegovina'). 
-date('Wed Sep 06 18:38:16 2023').
+date('Fri May 17 11:54:30 2024').
 
 estimate_required(bih,bcg,1997,na,'na').
  estimate_required(bih,bcg,1998,na,'na').
@@ -1187,40 +1187,40 @@ births_UNPD(bih,1997,49295).
  births_UNPD(bih,2029,24601).
  births_UNPD(bih,2030,24424).
 
-si_UNPD(bih,1997,49295).
- si_UNPD(bih,1998,48368).
- si_UNPD(bih,1999,43683).
- si_UNPD(bih,2000,42028).
- si_UNPD(bih,2001,41129).
- si_UNPD(bih,2002,41639).
- si_UNPD(bih,2003,41385).
- si_UNPD(bih,2004,41110).
- si_UNPD(bih,2005,39408).
- si_UNPD(bih,2006,38221).
- si_UNPD(bih,2007,39581).
- si_UNPD(bih,2008,39120).
- si_UNPD(bih,2009,38540).
- si_UNPD(bih,2010,36491).
- si_UNPD(bih,2011,33512).
- si_UNPD(bih,2012,34147).
- si_UNPD(bih,2013,32532).
- si_UNPD(bih,2014,31463).
- si_UNPD(bih,2015,31311).
- si_UNPD(bih,2016,31308).
- si_UNPD(bih,2017,31166).
- si_UNPD(bih,2018,30959).
- si_UNPD(bih,2019,29754).
- si_UNPD(bih,2020,28685).
- si_UNPD(bih,2021,27646).
- si_UNPD(bih,2022,26764).
- si_UNPD(bih,2023,26279).
- si_UNPD(bih,2024,26012).
- si_UNPD(bih,2025,25670).
- si_UNPD(bih,2026,25427).
- si_UNPD(bih,2027,25100).
- si_UNPD(bih,2028,24813).
- si_UNPD(bih,2029,24601).
- si_UNPD(bih,2030,24424).
+si_UNPD(bih,1997,48858).
+ si_UNPD(bih,1998,47964).
+ si_UNPD(bih,1999,43337).
+ si_UNPD(bih,2000,41710).
+ si_UNPD(bih,2001,40828).
+ si_UNPD(bih,2002,41342).
+ si_UNPD(bih,2003,41094).
+ si_UNPD(bih,2004,40825).
+ si_UNPD(bih,2005,39141).
+ si_UNPD(bih,2006,37970).
+ si_UNPD(bih,2007,39331).
+ si_UNPD(bih,2008,38884).
+ si_UNPD(bih,2009,38319).
+ si_UNPD(bih,2010,36291).
+ si_UNPD(bih,2011,33336).
+ si_UNPD(bih,2012,33974).
+ si_UNPD(bih,2013,32372).
+ si_UNPD(bih,2014,31310).
+ si_UNPD(bih,2015,31163).
+ si_UNPD(bih,2016,31162).
+ si_UNPD(bih,2017,31023).
+ si_UNPD(bih,2018,30819).
+ si_UNPD(bih,2019,29622).
+ si_UNPD(bih,2020,28561).
+ si_UNPD(bih,2021,27530).
+ si_UNPD(bih,2022,26652).
+ si_UNPD(bih,2023,26171).
+ si_UNPD(bih,2024,25917).
+ si_UNPD(bih,2025,25579).
+ si_UNPD(bih,2026,25339).
+ si_UNPD(bih,2027,25016).
+ si_UNPD(bih,2028,24732).
+ si_UNPD(bih,2029,24523).
+ si_UNPD(bih,2030,24348).
 
 survey_results(bih,pol1,1999,bih2000231,[title:'Household Survey of Women and Children, Bosnia and Herzegovina 2000 (MICS), 2001, Draft',type:'23',yrcoll:'2000',cr: 79,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:480], 94).
 

@@ -1,8 +1,8 @@
 %  Canada - CAN 
-%  Wed Sep 06 18:41:22 2023 
+%  Fri May 17 11:57:19 2024 
 
 country(can,'Canada'). 
-date('Wed Sep 06 18:41:22 2023').
+date('Fri May 17 11:57:19 2024').
 
 estimate_required(can,dtp1,1997,na,'na').
  estimate_required(can,dtp1,1998,na,'na').
@@ -629,40 +629,40 @@ births_UNPD(can,1997,349346).
  births_UNPD(can,2029,397355).
  births_UNPD(can,2030,397615).
 
-si_UNPD(can,1997,349346).
- si_UNPD(can,1998,341995).
- si_UNPD(can,1999,335603).
- si_UNPD(can,2000,323415).
- si_UNPD(can,2001,326442).
- si_UNPD(can,2002,325123).
- si_UNPD(can,2003,329926).
- si_UNPD(can,2004,331158).
- si_UNPD(can,2005,335560).
- si_UNPD(can,2006,347036).
- si_UNPD(can,2007,364149).
- si_UNPD(can,2008,373044).
- si_UNPD(can,2009,375611).
- si_UNPD(can,2010,372740).
- si_UNPD(can,2011,373952).
- si_UNPD(can,2012,378113).
- si_UNPD(can,2013,375999).
- si_UNPD(can,2014,378406).
- si_UNPD(can,2015,371094).
- si_UNPD(can,2016,369376).
- si_UNPD(can,2017,373611).
- si_UNPD(can,2018,369002).
- si_UNPD(can,2019,363393).
- si_UNPD(can,2020,370506).
- si_UNPD(can,2021,373728).
- si_UNPD(can,2022,376188).
- si_UNPD(can,2023,379615).
- si_UNPD(can,2024,382957).
- si_UNPD(can,2025,387306).
- si_UNPD(can,2026,388854).
- si_UNPD(can,2027,391654).
- si_UNPD(can,2028,394517).
- si_UNPD(can,2029,397355).
- si_UNPD(can,2030,397615).
+si_UNPD(can,1997,347734).
+ si_UNPD(can,1998,340461).
+ si_UNPD(can,1999,334098).
+ si_UNPD(can,2000,321993).
+ si_UNPD(can,2001,324964).
+ si_UNPD(can,2002,323624).
+ si_UNPD(can,2003,328418).
+ si_UNPD(can,2004,329664).
+ si_UNPD(can,2005,333986).
+ si_UNPD(can,2006,345516).
+ si_UNPD(can,2007,362516).
+ si_UNPD(can,2008,371400).
+ si_UNPD(can,2009,374013).
+ si_UNPD(can,2010,371131).
+ si_UNPD(can,2011,372383).
+ si_UNPD(can,2012,376554).
+ si_UNPD(can,2013,374406).
+ si_UNPD(can,2014,376882).
+ si_UNPD(can,2015,369649).
+ si_UNPD(can,2016,367936).
+ si_UNPD(can,2017,372176).
+ si_UNPD(can,2018,367531).
+ si_UNPD(can,2019,362029).
+ si_UNPD(can,2020,369130).
+ si_UNPD(can,2021,372355).
+ si_UNPD(can,2022,374917).
+ si_UNPD(can,2023,378371).
+ si_UNPD(can,2024,381736).
+ si_UNPD(can,2025,386104).
+ si_UNPD(can,2026,387681).
+ si_UNPD(can,2027,390502).
+ si_UNPD(can,2028,393387).
+ si_UNPD(can,2029,396245).
+ si_UNPD(can,2030,396531).
 
 survey_results(can,pol3,2000,can2002251,[title:'Canada, National Immunization Coverage Survey, 2002',type:'25',yrcoll:'2002',cr:85,confirm:'history',age:'24-35 m',timead:'',val:'crude',ss:629], 88).
 

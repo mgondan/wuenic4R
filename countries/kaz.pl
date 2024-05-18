@@ -1,8 +1,8 @@
 %  Kazakhstan - KAZ 
-%  Wed Sep 06 18:52:22 2023 
+%  Fri May 17 12:07:25 2024 
 
 country(kaz,'Kazakhstan'). 
-date('Wed Sep 06 18:52:22 2023').
+date('Fri May 17 12:07:25 2024').
 
 estimate_required(kaz,bcg,1997,na,'na').
  estimate_required(kaz,bcg,1998,na,'na').
@@ -1407,40 +1407,40 @@ births_UNPD(kaz,1997,262181).
  births_UNPD(kaz,2029,382496).
  births_UNPD(kaz,2030,385667).
 
-si_UNPD(kaz,1997,262181).
- si_UNPD(kaz,1998,253313).
- si_UNPD(kaz,1999,244608).
- si_UNPD(kaz,2000,242436).
- si_UNPD(kaz,2001,239451).
- si_UNPD(kaz,2002,244819).
- si_UNPD(kaz,2003,260022).
- si_UNPD(kaz,2004,276691).
- si_UNPD(kaz,2005,292854).
- si_UNPD(kaz,2006,315160).
- si_UNPD(kaz,2007,336862).
- si_UNPD(kaz,2008,358689).
- si_UNPD(kaz,2009,365900).
- si_UNPD(kaz,2010,369406).
- si_UNPD(kaz,2011,374369).
- si_UNPD(kaz,2012,382568).
- si_UNPD(kaz,2013,387566).
- si_UNPD(kaz,2014,400472).
- si_UNPD(kaz,2015,400061).
- si_UNPD(kaz,2016,402246).
- si_UNPD(kaz,2017,391284).
- si_UNPD(kaz,2018,401334).
- si_UNPD(kaz,2019,404079).
- si_UNPD(kaz,2020,427805).
- si_UNPD(kaz,2021,413483).
- si_UNPD(kaz,2022,402511).
- si_UNPD(kaz,2023,395288).
- si_UNPD(kaz,2024,388294).
- si_UNPD(kaz,2025,384906).
- si_UNPD(kaz,2026,382439).
- si_UNPD(kaz,2027,380506).
- si_UNPD(kaz,2028,380476).
- si_UNPD(kaz,2029,382496).
- si_UNPD(kaz,2030,385667).
+si_UNPD(kaz,1997,252957).
+ si_UNPD(kaz,1998,244720).
+ si_UNPD(kaz,1999,236660).
+ si_UNPD(kaz,2000,234928).
+ si_UNPD(kaz,2001,232406).
+ si_UNPD(kaz,2002,237981).
+ si_UNPD(kaz,2003,253126).
+ si_UNPD(kaz,2004,269728).
+ si_UNPD(kaz,2005,285877).
+ si_UNPD(kaz,2006,308084).
+ si_UNPD(kaz,2007,329784).
+ si_UNPD(kaz,2008,351728).
+ si_UNPD(kaz,2009,359427).
+ si_UNPD(kaz,2010,363485).
+ si_UNPD(kaz,2011,368989).
+ si_UNPD(kaz,2012,377670).
+ si_UNPD(kaz,2013,383155).
+ si_UNPD(kaz,2014,396391).
+ si_UNPD(kaz,2015,396358).
+ si_UNPD(kaz,2016,398787).
+ si_UNPD(kaz,2017,388073).
+ si_UNPD(kaz,2018,398120).
+ si_UNPD(kaz,2019,400889).
+ si_UNPD(kaz,2020,424472).
+ si_UNPD(kaz,2021,410302).
+ si_UNPD(kaz,2022,399544).
+ si_UNPD(kaz,2023,392394).
+ si_UNPD(kaz,2024,385764).
+ si_UNPD(kaz,2025,382469).
+ si_UNPD(kaz,2026,380081).
+ si_UNPD(kaz,2027,378220).
+ si_UNPD(kaz,2028,378258).
+ si_UNPD(kaz,2029,380322).
+ si_UNPD(kaz,2030,383539).
 
 survey_results(kaz,dtp1,1998,kaz1999141,[title:'Kazakhstan Demographic and Health Survey 1999, 2000',type:'14',yrcoll:'1999',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:244], 90).
 

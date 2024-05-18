@@ -1,8 +1,8 @@
 %  Grenada - GRD 
-%  Wed Sep 06 18:48:45 2023 
+%  Fri May 17 12:03:58 2024 
 
 country(grd,'Grenada'). 
-date('Wed Sep 06 18:48:45 2023').
+date('Fri May 17 12:03:58 2024').
 
 estimate_required(grd,dtp1,1997,na,'na').
  estimate_required(grd,dtp1,1998,na,'na').
@@ -1117,40 +1117,40 @@ births_UNPD(grd,1997,2311).
  births_UNPD(grd,2029,1744).
  births_UNPD(grd,2030,1722).
 
-si_UNPD(grd,1997,2311).
- si_UNPD(grd,1998,2035).
- si_UNPD(grd,1999,1932).
- si_UNPD(grd,2000,1958).
- si_UNPD(grd,2001,1907).
- si_UNPD(grd,2002,1890).
- si_UNPD(grd,2003,1874).
- si_UNPD(grd,2004,1891).
- si_UNPD(grd,2005,1916).
- si_UNPD(grd,2006,1945).
- si_UNPD(grd,2007,1975).
- si_UNPD(grd,2008,2004).
- si_UNPD(grd,2009,2029).
- si_UNPD(grd,2010,2049).
- si_UNPD(grd,2011,2062).
- si_UNPD(grd,2012,2076).
- si_UNPD(grd,2013,2088).
- si_UNPD(grd,2014,2095).
- si_UNPD(grd,2015,2096).
- si_UNPD(grd,2016,2091).
- si_UNPD(grd,2017,2080).
- si_UNPD(grd,2018,2063).
- si_UNPD(grd,2019,2041).
- si_UNPD(grd,2020,2014).
- si_UNPD(grd,2021,1990).
- si_UNPD(grd,2022,1960).
- si_UNPD(grd,2023,1923).
- si_UNPD(grd,2024,1893).
- si_UNPD(grd,2025,1860).
- si_UNPD(grd,2026,1827).
- si_UNPD(grd,2027,1801).
- si_UNPD(grd,2028,1772).
- si_UNPD(grd,2029,1744).
- si_UNPD(grd,2030,1722).
+si_UNPD(grd,1997,2284).
+ si_UNPD(grd,1998,2011).
+ si_UNPD(grd,1999,1910).
+ si_UNPD(grd,2000,1936).
+ si_UNPD(grd,2001,1886).
+ si_UNPD(grd,2002,1870).
+ si_UNPD(grd,2003,1854).
+ si_UNPD(grd,2004,1869).
+ si_UNPD(grd,2005,1896).
+ si_UNPD(grd,2006,1925).
+ si_UNPD(grd,2007,1954).
+ si_UNPD(grd,2008,1983).
+ si_UNPD(grd,2009,2007).
+ si_UNPD(grd,2010,2027).
+ si_UNPD(grd,2011,2039).
+ si_UNPD(grd,2012,2053).
+ si_UNPD(grd,2013,2064).
+ si_UNPD(grd,2014,2071).
+ si_UNPD(grd,2015,2072).
+ si_UNPD(grd,2016,2066).
+ si_UNPD(grd,2017,2055).
+ si_UNPD(grd,2018,2038).
+ si_UNPD(grd,2019,2017).
+ si_UNPD(grd,2020,1990).
+ si_UNPD(grd,2021,1967).
+ si_UNPD(grd,2022,1939).
+ si_UNPD(grd,2023,1903).
+ si_UNPD(grd,2024,1874).
+ si_UNPD(grd,2025,1842).
+ si_UNPD(grd,2026,1810).
+ si_UNPD(grd,2027,1784).
+ si_UNPD(grd,2028,1756).
+ si_UNPD(grd,2029,1729).
+ si_UNPD(grd,2030,1708).
 
 wgd(grd,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(grd,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
@@ -1158,7 +1158,9 @@ wgd(grd,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(grd,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(grd,rcv1,1997,1997,assignAnchor,'Legacy estimate.',na,92,_,na).
 
-wgd(grd,X,2022,2022,comment,' No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.',na,na,na,na).
+wgd(grd,pol3,2021,2021,assignWUENIC,' Estimate informed by estimated DTP3.',na,77,na,na).
+ wgd(grd,rcv1,2017,2017,comment,' Programme reports one month stockout.',na,na,na,na).
+ wgd(grd,X,2022,2022,comment,' No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.',na,na,na,na).
  wgd(grd,dtp1,2004,2004,acceptReported,' Vaccine supply interrupted by Hurricane Ivan. Attempts were made to identify and vaccinate children in specific target groups.',na,na,na,na).
  wgd(grd,dtp1,2004,2004,assignAnchor,' Estimate based on reported data.',na,87,na,na).
  wgd(grd,dtp1,2020,2020,acceptReported,' Programme reports a one month vaccine stockout at national and subnational levels.',na,na,na,na).
@@ -1196,6 +1198,4 @@ wgd(grd,X,2022,2022,comment,' No nationally representative household survey with
  wgd(grd,pol3,2015,2015,acceptReported,' Reported coverage suggests recovery from prior year stockout though programme reports three months stockout at national level during 2015.',na,na,na,na).
  wgd(grd,pol3,2017,2017,comment,' Programme reports one month stockout.',na,na,na,na).
  wgd(grd,pol3,2020,2020,assignWUENIC,' Estimate based on DTP3. Programme reports a one month vaccine stockout at national and subnational levels.',na,72,na,na).
- wgd(grd,pol3,2021,2021,assignWUENIC,' Estimate informed by estimated DTP3.',na,77,na,na).
- wgd(grd,rcv1,2017,2017,comment,' Programme reports one month stockout.',na,na,na,na).
 

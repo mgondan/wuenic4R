@@ -1,8 +1,8 @@
 %  Lesotho - LSO 
-%  Wed Sep 06 18:55:09 2023 
+%  Fri May 17 12:10:03 2024 
 
 country(lso,'Lesotho'). 
-date('Wed Sep 06 18:55:09 2023').
+date('Fri May 17 12:10:03 2024').
 
 estimate_required(lso,bcg,1997,na,'na').
  estimate_required(lso,bcg,1998,na,'na').
@@ -1189,40 +1189,40 @@ births_UNPD(lso,1997,60979).
  births_UNPD(lso,2029,57917).
  births_UNPD(lso,2030,57920).
 
-si_UNPD(lso,1997,60979).
- si_UNPD(lso,1998,59845).
- si_UNPD(lso,1999,58858).
- si_UNPD(lso,2000,58273).
- si_UNPD(lso,2001,58718).
- si_UNPD(lso,2002,59311).
- si_UNPD(lso,2003,59408).
- si_UNPD(lso,2004,57934).
- si_UNPD(lso,2005,57230).
- si_UNPD(lso,2006,57639).
- si_UNPD(lso,2007,59060).
- si_UNPD(lso,2008,58737).
- si_UNPD(lso,2009,58162).
- si_UNPD(lso,2010,57690).
- si_UNPD(lso,2011,59393).
- si_UNPD(lso,2012,59799).
- si_UNPD(lso,2013,60638).
- si_UNPD(lso,2014,60132).
- si_UNPD(lso,2015,60023).
- si_UNPD(lso,2016,60423).
- si_UNPD(lso,2017,60221).
- si_UNPD(lso,2018,59964).
- si_UNPD(lso,2019,59775).
- si_UNPD(lso,2020,59478).
- si_UNPD(lso,2021,59581).
- si_UNPD(lso,2022,59490).
- si_UNPD(lso,2023,59355).
- si_UNPD(lso,2024,59145).
- si_UNPD(lso,2025,58753).
- si_UNPD(lso,2026,58585).
- si_UNPD(lso,2027,58295).
- si_UNPD(lso,2028,58208).
- si_UNPD(lso,2029,57917).
- si_UNPD(lso,2030,57920).
+si_UNPD(lso,1997,57679).
+ si_UNPD(lso,1998,56562).
+ si_UNPD(lso,1999,55570).
+ si_UNPD(lso,2000,54960).
+ si_UNPD(lso,2001,55327).
+ si_UNPD(lso,2002,55832).
+ si_UNPD(lso,2003,55867).
+ si_UNPD(lso,2004,54434).
+ si_UNPD(lso,2005,53730).
+ si_UNPD(lso,2006,54104).
+ si_UNPD(lso,2007,55498).
+ si_UNPD(lso,2008,55228).
+ si_UNPD(lso,2009,54932).
+ si_UNPD(lso,2010,54632).
+ si_UNPD(lso,2011,56292).
+ si_UNPD(lso,2012,56704).
+ si_UNPD(lso,2013,57501).
+ si_UNPD(lso,2014,56987).
+ si_UNPD(lso,2015,56878).
+ si_UNPD(lso,2016,57319).
+ si_UNPD(lso,2017,57138).
+ si_UNPD(lso,2018,56902).
+ si_UNPD(lso,2019,56714).
+ si_UNPD(lso,2020,56460).
+ si_UNPD(lso,2021,56603).
+ si_UNPD(lso,2022,56474).
+ si_UNPD(lso,2023,56451).
+ si_UNPD(lso,2024,56281).
+ si_UNPD(lso,2025,55937).
+ si_UNPD(lso,2026,55807).
+ si_UNPD(lso,2027,55558).
+ si_UNPD(lso,2028,55503).
+ si_UNPD(lso,2029,55253).
+ si_UNPD(lso,2030,55282).
 
 survey_results(lso,pol3,1999,lso2000231,[title:'Lesotho 2000 End Decade Multiple Indicator Cluster Survey (EMICS), Draft Preliminary Report, 2001',type:'23',yrcoll:'2000',cr: 85,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:762], 84).
 

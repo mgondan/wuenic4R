@@ -1,8 +1,8 @@
-%  Afghanistan - AFG
-%  Wed Sep 06 18:35:26 2023
+%  Afghanistan - AFG 
+%  Fri May 17 11:51:44 2024 
 
-country(afg,'Afghanistan').
-date('Wed Sep 06 18:35:26 2023').
+country(afg,'Afghanistan'). 
+date('Fri May 17 11:51:44 2024').
 
 estimate_required(afg,bcg,1997,na,'na').
  estimate_required(afg,bcg,1998,na,'na').
@@ -1232,40 +1232,40 @@ births_UNPD(afg,1997,914412).
  births_UNPD(afg,2029,1512936).
  births_UNPD(afg,2030,1521758).
 
-si_UNPD(afg,1997,914412).
- si_UNPD(afg,1998,940233).
- si_UNPD(afg,1999,967977).
- si_UNPD(afg,2000,995813).
- si_UNPD(afg,2001,969246).
- si_UNPD(afg,2002,980458).
- si_UNPD(afg,2003,1063246).
- si_UNPD(afg,2004,1097160).
- si_UNPD(afg,2005,1099366).
- si_UNPD(afg,2006,1136774).
- si_UNPD(afg,2007,1156957).
- si_UNPD(afg,2008,1091824).
- si_UNPD(afg,2009,1128666).
- si_UNPD(afg,2010,1147643).
- si_UNPD(afg,2011,1157518).
- si_UNPD(afg,2012,1217396).
- si_UNPD(afg,2013,1248455).
- si_UNPD(afg,2014,1274665).
- si_UNPD(afg,2015,1315633).
- si_UNPD(afg,2016,1315746).
- si_UNPD(afg,2017,1332116).
- si_UNPD(afg,2018,1355895).
- si_UNPD(afg,2019,1377704).
- si_UNPD(afg,2020,1402265).
- si_UNPD(afg,2021,1440941).
- si_UNPD(afg,2022,1446699).
- si_UNPD(afg,2023,1459505).
- si_UNPD(afg,2024,1468735).
- si_UNPD(afg,2025,1477664).
- si_UNPD(afg,2026,1493786).
- si_UNPD(afg,2027,1499799).
- si_UNPD(afg,2028,1505765).
- si_UNPD(afg,2029,1512936).
- si_UNPD(afg,2030,1521758).
+si_UNPD(afg,1997,853543).
+ si_UNPD(afg,1998,878355).
+ si_UNPD(afg,1999,905686).
+ si_UNPD(afg,2000,932834).
+ si_UNPD(afg,2001,909000).
+ si_UNPD(afg,2002,920670).
+ si_UNPD(afg,2003,1000010).
+ si_UNPD(afg,2004,1033340).
+ si_UNPD(afg,2005,1036762).
+ si_UNPD(afg,2006,1073612).
+ si_UNPD(afg,2007,1094478).
+ si_UNPD(afg,2008,1034483).
+ si_UNPD(afg,2009,1070688).
+ si_UNPD(afg,2010,1090266).
+ si_UNPD(afg,2011,1101402).
+ si_UNPD(afg,2012,1160079).
+ si_UNPD(afg,2013,1191345).
+ si_UNPD(afg,2014,1217603).
+ si_UNPD(afg,2015,1258221).
+ si_UNPD(afg,2016,1260071).
+ si_UNPD(afg,2017,1278473).
+ si_UNPD(afg,2018,1302712).
+ si_UNPD(afg,2019,1324725).
+ si_UNPD(afg,2020,1349260).
+ si_UNPD(afg,2021,1387559).
+ si_UNPD(afg,2022,1397103).
+ si_UNPD(afg,2023,1412734).
+ si_UNPD(afg,2024,1422364).
+ si_UNPD(afg,2025,1429287).
+ si_UNPD(afg,2026,1446115).
+ si_UNPD(afg,2027,1453107).
+ si_UNPD(afg,2028,1460066).
+ si_UNPD(afg,2029,1468088).
+ si_UNPD(afg,2030,1477773).
 
 survey_results(afg,mcv1,1998,afg1999161,[title:'EPI Coverage Situation in Women and Children of Afghanistan, Report of Post NID’s, Routine Coverage and Acceleration Campaign Survey in Afghanistan (1999)',type:'16',yrcoll:'1999',cr:48,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:1681],20).
 

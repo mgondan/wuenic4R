@@ -1,8 +1,8 @@
 %  Malta - MLT 
-%  Wed Sep 06 18:57:21 2023 
+%  Fri May 17 12:12:08 2024 
 
 country(mlt,'Malta'). 
-date('Wed Sep 06 18:57:21 2023').
+date('Fri May 17 12:12:08 2024').
 
 estimate_required(mlt,dtp1,1997,na,'na').
  estimate_required(mlt,dtp1,1998,na,'na').
@@ -1127,40 +1127,40 @@ births_UNPD(mlt,1997,4977).
  births_UNPD(mlt,2029,4444).
  births_UNPD(mlt,2030,4319).
 
-si_UNPD(mlt,1997,4977).
- si_UNPD(mlt,1998,4775).
- si_UNPD(mlt,1999,4550).
- si_UNPD(mlt,2000,4460).
- si_UNPD(mlt,2001,4030).
- si_UNPD(mlt,2002,3977).
- si_UNPD(mlt,2003,4080).
- si_UNPD(mlt,2004,3913).
- si_UNPD(mlt,2005,3886).
- si_UNPD(mlt,2006,3852).
- si_UNPD(mlt,2007,3842).
- si_UNPD(mlt,2008,4035).
- si_UNPD(mlt,2009,4028).
- si_UNPD(mlt,2010,3941).
- si_UNPD(mlt,2011,4195).
- si_UNPD(mlt,2012,4226).
- si_UNPD(mlt,2013,4140).
- si_UNPD(mlt,2014,4311).
- si_UNPD(mlt,2015,4436).
- si_UNPD(mlt,2016,4583).
- si_UNPD(mlt,2017,4413).
- si_UNPD(mlt,2018,4463).
- si_UNPD(mlt,2019,4318).
- si_UNPD(mlt,2020,4509).
- si_UNPD(mlt,2021,4664).
- si_UNPD(mlt,2022,4857).
- si_UNPD(mlt,2023,4863).
- si_UNPD(mlt,2024,4849).
- si_UNPD(mlt,2025,4821).
- si_UNPD(mlt,2026,4759).
- si_UNPD(mlt,2027,4671).
- si_UNPD(mlt,2028,4577).
- si_UNPD(mlt,2029,4444).
- si_UNPD(mlt,2030,4319).
+si_UNPD(mlt,1997,4933).
+ si_UNPD(mlt,1998,4730).
+ si_UNPD(mlt,1999,4511).
+ si_UNPD(mlt,2000,4423).
+ si_UNPD(mlt,2001,4011).
+ si_UNPD(mlt,2002,3951).
+ si_UNPD(mlt,2003,4053).
+ si_UNPD(mlt,2004,3887).
+ si_UNPD(mlt,2005,3863).
+ si_UNPD(mlt,2006,3833).
+ si_UNPD(mlt,2007,3817).
+ si_UNPD(mlt,2008,4003).
+ si_UNPD(mlt,2009,4004).
+ si_UNPD(mlt,2010,3921).
+ si_UNPD(mlt,2011,4169).
+ si_UNPD(mlt,2012,4202).
+ si_UNPD(mlt,2013,4115).
+ si_UNPD(mlt,2014,4292).
+ si_UNPD(mlt,2015,4413).
+ si_UNPD(mlt,2016,4551).
+ si_UNPD(mlt,2017,4388).
+ si_UNPD(mlt,2018,4440).
+ si_UNPD(mlt,2019,4294).
+ si_UNPD(mlt,2020,4496).
+ si_UNPD(mlt,2021,4649).
+ si_UNPD(mlt,2022,4835).
+ si_UNPD(mlt,2023,4841).
+ si_UNPD(mlt,2024,4828).
+ si_UNPD(mlt,2025,4800).
+ si_UNPD(mlt,2026,4739).
+ si_UNPD(mlt,2027,4652).
+ si_UNPD(mlt,2028,4559).
+ si_UNPD(mlt,2029,4427).
+ si_UNPD(mlt,2030,4302).
 
 wgd(mlt,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).
  wgd(mlt,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,92,_,na).

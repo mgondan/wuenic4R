@@ -1,8 +1,8 @@
 %  United Kingdom of Great Britain and Northern Ireland - GBR 
-%  Wed Sep 06 18:47:19 2023 
+%  Fri May 17 12:02:39 2024 
 
 country(gbr,'United Kingdom of Great Britain and Northern Ireland'). 
-date('Wed Sep 06 18:47:19 2023').
+date('Fri May 17 12:02:39 2024').
 
 estimate_required(gbr,dtp1,1997,na,'na').
  estimate_required(gbr,dtp1,1998,na,'na').
@@ -1030,40 +1030,40 @@ births_UNPD(gbr,1997,723360).
  births_UNPD(gbr,2029,673229).
  births_UNPD(gbr,2030,670241).
 
-si_UNPD(gbr,1997,723360).
- si_UNPD(gbr,1998,713633).
- si_UNPD(gbr,1999,697052).
- si_UNPD(gbr,2000,676427).
- si_UNPD(gbr,2001,667031).
- si_UNPD(gbr,2002,668008).
- si_UNPD(gbr,2003,693324).
- si_UNPD(gbr,2004,712471).
- si_UNPD(gbr,2005,717886).
- si_UNPD(gbr,2006,740640).
- si_UNPD(gbr,2007,765384).
- si_UNPD(gbr,2008,785489).
- si_UNPD(gbr,2009,785284).
- si_UNPD(gbr,2010,800876).
- si_UNPD(gbr,2011,804222).
- si_UNPD(gbr,2012,809031).
- si_UNPD(gbr,2013,780843).
- si_UNPD(gbr,2014,777766).
- si_UNPD(gbr,2015,780094).
- si_UNPD(gbr,2016,777997).
- si_UNPD(gbr,2017,756659).
- si_UNPD(gbr,2018,731289).
- si_UNPD(gbr,2019,709079).
- si_UNPD(gbr,2020,678528).
- si_UNPD(gbr,2021,677219).
- si_UNPD(gbr,2022,676887).
- si_UNPD(gbr,2023,677708).
- si_UNPD(gbr,2024,678524).
- si_UNPD(gbr,2025,676198).
- si_UNPD(gbr,2026,676955).
- si_UNPD(gbr,2027,674657).
- si_UNPD(gbr,2028,672862).
- si_UNPD(gbr,2029,673229).
- si_UNPD(gbr,2030,670241).
+si_UNPD(gbr,1997,719748).
+ si_UNPD(gbr,1998,710140).
+ si_UNPD(gbr,1999,693603).
+ si_UNPD(gbr,2000,673205).
+ si_UNPD(gbr,2001,663895).
+ si_UNPD(gbr,2002,664991).
+ si_UNPD(gbr,2003,690110).
+ si_UNPD(gbr,2004,709334).
+ si_UNPD(gbr,2005,714732).
+ si_UNPD(gbr,2006,737415).
+ si_UNPD(gbr,2007,762155).
+ si_UNPD(gbr,2008,782274).
+ si_UNPD(gbr,2009,782125).
+ si_UNPD(gbr,2010,797840).
+ si_UNPD(gbr,2011,801226).
+ si_UNPD(gbr,2012,806163).
+ si_UNPD(gbr,2013,778267).
+ si_UNPD(gbr,2014,775200).
+ si_UNPD(gbr,2015,777502).
+ si_UNPD(gbr,2016,775429).
+ si_UNPD(gbr,2017,754138).
+ si_UNPD(gbr,2018,728910).
+ si_UNPD(gbr,2019,706791).
+ si_UNPD(gbr,2020,676382).
+ si_UNPD(gbr,2021,675119).
+ si_UNPD(gbr,2022,675022).
+ si_UNPD(gbr,2023,675892).
+ si_UNPD(gbr,2024,676752).
+ si_UNPD(gbr,2025,674477).
+ si_UNPD(gbr,2026,675276).
+ si_UNPD(gbr,2027,673028).
+ si_UNPD(gbr,2028,671277).
+ si_UNPD(gbr,2029,671685).
+ si_UNPD(gbr,2030,668741).
 
 wgd(gbr,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).
  wgd(gbr,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,92,_,na).

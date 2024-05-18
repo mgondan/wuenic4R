@@ -1,8 +1,8 @@
 %  Eritrea - ERI 
-%  Wed Sep 06 18:45:40 2023 
+%  Fri May 17 12:01:05 2024 
 
 country(eri,'Eritrea'). 
-date('Wed Sep 06 18:45:40 2023').
+date('Fri May 17 12:01:05 2024').
 
 estimate_required(eri,bcg,1997,na,'na').
  estimate_required(eri,bcg,1998,na,'na').
@@ -1180,40 +1180,40 @@ births_UNPD(eri,1997,93745).
  births_UNPD(eri,2029,114328).
  births_UNPD(eri,2030,115732).
 
-si_UNPD(eri,1997,93745).
- si_UNPD(eri,1998,92040).
- si_UNPD(eri,1999,90050).
- si_UNPD(eri,2000,90648).
- si_UNPD(eri,2001,89897).
- si_UNPD(eri,2002,95036).
- si_UNPD(eri,2003,96249).
- si_UNPD(eri,2004,103172).
- si_UNPD(eri,2005,104107).
- si_UNPD(eri,2006,105300).
- si_UNPD(eri,2007,103609).
- si_UNPD(eri,2008,103900).
- si_UNPD(eri,2009,106540).
- si_UNPD(eri,2010,106281).
- si_UNPD(eri,2011,106770).
- si_UNPD(eri,2012,106166).
- si_UNPD(eri,2013,105095).
- si_UNPD(eri,2014,104927).
- si_UNPD(eri,2015,102386).
- si_UNPD(eri,2016,101487).
- si_UNPD(eri,2017,100510).
- si_UNPD(eri,2018,100599).
- si_UNPD(eri,2019,101706).
- si_UNPD(eri,2020,102300).
- si_UNPD(eri,2021,103861).
- si_UNPD(eri,2022,104981).
- si_UNPD(eri,2023,106263).
- si_UNPD(eri,2024,107286).
- si_UNPD(eri,2025,108679).
- si_UNPD(eri,2026,109897).
- si_UNPD(eri,2027,111776).
- si_UNPD(eri,2028,113415).
- si_UNPD(eri,2029,114328).
- si_UNPD(eri,2030,115732).
+si_UNPD(eri,1997,89052).
+ si_UNPD(eri,1998,87617).
+ si_UNPD(eri,1999,85480).
+ si_UNPD(eri,2000,86485).
+ si_UNPD(eri,2001,86018).
+ si_UNPD(eri,2002,91071).
+ si_UNPD(eri,2003,92355).
+ si_UNPD(eri,2004,99124).
+ si_UNPD(eri,2005,100136).
+ si_UNPD(eri,2006,101418).
+ si_UNPD(eri,2007,99899).
+ si_UNPD(eri,2008,100269).
+ si_UNPD(eri,2009,102928).
+ si_UNPD(eri,2010,102774).
+ si_UNPD(eri,2011,103333).
+ si_UNPD(eri,2012,102837).
+ si_UNPD(eri,2013,101879).
+ si_UNPD(eri,2014,101794).
+ si_UNPD(eri,2015,99400).
+ si_UNPD(eri,2016,98593).
+ si_UNPD(eri,2017,97712).
+ si_UNPD(eri,2018,97868).
+ si_UNPD(eri,2019,99009).
+ si_UNPD(eri,2020,99651).
+ si_UNPD(eri,2021,101242).
+ si_UNPD(eri,2022,102355).
+ si_UNPD(eri,2023,103662).
+ si_UNPD(eri,2024,104935).
+ si_UNPD(eri,2025,106388).
+ si_UNPD(eri,2026,107663).
+ si_UNPD(eri,2027,109586).
+ si_UNPD(eri,2028,111273).
+ si_UNPD(eri,2029,112246).
+ si_UNPD(eri,2030,113701).
 
 survey_results(eri,dtp1,1999,eri2000231,[title:'Eritrea EPI Coverage Survey Report 2000',type:'23',yrcoll:'2000',cr: 92,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:647], 97).
 

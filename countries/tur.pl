@@ -1,8 +1,8 @@
 %  Türkiye - TUR 
-%  Wed Sep 06 19:09:33 2023 
+%  Fri May 17 12:23:46 2024 
 
 country(tur,'Türkiye'). 
-date('Wed Sep 06 19:09:33 2023').
+date('Fri May 17 12:23:46 2024').
 
 estimate_required(tur,bcg,1997,na,'na').
  estimate_required(tur,bcg,1998,na,'na').
@@ -1361,40 +1361,40 @@ births_UNPD(tur,1997,1438219).
  births_UNPD(tur,2029,1111806).
  births_UNPD(tur,2030,1097096).
 
-si_UNPD(tur,1997,1438219).
- si_UNPD(tur,1998,1431246).
- si_UNPD(tur,1999,1407858).
- si_UNPD(tur,2000,1374955).
- si_UNPD(tur,2001,1405366).
- si_UNPD(tur,2002,1306998).
- si_UNPD(tur,2003,1269951).
- si_UNPD(tur,2004,1282596).
- si_UNPD(tur,2005,1298921).
- si_UNPD(tur,2006,1316064).
- si_UNPD(tur,2007,1307964).
- si_UNPD(tur,2008,1306949).
- si_UNPD(tur,2009,1304121).
- si_UNPD(tur,2010,1298263).
- si_UNPD(tur,2011,1307743).
- si_UNPD(tur,2012,1327167).
- si_UNPD(tur,2013,1354862).
- si_UNPD(tur,2014,1397762).
- si_UNPD(tur,2015,1425806).
- si_UNPD(tur,2016,1433893).
- si_UNPD(tur,2017,1427883).
- si_UNPD(tur,2018,1366595).
- si_UNPD(tur,2019,1303201).
- si_UNPD(tur,2020,1265256).
- si_UNPD(tur,2021,1244782).
- si_UNPD(tur,2022,1236900).
- si_UNPD(tur,2023,1214053).
- si_UNPD(tur,2024,1195978).
- si_UNPD(tur,2025,1176729).
- si_UNPD(tur,2026,1159738).
- si_UNPD(tur,2027,1141354).
- si_UNPD(tur,2028,1127231).
- si_UNPD(tur,2029,1111806).
- si_UNPD(tur,2030,1097096).
+si_UNPD(tur,1997,1392552).
+ si_UNPD(tur,1998,1388211).
+ si_UNPD(tur,1999,1367287).
+ si_UNPD(tur,2000,1338139).
+ si_UNPD(tur,2001,1369945).
+ si_UNPD(tur,2002,1276026).
+ si_UNPD(tur,2003,1241687).
+ si_UNPD(tur,2004,1255830).
+ si_UNPD(tur,2005,1273637).
+ si_UNPD(tur,2006,1292280).
+ si_UNPD(tur,2007,1286027).
+ si_UNPD(tur,2008,1286580).
+ si_UNPD(tur,2009,1285220).
+ si_UNPD(tur,2010,1280753).
+ si_UNPD(tur,2011,1291284).
+ si_UNPD(tur,2012,1311577).
+ si_UNPD(tur,2013,1339997).
+ si_UNPD(tur,2014,1383404).
+ si_UNPD(tur,2015,1412081).
+ si_UNPD(tur,2016,1420958).
+ si_UNPD(tur,2017,1415794).
+ si_UNPD(tur,2018,1355742).
+ si_UNPD(tur,2019,1293476).
+ si_UNPD(tur,2020,1256368).
+ si_UNPD(tur,2021,1236527).
+ si_UNPD(tur,2022,1228626).
+ si_UNPD(tur,2023,1206223).
+ si_UNPD(tur,2024,1188546).
+ si_UNPD(tur,2025,1169680).
+ si_UNPD(tur,2026,1153036).
+ si_UNPD(tur,2027,1135002).
+ si_UNPD(tur,2028,1121183).
+ si_UNPD(tur,2029,1106060).
+ si_UNPD(tur,2030,1091623).
 
 survey_results(tur,pol1,1997,tur1998141,[title:'Turkish Demographic and Health Survey 1998, 1999',type:'14',yrcoll:'1998',cr:38,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:689], 92).
 

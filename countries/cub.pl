@@ -1,8 +1,8 @@
 %  Cuba - CUB 
-%  Wed Sep 06 18:43:26 2023 
+%  Fri May 17 11:58:56 2024 
 
 country(cub,'Cuba'). 
-date('Wed Sep 06 18:43:26 2023').
+date('Fri May 17 11:58:56 2024').
 
 estimate_required(cub,bcg,1997,na,'na').
  estimate_required(cub,bcg,1998,na,'na').
@@ -1341,40 +1341,40 @@ births_UNPD(cub,1997,149583).
  births_UNPD(cub,2029,94781).
  births_UNPD(cub,2030,94300).
 
-si_UNPD(cub,1997,149583).
- si_UNPD(cub,1998,148572).
- si_UNPD(cub,1999,147296).
- si_UNPD(cub,2000,140373).
- si_UNPD(cub,2001,135672).
- si_UNPD(cub,2002,137103).
- si_UNPD(cub,2003,132570).
- si_UNPD(cub,2004,123853).
- si_UNPD(cub,2005,117483).
- si_UNPD(cub,2006,109790).
- si_UNPD(cub,2007,111832).
- si_UNPD(cub,2008,122260).
- si_UNPD(cub,2009,129809).
- si_UNPD(cub,2010,129069).
- si_UNPD(cub,2011,133055).
- si_UNPD(cub,2012,126643).
- si_UNPD(cub,2013,126008).
- si_UNPD(cub,2014,123133).
- si_UNPD(cub,2015,124508).
- si_UNPD(cub,2016,117455).
- si_UNPD(cub,2017,115495).
- si_UNPD(cub,2018,117309).
- si_UNPD(cub,2019,110404).
- si_UNPD(cub,2020,105616).
- si_UNPD(cub,2021,100445).
- si_UNPD(cub,2022,99693).
- si_UNPD(cub,2023,98937).
- si_UNPD(cub,2024,97775).
- si_UNPD(cub,2025,97031).
- si_UNPD(cub,2026,96330).
- si_UNPD(cub,2027,95687).
- si_UNPD(cub,2028,95122).
- si_UNPD(cub,2029,94781).
- si_UNPD(cub,2030,94300).
+si_UNPD(cub,1997,148529).
+ si_UNPD(cub,1998,147568).
+ si_UNPD(cub,1999,146340).
+ si_UNPD(cub,2000,139498).
+ si_UNPD(cub,2001,134858).
+ si_UNPD(cub,2002,136311).
+ si_UNPD(cub,2003,131832).
+ si_UNPD(cub,2004,123188).
+ si_UNPD(cub,2005,116873).
+ si_UNPD(cub,2006,109239).
+ si_UNPD(cub,2007,111289).
+ si_UNPD(cub,2008,121684).
+ si_UNPD(cub,2009,129215).
+ si_UNPD(cub,2010,128495).
+ si_UNPD(cub,2011,132480).
+ si_UNPD(cub,2012,126109).
+ si_UNPD(cub,2013,125490).
+ si_UNPD(cub,2014,122638).
+ si_UNPD(cub,2015,124019).
+ si_UNPD(cub,2016,117004).
+ si_UNPD(cub,2017,115061).
+ si_UNPD(cub,2018,116877).
+ si_UNPD(cub,2019,110006).
+ si_UNPD(cub,2020,105244).
+ si_UNPD(cub,2021,100100).
+ si_UNPD(cub,2022,99349).
+ si_UNPD(cub,2023,98602).
+ si_UNPD(cub,2024,97450).
+ si_UNPD(cub,2025,96715).
+ si_UNPD(cub,2026,96022).
+ si_UNPD(cub,2027,95388).
+ si_UNPD(cub,2028,94830).
+ si_UNPD(cub,2029,94496).
+ si_UNPD(cub,2030,94021).
 
 survey_results(cub,mcv1,2005,cub2006231,[title:'Cuba Multiple Indicator Cluster Survey, 2006',type:'23',yrcoll:'2006',cr: 98,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:1840], 86).
 

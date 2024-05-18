@@ -1,8 +1,8 @@
 %  Togo - TGO 
-%  Wed Sep 06 19:08:19 2023 
+%  Fri May 17 12:22:32 2024 
 
 country(tgo,'Togo'). 
-date('Wed Sep 06 19:08:19 2023').
+date('Fri May 17 12:22:32 2024').
 
 estimate_required(tgo,bcg,1997,na,'na').
  estimate_required(tgo,bcg,1998,na,'na').
@@ -1236,40 +1236,40 @@ births_UNPD(tgo,1997,178197).
  births_UNPD(tgo,2029,305305).
  births_UNPD(tgo,2030,309803).
 
-si_UNPD(tgo,1997,178197).
- si_UNPD(tgo,1998,183381).
- si_UNPD(tgo,1999,188902).
- si_UNPD(tgo,2000,193599).
- si_UNPD(tgo,2001,198491).
- si_UNPD(tgo,2002,203080).
- si_UNPD(tgo,2003,206902).
- si_UNPD(tgo,2004,209626).
- si_UNPD(tgo,2005,214777).
- si_UNPD(tgo,2006,220538).
- si_UNPD(tgo,2007,228714).
- si_UNPD(tgo,2008,233499).
- si_UNPD(tgo,2009,239906).
- si_UNPD(tgo,2010,245561).
- si_UNPD(tgo,2011,247271).
- si_UNPD(tgo,2012,248343).
- si_UNPD(tgo,2013,250969).
- si_UNPD(tgo,2014,253898).
- si_UNPD(tgo,2015,257088).
- si_UNPD(tgo,2016,261322).
- si_UNPD(tgo,2017,264363).
- si_UNPD(tgo,2018,267100).
- si_UNPD(tgo,2019,270073).
- si_UNPD(tgo,2020,272757).
- si_UNPD(tgo,2021,275435).
- si_UNPD(tgo,2022,278618).
- si_UNPD(tgo,2023,281959).
- si_UNPD(tgo,2024,284629).
- si_UNPD(tgo,2025,288578).
- si_UNPD(tgo,2026,292230).
- si_UNPD(tgo,2027,295652).
- si_UNPD(tgo,2028,299710).
- si_UNPD(tgo,2029,305305).
- si_UNPD(tgo,2030,309803).
+si_UNPD(tgo,1997,167563).
+ si_UNPD(tgo,1998,172586).
+ si_UNPD(tgo,1999,177965).
+ si_UNPD(tgo,2000,182580).
+ si_UNPD(tgo,2001,187385).
+ si_UNPD(tgo,2002,191930).
+ si_UNPD(tgo,2003,195750).
+ si_UNPD(tgo,2004,198536).
+ si_UNPD(tgo,2005,203619).
+ si_UNPD(tgo,2006,209296).
+ si_UNPD(tgo,2007,217266).
+ si_UNPD(tgo,2008,222037).
+ si_UNPD(tgo,2009,228359).
+ si_UNPD(tgo,2010,233972).
+ si_UNPD(tgo,2011,235845).
+ si_UNPD(tgo,2012,237110).
+ si_UNPD(tgo,2013,239866).
+ si_UNPD(tgo,2014,242912).
+ si_UNPD(tgo,2015,246213).
+ si_UNPD(tgo,2016,250513).
+ si_UNPD(tgo,2017,253678).
+ si_UNPD(tgo,2018,256563).
+ si_UNPD(tgo,2019,259674).
+ si_UNPD(tgo,2020,262499).
+ si_UNPD(tgo,2021,265319).
+ si_UNPD(tgo,2022,268452).
+ si_UNPD(tgo,2023,271833).
+ si_UNPD(tgo,2024,274571).
+ si_UNPD(tgo,2025,278548).
+ si_UNPD(tgo,2026,282230).
+ si_UNPD(tgo,2027,285696).
+ si_UNPD(tgo,2028,289781).
+ si_UNPD(tgo,2029,295353).
+ si_UNPD(tgo,2030,299866).
 
 survey_results(tgo,mcv1,1997,tgo1998141,[title:'Togo Demographic and Health Survey 1998',type:'14',yrcoll:'1998',cr:58,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:1134], 32).
 

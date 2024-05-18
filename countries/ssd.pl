@@ -1,8 +1,8 @@
 %  South Sudan - SSD 
-%  Wed Sep 06 19:06:42 2023 
+%  Fri May 17 12:20:58 2024 
 
 country(ssd,'South Sudan'). 
-date('Wed Sep 06 19:06:42 2023').
+date('Fri May 17 12:20:58 2024').
 
 estimate_required(ssd,bcg,2011,na,'na').
  estimate_required(ssd,bcg,2012,na,'na').
@@ -606,26 +606,26 @@ births_UNPD(ssd,2011,408616).
  births_UNPD(ssd,2029,364934).
  births_UNPD(ssd,2030,374932).
 
-si_UNPD(ssd,2011,408616).
- si_UNPD(ssd,2012,424322).
- si_UNPD(ssd,2013,434934).
- si_UNPD(ssd,2014,440608).
- si_UNPD(ssd,2015,409331).
- si_UNPD(ssd,2016,400446).
- si_UNPD(ssd,2017,358732).
- si_UNPD(ssd,2018,317641).
- si_UNPD(ssd,2019,303490).
- si_UNPD(ssd,2020,310480).
- si_UNPD(ssd,2021,313347).
- si_UNPD(ssd,2022,315390).
- si_UNPD(ssd,2023,321400).
- si_UNPD(ssd,2024,326409).
- si_UNPD(ssd,2025,333369).
- si_UNPD(ssd,2026,339774).
- si_UNPD(ssd,2027,348441).
- si_UNPD(ssd,2028,356163).
- si_UNPD(ssd,2029,364934).
- si_UNPD(ssd,2030,374932).
+si_UNPD(ssd,2011,387643).
+ si_UNPD(ssd,2012,403120).
+ si_UNPD(ssd,2013,413374).
+ si_UNPD(ssd,2014,418795).
+ si_UNPD(ssd,2015,389106).
+ si_UNPD(ssd,2016,380675).
+ si_UNPD(ssd,2017,341002).
+ si_UNPD(ssd,2018,301986).
+ si_UNPD(ssd,2019,288513).
+ si_UNPD(ssd,2020,295147).
+ si_UNPD(ssd,2021,297836).
+ si_UNPD(ssd,2022,300399).
+ si_UNPD(ssd,2023,306804).
+ si_UNPD(ssd,2024,311736).
+ si_UNPD(ssd,2025,318203).
+ si_UNPD(ssd,2026,324497).
+ si_UNPD(ssd,2027,332949).
+ si_UNPD(ssd,2028,340514).
+ si_UNPD(ssd,2029,349085).
+ si_UNPD(ssd,2030,358826).
 
 survey_results(ssd,dtp1,2009,ssd2010181,[title:'The Republic of South Sudan: The Sudan Household Health Survey 2010',type:'18',yrcoll:'2010',cr:10,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:1704],28).
 

@@ -1,8 +1,8 @@
 %  Mozambique - MOZ 
-%  Wed Sep 06 18:57:53 2023 
+%  Fri May 17 12:12:37 2024 
 
 country(moz,'Mozambique'). 
-date('Wed Sep 06 18:57:53 2023').
+date('Fri May 17 12:12:37 2024').
 
 estimate_required(moz,bcg,1997,na,'na').
  estimate_required(moz,bcg,1998,na,'na').
@@ -1142,40 +1142,40 @@ births_UNPD(moz,1997,735663).
  births_UNPD(moz,2029,1309302).
  births_UNPD(moz,2030,1320193).
 
-si_UNPD(moz,1997,735663).
- si_UNPD(moz,1998,749322).
- si_UNPD(moz,1999,764274).
- si_UNPD(moz,2000,778507).
- si_UNPD(moz,2001,791931).
- si_UNPD(moz,2002,805680).
- si_UNPD(moz,2003,824300).
- si_UNPD(moz,2004,834319).
- si_UNPD(moz,2005,847395).
- si_UNPD(moz,2006,860056).
- si_UNPD(moz,2007,875783).
- si_UNPD(moz,2008,910584).
- si_UNPD(moz,2009,942116).
- si_UNPD(moz,2010,970243).
- si_UNPD(moz,2011,988887).
- si_UNPD(moz,2012,1005848).
- si_UNPD(moz,2013,1023615).
- si_UNPD(moz,2014,1021485).
- si_UNPD(moz,2015,1041021).
- si_UNPD(moz,2016,1063303).
- si_UNPD(moz,2017,1089214).
- si_UNPD(moz,2018,1111300).
- si_UNPD(moz,2019,1131557).
- si_UNPD(moz,2020,1152789).
- si_UNPD(moz,2021,1174346).
- si_UNPD(moz,2022,1191147).
- si_UNPD(moz,2023,1207858).
- si_UNPD(moz,2024,1225914).
- si_UNPD(moz,2025,1243736).
- si_UNPD(moz,2026,1261704).
- si_UNPD(moz,2027,1278457).
- si_UNPD(moz,2028,1293840).
- si_UNPD(moz,2029,1309302).
- si_UNPD(moz,2030,1320193).
+si_UNPD(moz,1997,666881).
+ si_UNPD(moz,1998,682325).
+ si_UNPD(moz,1999,699199).
+ si_UNPD(moz,2000,715295).
+ si_UNPD(moz,2001,730866).
+ si_UNPD(moz,2002,746390).
+ si_UNPD(moz,2003,766249).
+ si_UNPD(moz,2004,777993).
+ si_UNPD(moz,2005,792413).
+ si_UNPD(moz,2006,806411).
+ si_UNPD(moz,2007,823904).
+ si_UNPD(moz,2008,858995).
+ si_UNPD(moz,2009,890745).
+ si_UNPD(moz,2010,918002).
+ si_UNPD(moz,2011,936902).
+ si_UNPD(moz,2012,954266).
+ si_UNPD(moz,2013,972401).
+ si_UNPD(moz,2014,971661).
+ si_UNPD(moz,2015,991833).
+ si_UNPD(moz,2016,1014459).
+ si_UNPD(moz,2017,1040147).
+ si_UNPD(moz,2018,1062233).
+ si_UNPD(moz,2019,1082738).
+ si_UNPD(moz,2020,1104167).
+ si_UNPD(moz,2021,1125799).
+ si_UNPD(moz,2022,1141329).
+ si_UNPD(moz,2023,1160018).
+ si_UNPD(moz,2024,1178336).
+ si_UNPD(moz,2025,1196518).
+ si_UNPD(moz,2026,1214831).
+ si_UNPD(moz,2027,1231986).
+ si_UNPD(moz,2028,1247874).
+ si_UNPD(moz,2029,1263797).
+ si_UNPD(moz,2030,1275321).
 
 survey_results(moz,pol1,2003,moz2003141,[title:'Mozambique Demographic and Health Survey 2003',type:'14',yrcoll:'2003',cr:78,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1933], 76).
 

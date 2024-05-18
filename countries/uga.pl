@@ -1,8 +1,8 @@
 %  Uganda - UGA 
-%  Wed Sep 06 19:09:58 2023 
+%  Fri May 17 12:24:18 2024 
 
 country(uga,'Uganda'). 
-date('Wed Sep 06 19:09:58 2023').
+date('Fri May 17 12:24:18 2024').
 
 estimate_required(uga,bcg,1997,na,'na').
  estimate_required(uga,bcg,1998,na,'na').
@@ -1162,40 +1162,40 @@ births_UNPD(uga,1997,1096039).
  births_UNPD(uga,2029,1789966).
  births_UNPD(uga,2030,1797092).
 
-si_UNPD(uga,1997,1096039).
- si_UNPD(uga,1998,1111927).
- si_UNPD(uga,1999,1143842).
- si_UNPD(uga,2000,1168768).
- si_UNPD(uga,2001,1197462).
- si_UNPD(uga,2002,1221495).
- si_UNPD(uga,2003,1244217).
- si_UNPD(uga,2004,1270682).
- si_UNPD(uga,2005,1288922).
- si_UNPD(uga,2006,1309017).
- si_UNPD(uga,2007,1327782).
- si_UNPD(uga,2008,1344132).
- si_UNPD(uga,2009,1371749).
- si_UNPD(uga,2010,1396863).
- si_UNPD(uga,2011,1416842).
- si_UNPD(uga,2012,1434633).
- si_UNPD(uga,2013,1448034).
- si_UNPD(uga,2014,1461116).
- si_UNPD(uga,2015,1478913).
- si_UNPD(uga,2016,1497776).
- si_UNPD(uga,2017,1537283).
- si_UNPD(uga,2018,1579525).
- si_UNPD(uga,2019,1616222).
- si_UNPD(uga,2020,1653818).
- si_UNPD(uga,2021,1686795).
- si_UNPD(uga,2022,1713605).
- si_UNPD(uga,2023,1729033).
- si_UNPD(uga,2024,1737582).
- si_UNPD(uga,2025,1749115).
- si_UNPD(uga,2026,1759703).
- si_UNPD(uga,2027,1768718).
- si_UNPD(uga,2028,1783220).
- si_UNPD(uga,2029,1789966).
- si_UNPD(uga,2030,1797092).
+si_UNPD(uga,1997,1021538).
+ si_UNPD(uga,1998,1037705).
+ si_UNPD(uga,1999,1069538).
+ si_UNPD(uga,2000,1095373).
+ si_UNPD(uga,2001,1125279).
+ si_UNPD(uga,2002,1151162).
+ si_UNPD(uga,2003,1176034).
+ si_UNPD(uga,2004,1203644).
+ si_UNPD(uga,2005,1223590).
+ si_UNPD(uga,2006,1245346).
+ si_UNPD(uga,2007,1265839).
+ si_UNPD(uga,2008,1283966).
+ si_UNPD(uga,2009,1312750).
+ si_UNPD(uga,2010,1339291).
+ si_UNPD(uga,2011,1360885).
+ si_UNPD(uga,2012,1380674).
+ si_UNPD(uga,2013,1396087).
+ si_UNPD(uga,2014,1410861).
+ si_UNPD(uga,2015,1430006).
+ si_UNPD(uga,2016,1450377).
+ si_UNPD(uga,2017,1490440).
+ si_UNPD(uga,2018,1533176).
+ si_UNPD(uga,2019,1570393).
+ si_UNPD(uga,2020,1608556).
+ si_UNPD(uga,2021,1642190).
+ si_UNPD(uga,2022,1668269).
+ si_UNPD(uga,2023,1684222).
+ si_UNPD(uga,2024,1693502).
+ si_UNPD(uga,2025,1705669).
+ si_UNPD(uga,2026,1716937).
+ si_UNPD(uga,2027,1726586).
+ si_UNPD(uga,2028,1741558).
+ si_UNPD(uga,2029,1748982).
+ si_UNPD(uga,2030,1756784).
 
 survey_results(uga,dtp1,1997,uga1999161,[title:'Uganda Immunization Coverage Validation Survey 1998/1999',type:'16',yrcoll:'1998',cr: 0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:10466], 78).
 

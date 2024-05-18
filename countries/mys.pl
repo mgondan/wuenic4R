@@ -1,8 +1,8 @@
 %  Malaysia - MYS 
-%  Wed Sep 06 18:58:49 2023 
+%  Fri May 17 12:13:30 2024 
 
 country(mys,'Malaysia'). 
-date('Wed Sep 06 18:58:49 2023').
+date('Fri May 17 12:13:30 2024').
 
 estimate_required(mys,bcg,1997,na,'na').
  estimate_required(mys,bcg,1998,na,'na').
@@ -1292,40 +1292,40 @@ births_UNPD(mys,1997,548238).
  births_UNPD(mys,2029,489921).
  births_UNPD(mys,2030,485987).
 
-si_UNPD(mys,1997,548238).
- si_UNPD(mys,1998,542296).
- si_UNPD(mys,1999,537935).
- si_UNPD(mys,2000,526694).
- si_UNPD(mys,2001,504380).
- si_UNPD(mys,2002,482441).
- si_UNPD(mys,2003,475890).
- si_UNPD(mys,2004,463480).
- si_UNPD(mys,2005,456802).
- si_UNPD(mys,2006,456227).
- si_UNPD(mys,2007,460159).
- si_UNPD(mys,2008,478104).
- si_UNPD(mys,2009,487724).
- si_UNPD(mys,2010,487287).
- si_UNPD(mys,2011,502842).
- si_UNPD(mys,2012,509469).
- si_UNPD(mys,2013,518237).
- si_UNPD(mys,2014,529122).
- si_UNPD(mys,2015,530604).
- si_UNPD(mys,2016,525164).
- si_UNPD(mys,2017,522299).
- si_UNPD(mys,2018,517161).
- si_UNPD(mys,2019,510563).
- si_UNPD(mys,2020,511406).
- si_UNPD(mys,2021,511313).
- si_UNPD(mys,2022,509232).
- si_UNPD(mys,2023,507266).
- si_UNPD(mys,2024,504947).
- si_UNPD(mys,2025,502550).
- si_UNPD(mys,2026,500475).
- si_UNPD(mys,2027,497557).
- si_UNPD(mys,2028,493770).
- si_UNPD(mys,2029,489921).
- si_UNPD(mys,2030,485987).
+si_UNPD(mys,1997,543187).
+ si_UNPD(mys,1998,537563).
+ si_UNPD(mys,1999,533540).
+ si_UNPD(mys,2000,522710).
+ si_UNPD(mys,2001,500848).
+ si_UNPD(mys,2002,479270).
+ si_UNPD(mys,2003,472887).
+ si_UNPD(mys,2004,460622).
+ si_UNPD(mys,2005,454033).
+ si_UNPD(mys,2006,453486).
+ si_UNPD(mys,2007,457396).
+ si_UNPD(mys,2008,475246).
+ si_UNPD(mys,2009,484811).
+ si_UNPD(mys,2010,484390).
+ si_UNPD(mys,2011,499872).
+ si_UNPD(mys,2012,506476).
+ si_UNPD(mys,2013,515191).
+ si_UNPD(mys,2014,526000).
+ si_UNPD(mys,2015,527450).
+ si_UNPD(mys,2016,522005).
+ si_UNPD(mys,2017,519103).
+ si_UNPD(mys,2018,513936).
+ si_UNPD(mys,2019,507329).
+ si_UNPD(mys,2020,508146).
+ si_UNPD(mys,2021,508068).
+ si_UNPD(mys,2022,506637).
+ si_UNPD(mys,2023,504765).
+ si_UNPD(mys,2024,502538).
+ si_UNPD(mys,2025,500229).
+ si_UNPD(mys,2026,498238).
+ si_UNPD(mys,2027,495399).
+ si_UNPD(mys,2028,491696).
+ si_UNPD(mys,2029,487914).
+ si_UNPD(mys,2030,484039).
 
 survey_results(mys,hib3,2014,mys2016161,[title:'Malaysia National Health and Morbidity Survey 2016',type:'16',yrcoll:'2016',cr:86,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:10139], 10).
 
@@ -1381,18 +1381,7 @@ wgd(mys,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(mys,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(mys,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
 
-wgd(mys,ipv1,2015,2015,assignWUENIC,' Estimate is based on estimated DTP1 level.',na,99,na,na).
- wgd(mys,ipv1,2015,2015,comment,' Inactivated polio vaccine as part of a combination DTP-IPV-Hib vaccine in June 2009 and was available nationally during 2010.',na,na,na,na).
- wgd(mys,ipv1,2016,2016,assignWUENIC,' Estimate is based on estimated DTP1 level.',na,98,na,na).
- wgd(mys,ipv1,2017,2019,assignWUENIC,' Estimate is based on estimated DTP1 level.',na,99,na,na).
- wgd(mys,ipv1,2020,2020,assignWUENIC,' Estimate informed by estimated DTP1 coverage.',na,99,na,na).
- wgd(mys,ipv1,2021,2021,assignWUENIC,' Estimate informed by estimated DTP1 coverage.',na,98,na,na).
- wgd(mys,ipv1,2022,2022,assignWUENIC,' Estimate informed by estimated DTP1 coverage.',na,99,na,na).
- wgd(mys,mcv1,2014,2014,comment,' Results from the National Health and Morbidity Survey conducted in 2016 among children aged 12-23 months, reflecting coverage for the 2014 birth cohort, support reported coverage.',na,na,na,na).
- wgd(mys,mcv2,2018,2018,comment,' Reported decline in administrative coverage appears to be due in part to a change in the recommended age for administration and an increase in the reported target population. Number of children vaccinated increased 8 percent between 2017 and 2018.',na,na,na,na).
- wgd(mys,pcv3,2021,2021,comment,' Vaccine universally introduced for infants in December 2020. Reporting started in 2021.',na,na,na,na).
- wgd(mys,pol3,2014,2014,comment,' Results from the National Health and Morbidity Survey conducted in 2016 among children aged 12-23 months, reflecting coverage for the 2014 birth cohort, support reported coverage.',na,na,na,na).
- wgd(mys,X,2010,2011,internalComment,' Ministry of Health reports target coverage levels as national coverage estimates.',na,na,na,na).
+wgd(mys,X,2010,2011,internalComment,' Ministry of Health reports target coverage levels as national coverage estimates.',na,na,na,na).
  wgd(mys,X,2021,2021,comment,' Declines in reported number of doses administered since 2019 are largely not reflected in reported coverage levels due in part to declines in the reported target population. From 2019 to 2021, the reported target population decreased 7 percent.',na,na,na,na).
  wgd(mys,X,2022,2022,comment,' No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of the 2022-23 National Health and Morbidity Survey and await the final report.',na,na,na,na).
  wgd(mys,bcg,2014,2014,comment,' Results from the National Health and Morbidity Survey conducted in 2016 among children aged 12-23 months, reflecting coverage for the 2014 birth cohort, support reported coverage.',na,na,na,na).
@@ -1403,4 +1392,15 @@ wgd(mys,ipv1,2015,2015,assignWUENIC,' Estimate is based on estimated DTP1 level.
  wgd(mys,hepb3,2014,2014,comment,' Results from the National Health and Morbidity Survey conducted in 2016 among children aged 12-23 months, reflecting coverage for the 2014 birth cohort, support reported coverage.',na,na,na,na).
  wgd(mys,hib3,2003,2003,comment,' Hib vaccine introduced in 2002. Reporting started in 2003. Vaccine presentation is DTP-HepB-Hib.',na,na,na,na).
  wgd(mys,hib3,2014,2014,comment,' Results from the National Health and Morbidity Survey conducted in 2016 among children aged 12-23 months, reflecting coverage for the 2014 birth cohort, support reported coverage.',na,na,na,na).
+ wgd(mys,ipv1,2015,2015,assignWUENIC,' Estimate is based on estimated DTP1 level.',na,99,na,na).
+ wgd(mys,ipv1,2015,2015,comment,' Inactivated polio vaccine as part of a combination DTP-IPV-Hib vaccine in June 2009 and was available nationally during 2010.',na,na,na,na).
+ wgd(mys,ipv1,2016,2016,assignWUENIC,' Estimate is based on estimated DTP1 level.',na,98,na,na).
+ wgd(mys,ipv1,2017,2019,assignWUENIC,' Estimate is based on estimated DTP1 level.',na,99,na,na).
+ wgd(mys,ipv1,2020,2020,assignWUENIC,' Estimate informed by estimated DTP1 coverage.',na,99,na,na).
+ wgd(mys,ipv1,2021,2021,assignWUENIC,' Estimate informed by estimated DTP1 coverage.',na,98,na,na).
+ wgd(mys,ipv1,2022,2022,assignWUENIC,' Estimate informed by estimated DTP1 coverage.',na,99,na,na).
+ wgd(mys,mcv1,2014,2014,comment,' Results from the National Health and Morbidity Survey conducted in 2016 among children aged 12-23 months, reflecting coverage for the 2014 birth cohort, support reported coverage.',na,na,na,na).
+ wgd(mys,mcv2,2018,2018,comment,' Reported decline in administrative coverage appears to be due in part to a change in the recommended age for administration and an increase in the reported target population. Number of children vaccinated increased 8 percent between 2017 and 2018.',na,na,na,na).
+ wgd(mys,pcv3,2021,2021,comment,' Vaccine universally introduced for infants in December 2020. Reporting started in 2021.',na,na,na,na).
+ wgd(mys,pol3,2014,2014,comment,' Results from the National Health and Morbidity Survey conducted in 2016 among children aged 12-23 months, reflecting coverage for the 2014 birth cohort, support reported coverage.',na,na,na,na).
 

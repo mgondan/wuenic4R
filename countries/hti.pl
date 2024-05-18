@@ -1,8 +1,8 @@
 %  Haiti - HTI 
-%  Wed Sep 06 18:50:03 2023 
+%  Fri May 17 12:05:12 2024 
 
 country(hti,'Haiti'). 
-date('Wed Sep 06 18:50:03 2023').
+date('Fri May 17 12:05:12 2024').
 
 estimate_required(hti,bcg,1997,na,'na').
  estimate_required(hti,bcg,1998,na,'na').
@@ -1057,40 +1057,40 @@ births_UNPD(hti,1997,262889).
  births_UNPD(hti,2029,261202).
  births_UNPD(hti,2030,261052).
 
-si_UNPD(hti,1997,262889).
- si_UNPD(hti,1998,262929).
- si_UNPD(hti,1999,263856).
- si_UNPD(hti,2000,266613).
- si_UNPD(hti,2001,264216).
- si_UNPD(hti,2002,263133).
- si_UNPD(hti,2003,263901).
- si_UNPD(hti,2004,264451).
- si_UNPD(hti,2005,264799).
- si_UNPD(hti,2006,265526).
- si_UNPD(hti,2007,265822).
- si_UNPD(hti,2008,266887).
- si_UNPD(hti,2009,269122).
- si_UNPD(hti,2010,271333).
- si_UNPD(hti,2011,271205).
- si_UNPD(hti,2012,269226).
- si_UNPD(hti,2013,268106).
- si_UNPD(hti,2014,268767).
- si_UNPD(hti,2015,269909).
- si_UNPD(hti,2016,271005).
- si_UNPD(hti,2017,271823).
- si_UNPD(hti,2018,271104).
- si_UNPD(hti,2019,271669).
- si_UNPD(hti,2020,271045).
- si_UNPD(hti,2021,269377).
- si_UNPD(hti,2022,268523).
- si_UNPD(hti,2023,267648).
- si_UNPD(hti,2024,266581).
- si_UNPD(hti,2025,265489).
- si_UNPD(hti,2026,264193).
- si_UNPD(hti,2027,264007).
- si_UNPD(hti,2028,262471).
- si_UNPD(hti,2029,261202).
- si_UNPD(hti,2030,261052).
+si_UNPD(hti,1997,247368).
+ si_UNPD(hti,1998,247724).
+ si_UNPD(hti,1999,248937).
+ si_UNPD(hti,2000,251859).
+ si_UNPD(hti,2001,249914).
+ si_UNPD(hti,2002,249180).
+ si_UNPD(hti,2003,250160).
+ si_UNPD(hti,2004,250353).
+ si_UNPD(hti,2005,251500).
+ si_UNPD(hti,2006,252415).
+ si_UNPD(hti,2007,252889).
+ si_UNPD(hti,2008,254091).
+ si_UNPD(hti,2009,256460).
+ si_UNPD(hti,2010,256113).
+ si_UNPD(hti,2011,258718).
+ si_UNPD(hti,2012,257099).
+ si_UNPD(hti,2013,256261).
+ si_UNPD(hti,2014,257114).
+ si_UNPD(hti,2015,258423).
+ si_UNPD(hti,2016,259649).
+ si_UNPD(hti,2017,260734).
+ si_UNPD(hti,2018,260274).
+ si_UNPD(hti,2019,261014).
+ si_UNPD(hti,2020,260634).
+ si_UNPD(hti,2021,259152).
+ si_UNPD(hti,2022,258823).
+ si_UNPD(hti,2023,258478).
+ si_UNPD(hti,2024,257568).
+ si_UNPD(hti,2025,256277).
+ si_UNPD(hti,2026,255210).
+ si_UNPD(hti,2027,255204).
+ si_UNPD(hti,2028,253892).
+ si_UNPD(hti,2029,252829).
+ si_UNPD(hti,2030,252847).
 
 survey_results(hti,pol1,1999,hti2000141,[title:'Survey on Mortality, Morbidity and Service Utilisation, Haiti 2005-2006',type:'14',yrcoll:'2000',cr:66,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:1225],72).
 

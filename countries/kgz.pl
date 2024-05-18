@@ -1,8 +1,8 @@
 %  Kyrgyzstan - KGZ 
-%  Wed Sep 06 18:52:55 2023 
+%  Fri May 17 12:07:55 2024 
 
 country(kgz,'Kyrgyzstan'). 
-date('Wed Sep 06 18:52:55 2023').
+date('Fri May 17 12:07:55 2024').
 
 estimate_required(kgz,bcg,1997,na,'na').
  estimate_required(kgz,bcg,1998,na,'na').
@@ -1384,40 +1384,40 @@ births_UNPD(kgz,1997,113830).
  births_UNPD(kgz,2029,148026).
  births_UNPD(kgz,2030,148902).
 
-si_UNPD(kgz,1997,113830).
- si_UNPD(kgz,1998,111838).
- si_UNPD(kgz,1999,109841).
- si_UNPD(kgz,2000,106732).
- si_UNPD(kgz,2001,106943).
- si_UNPD(kgz,2002,108866).
- si_UNPD(kgz,2003,111138).
- si_UNPD(kgz,2004,115608).
- si_UNPD(kgz,2005,118796).
- si_UNPD(kgz,2006,124614).
- si_UNPD(kgz,2007,130672).
- si_UNPD(kgz,2008,137133).
- si_UNPD(kgz,2009,145221).
- si_UNPD(kgz,2010,152823).
- si_UNPD(kgz,2011,159456).
- si_UNPD(kgz,2012,163124).
- si_UNPD(kgz,2013,165257).
- si_UNPD(kgz,2014,167698).
- si_UNPD(kgz,2015,168032).
- si_UNPD(kgz,2016,165642).
- si_UNPD(kgz,2017,165103).
- si_UNPD(kgz,2018,169708).
- si_UNPD(kgz,2019,166913).
- si_UNPD(kgz,2020,160571).
- si_UNPD(kgz,2021,157661).
- si_UNPD(kgz,2022,154761).
- si_UNPD(kgz,2023,152434).
- si_UNPD(kgz,2024,150624).
- si_UNPD(kgz,2025,149214).
- si_UNPD(kgz,2026,148152).
- si_UNPD(kgz,2027,147606).
- si_UNPD(kgz,2028,147585).
- si_UNPD(kgz,2029,148026).
- si_UNPD(kgz,2030,148902).
+si_UNPD(kgz,1997,109380).
+ si_UNPD(kgz,1998,107620).
+ si_UNPD(kgz,1999,105845).
+ si_UNPD(kgz,2000,102985).
+ si_UNPD(kgz,2001,103335).
+ si_UNPD(kgz,2002,105332).
+ si_UNPD(kgz,2003,107666).
+ si_UNPD(kgz,2004,112130).
+ si_UNPD(kgz,2005,115352).
+ si_UNPD(kgz,2006,121131).
+ si_UNPD(kgz,2007,127162).
+ si_UNPD(kgz,2008,133619).
+ si_UNPD(kgz,2009,141704).
+ si_UNPD(kgz,2010,149332).
+ si_UNPD(kgz,2011,156012).
+ si_UNPD(kgz,2012,159777).
+ si_UNPD(kgz,2013,162039).
+ si_UNPD(kgz,2014,164600).
+ si_UNPD(kgz,2015,165085).
+ si_UNPD(kgz,2016,162885).
+ si_UNPD(kgz,2017,162493).
+ si_UNPD(kgz,2018,167156).
+ si_UNPD(kgz,2019,164516).
+ si_UNPD(kgz,2020,158363).
+ si_UNPD(kgz,2021,155579).
+ si_UNPD(kgz,2022,152979).
+ si_UNPD(kgz,2023,150657).
+ si_UNPD(kgz,2024,148934).
+ si_UNPD(kgz,2025,147599).
+ si_UNPD(kgz,2026,146602).
+ si_UNPD(kgz,2027,146114).
+ si_UNPD(kgz,2028,146143).
+ si_UNPD(kgz,2029,146630).
+ si_UNPD(kgz,2030,147547).
 
 survey_results(kgz,mcv1,2011,kgz2012141,[title:'Kyrgyz Demographic and Health Survey 2012',type:'14',yrcoll:'2012',cr: 86,confirm:'card',age:'18-29 m',timead:'',val:'crude',ss:736], 85).
 

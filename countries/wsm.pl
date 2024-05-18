@@ -1,8 +1,8 @@
 %  Samoa - WSM 
-%  Wed Sep 06 19:11:58 2023 
+%  Fri May 17 12:26:32 2024 
 
 country(wsm,'Samoa'). 
-date('Wed Sep 06 19:11:58 2023').
+date('Fri May 17 12:26:32 2024').
 
 estimate_required(wsm,bcg,1997,na,'na').
  estimate_required(wsm,bcg,1998,na,'na').
@@ -1297,40 +1297,40 @@ births_UNPD(wsm,1997,5790).
  births_UNPD(wsm,2029,6140).
  births_UNPD(wsm,2030,6200).
 
-si_UNPD(wsm,1997,5790).
- si_UNPD(wsm,1998,5787).
- si_UNPD(wsm,1999,5767).
- si_UNPD(wsm,2000,5752).
- si_UNPD(wsm,2001,5708).
- si_UNPD(wsm,2002,5644).
- si_UNPD(wsm,2003,5611).
- si_UNPD(wsm,2004,5578).
- si_UNPD(wsm,2005,5551).
- si_UNPD(wsm,2006,5526).
- si_UNPD(wsm,2007,5547).
- si_UNPD(wsm,2008,5667).
- si_UNPD(wsm,2009,5803).
- si_UNPD(wsm,2010,5929).
- si_UNPD(wsm,2011,6033).
- si_UNPD(wsm,2012,6090).
- si_UNPD(wsm,2013,6077).
- si_UNPD(wsm,2014,6060).
- si_UNPD(wsm,2015,6031).
- si_UNPD(wsm,2016,5990).
- si_UNPD(wsm,2017,5974).
- si_UNPD(wsm,2018,5957).
- si_UNPD(wsm,2019,5946).
- si_UNPD(wsm,2020,5952).
- si_UNPD(wsm,2021,5975).
- si_UNPD(wsm,2022,6024).
- si_UNPD(wsm,2023,6023).
- si_UNPD(wsm,2024,6017).
- si_UNPD(wsm,2025,6015).
- si_UNPD(wsm,2026,6059).
- si_UNPD(wsm,2027,6053).
- si_UNPD(wsm,2028,6096).
- si_UNPD(wsm,2029,6140).
- si_UNPD(wsm,2030,6200).
+si_UNPD(wsm,1997,5688).
+ si_UNPD(wsm,1998,5689).
+ si_UNPD(wsm,1999,5673).
+ si_UNPD(wsm,2000,5661).
+ si_UNPD(wsm,2001,5620).
+ si_UNPD(wsm,2002,5560).
+ si_UNPD(wsm,2003,5529).
+ si_UNPD(wsm,2004,5497).
+ si_UNPD(wsm,2005,5470).
+ si_UNPD(wsm,2006,5447).
+ si_UNPD(wsm,2007,5467).
+ si_UNPD(wsm,2008,5585).
+ si_UNPD(wsm,2009,5708).
+ si_UNPD(wsm,2010,5844).
+ si_UNPD(wsm,2011,5946).
+ si_UNPD(wsm,2012,6002).
+ si_UNPD(wsm,2013,5991).
+ si_UNPD(wsm,2014,5975).
+ si_UNPD(wsm,2015,5948).
+ si_UNPD(wsm,2016,5908).
+ si_UNPD(wsm,2017,5893).
+ si_UNPD(wsm,2018,5878).
+ si_UNPD(wsm,2019,5866).
+ si_UNPD(wsm,2020,5877).
+ si_UNPD(wsm,2021,5901).
+ si_UNPD(wsm,2022,5944).
+ si_UNPD(wsm,2023,5945).
+ si_UNPD(wsm,2024,5941).
+ si_UNPD(wsm,2025,5941).
+ si_UNPD(wsm,2026,5987).
+ si_UNPD(wsm,2027,5983).
+ si_UNPD(wsm,2028,6028).
+ si_UNPD(wsm,2029,6073).
+ si_UNPD(wsm,2030,6134).
 
 survey_results(wsm,pol3,2007,wsm2009141,[title:'Samoa Demographic and Health Survey 2009',type:'14',yrcoll:'2009',cr:40,confirm:'card',age:'18-29 m',timead:'',val:'crude',ss:321],25).
 

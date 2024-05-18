@@ -1,8 +1,8 @@
 %  Netherlands (Kingdom of the) - NLD 
-%  Wed Sep 06 19:00:15 2023 
+%  Fri May 17 12:14:55 2024 
 
 country(nld,'Netherlands (Kingdom of the)'). 
-date('Wed Sep 06 19:00:15 2023').
+date('Fri May 17 12:14:55 2024').
 
 estimate_required(nld,dtp1,1997,na,'na').
  estimate_required(nld,dtp1,1998,na,'na').
@@ -1138,40 +1138,40 @@ births_UNPD(nld,1997,193709).
  births_UNPD(nld,2029,184243).
  births_UNPD(nld,2030,183908).
 
-si_UNPD(nld,1997,193709).
- si_UNPD(nld,1998,199171).
- si_UNPD(nld,1999,200527).
- si_UNPD(nld,2000,205284).
- si_UNPD(nld,2001,201175).
- si_UNPD(nld,2002,199824).
- si_UNPD(nld,2003,197455).
- si_UNPD(nld,2004,191627).
- si_UNPD(nld,2005,186278).
- si_UNPD(nld,2006,183894).
- si_UNPD(nld,2007,181207).
- si_UNPD(nld,2008,184057).
- si_UNPD(nld,2009,184218).
- si_UNPD(nld,2010,183521).
- si_UNPD(nld,2011,179554).
- si_UNPD(nld,2012,175828).
- si_UNPD(nld,2013,171902).
- si_UNPD(nld,2014,175767).
- si_UNPD(nld,2015,172266).
- si_UNPD(nld,2016,173668).
- si_UNPD(nld,2017,171027).
- si_UNPD(nld,2018,169248).
- si_UNPD(nld,2019,169827).
- si_UNPD(nld,2020,173058).
- si_UNPD(nld,2021,180273).
- si_UNPD(nld,2022,181387).
- si_UNPD(nld,2023,182435).
- si_UNPD(nld,2024,183227).
- si_UNPD(nld,2025,183966).
- si_UNPD(nld,2026,184326).
- si_UNPD(nld,2027,185106).
- si_UNPD(nld,2028,184899).
- si_UNPD(nld,2029,184243).
- si_UNPD(nld,2030,183908).
+si_UNPD(nld,1997,192875).
+ si_UNPD(nld,1998,198264).
+ si_UNPD(nld,1999,199631).
+ si_UNPD(nld,2000,204374).
+ si_UNPD(nld,2001,200263).
+ si_UNPD(nld,2002,198968).
+ si_UNPD(nld,2003,196653).
+ si_UNPD(nld,2004,190916).
+ si_UNPD(nld,2005,185503).
+ si_UNPD(nld,2006,183197).
+ si_UNPD(nld,2007,180581).
+ si_UNPD(nld,2008,183455).
+ si_UNPD(nld,2009,183612).
+ si_UNPD(nld,2010,182927).
+ si_UNPD(nld,2011,179006).
+ si_UNPD(nld,2012,175278).
+ si_UNPD(nld,2013,171354).
+ si_UNPD(nld,2014,175219).
+ si_UNPD(nld,2015,171786).
+ si_UNPD(nld,2016,173153).
+ si_UNPD(nld,2017,170507).
+ si_UNPD(nld,2018,168751).
+ si_UNPD(nld,2019,169296).
+ si_UNPD(nld,2020,172527).
+ si_UNPD(nld,2021,179730).
+ si_UNPD(nld,2022,180920).
+ si_UNPD(nld,2023,181977).
+ si_UNPD(nld,2024,182779).
+ si_UNPD(nld,2025,183528).
+ si_UNPD(nld,2026,183898).
+ si_UNPD(nld,2027,184688).
+ si_UNPD(nld,2028,184492).
+ si_UNPD(nld,2029,183847).
+ si_UNPD(nld,2030,183523).
 
 wgd(nld,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(nld,dtp3,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).

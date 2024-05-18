@@ -1,8 +1,8 @@
 %  Romania - ROU 
-%  Wed Sep 06 19:03:40 2023 
+%  Fri May 17 12:18:10 2024 
 
 country(rou,'Romania'). 
-date('Wed Sep 06 19:03:40 2023').
+date('Fri May 17 12:18:10 2024').
 
 estimate_required(rou,bcg,1997,na,'na').
  estimate_required(rou,bcg,1998,na,'na').
@@ -1014,40 +1014,40 @@ births_UNPD(rou,1997,232883).
  births_UNPD(rou,2029,182377).
  births_UNPD(rou,2030,180178).
 
-si_UNPD(rou,1997,232883).
- si_UNPD(rou,1998,231633).
- si_UNPD(rou,1999,227612).
- si_UNPD(rou,2000,225350).
- si_UNPD(rou,2001,217705).
- si_UNPD(rou,2002,215525).
- si_UNPD(rou,2003,218206).
- si_UNPD(rou,2004,219594).
- si_UNPD(rou,2005,228346).
- si_UNPD(rou,2006,226734).
- si_UNPD(rou,2007,228316).
- si_UNPD(rou,2008,243018).
- si_UNPD(rou,2009,243676).
- si_UNPD(rou,2010,226674).
- si_UNPD(rou,2011,205188).
- si_UNPD(rou,2012,205748).
- si_UNPD(rou,2013,194814).
- si_UNPD(rou,2014,203669).
- si_UNPD(rou,2015,208354).
- si_UNPD(rou,2016,213829).
- si_UNPD(rou,2017,217448).
- si_UNPD(rou,2018,210595).
- si_UNPD(rou,2019,203903).
- si_UNPD(rou,2020,199088).
- si_UNPD(rou,2021,195366).
- si_UNPD(rou,2022,191763).
- si_UNPD(rou,2023,214232).
- si_UNPD(rou,2024,204933).
- si_UNPD(rou,2025,197295).
- si_UNPD(rou,2026,190844).
- si_UNPD(rou,2027,187613).
- si_UNPD(rou,2028,184298).
- si_UNPD(rou,2029,182377).
- si_UNPD(rou,2030,180178).
+si_UNPD(rou,1997,227938).
+ si_UNPD(rou,1998,227147).
+ si_UNPD(rou,1999,223641).
+ si_UNPD(rou,2000,221550).
+ si_UNPD(rou,2001,214129).
+ si_UNPD(rou,2002,212147).
+ si_UNPD(rou,2003,214827).
+ si_UNPD(rou,2004,216196).
+ si_UNPD(rou,2005,225117).
+ si_UNPD(rou,2006,223837).
+ si_UNPD(rou,2007,225807).
+ si_UNPD(rou,2008,240502).
+ si_UNPD(rou,2009,241323).
+ si_UNPD(rou,2010,224643).
+ si_UNPD(rou,2011,203517).
+ si_UNPD(rou,2012,204021).
+ si_UNPD(rou,2013,193295).
+ si_UNPD(rou,2014,202157).
+ si_UNPD(rou,2015,206934).
+ si_UNPD(rou,2016,212513).
+ si_UNPD(rou,2017,216014).
+ si_UNPD(rou,2018,209418).
+ si_UNPD(rou,2019,202882).
+ si_UNPD(rou,2020,198135).
+ si_UNPD(rou,2021,194454).
+ si_UNPD(rou,2022,190867).
+ si_UNPD(rou,2023,213152).
+ si_UNPD(rou,2024,204046).
+ si_UNPD(rou,2025,196467).
+ si_UNPD(rou,2026,190067).
+ si_UNPD(rou,2027,186874).
+ si_UNPD(rou,2028,183593).
+ si_UNPD(rou,2029,181702).
+ si_UNPD(rou,2030,179531).
 
 survey_results(rou,pol3,2007,rou2009311,[title:'Romania Biannual Vaccination Coverage Survey conducted in January 2009',type:'31',yrcoll:'2009',cr:0,confirm:'card',age:'18-24 m',timead:'',val:'crude',ss:33897], 96).
 

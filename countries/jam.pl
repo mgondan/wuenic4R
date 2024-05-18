@@ -1,8 +1,8 @@
 %  Jamaica - JAM 
-%  Wed Sep 06 18:51:56 2023 
+%  Fri May 17 12:07:00 2024 
 
 country(jam,'Jamaica'). 
-date('Wed Sep 06 18:51:56 2023').
+date('Fri May 17 12:07:00 2024').
 
 estimate_required(jam,bcg,1997,na,'na').
  estimate_required(jam,bcg,1998,na,'na').
@@ -1264,40 +1264,40 @@ births_UNPD(jam,1997,58962).
  births_UNPD(jam,2029,29993).
  births_UNPD(jam,2030,29545).
 
-si_UNPD(jam,1997,58962).
- si_UNPD(jam,1998,57949).
- si_UNPD(jam,1999,55058).
- si_UNPD(jam,2000,50087).
- si_UNPD(jam,2001,49552).
- si_UNPD(jam,2002,49267).
- si_UNPD(jam,2003,49267).
- si_UNPD(jam,2004,49549).
- si_UNPD(jam,2005,48383).
- si_UNPD(jam,2006,48781).
- si_UNPD(jam,2007,45162).
- si_UNPD(jam,2008,45010).
- si_UNPD(jam,2009,44652).
- si_UNPD(jam,2010,42004).
- si_UNPD(jam,2011,42016).
- si_UNPD(jam,2012,41584).
- si_UNPD(jam,2013,40398).
- si_UNPD(jam,2014,38945).
- si_UNPD(jam,2015,39550).
- si_UNPD(jam,2016,37820).
- si_UNPD(jam,2017,35865).
- si_UNPD(jam,2018,34423).
- si_UNPD(jam,2019,33815).
- si_UNPD(jam,2020,33317).
- si_UNPD(jam,2021,33150).
- si_UNPD(jam,2022,32663).
- si_UNPD(jam,2023,32246).
- si_UNPD(jam,2024,31863).
- si_UNPD(jam,2025,31494).
- si_UNPD(jam,2026,31067).
- si_UNPD(jam,2027,30866).
- si_UNPD(jam,2028,30386).
- si_UNPD(jam,2029,29993).
- si_UNPD(jam,2030,29545).
+si_UNPD(jam,1997,57893).
+ si_UNPD(jam,1998,56930).
+ si_UNPD(jam,1999,54119).
+ si_UNPD(jam,2000,49257).
+ si_UNPD(jam,2001,48748).
+ si_UNPD(jam,2002,48489).
+ si_UNPD(jam,2003,48509).
+ si_UNPD(jam,2004,48800).
+ si_UNPD(jam,2005,47665).
+ si_UNPD(jam,2006,48069).
+ si_UNPD(jam,2007,44514).
+ si_UNPD(jam,2008,44375).
+ si_UNPD(jam,2009,44037).
+ si_UNPD(jam,2010,41439).
+ si_UNPD(jam,2011,41467).
+ si_UNPD(jam,2012,41056).
+ si_UNPD(jam,2013,39901).
+ si_UNPD(jam,2014,38480).
+ si_UNPD(jam,2015,39092).
+ si_UNPD(jam,2016,37395).
+ si_UNPD(jam,2017,35475).
+ si_UNPD(jam,2018,34057).
+ si_UNPD(jam,2019,33465).
+ si_UNPD(jam,2020,32984).
+ si_UNPD(jam,2021,32827).
+ si_UNPD(jam,2022,32341).
+ si_UNPD(jam,2023,31949).
+ si_UNPD(jam,2024,31576).
+ si_UNPD(jam,2025,31216).
+ si_UNPD(jam,2026,30799).
+ si_UNPD(jam,2027,30605).
+ si_UNPD(jam,2028,30135).
+ si_UNPD(jam,2029,29751).
+ si_UNPD(jam,2030,29311).
 
 survey_results(jam,dtp3,2004,jam2005161,[title:'Survey of Childhood Vaccine Coverage in the Parishes of Jamaica',type:'16',yrcoll:'2005',cr:100,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:3744], 98).
 
@@ -1461,16 +1461,16 @@ wgd(jam,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).
 
 wgd(jam,X,2019,2019,comment,' Programme reports a six month shortage of AD syringes.',na,na,na,na).
  wgd(jam,X,2022,2022,comment,' WHO and UNICEF are aware of a 2022 Multiple Indicator Cluster Survey and await the final results.',na,na,na,na).
- wgd(jam,bcg,2004,2004,acceptSurvey,'.',jam2005231,96,na,na).
+ wgd(jam,bcg,2004,2004,acceptSurvey,'.',96,na,na,na).
  wgd(jam,bcg,2019,2019,comment,' Programme reports three months vaccine stockout.',na,na,na,na).
  wgd(jam,bcg,2021,2021,comment,' Programme reports a two months vaccine stockout at the national and subnational levels.',na,na,na,na).
  wgd(jam,bcg,2022,2022,comment,' Programme reports three months vaccine stockout at national and subnational levels.',na,na,na,na).
  wgd(jam,dtp1,2000,2000,assignAnchor,' Estimate based on reported data.',na,87,na,na).
- wgd(jam,dtp1,2004,2004,acceptSurvey,'.',jam2005231,96,na,na).
+ wgd(jam,dtp1,2004,2004,acceptSurvey,'.',96,na,na,na).
  wgd(jam,dtp1,2013,2013,ignoreGov,' Official government estimate includes trivalent DTP coverage and does not include DTP doses administered as DTP-HepB-Hib pentavalent vaccine.',na,na,na,na).
  wgd(jam,dtp1,2018,2018,comment,' Programme reports four months vaccine stockout.',na,na,na,na).
  wgd(jam,dtp1,2020,2020,assignWUENIC,' Consistency with trend in numerator.',na,97,na,na).
- wgd(jam,dtp3,2004,2004,acceptSurvey,'.',jam2005231,87,na,na).
+ wgd(jam,dtp3,2004,2004,acceptSurvey,'.',87,na,na,na).
  wgd(jam,dtp3,2013,2013,ignoreGov,' Official government estimate includes trivalent DTP coverage and does not include DTP doses administered as DTP-HepB-Hib pentavalent vaccine.',na,na,na,na).
  wgd(jam,dtp3,2018,2018,comment,' Programme reports four months vaccine stockout.',na,na,na,na).
  wgd(jam,hepb3,2003,2003,comment,'HepB vaccine introduced in 2003.',na,na,na,na).
@@ -1478,7 +1478,7 @@ wgd(jam,X,2019,2019,comment,' Programme reports a six month shortage of AD syrin
  wgd(jam,ipv1,2015,2015,comment,' Inactivated polio vaccine in September 2015.',na,na,na,na).
  wgd(jam,ipv1,2016,2016,acceptReported,' National rollout of IPV.',na,na,na,na).
  wgd(jam,ipv1,2022,2022,comment,' Programme reports two months vaccine stockout at national level.',na,na,na,na).
- wgd(jam,mcv1,2004,2004,acceptSurvey,'.',jam2005231,91,na,na).
+ wgd(jam,mcv1,2004,2004,acceptSurvey,'.',91,na,na,na).
  wgd(jam,mcv1,2007,2007,acceptReported,'Interruption in routine services because of hurricane Dean',na,na,na,na).
  wgd(jam,mcv1,2016,2016,comment,' Programme report vaccine stockouts at district level.',na,na,na,na).
  wgd(jam,mcv1,2018,2018,comment,' Programme reports one month vaccine stockout at national level.',na,na,na,na).
@@ -1490,9 +1490,10 @@ wgd(jam,X,2019,2019,comment,' Programme reports a six month shortage of AD syrin
  wgd(jam,mcv2,2022,2022,comment,' Programme reports four months vaccine stockout at national level.',na,na,na,na).
  wgd(jam,pcv3,2015,2015,internalComment,' Pneumococcal conjugate vaccine introduced during 2014 to high risk groups. Reporting began in 2015 but no estimate made. Reported data removed from database.',na,na,na,na).
  wgd(jam,pcv3,2022,2022,comment,' Programme reports two months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(jam,pol3,2004,2004,acceptSurvey,'.',jam2005231,86,na,na).
+ wgd(jam,pol3,2004,2004,acceptSurvey,'.',86,na,na,na).
  wgd(jam,pol3,2013,2013,comment,'Decline in reported administrative coverage is most likely due to national stockout for 1.5 months.',na,na,na,na).
  wgd(jam,pol3,2013,2013,ignoreGov,' Reported decline in government official estimate most likely a reporting error.',na,na,na,na).
  wgd(jam,pol3,2017,2017,comment,' Programme reports vaccine stockout for 0.5 month.',na,na,na,na).
  wgd(jam,pol3,2018,2018,comment,' Programme reports one month vaccine stockout.',na,na,na,na).
  wgd(jam,pol3,2021,2021,comment,' Programme reports a two months OPV vaccine stockout at the national and subnational levels.',na,na,na,na).
+

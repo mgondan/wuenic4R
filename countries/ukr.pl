@@ -1,8 +1,8 @@
 %  Ukraine - UKR 
-%  Wed Sep 06 19:10:16 2023 
+%  Fri May 17 12:24:39 2024 
 
 country(ukr,'Ukraine'). 
-date('Wed Sep 06 19:10:16 2023').
+date('Fri May 17 12:24:39 2024').
 
 estimate_required(ukr,bcg,1997,na,'na').
  estimate_required(ukr,bcg,1998,na,'na').
@@ -1246,40 +1246,40 @@ births_UNPD(ukr,1997,443015).
  births_UNPD(ukr,2029,266854).
  births_UNPD(ukr,2030,269312).
 
-si_UNPD(ukr,1997,443015).
- si_UNPD(ukr,1998,418883).
- si_UNPD(ukr,1999,389461).
- si_UNPD(ukr,2000,383403).
- si_UNPD(ukr,2001,377465).
- si_UNPD(ukr,2002,391643).
- si_UNPD(ukr,2003,409817).
- si_UNPD(ukr,2004,427185).
- si_UNPD(ukr,2005,430819).
- si_UNPD(ukr,2006,459408).
- si_UNPD(ukr,2007,474804).
- si_UNPD(ukr,2008,508773).
- si_UNPD(ukr,2009,515556).
- si_UNPD(ukr,2010,499466).
- si_UNPD(ukr,2011,507397).
- si_UNPD(ukr,2012,517911).
- si_UNPD(ukr,2013,506446).
- si_UNPD(ukr,2014,494253).
- si_UNPD(ukr,2015,482958).
- si_UNPD(ukr,2016,459407).
- si_UNPD(ukr,2017,419297).
- si_UNPD(ukr,2018,385479).
- si_UNPD(ukr,2019,353538).
- si_UNPD(ukr,2020,338972).
- si_UNPD(ukr,2021,336096).
- si_UNPD(ukr,2022,329618).
- si_UNPD(ukr,2023,184455).
- si_UNPD(ukr,2024,214410).
- si_UNPD(ukr,2025,237722).
- si_UNPD(ukr,2026,254121).
- si_UNPD(ukr,2027,261123).
- si_UNPD(ukr,2028,264431).
- si_UNPD(ukr,2029,266854).
- si_UNPD(ukr,2030,269312).
+si_UNPD(ukr,1997,437085).
+ si_UNPD(ukr,1998,413738).
+ si_UNPD(ukr,1999,384760).
+ si_UNPD(ukr,2000,378981).
+ si_UNPD(ukr,2001,373349).
+ si_UNPD(ukr,2002,387612).
+ si_UNPD(ukr,2003,406048).
+ si_UNPD(ukr,2004,423476).
+ si_UNPD(ukr,2005,426993).
+ si_UNPD(ukr,2006,455459).
+ si_UNPD(ukr,2007,470517).
+ si_UNPD(ukr,2008,504458).
+ si_UNPD(ukr,2009,511675).
+ si_UNPD(ukr,2010,495805).
+ si_UNPD(ukr,2011,503724).
+ si_UNPD(ukr,2012,514400).
+ si_UNPD(ukr,2013,503241).
+ si_UNPD(ukr,2014,491230).
+ si_UNPD(ukr,2015,480169).
+ si_UNPD(ukr,2016,456963).
+ si_UNPD(ukr,2017,417114).
+ si_UNPD(ukr,2018,383624).
+ si_UNPD(ukr,2019,351789).
+ si_UNPD(ukr,2020,337411).
+ si_UNPD(ukr,2021,334489).
+ si_UNPD(ukr,2022,327596).
+ si_UNPD(ukr,2023,183627).
+ si_UNPD(ukr,2024,213504).
+ si_UNPD(ukr,2025,236748).
+ si_UNPD(ukr,2026,253111).
+ si_UNPD(ukr,2027,260116).
+ si_UNPD(ukr,2028,263442).
+ si_UNPD(ukr,2029,265885).
+ si_UNPD(ukr,2030,268363).
 
 survey_results(ukr,dtp3,2011,ukr2012231,[title:'Ukraine Multiple Indicator Cluster Survey 2012',type:'23',yrcoll:'2012',cr: 92,confirm:'c or h <12 months',age:'18-29 m',timead:'',val:'crude',ss:829], 42).
 

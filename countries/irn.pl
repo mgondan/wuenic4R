@@ -1,8 +1,8 @@
 %  Iran (Islamic Republic of) - IRN 
-%  Wed Sep 06 18:51:11 2023 
+%  Fri May 17 12:06:18 2024 
 
 country(irn,'Iran (Islamic Republic of)'). 
-date('Wed Sep 06 18:51:11 2023').
+date('Fri May 17 12:06:18 2024').
 
 estimate_required(irn,bcg,1997,na,'na').
  estimate_required(irn,bcg,1998,na,'na').
@@ -1328,40 +1328,40 @@ births_UNPD(irn,1997,1081225).
  births_UNPD(irn,2029,1021729).
  births_UNPD(irn,2030,1010375).
 
-si_UNPD(irn,1997,1081225).
- si_UNPD(irn,1998,1063733).
- si_UNPD(irn,1999,1065418).
- si_UNPD(irn,2000,1071058).
- si_UNPD(irn,2001,1082051).
- si_UNPD(irn,2002,1086464).
- si_UNPD(irn,2003,1081473).
- si_UNPD(irn,2004,1106849).
- si_UNPD(irn,2005,1134380).
- si_UNPD(irn,2006,1173397).
- si_UNPD(irn,2007,1221115).
- si_UNPD(irn,2008,1265271).
- si_UNPD(irn,2009,1303595).
- si_UNPD(irn,2010,1337387).
- si_UNPD(irn,2011,1388386).
- si_UNPD(irn,2012,1463853).
- si_UNPD(irn,2013,1525843).
- si_UNPD(irn,2014,1579114).
- si_UNPD(irn,2015,1582915).
- si_UNPD(irn,2016,1583969).
- si_UNPD(irn,2017,1572333).
- si_UNPD(irn,2018,1474889).
- si_UNPD(irn,2019,1307977).
- si_UNPD(irn,2020,1243003).
- si_UNPD(irn,2021,1204105).
- si_UNPD(irn,2022,1172709).
- si_UNPD(irn,2023,1144658).
- si_UNPD(irn,2024,1117084).
- si_UNPD(irn,2025,1095741).
- si_UNPD(irn,2026,1070794).
- si_UNPD(irn,2027,1051089).
- si_UNPD(irn,2028,1031738).
- si_UNPD(irn,2029,1021729).
- si_UNPD(irn,2030,1010375).
+si_UNPD(irn,1997,1049669).
+ si_UNPD(irn,1998,1033885).
+ si_UNPD(irn,1999,1036726).
+ si_UNPD(irn,2000,1043466).
+ si_UNPD(irn,2001,1055405).
+ si_UNPD(irn,2002,1061104).
+ si_UNPD(irn,2003,1056900).
+ si_UNPD(irn,2004,1083737).
+ si_UNPD(irn,2005,1112094).
+ si_UNPD(irn,2006,1151818).
+ si_UNPD(irn,2007,1200067).
+ si_UNPD(irn,2008,1244830).
+ si_UNPD(irn,2009,1283790).
+ si_UNPD(irn,2010,1318174).
+ si_UNPD(irn,2011,1369435).
+ si_UNPD(irn,2012,1444795).
+ si_UNPD(irn,2013,1506814).
+ si_UNPD(irn,2014,1560206).
+ si_UNPD(irn,2015,1564716).
+ si_UNPD(irn,2016,1566434).
+ si_UNPD(irn,2017,1555542).
+ si_UNPD(irn,2018,1459674).
+ si_UNPD(irn,2019,1294951).
+ si_UNPD(irn,2020,1231025).
+ si_UNPD(irn,2021,1192886).
+ si_UNPD(irn,2022,1162191).
+ si_UNPD(irn,2023,1135222).
+ si_UNPD(irn,2024,1108231).
+ si_UNPD(irn,2025,1087405).
+ si_UNPD(irn,2026,1062970).
+ si_UNPD(irn,2027,1043657).
+ si_UNPD(irn,2028,1024681).
+ si_UNPD(irn,2029,1014970).
+ si_UNPD(irn,2030,1003894).
 
 survey_results(irn,dtp3,2009,irn2010311,[title:'Islamic Republic of Iran Multiple-Indicator Demographic and Health Survey 2010',type:'31',yrcoll:'2010',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:924], 96).
 

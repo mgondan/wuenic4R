@@ -1,8 +1,8 @@
 %  Monaco - MCO 
-%  Wed Sep 06 18:55:56 2023 
+%  Fri May 17 12:10:48 2024 
 
 country(mco,'Monaco'). 
-date('Wed Sep 06 18:55:56 2023').
+date('Fri May 17 12:10:48 2024').
 
 estimate_required(mco,bcg,1997,na,'na').
  estimate_required(mco,bcg,1998,na,'na').
@@ -507,40 +507,40 @@ births_UNPD(mco,1997,340).
  births_UNPD(mco,2029,351).
  births_UNPD(mco,2030,356).
 
-si_UNPD(mco,1997,340).
- si_UNPD(mco,1998,349).
- si_UNPD(mco,1999,351).
- si_UNPD(mco,2000,362).
- si_UNPD(mco,2001,381).
- si_UNPD(mco,2002,353).
- si_UNPD(mco,2003,337).
- si_UNPD(mco,2004,339).
- si_UNPD(mco,2005,333).
- si_UNPD(mco,2006,339).
- si_UNPD(mco,2007,339).
- si_UNPD(mco,2008,350).
- si_UNPD(mco,2009,344).
- si_UNPD(mco,2010,342).
- si_UNPD(mco,2011,324).
- si_UNPD(mco,2012,330).
- si_UNPD(mco,2013,330).
- si_UNPD(mco,2014,346).
- si_UNPD(mco,2015,344).
- si_UNPD(mco,2016,349).
- si_UNPD(mco,2017,330).
- si_UNPD(mco,2018,339).
- si_UNPD(mco,2019,331).
- si_UNPD(mco,2020,324).
- si_UNPD(mco,2021,322).
- si_UNPD(mco,2022,319).
- si_UNPD(mco,2023,323).
- si_UNPD(mco,2024,327).
- si_UNPD(mco,2025,332).
- si_UNPD(mco,2026,336).
- si_UNPD(mco,2027,341).
- si_UNPD(mco,2028,346).
- si_UNPD(mco,2029,351).
- si_UNPD(mco,2030,356).
+si_UNPD(mco,1997,337).
+ si_UNPD(mco,1998,346).
+ si_UNPD(mco,1999,348).
+ si_UNPD(mco,2000,360).
+ si_UNPD(mco,2001,379).
+ si_UNPD(mco,2002,351).
+ si_UNPD(mco,2003,335).
+ si_UNPD(mco,2004,337).
+ si_UNPD(mco,2005,331).
+ si_UNPD(mco,2006,337).
+ si_UNPD(mco,2007,337).
+ si_UNPD(mco,2008,348).
+ si_UNPD(mco,2009,342).
+ si_UNPD(mco,2010,340).
+ si_UNPD(mco,2011,323).
+ si_UNPD(mco,2012,328).
+ si_UNPD(mco,2013,329).
+ si_UNPD(mco,2014,344).
+ si_UNPD(mco,2015,343).
+ si_UNPD(mco,2016,348).
+ si_UNPD(mco,2017,329).
+ si_UNPD(mco,2018,338).
+ si_UNPD(mco,2019,330).
+ si_UNPD(mco,2020,323).
+ si_UNPD(mco,2021,321).
+ si_UNPD(mco,2022,318).
+ si_UNPD(mco,2023,322).
+ si_UNPD(mco,2024,326).
+ si_UNPD(mco,2025,331).
+ si_UNPD(mco,2026,335).
+ si_UNPD(mco,2027,340).
+ si_UNPD(mco,2028,345).
+ si_UNPD(mco,2029,350).
+ si_UNPD(mco,2030,355).
 
 wgd(mco,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(mco,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).

@@ -1,8 +1,8 @@
 %  Guinea - GIN 
-%  Wed Sep 06 18:47:44 2023 
+%  Fri May 17 12:03:02 2024 
 
 country(gin,'Guinea'). 
-date('Wed Sep 06 18:47:44 2023').
+date('Fri May 17 12:03:02 2024').
 
 estimate_required(gin,bcg,1997,na,'na').
  estimate_required(gin,bcg,1998,na,'na').
@@ -1133,40 +1133,40 @@ births_UNPD(gin,1997,345248).
  births_UNPD(gin,2029,493932).
  births_UNPD(gin,2030,497095).
 
-si_UNPD(gin,1997,345248).
- si_UNPD(gin,1998,341967).
- si_UNPD(gin,1999,346360).
- si_UNPD(gin,2000,348803).
- si_UNPD(gin,2001,349494).
- si_UNPD(gin,2002,348490).
- si_UNPD(gin,2003,352766).
- si_UNPD(gin,2004,359010).
- si_UNPD(gin,2005,366366).
- si_UNPD(gin,2006,372509).
- si_UNPD(gin,2007,380736).
- si_UNPD(gin,2008,389586).
- si_UNPD(gin,2009,398892).
- si_UNPD(gin,2010,405021).
- si_UNPD(gin,2011,410166).
- si_UNPD(gin,2012,415399).
- si_UNPD(gin,2013,422211).
- si_UNPD(gin,2014,429939).
- si_UNPD(gin,2015,440910).
- si_UNPD(gin,2016,446491).
- si_UNPD(gin,2017,448594).
- si_UNPD(gin,2018,451296).
- si_UNPD(gin,2019,456433).
- si_UNPD(gin,2020,461563).
- si_UNPD(gin,2021,465954).
- si_UNPD(gin,2022,469311).
- si_UNPD(gin,2023,473390).
- si_UNPD(gin,2024,476528).
- si_UNPD(gin,2025,482085).
- si_UNPD(gin,2026,485726).
- si_UNPD(gin,2027,487219).
- si_UNPD(gin,2028,491518).
- si_UNPD(gin,2029,493932).
- si_UNPD(gin,2030,497095).
+si_UNPD(gin,1997,318528).
+ si_UNPD(gin,1998,316336).
+ si_UNPD(gin,1999,321267).
+ si_UNPD(gin,2000,324402).
+ si_UNPD(gin,2001,325882).
+ si_UNPD(gin,2002,325511).
+ si_UNPD(gin,2003,329979).
+ si_UNPD(gin,2004,336269).
+ si_UNPD(gin,2005,343595).
+ si_UNPD(gin,2006,349755).
+ si_UNPD(gin,2007,357845).
+ si_UNPD(gin,2008,366535).
+ si_UNPD(gin,2009,375606).
+ si_UNPD(gin,2010,381694).
+ si_UNPD(gin,2011,386839).
+ si_UNPD(gin,2012,392048).
+ si_UNPD(gin,2013,398758).
+ si_UNPD(gin,2014,406274).
+ si_UNPD(gin,2015,416909).
+ si_UNPD(gin,2016,422549).
+ si_UNPD(gin,2017,424830).
+ si_UNPD(gin,2018,427707).
+ si_UNPD(gin,2019,432935).
+ si_UNPD(gin,2020,438187).
+ si_UNPD(gin,2021,442783).
+ si_UNPD(gin,2022,446098).
+ si_UNPD(gin,2023,449811).
+ si_UNPD(gin,2024,453319).
+ si_UNPD(gin,2025,458874).
+ si_UNPD(gin,2026,462599).
+ si_UNPD(gin,2027,464267).
+ si_UNPD(gin,2028,468636).
+ si_UNPD(gin,2029,471190).
+ si_UNPD(gin,2030,474474).
 
 survey_results(gin,pol3,1998,gin1999141,[title:'Guinea Demographic and Health Survey 1999',type:'14',yrcoll:'1999',cr:46,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:921], 43).
 

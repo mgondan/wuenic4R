@@ -1,8 +1,8 @@
 %  Guyana - GUY 
-%  Wed Sep 06 18:49:09 2023 
+%  Fri May 17 12:04:19 2024 
 
 country(guy,'Guyana'). 
-date('Wed Sep 06 18:49:09 2023').
+date('Fri May 17 12:04:19 2024').
 
 estimate_required(guy,bcg,1997,na,'na').
  estimate_required(guy,bcg,1998,na,'na').
@@ -1526,40 +1526,40 @@ births_UNPD(guy,1997,20825).
  births_UNPD(guy,2029,14847).
  births_UNPD(guy,2030,14675).
 
-si_UNPD(guy,1997,20825).
- si_UNPD(guy,1998,20526).
- si_UNPD(guy,1999,20151).
- si_UNPD(guy,2000,19729).
- si_UNPD(guy,2001,19269).
- si_UNPD(guy,2002,18793).
- si_UNPD(guy,2003,18324).
- si_UNPD(guy,2004,17960).
- si_UNPD(guy,2005,17616).
- si_UNPD(guy,2006,17294).
- si_UNPD(guy,2007,17017).
- si_UNPD(guy,2008,16766).
- si_UNPD(guy,2009,16554).
- si_UNPD(guy,2010,16389).
- si_UNPD(guy,2011,16248).
- si_UNPD(guy,2012,16104).
- si_UNPD(guy,2013,16146).
- si_UNPD(guy,2014,16164).
- si_UNPD(guy,2015,16160).
- si_UNPD(guy,2016,16113).
- si_UNPD(guy,2017,16060).
- si_UNPD(guy,2018,16003).
- si_UNPD(guy,2019,16898).
- si_UNPD(guy,2020,16310).
- si_UNPD(guy,2021,16375).
- si_UNPD(guy,2022,16129).
- si_UNPD(guy,2023,15943).
- si_UNPD(guy,2024,15743).
- si_UNPD(guy,2025,15547).
- si_UNPD(guy,2026,15355).
- si_UNPD(guy,2027,15169).
- si_UNPD(guy,2028,15012).
- si_UNPD(guy,2029,14847).
- si_UNPD(guy,2030,14675).
+si_UNPD(guy,1997,20138).
+ si_UNPD(guy,1998,19862).
+ si_UNPD(guy,1999,19512).
+ si_UNPD(guy,2000,19115).
+ si_UNPD(guy,2001,18681).
+ si_UNPD(guy,2002,18230).
+ si_UNPD(guy,2003,17785).
+ si_UNPD(guy,2004,17441).
+ si_UNPD(guy,2005,17109).
+ si_UNPD(guy,2006,16810).
+ si_UNPD(guy,2007,16549).
+ si_UNPD(guy,2008,16311).
+ si_UNPD(guy,2009,16113).
+ si_UNPD(guy,2010,15960).
+ si_UNPD(guy,2011,15829).
+ si_UNPD(guy,2012,15697).
+ si_UNPD(guy,2013,15746).
+ si_UNPD(guy,2014,15772).
+ si_UNPD(guy,2015,15777).
+ si_UNPD(guy,2016,15741).
+ si_UNPD(guy,2017,15699).
+ si_UNPD(guy,2018,15652).
+ si_UNPD(guy,2019,16537).
+ si_UNPD(guy,2020,15971).
+ si_UNPD(guy,2021,16043).
+ si_UNPD(guy,2022,15790).
+ si_UNPD(guy,2023,15645).
+ si_UNPD(guy,2024,15456).
+ si_UNPD(guy,2025,15271).
+ si_UNPD(guy,2026,15089).
+ si_UNPD(guy,2027,14913).
+ si_UNPD(guy,2028,14765).
+ si_UNPD(guy,2029,14608).
+ si_UNPD(guy,2030,14445).
 
 survey_results(guy,pol1,1999,guy2000231,[title:'Multiple Indicator Cluster Survey Guyana 2000, 2001',type:'23',yrcoll:'2000',cr: 89,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:16442], 93.7).
 

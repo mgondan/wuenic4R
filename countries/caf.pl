@@ -1,8 +1,8 @@
 %  Central African Republic - CAF 
-%  Wed Sep 06 18:41:08 2023 
+%  Fri May 17 11:57:07 2024 
 
 country(caf,'Central African Republic'). 
-date('Wed Sep 06 18:41:08 2023').
+date('Fri May 17 11:57:07 2024').
 
 estimate_required(caf,bcg,1997,na,'na').
  estimate_required(caf,bcg,1998,na,'na').
@@ -1215,40 +1215,40 @@ births_UNPD(caf,1997,151445).
  births_UNPD(caf,2029,282558).
  births_UNPD(caf,2030,286767).
 
-si_UNPD(caf,1997,151445).
- si_UNPD(caf,1998,154622).
- si_UNPD(caf,1999,158526).
- si_UNPD(caf,2000,162475).
- si_UNPD(caf,2001,165320).
- si_UNPD(caf,2002,167475).
- si_UNPD(caf,2003,172635).
- si_UNPD(caf,2004,175453).
- si_UNPD(caf,2005,179761).
- si_UNPD(caf,2006,184598).
- si_UNPD(caf,2007,187852).
- si_UNPD(caf,2008,192421).
- si_UNPD(caf,2009,197025).
- si_UNPD(caf,2010,202470).
- si_UNPD(caf,2011,206440).
- si_UNPD(caf,2012,207714).
- si_UNPD(caf,2013,206082).
- si_UNPD(caf,2014,204833).
- si_UNPD(caf,2015,199087).
- si_UNPD(caf,2016,203227).
- si_UNPD(caf,2017,209152).
- si_UNPD(caf,2018,214277).
- si_UNPD(caf,2019,219195).
- si_UNPD(caf,2020,225927).
- si_UNPD(caf,2021,234821).
- si_UNPD(caf,2022,236643).
- si_UNPD(caf,2023,243462).
- si_UNPD(caf,2024,250590).
- si_UNPD(caf,2025,257884).
- si_UNPD(caf,2026,265163).
- si_UNPD(caf,2027,271467).
- si_UNPD(caf,2028,277414).
- si_UNPD(caf,2029,282558).
- si_UNPD(caf,2030,286767).
+si_UNPD(caf,1997,139468).
+ si_UNPD(caf,1998,142467).
+ si_UNPD(caf,1999,146147).
+ si_UNPD(caf,2000,149833).
+ si_UNPD(caf,2001,152564).
+ si_UNPD(caf,2002,154667).
+ si_UNPD(caf,2003,159551).
+ si_UNPD(caf,2004,162269).
+ si_UNPD(caf,2005,166385).
+ si_UNPD(caf,2006,171045).
+ si_UNPD(caf,2007,174241).
+ si_UNPD(caf,2008,178703).
+ si_UNPD(caf,2009,183286).
+ si_UNPD(caf,2010,188666).
+ si_UNPD(caf,2011,192744).
+ si_UNPD(caf,2012,194303).
+ si_UNPD(caf,2013,193091).
+ si_UNPD(caf,2014,192042).
+ si_UNPD(caf,2015,187273).
+ si_UNPD(caf,2016,191609).
+ si_UNPD(caf,2017,197528).
+ si_UNPD(caf,2018,202585).
+ si_UNPD(caf,2019,207502).
+ si_UNPD(caf,2020,214105).
+ si_UNPD(caf,2021,222643).
+ si_UNPD(caf,2022,224799).
+ si_UNPD(caf,2023,231634).
+ si_UNPD(caf,2024,238446).
+ si_UNPD(caf,2025,245106).
+ si_UNPD(caf,2026,252184).
+ si_UNPD(caf,2027,258341).
+ si_UNPD(caf,2028,264172).
+ si_UNPD(caf,2029,269207).
+ si_UNPD(caf,2030,273354).
 
 survey_results(caf,bcg,1999,caf2000231,[title:'Central African Republic Multiple Indicator Cluster Survey 2000',type:'23',yrcoll:'2000',cr:39.4,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:2932],62).
 

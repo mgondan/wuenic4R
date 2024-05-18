@@ -1,8 +1,8 @@
 %  Democratic Republic of the Congo - COD 
-%  Wed Sep 06 18:42:23 2023 
+%  Fri May 17 11:58:00 2024 
 
 country(cod,'Democratic Republic of the Congo'). 
-date('Wed Sep 06 18:42:23 2023').
+date('Fri May 17 11:58:00 2024').
 
 estimate_required(cod,bcg,1997,na,'na').
  estimate_required(cod,bcg,1998,na,'na').
@@ -1218,40 +1218,40 @@ births_UNPD(cod,1997,2066893).
  births_UNPD(cod,2029,4861293).
  births_UNPD(cod,2030,4953376).
 
-si_UNPD(cod,1997,2066893).
- si_UNPD(cod,1998,2070861).
- si_UNPD(cod,1999,2128124).
- si_UNPD(cod,2000,2189466).
- si_UNPD(cod,2001,2245443).
- si_UNPD(cod,2002,2310042).
- si_UNPD(cod,2003,2372356).
- si_UNPD(cod,2004,2426288).
- si_UNPD(cod,2005,2499471).
- si_UNPD(cod,2006,2591706).
- si_UNPD(cod,2007,2675395).
- si_UNPD(cod,2008,2766950).
- si_UNPD(cod,2009,2866751).
- si_UNPD(cod,2010,2956906).
- si_UNPD(cod,2011,3069225).
- si_UNPD(cod,2012,3171461).
- si_UNPD(cod,2013,3247257).
- si_UNPD(cod,2014,3345219).
- si_UNPD(cod,2015,3432634).
- si_UNPD(cod,2016,3532382).
- si_UNPD(cod,2017,3646584).
- si_UNPD(cod,2018,3747745).
- si_UNPD(cod,2019,3839325).
- si_UNPD(cod,2020,3929870).
- si_UNPD(cod,2021,4034953).
- si_UNPD(cod,2022,4133987).
- si_UNPD(cod,2023,4237354).
- si_UNPD(cod,2024,4341379).
- si_UNPD(cod,2025,4442689).
- si_UNPD(cod,2026,4548537).
- si_UNPD(cod,2027,4653894).
- si_UNPD(cod,2028,4757732).
- si_UNPD(cod,2029,4861293).
- si_UNPD(cod,2030,4953376).
+si_UNPD(cod,1997,1923235).
+ si_UNPD(cod,1998,1929971).
+ si_UNPD(cod,1999,1985937).
+ si_UNPD(cod,2000,2045061).
+ si_UNPD(cod,2001,2099456).
+ si_UNPD(cod,2002,2162176).
+ si_UNPD(cod,2003,2223245).
+ si_UNPD(cod,2004,2276739).
+ si_UNPD(cod,2005,2348475).
+ si_UNPD(cod,2006,2438347).
+ si_UNPD(cod,2007,2520495).
+ si_UNPD(cod,2008,2610142).
+ si_UNPD(cod,2009,2707954).
+ si_UNPD(cod,2010,2796818).
+ si_UNPD(cod,2011,2906754).
+ si_UNPD(cod,2012,3007186).
+ si_UNPD(cod,2013,3082922).
+ si_UNPD(cod,2014,3179590).
+ si_UNPD(cod,2015,3266388).
+ si_UNPD(cod,2016,3365181).
+ si_UNPD(cod,2017,3477905).
+ si_UNPD(cod,2018,3578464).
+ si_UNPD(cod,2019,3669277).
+ si_UNPD(cod,2020,3759997).
+ si_UNPD(cod,2021,3864669).
+ si_UNPD(cod,2022,3965786).
+ si_UNPD(cod,2023,4068226).
+ si_UNPD(cod,2024,4166865).
+ si_UNPD(cod,2025,4258677).
+ si_UNPD(cod,2026,4362230).
+ si_UNPD(cod,2027,4465233).
+ si_UNPD(cod,2028,4566918).
+ si_UNPD(cod,2029,4668474).
+ si_UNPD(cod,2030,4759047).
 
 survey_results(cod,dtp1,2000,cod2001231,[title:'DR Congo MICS 2001',type:'23',yrcoll:'2001',cr:22,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:2690], 51).
 

@@ -1,8 +1,8 @@
 %  Benin - BEN 
-%  Wed Sep 06 18:38:03 2023 
+%  Fri May 17 11:54:17 2024 
 
 country(ben,'Benin'). 
-date('Wed Sep 06 18:38:03 2023').
+date('Fri May 17 11:54:17 2024').
 
 estimate_required(ben,bcg,1997,na,'na').
  estimate_required(ben,bcg,1998,na,'na').
@@ -1289,40 +1289,40 @@ births_UNPD(ben,1997,274976).
  births_UNPD(ben,2029,527200).
  births_UNPD(ben,2030,533349).
 
-si_UNPD(ben,1997,274976).
- si_UNPD(ben,1998,280484).
- si_UNPD(ben,1999,286638).
- si_UNPD(ben,2000,291591).
- si_UNPD(ben,2001,298375).
- si_UNPD(ben,2002,306563).
- si_UNPD(ben,2003,317134).
- si_UNPD(ben,2004,325479).
- si_UNPD(ben,2005,332970).
- si_UNPD(ben,2006,343944).
- si_UNPD(ben,2007,349619).
- si_UNPD(ben,2008,355330).
- si_UNPD(ben,2009,363609).
- si_UNPD(ben,2010,371512).
- si_UNPD(ben,2011,381302).
- si_UNPD(ben,2012,391846).
- si_UNPD(ben,2013,403500).
- si_UNPD(ben,2014,416071).
- si_UNPD(ben,2015,426663).
- si_UNPD(ben,2016,438452).
- si_UNPD(ben,2017,448571).
- si_UNPD(ben,2018,455978).
- si_UNPD(ben,2019,463053).
- si_UNPD(ben,2020,469278).
- si_UNPD(ben,2021,475832).
- si_UNPD(ben,2022,481715).
- si_UNPD(ben,2023,487458).
- si_UNPD(ben,2024,493211).
- si_UNPD(ben,2025,500276).
- si_UNPD(ben,2026,506382).
- si_UNPD(ben,2027,512962).
- si_UNPD(ben,2028,519717).
- si_UNPD(ben,2029,527200).
- si_UNPD(ben,2030,533349).
+si_UNPD(ben,1997,257627).
+ si_UNPD(ben,1998,263023).
+ si_UNPD(ben,1999,269031).
+ si_UNPD(ben,2000,273918).
+ si_UNPD(ben,2001,280535).
+ si_UNPD(ben,2002,288484).
+ si_UNPD(ben,2003,298699).
+ si_UNPD(ben,2004,306839).
+ si_UNPD(ben,2005,314179).
+ si_UNPD(ben,2006,324809).
+ si_UNPD(ben,2007,330435).
+ si_UNPD(ben,2008,336086).
+ si_UNPD(ben,2009,344187).
+ si_UNPD(ben,2010,351930).
+ si_UNPD(ben,2011,361495).
+ si_UNPD(ben,2012,371783).
+ si_UNPD(ben,2013,383144).
+ si_UNPD(ben,2014,395389).
+ si_UNPD(ben,2015,405764).
+ si_UNPD(ben,2016,417301).
+ si_UNPD(ben,2017,427271).
+ si_UNPD(ben,2018,434693).
+ si_UNPD(ben,2019,441835).
+ si_UNPD(ben,2020,448204).
+ si_UNPD(ben,2021,454920).
+ si_UNPD(ben,2022,460723).
+ si_UNPD(ben,2023,466033).
+ si_UNPD(ben,2024,471870).
+ si_UNPD(ben,2025,478884).
+ si_UNPD(ben,2026,484970).
+ si_UNPD(ben,2027,491526).
+ si_UNPD(ben,2028,498255).
+ si_UNPD(ben,2029,505683).
+ si_UNPD(ben,2030,511834).
 
 survey_results(ben,pol1,2000,ben2001141,[title:'Benin Demographic and Health Survey 2001, 2002',type:'14',yrcoll:'2001',cr:73,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:932], 18).
 

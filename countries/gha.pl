@@ -1,8 +1,8 @@
 %  Ghana - GHA 
-%  Wed Sep 06 18:47:35 2023 
+%  Fri May 17 12:02:53 2024 
 
 country(gha,'Ghana'). 
-date('Wed Sep 06 18:47:35 2023').
+date('Fri May 17 12:02:53 2024').
 
 estimate_required(gha,bcg,1997,na,'na').
  estimate_required(gha,bcg,1998,na,'na').
@@ -1411,40 +1411,40 @@ births_UNPD(gha,1997,644464).
  births_UNPD(gha,2029,943623).
  births_UNPD(gha,2030,949657).
 
-si_UNPD(gha,1997,644464).
- si_UNPD(gha,1998,660465).
- si_UNPD(gha,1999,679681).
- si_UNPD(gha,2000,705624).
- si_UNPD(gha,2001,719162).
- si_UNPD(gha,2002,733089).
- si_UNPD(gha,2003,744853).
- si_UNPD(gha,2004,756056).
- si_UNPD(gha,2005,784717).
- si_UNPD(gha,2006,787770).
- si_UNPD(gha,2007,795211).
- si_UNPD(gha,2008,807389).
- si_UNPD(gha,2009,822721).
- si_UNPD(gha,2010,844348).
- si_UNPD(gha,2011,863884).
- si_UNPD(gha,2012,883449).
- si_UNPD(gha,2013,895716).
- si_UNPD(gha,2014,897736).
- si_UNPD(gha,2015,915988).
- si_UNPD(gha,2016,901955).
- si_UNPD(gha,2017,875587).
- si_UNPD(gha,2018,896502).
- si_UNPD(gha,2019,901018).
- si_UNPD(gha,2020,902298).
- si_UNPD(gha,2021,904679).
- si_UNPD(gha,2022,906677).
- si_UNPD(gha,2023,909913).
- si_UNPD(gha,2024,911299).
- si_UNPD(gha,2025,916924).
- si_UNPD(gha,2026,921313).
- si_UNPD(gha,2027,929498).
- si_UNPD(gha,2028,936474).
- si_UNPD(gha,2029,943623).
- si_UNPD(gha,2030,949657).
+si_UNPD(gha,1997,610294).
+ si_UNPD(gha,1998,626031).
+ si_UNPD(gha,1999,645009).
+ si_UNPD(gha,2000,670549).
+ si_UNPD(gha,2001,684386).
+ si_UNPD(gha,2002,698606).
+ si_UNPD(gha,2003,710690).
+ si_UNPD(gha,2004,722176).
+ si_UNPD(gha,2005,750285).
+ si_UNPD(gha,2006,753920).
+ si_UNPD(gha,2007,761780).
+ si_UNPD(gha,2008,774277).
+ si_UNPD(gha,2009,789900).
+ si_UNPD(gha,2010,811703).
+ si_UNPD(gha,2011,831561).
+ si_UNPD(gha,2012,851532).
+ si_UNPD(gha,2013,864401).
+ si_UNPD(gha,2014,867341).
+ si_UNPD(gha,2015,885965).
+ si_UNPD(gha,2016,873251).
+ si_UNPD(gha,2017,848537).
+ si_UNPD(gha,2018,869570).
+ si_UNPD(gha,2019,874680).
+ si_UNPD(gha,2020,876581).
+ si_UNPD(gha,2021,879551).
+ si_UNPD(gha,2022,881846).
+ si_UNPD(gha,2023,884666).
+ si_UNPD(gha,2024,886686).
+ si_UNPD(gha,2025,892504).
+ si_UNPD(gha,2026,897120).
+ si_UNPD(gha,2027,905436).
+ si_UNPD(gha,2028,912555).
+ si_UNPD(gha,2029,919838).
+ si_UNPD(gha,2030,926030).
 
 survey_results(gha,yfv,1997,gha1998141,[title:'Ghana Demographic and Health Survey 1998',type:'14',yrcoll:'1998',cr: 76,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:1193], 39).
 

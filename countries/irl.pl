@@ -1,8 +1,8 @@
 %  Ireland - IRL 
-%  Wed Sep 06 18:51:04 2023 
+%  Fri May 17 12:06:11 2024 
 
 country(irl,'Ireland'). 
-date('Wed Sep 06 18:51:04 2023').
+date('Fri May 17 12:06:11 2024').
 
 estimate_required(irl,bcg,1997,na,'na').
  estimate_required(irl,bcg,1998,na,'na').
@@ -1053,40 +1053,40 @@ births_UNPD(irl,1997,51868).
  births_UNPD(irl,2029,55458).
  births_UNPD(irl,2030,55830).
 
-si_UNPD(irl,1997,51868).
- si_UNPD(irl,1998,53011).
- si_UNPD(irl,1999,53007).
- si_UNPD(irl,2000,53905).
- si_UNPD(irl,2001,56505).
- si_UNPD(irl,2002,59350).
- si_UNPD(irl,2003,60554).
- si_UNPD(irl,2004,60793).
- si_UNPD(irl,2005,60341).
- si_UNPD(irl,2006,63875).
- si_UNPD(irl,2007,69775).
- si_UNPD(irl,2008,74341).
- si_UNPD(irl,2009,75693).
- si_UNPD(irl,2010,75316).
- si_UNPD(irl,2011,73817).
- si_UNPD(irl,2012,71600).
- si_UNPD(irl,2013,69002).
- si_UNPD(irl,2014,67041).
- si_UNPD(irl,2015,65037).
- si_UNPD(irl,2016,63114).
- si_UNPD(irl,2017,61312).
- si_UNPD(irl,2018,61865).
- si_UNPD(irl,2019,60463).
- si_UNPD(irl,2020,59670).
- si_UNPD(irl,2021,58563).
- si_UNPD(irl,2022,57561).
- si_UNPD(irl,2023,56728).
- si_UNPD(irl,2024,55854).
- si_UNPD(irl,2025,55423).
- si_UNPD(irl,2026,55257).
- si_UNPD(irl,2027,55063).
- si_UNPD(irl,2028,55150).
- si_UNPD(irl,2029,55458).
- si_UNPD(irl,2030,55830).
+si_UNPD(irl,1997,51590).
+ si_UNPD(irl,1998,52737).
+ si_UNPD(irl,1999,52737).
+ si_UNPD(irl,2000,53616).
+ si_UNPD(irl,2001,56211).
+ si_UNPD(irl,2002,59076).
+ si_UNPD(irl,2003,60273).
+ si_UNPD(irl,2004,60549).
+ si_UNPD(irl,2005,60141).
+ si_UNPD(irl,2006,63653).
+ si_UNPD(irl,2007,69572).
+ si_UNPD(irl,2008,74092).
+ si_UNPD(irl,2009,75477).
+ si_UNPD(irl,2010,75079).
+ si_UNPD(irl,2011,73591).
+ si_UNPD(irl,2012,71397).
+ si_UNPD(irl,2013,68790).
+ si_UNPD(irl,2014,66847).
+ si_UNPD(irl,2015,64841).
+ si_UNPD(irl,2016,62948).
+ si_UNPD(irl,2017,61167).
+ si_UNPD(irl,2018,61722).
+ si_UNPD(irl,2019,60327).
+ si_UNPD(irl,2020,59539).
+ si_UNPD(irl,2021,58438).
+ si_UNPD(irl,2022,57440).
+ si_UNPD(irl,2023,56613).
+ si_UNPD(irl,2024,55744).
+ si_UNPD(irl,2025,55317).
+ si_UNPD(irl,2026,55155).
+ si_UNPD(irl,2027,54964).
+ si_UNPD(irl,2028,55054).
+ si_UNPD(irl,2029,55364).
+ si_UNPD(irl,2030,55738).
 
 wgd(irl,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,89,_,na).
  wgd(irl,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,90,_,na).

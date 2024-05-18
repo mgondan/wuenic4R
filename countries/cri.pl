@@ -1,8 +1,8 @@
 %  Costa Rica - CRI 
-%  Wed Sep 06 18:43:17 2023 
+%  Fri May 17 11:58:48 2024 
 
 country(cri,'Costa Rica'). 
-date('Wed Sep 06 18:43:17 2023').
+date('Fri May 17 11:58:48 2024').
 
 estimate_required(cri,bcg,1997,na,'na').
  estimate_required(cri,bcg,1998,na,'na').
@@ -1366,40 +1366,40 @@ births_UNPD(cri,1997,80215).
  births_UNPD(cri,2029,58571).
  births_UNPD(cri,2030,58265).
 
-si_UNPD(cri,1997,80215).
- si_UNPD(cri,1998,78828).
- si_UNPD(cri,1999,79038).
- si_UNPD(cri,2000,78601).
- si_UNPD(cri,2001,77320).
- si_UNPD(cri,2002,74600).
- si_UNPD(cri,2003,73877).
- si_UNPD(cri,2004,73199).
- si_UNPD(cri,2005,73269).
- si_UNPD(cri,2006,73483).
- si_UNPD(cri,2007,74650).
- si_UNPD(cri,2008,76036).
- si_UNPD(cri,2009,75380).
- si_UNPD(cri,2010,74096).
- si_UNPD(cri,2011,73774).
- si_UNPD(cri,2012,73305).
- si_UNPD(cri,2013,72281).
- si_UNPD(cri,2014,71914).
- si_UNPD(cri,2015,71053).
- si_UNPD(cri,2016,69914).
- si_UNPD(cri,2017,69512).
- si_UNPD(cri,2018,68327).
- si_UNPD(cri,2019,65282).
- si_UNPD(cri,2020,62230).
- si_UNPD(cri,2021,61176).
- si_UNPD(cri,2022,60517).
- si_UNPD(cri,2023,60145).
- si_UNPD(cri,2024,59635).
- si_UNPD(cri,2025,59519).
- si_UNPD(cri,2026,59225).
- si_UNPD(cri,2027,58984).
- si_UNPD(cri,2028,58909).
- si_UNPD(cri,2029,58571).
- si_UNPD(cri,2030,58265).
+si_UNPD(cri,1997,79349).
+ si_UNPD(cri,1998,77998).
+ si_UNPD(cri,1999,78232).
+ si_UNPD(cri,2000,77832).
+ si_UNPD(cri,2001,76594).
+ si_UNPD(cri,2002,73923).
+ si_UNPD(cri,2003,73228).
+ si_UNPD(cri,2004,72569).
+ si_UNPD(cri,2005,72648).
+ si_UNPD(cri,2006,72868).
+ si_UNPD(cri,2007,74029).
+ si_UNPD(cri,2008,75414).
+ si_UNPD(cri,2009,74775).
+ si_UNPD(cri,2010,73511).
+ si_UNPD(cri,2011,73211).
+ si_UNPD(cri,2012,72762).
+ si_UNPD(cri,2013,71764).
+ si_UNPD(cri,2014,71415).
+ si_UNPD(cri,2015,70573).
+ si_UNPD(cri,2016,69453).
+ si_UNPD(cri,2017,69064).
+ si_UNPD(cri,2018,67899).
+ si_UNPD(cri,2019,64885).
+ si_UNPD(cri,2020,61865).
+ si_UNPD(cri,2021,60831).
+ si_UNPD(cri,2022,60159).
+ si_UNPD(cri,2023,59818).
+ si_UNPD(cri,2024,59323).
+ si_UNPD(cri,2025,59219).
+ si_UNPD(cri,2026,58937).
+ si_UNPD(cri,2027,58708).
+ si_UNPD(cri,2028,58643).
+ si_UNPD(cri,2029,58317).
+ si_UNPD(cri,2030,58021).
 
 survey_results(cri,pcv3,2010,cri2011231,[title:'Costa Rica Multiple Indicator Cluster Survey 2011',type:'23',yrcoll:'2011',cr: 94,confirm:'card',age:'18-29 m',timead:'',val:'crude',ss:0], 91).
 

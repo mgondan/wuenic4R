@@ -1,8 +1,8 @@
 %  Nepal - NPL 
-%  Wed Sep 06 19:00:30 2023 
+%  Fri May 17 12:15:09 2024 
 
 country(npl,'Nepal'). 
-date('Wed Sep 06 19:00:30 2023').
+date('Fri May 17 12:15:09 2024').
 
 estimate_required(npl,bcg,1997,na,'na').
  estimate_required(npl,bcg,1998,na,'na').
@@ -1134,40 +1134,40 @@ births_UNPD(npl,1997,772556).
  births_UNPD(npl,2029,571094).
  births_UNPD(npl,2030,563309).
 
-si_UNPD(npl,1997,772556).
- si_UNPD(npl,1998,767905).
- si_UNPD(npl,1999,759764).
- si_UNPD(npl,2000,754096).
- si_UNPD(npl,2001,738862).
- si_UNPD(npl,2002,723810).
- si_UNPD(npl,2003,718536).
- si_UNPD(npl,2004,706746).
- si_UNPD(npl,2005,687259).
- si_UNPD(npl,2006,665728).
- si_UNPD(npl,2007,649628).
- si_UNPD(npl,2008,636509).
- si_UNPD(npl,2009,624997).
- si_UNPD(npl,2010,616815).
- si_UNPD(npl,2011,613876).
- si_UNPD(npl,2012,614607).
- si_UNPD(npl,2013,613309).
- si_UNPD(npl,2014,613674).
- si_UNPD(npl,2015,611231).
- si_UNPD(npl,2016,607431).
- si_UNPD(npl,2017,603251).
- si_UNPD(npl,2018,600218).
- si_UNPD(npl,2019,602436).
- si_UNPD(npl,2020,602598).
- si_UNPD(npl,2021,609790).
- si_UNPD(npl,2022,616657).
- si_UNPD(npl,2023,613318).
- si_UNPD(npl,2024,608426).
- si_UNPD(npl,2025,602506).
- si_UNPD(npl,2026,596660).
- si_UNPD(npl,2027,589140).
- si_UNPD(npl,2028,580528).
- si_UNPD(npl,2029,571094).
- si_UNPD(npl,2030,563309).
+si_UNPD(npl,1997,732393).
+ si_UNPD(npl,1998,729355).
+ si_UNPD(npl,1999,723164).
+ si_UNPD(npl,2000,719206).
+ si_UNPD(npl,2001,706016).
+ si_UNPD(npl,2002,692835).
+ si_UNPD(npl,2003,689065).
+ si_UNPD(npl,2004,678897).
+ si_UNPD(npl,2005,661183).
+ si_UNPD(npl,2006,641320).
+ si_UNPD(npl,2007,626722).
+ si_UNPD(npl,2008,615012).
+ si_UNPD(npl,2009,604701).
+ si_UNPD(npl,2010,597544).
+ si_UNPD(npl,2011,595396).
+ si_UNPD(npl,2012,596773).
+ si_UNPD(npl,2013,596249).
+ si_UNPD(npl,2014,597343).
+ si_UNPD(npl,2015,595438).
+ si_UNPD(npl,2016,592649).
+ si_UNPD(npl,2017,589136).
+ si_UNPD(npl,2018,586685).
+ si_UNPD(npl,2019,589319).
+ si_UNPD(npl,2020,589850).
+ si_UNPD(npl,2021,597369).
+ si_UNPD(npl,2022,605385).
+ si_UNPD(npl,2023,602717).
+ si_UNPD(npl,2024,598490).
+ si_UNPD(npl,2025,593180).
+ si_UNPD(npl,2026,587931).
+ si_UNPD(npl,2027,580990).
+ si_UNPD(npl,2028,572821).
+ si_UNPD(npl,2029,563814).
+ si_UNPD(npl,2030,556406).
 
 survey_results(npl,bcg,1997,npl1998161,[title:'NA',type:'16',yrcoll:'1998',cr:17,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:0], 86).
 

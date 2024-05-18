@@ -1,8 +1,8 @@
 %  Mauritania - MRT 
-%  Wed Sep 06 18:58:22 2023 
+%  Fri May 17 12:13:06 2024 
 
 country(mrt,'Mauritania'). 
-date('Wed Sep 06 18:58:22 2023').
+date('Fri May 17 12:13:06 2024').
 
 estimate_required(mrt,bcg,1997,na,'na').
  estimate_required(mrt,bcg,1998,na,'na').
@@ -1124,40 +1124,40 @@ births_UNPD(mrt,1997,97064).
  births_UNPD(mrt,2029,173250).
  births_UNPD(mrt,2030,175527).
 
-si_UNPD(mrt,1997,97064).
- si_UNPD(mrt,1998,98214).
- si_UNPD(mrt,1999,100276).
- si_UNPD(mrt,2000,101919).
- si_UNPD(mrt,2001,103986).
- si_UNPD(mrt,2002,104749).
- si_UNPD(mrt,2003,106226).
- si_UNPD(mrt,2004,108734).
- si_UNPD(mrt,2005,111593).
- si_UNPD(mrt,2006,114673).
- si_UNPD(mrt,2007,117221).
- si_UNPD(mrt,2008,120617).
- si_UNPD(mrt,2009,122803).
- si_UNPD(mrt,2010,125643).
- si_UNPD(mrt,2011,129161).
- si_UNPD(mrt,2012,132015).
- si_UNPD(mrt,2013,134087).
- si_UNPD(mrt,2014,136615).
- si_UNPD(mrt,2015,138903).
- si_UNPD(mrt,2016,141210).
- si_UNPD(mrt,2017,143282).
- si_UNPD(mrt,2018,146064).
- si_UNPD(mrt,2019,147906).
- si_UNPD(mrt,2020,150426).
- si_UNPD(mrt,2021,153242).
- si_UNPD(mrt,2022,156047).
- si_UNPD(mrt,2023,158742).
- si_UNPD(mrt,2024,160963).
- si_UNPD(mrt,2025,163590).
- si_UNPD(mrt,2026,166071).
- si_UNPD(mrt,2027,169012).
- si_UNPD(mrt,2028,171220).
- si_UNPD(mrt,2029,173250).
- si_UNPD(mrt,2030,175527).
+si_UNPD(mrt,1997,92148).
+ si_UNPD(mrt,1998,93244).
+ si_UNPD(mrt,1999,95208).
+ si_UNPD(mrt,2000,96779).
+ si_UNPD(mrt,2001,98754).
+ si_UNPD(mrt,2002,99488).
+ si_UNPD(mrt,2003,100911).
+ si_UNPD(mrt,2004,103329).
+ si_UNPD(mrt,2005,106086).
+ si_UNPD(mrt,2006,109078).
+ si_UNPD(mrt,2007,111571).
+ si_UNPD(mrt,2008,114889).
+ si_UNPD(mrt,2009,117066).
+ si_UNPD(mrt,2010,119874).
+ si_UNPD(mrt,2011,123332).
+ si_UNPD(mrt,2012,126151).
+ si_UNPD(mrt,2013,128243).
+ si_UNPD(mrt,2014,130774).
+ si_UNPD(mrt,2015,133077).
+ si_UNPD(mrt,2016,135401).
+ si_UNPD(mrt,2017,137506).
+ si_UNPD(mrt,2018,140291).
+ si_UNPD(mrt,2019,142184).
+ si_UNPD(mrt,2020,144730).
+ si_UNPD(mrt,2021,147564).
+ si_UNPD(mrt,2022,150443).
+ si_UNPD(mrt,2023,153007).
+ si_UNPD(mrt,2024,155379).
+ si_UNPD(mrt,2025,158037).
+ si_UNPD(mrt,2026,160572).
+ si_UNPD(mrt,2027,163561).
+ si_UNPD(mrt,2028,165831).
+ si_UNPD(mrt,2029,167936).
+ si_UNPD(mrt,2030,170276).
 
 survey_results(mrt,dtp1,1998,mrt1999161,[title:'NA',type:'16',yrcoll:'1999',cr:78,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:2287], 56).
 

@@ -1,8 +1,8 @@
 %  Uruguay - URY 
-%  Wed Sep 06 19:10:41 2023 
+%  Fri May 17 12:25:11 2024 
 
 country(ury,'Uruguay'). 
-date('Wed Sep 06 19:10:41 2023').
+date('Fri May 17 12:25:11 2024').
 
 estimate_required(ury,bcg,1997,na,'na').
  estimate_required(ury,bcg,1998,na,'na').
@@ -1239,40 +1239,40 @@ births_UNPD(ury,1997,55406).
  births_UNPD(ury,2029,35539).
  births_UNPD(ury,2030,35488).
 
-si_UNPD(ury,1997,55406).
- si_UNPD(ury,1998,53997).
- si_UNPD(ury,1999,53211).
- si_UNPD(ury,2000,51993).
- si_UNPD(ury,2001,51342).
- si_UNPD(ury,2002,51531).
- si_UNPD(ury,2003,50454).
- si_UNPD(ury,2004,50074).
- si_UNPD(ury,2005,50231).
- si_UNPD(ury,2006,49387).
- si_UNPD(ury,2007,48735).
- si_UNPD(ury,2008,48292).
- si_UNPD(ury,2009,48015).
- si_UNPD(ury,2010,47877).
- si_UNPD(ury,2011,47862).
- si_UNPD(ury,2012,47904).
- si_UNPD(ury,2013,48044).
- si_UNPD(ury,2014,47796).
- si_UNPD(ury,2015,48408).
- si_UNPD(ury,2016,46580).
- si_UNPD(ury,2017,43050).
- si_UNPD(ury,2018,39773).
- si_UNPD(ury,2019,37107).
- si_UNPD(ury,2020,35457).
- si_UNPD(ury,2021,35892).
- si_UNPD(ury,2022,35668).
- si_UNPD(ury,2023,35643).
- si_UNPD(ury,2024,35563).
- si_UNPD(ury,2025,35595).
- si_UNPD(ury,2026,35669).
- si_UNPD(ury,2027,35600).
- si_UNPD(ury,2028,35579).
- si_UNPD(ury,2029,35539).
- si_UNPD(ury,2030,35488).
+si_UNPD(ury,1997,54595).
+ si_UNPD(ury,1998,53239).
+ si_UNPD(ury,1999,52497).
+ si_UNPD(ury,2000,51325).
+ si_UNPD(ury,2001,50710).
+ si_UNPD(ury,2002,50922).
+ si_UNPD(ury,2003,49884).
+ si_UNPD(ury,2004,49534).
+ si_UNPD(ury,2005,49715).
+ si_UNPD(ury,2006,48907).
+ si_UNPD(ury,2007,48285).
+ si_UNPD(ury,2008,47868).
+ si_UNPD(ury,2009,47612).
+ si_UNPD(ury,2010,47488).
+ si_UNPD(ury,2011,47482).
+ si_UNPD(ury,2012,47533).
+ si_UNPD(ury,2013,47684).
+ si_UNPD(ury,2014,47456).
+ si_UNPD(ury,2015,48090).
+ si_UNPD(ury,2016,46305).
+ si_UNPD(ury,2017,42823).
+ si_UNPD(ury,2018,39582).
+ si_UNPD(ury,2019,36938).
+ si_UNPD(ury,2020,35313).
+ si_UNPD(ury,2021,35747).
+ si_UNPD(ury,2022,35490).
+ si_UNPD(ury,2023,35470).
+ si_UNPD(ury,2024,35395).
+ si_UNPD(ury,2025,35431).
+ si_UNPD(ury,2026,35509).
+ si_UNPD(ury,2027,35443).
+ si_UNPD(ury,2028,35425).
+ si_UNPD(ury,2029,35388).
+ si_UNPD(ury,2030,35341).
 
 wgd(ury,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(ury,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).

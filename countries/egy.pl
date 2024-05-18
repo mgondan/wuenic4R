@@ -1,8 +1,8 @@
 %  Egypt - EGY 
-%  Wed Sep 06 18:45:32 2023 
+%  Fri May 17 12:00:57 2024 
 
 country(egy,'Egypt'). 
-date('Wed Sep 06 18:45:32 2023').
+date('Fri May 17 12:00:57 2024').
 
 estimate_required(egy,bcg,1997,na,'na').
  estimate_required(egy,bcg,1998,na,'na').
@@ -1216,40 +1216,40 @@ births_UNPD(egy,1997,1871413).
  births_UNPD(egy,2029,2494652).
  births_UNPD(egy,2030,2504688).
 
-si_UNPD(egy,1997,1871413).
- si_UNPD(egy,1998,1902874).
- si_UNPD(egy,1999,1912494).
- si_UNPD(egy,2000,1926197).
- si_UNPD(egy,2001,1955126).
- si_UNPD(egy,2002,1968869).
- si_UNPD(egy,2003,2000352).
- si_UNPD(egy,2004,2012961).
- si_UNPD(egy,2005,2054780).
- si_UNPD(egy,2006,2087563).
- si_UNPD(egy,2007,2151931).
- si_UNPD(egy,2008,2193209).
- si_UNPD(egy,2009,2249211).
- si_UNPD(egy,2010,2371244).
- si_UNPD(egy,2011,2440788).
- si_UNPD(egy,2012,2553920).
- si_UNPD(egy,2013,2655889).
- si_UNPD(egy,2014,2716940).
- si_UNPD(egy,2015,2745341).
- si_UNPD(egy,2016,2584116).
- si_UNPD(egy,2017,2568416).
- si_UNPD(egy,2018,2548639).
- si_UNPD(egy,2019,2489364).
- si_UNPD(egy,2020,2477081).
- si_UNPD(egy,2021,2465005).
- si_UNPD(egy,2022,2453941).
- si_UNPD(egy,2023,2449346).
- si_UNPD(egy,2024,2448253).
- si_UNPD(egy,2025,2450490).
- si_UNPD(egy,2026,2459857).
- si_UNPD(egy,2027,2468921).
- si_UNPD(egy,2028,2476884).
- si_UNPD(egy,2029,2494652).
- si_UNPD(egy,2030,2504688).
+si_UNPD(egy,1997,1802939).
+ si_UNPD(egy,1998,1836597).
+ si_UNPD(egy,1999,1849059).
+ si_UNPD(egy,2000,1865290).
+ si_UNPD(egy,2001,1896128).
+ si_UNPD(egy,2002,1912039).
+ si_UNPD(egy,2003,1945041).
+ si_UNPD(egy,2004,1959496).
+ si_UNPD(egy,2005,2002256).
+ si_UNPD(egy,2006,2036153).
+ si_UNPD(egy,2007,2100874).
+ si_UNPD(egy,2008,2143060).
+ si_UNPD(egy,2009,2199650).
+ si_UNPD(egy,2010,2320905).
+ si_UNPD(egy,2011,2390818).
+ si_UNPD(egy,2012,2503773).
+ si_UNPD(egy,2013,2605719).
+ si_UNPD(egy,2014,2667744).
+ si_UNPD(egy,2015,2697477).
+ si_UNPD(egy,2016,2540767).
+ si_UNPD(egy,2017,2526841).
+ si_UNPD(egy,2018,2508847).
+ si_UNPD(egy,2019,2451890).
+ si_UNPD(egy,2020,2441066).
+ si_UNPD(egy,2021,2430330).
+ si_UNPD(egy,2022,2419232).
+ si_UNPD(egy,2023,2414646).
+ si_UNPD(egy,2024,2419286).
+ si_UNPD(egy,2025,2422785).
+ si_UNPD(egy,2026,2432909).
+ si_UNPD(egy,2027,2442608).
+ si_UNPD(egy,2028,2451282).
+ si_UNPD(egy,2029,2469628).
+ si_UNPD(egy,2030,2480281).
 
 survey_results(egy,pol3,1997,egy1998141,[title:'Egypt Demographic and Health Survey 1998',type:'14',yrcoll:'1998',cr:65,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:837], 90).
 

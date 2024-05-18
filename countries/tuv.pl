@@ -1,8 +1,8 @@
 %  Tuvalu - TUV 
-%  Wed Sep 06 19:09:40 2023 
+%  Fri May 17 12:23:55 2024 
 
 country(tuv,'Tuvalu'). 
-date('Wed Sep 06 19:09:40 2023').
+date('Fri May 17 12:23:55 2024').
 
 estimate_required(tuv,bcg,1997,na,'na').
  estimate_required(tuv,bcg,1998,na,'na').
@@ -1356,40 +1356,40 @@ births_UNPD(tuv,1997,274).
  births_UNPD(tuv,2029,248).
  births_UNPD(tuv,2030,247).
 
-si_UNPD(tuv,1997,274).
- si_UNPD(tuv,1998,267).
- si_UNPD(tuv,1999,259).
- si_UNPD(tuv,2000,251).
- si_UNPD(tuv,2001,244).
- si_UNPD(tuv,2002,237).
- si_UNPD(tuv,2003,231).
- si_UNPD(tuv,2004,228).
- si_UNPD(tuv,2005,228).
- si_UNPD(tuv,2006,235).
- si_UNPD(tuv,2007,229).
- si_UNPD(tuv,2008,229).
- si_UNPD(tuv,2009,231).
- si_UNPD(tuv,2010,235).
- si_UNPD(tuv,2011,240).
- si_UNPD(tuv,2012,246).
- si_UNPD(tuv,2013,245).
- si_UNPD(tuv,2014,244).
- si_UNPD(tuv,2015,245).
- si_UNPD(tuv,2016,248).
- si_UNPD(tuv,2017,251).
- si_UNPD(tuv,2018,256).
- si_UNPD(tuv,2019,259).
- si_UNPD(tuv,2020,262).
- si_UNPD(tuv,2021,263).
- si_UNPD(tuv,2022,265).
- si_UNPD(tuv,2023,261).
- si_UNPD(tuv,2024,258).
- si_UNPD(tuv,2025,255).
- si_UNPD(tuv,2026,252).
- si_UNPD(tuv,2027,249).
- si_UNPD(tuv,2028,248).
- si_UNPD(tuv,2029,248).
- si_UNPD(tuv,2030,247).
+si_UNPD(tuv,1997,265).
+ si_UNPD(tuv,1998,259).
+ si_UNPD(tuv,1999,251).
+ si_UNPD(tuv,2000,244).
+ si_UNPD(tuv,2001,237).
+ si_UNPD(tuv,2002,230).
+ si_UNPD(tuv,2003,225).
+ si_UNPD(tuv,2004,222).
+ si_UNPD(tuv,2005,222).
+ si_UNPD(tuv,2006,229).
+ si_UNPD(tuv,2007,223).
+ si_UNPD(tuv,2008,223).
+ si_UNPD(tuv,2009,226).
+ si_UNPD(tuv,2010,230).
+ si_UNPD(tuv,2011,235).
+ si_UNPD(tuv,2012,241).
+ si_UNPD(tuv,2013,240).
+ si_UNPD(tuv,2014,239).
+ si_UNPD(tuv,2015,240).
+ si_UNPD(tuv,2016,243).
+ si_UNPD(tuv,2017,246).
+ si_UNPD(tuv,2018,252).
+ si_UNPD(tuv,2019,255).
+ si_UNPD(tuv,2020,258).
+ si_UNPD(tuv,2021,259).
+ si_UNPD(tuv,2022,261).
+ si_UNPD(tuv,2023,257).
+ si_UNPD(tuv,2024,254).
+ si_UNPD(tuv,2025,251).
+ si_UNPD(tuv,2026,248).
+ si_UNPD(tuv,2027,246).
+ si_UNPD(tuv,2028,245).
+ si_UNPD(tuv,2029,245).
+ si_UNPD(tuv,2030,244).
 
 survey_results(tuv,mcv1,2006,tuv2007141,[title:'Tuvalu Demographic and Health Survey 2007',type:'14',yrcoll:'2007',cr:33,confirm:'card or history',age:'18-29 m',timead:'',val:'crude',ss:80], 74).
 

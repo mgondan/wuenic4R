@@ -1,8 +1,8 @@
 %  Saint Kitts and Nevis - KNA 
-%  Wed Sep 06 18:53:31 2023 
+%  Fri May 17 12:08:28 2024 
 
 country(kna,'Saint Kitts and Nevis'). 
-date('Wed Sep 06 18:53:31 2023').
+date('Fri May 17 12:08:28 2024').
 
 estimate_required(kna,bcg,1997,na,'na').
  estimate_required(kna,bcg,1998,na,'na').
@@ -1292,40 +1292,40 @@ births_UNPD(kna,1997,888).
  births_UNPD(kna,2029,527).
  births_UNPD(kna,2030,522).
 
-si_UNPD(kna,1997,888).
- si_UNPD(kna,1998,889).
- si_UNPD(kna,1999,878).
- si_UNPD(kna,2000,836).
- si_UNPD(kna,2001,799).
- si_UNPD(kna,2002,786).
- si_UNPD(kna,2003,779).
- si_UNPD(kna,2004,769).
- si_UNPD(kna,2005,761).
- si_UNPD(kna,2006,754).
- si_UNPD(kna,2007,745).
- si_UNPD(kna,2008,732).
- si_UNPD(kna,2009,719).
- si_UNPD(kna,2010,702).
- si_UNPD(kna,2011,691).
- si_UNPD(kna,2012,682).
- si_UNPD(kna,2013,669).
- si_UNPD(kna,2014,661).
- si_UNPD(kna,2015,650).
- si_UNPD(kna,2016,644).
- si_UNPD(kna,2017,633).
- si_UNPD(kna,2018,619).
- si_UNPD(kna,2019,607).
- si_UNPD(kna,2020,593).
- si_UNPD(kna,2021,578).
- si_UNPD(kna,2022,563).
- si_UNPD(kna,2023,555).
- si_UNPD(kna,2024,549).
- si_UNPD(kna,2025,544).
- si_UNPD(kna,2026,539).
- si_UNPD(kna,2027,535).
- si_UNPD(kna,2028,530).
- si_UNPD(kna,2029,527).
- si_UNPD(kna,2030,522).
+si_UNPD(kna,1997,870).
+ si_UNPD(kna,1998,871).
+ si_UNPD(kna,1999,862).
+ si_UNPD(kna,2000,824).
+ si_UNPD(kna,2001,786).
+ si_UNPD(kna,2002,774).
+ si_UNPD(kna,2003,767).
+ si_UNPD(kna,2004,758).
+ si_UNPD(kna,2005,751).
+ si_UNPD(kna,2006,744).
+ si_UNPD(kna,2007,735).
+ si_UNPD(kna,2008,722).
+ si_UNPD(kna,2009,710).
+ si_UNPD(kna,2010,694).
+ si_UNPD(kna,2011,685).
+ si_UNPD(kna,2012,676).
+ si_UNPD(kna,2013,663).
+ si_UNPD(kna,2014,653).
+ si_UNPD(kna,2015,642).
+ si_UNPD(kna,2016,640).
+ si_UNPD(kna,2017,629).
+ si_UNPD(kna,2018,614).
+ si_UNPD(kna,2019,602).
+ si_UNPD(kna,2020,589).
+ si_UNPD(kna,2021,574).
+ si_UNPD(kna,2022,559).
+ si_UNPD(kna,2023,551).
+ si_UNPD(kna,2024,546).
+ si_UNPD(kna,2025,541).
+ si_UNPD(kna,2026,536).
+ si_UNPD(kna,2027,532).
+ si_UNPD(kna,2028,527).
+ si_UNPD(kna,2029,524).
+ si_UNPD(kna,2030,519).
 
 wgd(kna,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(kna,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).

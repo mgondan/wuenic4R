@@ -1,8 +1,8 @@
 %  Chile - CHL 
-%  Wed Sep 06 18:41:44 2023 
+%  Fri May 17 11:57:38 2024 
 
 country(chl,'Chile'). 
-date('Wed Sep 06 18:41:44 2023').
+date('Fri May 17 11:57:38 2024').
 
 estimate_required(chl,bcg,1997,na,'na').
  estimate_required(chl,bcg,1998,na,'na').
@@ -1311,40 +1311,40 @@ births_UNPD(chl,1997,264229).
  births_UNPD(chl,2029,205959).
  births_UNPD(chl,2030,202633).
 
-si_UNPD(chl,1997,264229).
- si_UNPD(chl,1998,257793).
- si_UNPD(chl,1999,250716).
- si_UNPD(chl,2000,244983).
- si_UNPD(chl,2001,243015).
- si_UNPD(chl,2002,241091).
- si_UNPD(chl,2003,234636).
- si_UNPD(chl,2004,230212).
- si_UNPD(chl,2005,229074).
- si_UNPD(chl,2006,230846).
- si_UNPD(chl,2007,235781).
- si_UNPD(chl,2008,240764).
- si_UNPD(chl,2009,243308).
- si_UNPD(chl,2010,243439).
- si_UNPD(chl,2011,242097).
- si_UNPD(chl,2012,240081).
- si_UNPD(chl,2013,239570).
- si_UNPD(chl,2014,239204).
- si_UNPD(chl,2015,235699).
- si_UNPD(chl,2016,228821).
- si_UNPD(chl,2017,221468).
- si_UNPD(chl,2018,221872).
- si_UNPD(chl,2019,224350).
- si_UNPD(chl,2020,227821).
- si_UNPD(chl,2021,229116).
- si_UNPD(chl,2022,230824).
- si_UNPD(chl,2023,226274).
- si_UNPD(chl,2024,222780).
- si_UNPD(chl,2025,219459).
- si_UNPD(chl,2026,216066).
- si_UNPD(chl,2027,212221).
- si_UNPD(chl,2028,208125).
- si_UNPD(chl,2029,205959).
- si_UNPD(chl,2030,202633).
+si_UNPD(chl,1997,261913).
+ si_UNPD(chl,1998,255384).
+ si_UNPD(chl,1999,248404).
+ si_UNPD(chl,2000,242939).
+ si_UNPD(chl,2001,241112).
+ si_UNPD(chl,2002,239364).
+ si_UNPD(chl,2003,232985).
+ si_UNPD(chl,2004,228521).
+ si_UNPD(chl,2005,227511).
+ si_UNPD(chl,2006,229348).
+ si_UNPD(chl,2007,234130).
+ si_UNPD(chl,2008,239152).
+ si_UNPD(chl,2009,241655).
+ si_UNPD(chl,2010,241908).
+ si_UNPD(chl,2011,240537).
+ si_UNPD(chl,2012,238608).
+ si_UNPD(chl,2013,238203).
+ si_UNPD(chl,2014,237710).
+ si_UNPD(chl,2015,234323).
+ si_UNPD(chl,2016,227502).
+ si_UNPD(chl,2017,220208).
+ si_UNPD(chl,2018,220597).
+ si_UNPD(chl,2019,223073).
+ si_UNPD(chl,2020,226847).
+ si_UNPD(chl,2021,228192).
+ si_UNPD(chl,2022,229841).
+ si_UNPD(chl,2023,225191).
+ si_UNPD(chl,2024,221750).
+ si_UNPD(chl,2025,218480).
+ si_UNPD(chl,2026,215134).
+ si_UNPD(chl,2027,211336).
+ si_UNPD(chl,2028,207284).
+ si_UNPD(chl,2029,205152).
+ si_UNPD(chl,2030,201863).
 
 wgd(chl,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,92,_,na).
  wgd(chl,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).

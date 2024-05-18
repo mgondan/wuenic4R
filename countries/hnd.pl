@@ -1,8 +1,8 @@
 %  Honduras - HND 
-%  Wed Sep 06 18:49:19 2023 
+%  Fri May 17 12:04:28 2024 
 
 country(hnd,'Honduras'). 
-date('Wed Sep 06 18:49:19 2023').
+date('Fri May 17 12:04:28 2024').
 
 estimate_required(hnd,bcg,1997,na,'na').
  estimate_required(hnd,bcg,1998,na,'na').
@@ -1497,40 +1497,40 @@ births_UNPD(hnd,1997,217000).
  births_UNPD(hnd,2029,215104).
  births_UNPD(hnd,2030,214795).
 
-si_UNPD(hnd,1997,217000).
- si_UNPD(hnd,1998,221199).
- si_UNPD(hnd,1999,224124).
- si_UNPD(hnd,2000,225476).
- si_UNPD(hnd,2001,225725).
- si_UNPD(hnd,2002,225144).
- si_UNPD(hnd,2003,224103).
- si_UNPD(hnd,2004,222990).
- si_UNPD(hnd,2005,221828).
- si_UNPD(hnd,2006,220644).
- si_UNPD(hnd,2007,219089).
- si_UNPD(hnd,2008,217761).
- si_UNPD(hnd,2009,216190).
- si_UNPD(hnd,2010,214642).
- si_UNPD(hnd,2011,213180).
- si_UNPD(hnd,2012,212054).
- si_UNPD(hnd,2013,211261).
- si_UNPD(hnd,2014,211139).
- si_UNPD(hnd,2015,211541).
- si_UNPD(hnd,2016,212388).
- si_UNPD(hnd,2017,213413).
- si_UNPD(hnd,2018,214499).
- si_UNPD(hnd,2019,215469).
- si_UNPD(hnd,2020,216208).
- si_UNPD(hnd,2021,216645).
- si_UNPD(hnd,2022,217590).
- si_UNPD(hnd,2023,217165).
- si_UNPD(hnd,2024,217184).
- si_UNPD(hnd,2025,216965).
- si_UNPD(hnd,2026,216964).
- si_UNPD(hnd,2027,216158).
- si_UNPD(hnd,2028,215913).
- si_UNPD(hnd,2029,215104).
- si_UNPD(hnd,2030,214795).
+si_UNPD(hnd,1997,210664).
+ si_UNPD(hnd,1998,213641).
+ si_UNPD(hnd,1999,218027).
+ si_UNPD(hnd,2000,219579).
+ si_UNPD(hnd,2001,220041).
+ si_UNPD(hnd,2002,219693).
+ si_UNPD(hnd,2003,218888).
+ si_UNPD(hnd,2004,218007).
+ si_UNPD(hnd,2005,217060).
+ si_UNPD(hnd,2006,216091).
+ si_UNPD(hnd,2007,214753).
+ si_UNPD(hnd,2008,213624).
+ si_UNPD(hnd,2009,212279).
+ si_UNPD(hnd,2010,210883).
+ si_UNPD(hnd,2011,209628).
+ si_UNPD(hnd,2012,208664).
+ si_UNPD(hnd,2013,208006).
+ si_UNPD(hnd,2014,208005).
+ si_UNPD(hnd,2015,208516).
+ si_UNPD(hnd,2016,209451).
+ si_UNPD(hnd,2017,210560).
+ si_UNPD(hnd,2018,211733).
+ si_UNPD(hnd,2019,212777).
+ si_UNPD(hnd,2020,213592).
+ si_UNPD(hnd,2021,214096).
+ si_UNPD(hnd,2022,215156).
+ si_UNPD(hnd,2023,214734).
+ si_UNPD(hnd,2024,214816).
+ si_UNPD(hnd,2025,214655).
+ si_UNPD(hnd,2026,214716).
+ si_UNPD(hnd,2027,213978).
+ si_UNPD(hnd,2028,213788).
+ si_UNPD(hnd,2029,213042).
+ si_UNPD(hnd,2030,212789).
 
 survey_results(hnd,bcg,2000,hnd2001141,[title:'Honduras Demographic and Health Survey 2001',type:'14',yrcoll:'2001',cr:87,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:795], 98).
 

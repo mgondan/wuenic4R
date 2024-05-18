@@ -1,8 +1,8 @@
 %  Georgia - GEO 
-%  Wed Sep 06 18:47:27 2023 
+%  Fri May 17 12:02:45 2024 
 
 country(geo,'Georgia'). 
-date('Wed Sep 06 18:47:27 2023').
+date('Fri May 17 12:02:45 2024').
 
 estimate_required(geo,bcg,1997,na,'na').
  estimate_required(geo,bcg,1998,na,'na').
@@ -1448,40 +1448,40 @@ births_UNPD(geo,1997,61641).
  births_UNPD(geo,2029,41964).
  births_UNPD(geo,2030,41674).
 
-si_UNPD(geo,1997,61641).
- si_UNPD(geo,1998,57893).
- si_UNPD(geo,1999,54338).
- si_UNPD(geo,2000,51894).
- si_UNPD(geo,2001,49423).
- si_UNPD(geo,2002,48255).
- si_UNPD(geo,2003,47638).
- si_UNPD(geo,2004,48941).
- si_UNPD(geo,2005,49647).
- si_UNPD(geo,2006,49960).
- si_UNPD(geo,2007,51480).
- si_UNPD(geo,2008,54168).
- si_UNPD(geo,2009,57275).
- si_UNPD(geo,2010,58164).
- si_UNPD(geo,2011,57277).
- si_UNPD(geo,2012,56664).
- si_UNPD(geo,2013,57392).
- si_UNPD(geo,2014,58418).
- si_UNPD(geo,2015,59661).
- si_UNPD(geo,2016,58419).
- si_UNPD(geo,2017,56081).
- si_UNPD(geo,2018,54333).
- si_UNPD(geo,2019,50739).
- si_UNPD(geo,2020,48839).
- si_UNPD(geo,2021,50430).
- si_UNPD(geo,2022,49106).
- si_UNPD(geo,2023,47758).
- si_UNPD(geo,2024,46526).
- si_UNPD(geo,2025,45328).
- si_UNPD(geo,2026,44305).
- si_UNPD(geo,2027,43484).
- si_UNPD(geo,2028,42705).
- si_UNPD(geo,2029,41964).
- si_UNPD(geo,2030,41674).
+si_UNPD(geo,1997,59725).
+ si_UNPD(geo,1998,56153).
+ si_UNPD(geo,1999,52771).
+ si_UNPD(geo,2000,50469).
+ si_UNPD(geo,2001,48142).
+ si_UNPD(geo,2002,47086).
+ si_UNPD(geo,2003,46568).
+ si_UNPD(geo,2004,47931).
+ si_UNPD(geo,2005,48720).
+ si_UNPD(geo,2006,49122).
+ si_UNPD(geo,2007,50705).
+ si_UNPD(geo,2008,53435).
+ si_UNPD(geo,2009,56575).
+ si_UNPD(geo,2010,57518).
+ si_UNPD(geo,2011,56692).
+ si_UNPD(geo,2012,56126).
+ si_UNPD(geo,2013,56880).
+ si_UNPD(geo,2014,57921).
+ si_UNPD(geo,2015,59168).
+ si_UNPD(geo,2016,57955).
+ si_UNPD(geo,2017,55647).
+ si_UNPD(geo,2018,53922).
+ si_UNPD(geo,2019,50364).
+ si_UNPD(geo,2020,48488).
+ si_UNPD(geo,2021,50077).
+ si_UNPD(geo,2022,48759).
+ si_UNPD(geo,2023,47420).
+ si_UNPD(geo,2024,46243).
+ si_UNPD(geo,2025,45065).
+ si_UNPD(geo,2026,44060).
+ si_UNPD(geo,2027,43255).
+ si_UNPD(geo,2028,42488).
+ si_UNPD(geo,2029,41758).
+ si_UNPD(geo,2030,41477).
 
 survey_results(geo,dtp1,1998,geo1999161,[title:'Immunization Programme Evaluation, Georgia November 1999, 2000',type:'16',yrcoll:'1999',cr:86,confirm:'card or history',age:'15-26 m',timead:'',val:'crude',ss:718], 87).
 

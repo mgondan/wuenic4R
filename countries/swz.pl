@@ -1,8 +1,8 @@
 %  Eswatini - SWZ 
-%  Wed Sep 06 19:07:32 2023 
+%  Fri May 17 12:21:44 2024 
 
 country(swz,'Eswatini'). 
-date('Wed Sep 06 19:07:32 2023').
+date('Fri May 17 12:21:44 2024').
 
 estimate_required(swz,bcg,1997,na,'na').
  estimate_required(swz,bcg,1998,na,'na').
@@ -1220,40 +1220,40 @@ births_UNPD(swz,1997,32374).
  births_UNPD(swz,2029,28373).
  births_UNPD(swz,2030,28426).
 
-si_UNPD(swz,1997,32374).
- si_UNPD(swz,1998,32410).
- si_UNPD(swz,1999,33079).
- si_UNPD(swz,2000,33251).
- si_UNPD(swz,2001,33231).
- si_UNPD(swz,2002,33100).
- si_UNPD(swz,2003,33409).
- si_UNPD(swz,2004,33834).
- si_UNPD(swz,2005,33988).
- si_UNPD(swz,2006,33784).
- si_UNPD(swz,2007,33999).
- si_UNPD(swz,2008,34355).
- si_UNPD(swz,2009,34100).
- si_UNPD(swz,2010,33241).
- si_UNPD(swz,2011,32948).
- si_UNPD(swz,2012,32715).
- si_UNPD(swz,2013,32608).
- si_UNPD(swz,2014,32147).
- si_UNPD(swz,2015,31594).
- si_UNPD(swz,2016,31104).
- si_UNPD(swz,2017,30535).
- si_UNPD(swz,2018,29969).
- si_UNPD(swz,2019,29498).
- si_UNPD(swz,2020,29120).
- si_UNPD(swz,2021,28831).
- si_UNPD(swz,2022,28476).
- si_UNPD(swz,2023,28356).
- si_UNPD(swz,2024,28210).
- si_UNPD(swz,2025,28228).
- si_UNPD(swz,2026,28126).
- si_UNPD(swz,2027,28243).
- si_UNPD(swz,2028,28210).
- si_UNPD(swz,2029,28373).
- si_UNPD(swz,2030,28426).
+si_UNPD(swz,1997,30750).
+ si_UNPD(swz,1998,30727).
+ si_UNPD(swz,1999,31314).
+ si_UNPD(swz,2000,31432).
+ si_UNPD(swz,2001,31364).
+ si_UNPD(swz,2002,31220).
+ si_UNPD(swz,2003,31490).
+ si_UNPD(swz,2004,31884).
+ si_UNPD(swz,2005,32034).
+ si_UNPD(swz,2006,31965).
+ si_UNPD(swz,2007,32216).
+ si_UNPD(swz,2008,32573).
+ si_UNPD(swz,2009,32391).
+ si_UNPD(swz,2010,31688).
+ si_UNPD(swz,2011,31552).
+ si_UNPD(swz,2012,31426).
+ si_UNPD(swz,2013,31372).
+ si_UNPD(swz,2014,30929).
+ si_UNPD(swz,2015,30471).
+ si_UNPD(swz,2016,30022).
+ si_UNPD(swz,2017,29441).
+ si_UNPD(swz,2018,28973).
+ si_UNPD(swz,2019,28578).
+ si_UNPD(swz,2020,28232).
+ si_UNPD(swz,2021,27914).
+ si_UNPD(swz,2022,27540).
+ si_UNPD(swz,2023,27435).
+ si_UNPD(swz,2024,27397).
+ si_UNPD(swz,2025,27424).
+ si_UNPD(swz,2026,27334).
+ si_UNPD(swz,2027,27458).
+ si_UNPD(swz,2028,27436).
+ si_UNPD(swz,2029,27604).
+ si_UNPD(swz,2030,27664).
 
 survey_results(swz,dtp1,1999,swz1999231,[title:'Swaziland Multiple Indicator Cluster Survey 2000, 2002',type:'23',yrcoll:'2000',cr: 86,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:0], 93).
 

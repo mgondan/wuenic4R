@@ -1,8 +1,8 @@
 %  Oman - OMN 
-%  Wed Sep 06 19:00:57 2023 
+%  Fri May 17 12:15:34 2024 
 
 country(omn,'Oman'). 
-date('Wed Sep 06 19:00:57 2023').
+date('Fri May 17 12:15:34 2024').
 
 estimate_required(omn,bcg,1997,na,'na').
  estimate_required(omn,bcg,1998,na,'na').
@@ -1391,40 +1391,40 @@ births_UNPD(omn,1997,60495).
  births_UNPD(omn,2029,71438).
  births_UNPD(omn,2030,70867).
 
-si_UNPD(omn,1997,60495).
- si_UNPD(omn,1998,60185).
- si_UNPD(omn,1999,59876).
- si_UNPD(omn,2000,58354).
- si_UNPD(omn,2001,57310).
- si_UNPD(omn,2002,56218).
- si_UNPD(omn,2003,55495).
- si_UNPD(omn,2004,54876).
- si_UNPD(omn,2005,53764).
- si_UNPD(omn,2006,53009).
- si_UNPD(omn,2007,53495).
- si_UNPD(omn,2008,56034).
- si_UNPD(omn,2009,60145).
- si_UNPD(omn,2010,64416).
- si_UNPD(omn,2011,69578).
- si_UNPD(omn,2012,74735).
- si_UNPD(omn,2013,80629).
- si_UNPD(omn,2014,84830).
- si_UNPD(omn,2015,87985).
- si_UNPD(omn,2016,90334).
- si_UNPD(omn,2017,92131).
- si_UNPD(omn,2018,91717).
- si_UNPD(omn,2019,89872).
- si_UNPD(omn,2020,86916).
- si_UNPD(omn,2021,83496).
- si_UNPD(omn,2022,81043).
- si_UNPD(omn,2023,79479).
- si_UNPD(omn,2024,77757).
- si_UNPD(omn,2025,75867).
- si_UNPD(omn,2026,74512).
- si_UNPD(omn,2027,73229).
- si_UNPD(omn,2028,72284).
- si_UNPD(omn,2029,71438).
- si_UNPD(omn,2030,70867).
+si_UNPD(omn,1997,59566).
+ si_UNPD(omn,1998,59330).
+ si_UNPD(omn,1999,59086).
+ si_UNPD(omn,2000,57637).
+ si_UNPD(omn,2001,56650).
+ si_UNPD(omn,2002,55607).
+ si_UNPD(omn,2003,54920).
+ si_UNPD(omn,2004,54334).
+ si_UNPD(omn,2005,53251).
+ si_UNPD(omn,2006,52517).
+ si_UNPD(omn,2007,53003).
+ si_UNPD(omn,2008,55533).
+ si_UNPD(omn,2009,59614).
+ si_UNPD(omn,2010,63853).
+ si_UNPD(omn,2011,68977).
+ si_UNPD(omn,2012,74099).
+ si_UNPD(omn,2013,79950).
+ si_UNPD(omn,2014,84120).
+ si_UNPD(omn,2015,87252).
+ si_UNPD(omn,2016,89583).
+ si_UNPD(omn,2017,91366).
+ si_UNPD(omn,2018,90957).
+ si_UNPD(omn,2019,89129).
+ si_UNPD(omn,2020,86203).
+ si_UNPD(omn,2021,82817).
+ si_UNPD(omn,2022,80439).
+ si_UNPD(omn,2023,78922).
+ si_UNPD(omn,2024,77234).
+ si_UNPD(omn,2025,75377).
+ si_UNPD(omn,2026,74048).
+ si_UNPD(omn,2027,72791).
+ si_UNPD(omn,2028,71868).
+ si_UNPD(omn,2029,71043).
+ si_UNPD(omn,2030,70489).
 
 wgd(omn,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).
  wgd(omn,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).

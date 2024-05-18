@@ -1,8 +1,8 @@
 %  Mali - MLI 
-%  Wed Sep 06 18:57:02 2023 
+%  Fri May 17 12:11:50 2024 
 
 country(mli,'Mali'). 
-date('Wed Sep 06 18:57:02 2023').
+date('Fri May 17 12:11:50 2024').
 
 estimate_required(mli,bcg,1997,na,'na').
  estimate_required(mli,bcg,1998,na,'na').
@@ -1321,40 +1321,40 @@ births_UNPD(mli,1997,477185).
  births_UNPD(mli,2029,1069812).
  births_UNPD(mli,2030,1087522).
 
-si_UNPD(mli,1997,477185).
- si_UNPD(mli,1998,491798).
- si_UNPD(mli,1999,513321).
- si_UNPD(mli,2000,530039).
- si_UNPD(mli,2001,548718).
- si_UNPD(mli,2002,568014).
- si_UNPD(mli,2003,588056).
- si_UNPD(mli,2004,611217).
- si_UNPD(mli,2005,633226).
- si_UNPD(mli,2006,649255).
- si_UNPD(mli,2007,666398).
- si_UNPD(mli,2008,684421).
- si_UNPD(mli,2009,704747).
- si_UNPD(mli,2010,724487).
- si_UNPD(mli,2011,742777).
- si_UNPD(mli,2012,761774).
- si_UNPD(mli,2013,770850).
- si_UNPD(mli,2014,787530).
- si_UNPD(mli,2015,804446).
- si_UNPD(mli,2016,820266).
- si_UNPD(mli,2017,838648).
- si_UNPD(mli,2018,856296).
- si_UNPD(mli,2019,872712).
- si_UNPD(mli,2020,891864).
- si_UNPD(mli,2021,912901).
- si_UNPD(mli,2022,932317).
- si_UNPD(mli,2023,952503).
- si_UNPD(mli,2024,974125).
- si_UNPD(mli,2025,995183).
- si_UNPD(mli,2026,1013097).
- si_UNPD(mli,2027,1031556).
- si_UNPD(mli,2028,1051442).
- si_UNPD(mli,2029,1069812).
- si_UNPD(mli,2030,1087522).
+si_UNPD(mli,1997,442007).
+ si_UNPD(mli,1998,456239).
+ si_UNPD(mli,1999,477032).
+ si_UNPD(mli,2000,493514).
+ si_UNPD(mli,2001,511944).
+ si_UNPD(mli,2002,530603).
+ si_UNPD(mli,2003,550008).
+ si_UNPD(mli,2004,572394).
+ si_UNPD(mli,2005,593756).
+ si_UNPD(mli,2006,609552).
+ si_UNPD(mli,2007,626427).
+ si_UNPD(mli,2008,644177).
+ si_UNPD(mli,2009,664139).
+ si_UNPD(mli,2010,683604).
+ si_UNPD(mli,2011,701745).
+ si_UNPD(mli,2012,720591).
+ si_UNPD(mli,2013,730063).
+ si_UNPD(mli,2014,746809).
+ si_UNPD(mli,2015,763774).
+ si_UNPD(mli,2016,779711).
+ si_UNPD(mli,2017,798087).
+ si_UNPD(mli,2018,815748).
+ si_UNPD(mli,2019,832280).
+ si_UNPD(mli,2020,851461).
+ si_UNPD(mli,2021,872528).
+ si_UNPD(mli,2022,892365).
+ si_UNPD(mli,2023,911382).
+ si_UNPD(mli,2024,932199).
+ si_UNPD(mli,2025,952947).
+ si_UNPD(mli,2026,970700).
+ si_UNPD(mli,2027,989010).
+ si_UNPD(mli,2028,1008681).
+ si_UNPD(mli,2029,1026932).
+ si_UNPD(mli,2030,1044516).
 
 survey_results(mli,pol3,1997,mli1998161,[title:'NA',type:'16',yrcoll:'1998',cr:57,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:1521], 52).
 

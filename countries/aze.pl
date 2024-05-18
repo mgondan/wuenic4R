@@ -1,8 +1,8 @@
 %  Azerbaijan - AZE 
-%  Wed Sep 06 18:37:35 2023 
+%  Fri May 17 11:53:52 2024 
 
 country(aze,'Azerbaijan'). 
-date('Wed Sep 06 18:37:35 2023').
+date('Fri May 17 11:53:52 2024').
 
 estimate_required(aze,bcg,1997,na,'na').
  estimate_required(aze,bcg,1998,na,'na').
@@ -1384,40 +1384,40 @@ births_UNPD(aze,1997,156355).
  births_UNPD(aze,2029,118115).
  births_UNPD(aze,2030,119685).
 
-si_UNPD(aze,1997,156355).
- si_UNPD(aze,1998,149144).
- si_UNPD(aze,1999,144671).
- si_UNPD(aze,2000,140560).
- si_UNPD(aze,2001,137188).
- si_UNPD(aze,2002,136473).
- si_UNPD(aze,2003,139585).
- si_UNPD(aze,2004,145422).
- si_UNPD(aze,2005,150285).
- si_UNPD(aze,2006,157359).
- si_UNPD(aze,2007,165562).
- si_UNPD(aze,2008,173520).
- si_UNPD(aze,2009,180053).
- si_UNPD(aze,2010,183642).
- si_UNPD(aze,2011,189318).
- si_UNPD(aze,2012,192733).
- si_UNPD(aze,2013,193204).
- si_UNPD(aze,2014,191050).
- si_UNPD(aze,2015,183781).
- si_UNPD(aze,2016,171882).
- si_UNPD(aze,2017,148053).
- si_UNPD(aze,2018,142871).
- si_UNPD(aze,2019,147022).
- si_UNPD(aze,2020,131920).
- si_UNPD(aze,2021,127085).
- si_UNPD(aze,2022,123673).
- si_UNPD(aze,2023,120485).
- si_UNPD(aze,2024,118216).
- si_UNPD(aze,2025,116697).
- si_UNPD(aze,2026,116230).
- si_UNPD(aze,2027,116620).
- si_UNPD(aze,2028,116785).
- si_UNPD(aze,2029,118115).
- si_UNPD(aze,2030,119685).
+si_UNPD(aze,1997,148218).
+ si_UNPD(aze,1998,141600).
+ si_UNPD(aze,1999,137613).
+ si_UNPD(aze,2000,133988).
+ si_UNPD(aze,2001,131072).
+ si_UNPD(aze,2002,130693).
+ si_UNPD(aze,2003,133978).
+ si_UNPD(aze,2004,139878).
+ si_UNPD(aze,2005,144845).
+ si_UNPD(aze,2006,151943).
+ si_UNPD(aze,2007,160147).
+ si_UNPD(aze,2008,168128).
+ si_UNPD(aze,2009,174749).
+ si_UNPD(aze,2010,178522).
+ si_UNPD(aze,2011,184334).
+ si_UNPD(aze,2012,187952).
+ si_UNPD(aze,2013,188692).
+ si_UNPD(aze,2014,186857).
+ si_UNPD(aze,2015,179990).
+ si_UNPD(aze,2016,168569).
+ si_UNPD(aze,2017,145390).
+ si_UNPD(aze,2018,140452).
+ si_UNPD(aze,2019,144667).
+ si_UNPD(aze,2020,129884).
+ si_UNPD(aze,2021,125236).
+ si_UNPD(aze,2022,121879).
+ si_UNPD(aze,2023,118781).
+ si_UNPD(aze,2024,116584).
+ si_UNPD(aze,2025,115122).
+ si_UNPD(aze,2026,114699).
+ si_UNPD(aze,2027,115121).
+ si_UNPD(aze,2028,115322).
+ si_UNPD(aze,2029,116672).
+ si_UNPD(aze,2030,118258).
 
 survey_results(aze,dtp3,1998,aze1999161,[title:'National Immunization Programme Evaluation Azerbaijan, 1999',type:'16',yrcoll:'1999',cr:  0,confirm:'card or history',age:'15-26 m',timead:'',val:'crude',ss:2145], 94).
 

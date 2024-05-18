@@ -1,8 +1,8 @@
 %  Botswana - BWA 
-%  Wed Sep 06 18:40:56 2023 
+%  Fri May 17 11:56:56 2024 
 
 country(bwa,'Botswana'). 
-date('Wed Sep 06 18:40:56 2023').
+date('Fri May 17 11:56:56 2024').
 
 estimate_required(bwa,bcg,1997,na,'na').
  estimate_required(bwa,bcg,1998,na,'na').
@@ -1299,40 +1299,40 @@ births_UNPD(bwa,1997,47028).
  births_UNPD(bwa,2029,59055).
  births_UNPD(bwa,2030,58998).
 
-si_UNPD(bwa,1997,47028).
- si_UNPD(bwa,1998,47854).
- si_UNPD(bwa,1999,48749).
- si_UNPD(bwa,2000,49908).
- si_UNPD(bwa,2001,50830).
- si_UNPD(bwa,2002,51051).
- si_UNPD(bwa,2003,51413).
- si_UNPD(bwa,2004,52256).
- si_UNPD(bwa,2005,53708).
- si_UNPD(bwa,2006,55173).
- si_UNPD(bwa,2007,56122).
- si_UNPD(bwa,2008,56959).
- si_UNPD(bwa,2009,57676).
- si_UNPD(bwa,2010,58309).
- si_UNPD(bwa,2011,58877).
- si_UNPD(bwa,2012,59622).
- si_UNPD(bwa,2013,60080).
- si_UNPD(bwa,2014,60500).
- si_UNPD(bwa,2015,60853).
- si_UNPD(bwa,2016,61432).
- si_UNPD(bwa,2017,61614).
- si_UNPD(bwa,2018,62044).
- si_UNPD(bwa,2019,62174).
- si_UNPD(bwa,2020,61583).
- si_UNPD(bwa,2021,60999).
- si_UNPD(bwa,2022,60554).
- si_UNPD(bwa,2023,60190).
- si_UNPD(bwa,2024,59877).
- si_UNPD(bwa,2025,59581).
- si_UNPD(bwa,2026,59342).
- si_UNPD(bwa,2027,59206).
- si_UNPD(bwa,2028,59010).
- si_UNPD(bwa,2029,59055).
- si_UNPD(bwa,2030,58998).
+si_UNPD(bwa,1997,45065).
+ si_UNPD(bwa,1998,45797).
+ si_UNPD(bwa,1999,46610).
+ si_UNPD(bwa,2000,47687).
+ si_UNPD(bwa,2001,48576).
+ si_UNPD(bwa,2002,48820).
+ si_UNPD(bwa,2003,49208).
+ si_UNPD(bwa,2004,50080).
+ si_UNPD(bwa,2005,51593).
+ si_UNPD(bwa,2006,53103).
+ si_UNPD(bwa,2007,54112).
+ si_UNPD(bwa,2008,54945).
+ si_UNPD(bwa,2009,55697).
+ si_UNPD(bwa,2010,56417).
+ si_UNPD(bwa,2011,56950).
+ si_UNPD(bwa,2012,57703).
+ si_UNPD(bwa,2013,58179).
+ si_UNPD(bwa,2014,58571).
+ si_UNPD(bwa,2015,58928).
+ si_UNPD(bwa,2016,59504).
+ si_UNPD(bwa,2017,59720).
+ si_UNPD(bwa,2018,60163).
+ si_UNPD(bwa,2019,60319).
+ si_UNPD(bwa,2020,59780).
+ si_UNPD(bwa,2021,59251).
+ si_UNPD(bwa,2022,58829).
+ si_UNPD(bwa,2023,58498).
+ si_UNPD(bwa,2024,58217).
+ si_UNPD(bwa,2025,57951).
+ si_UNPD(bwa,2026,57741).
+ si_UNPD(bwa,2027,57629).
+ si_UNPD(bwa,2028,57459).
+ si_UNPD(bwa,2029,57521).
+ si_UNPD(bwa,2030,57487).
 
 survey_results(bwa,mcv1,1999,bwa2000231,[title:'Botswana Multiple Indicator Cluster Survey 2000, 2001',type:'23',yrcoll:'2000',cr: 84,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:618], 83).
 

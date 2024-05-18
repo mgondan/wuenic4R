@@ -1,8 +1,8 @@
 %  United Arab Emirates - ARE 
-%  Wed Sep 06 18:36:19 2023 
+%  Fri May 17 11:52:38 2024 
 
 country(are,'United Arab Emirates'). 
-date('Wed Sep 06 18:36:19 2023').
+date('Fri May 17 11:52:38 2024').
 
 estimate_required(are,bcg,1997,na,'na').
  estimate_required(are,bcg,1998,na,'na').
@@ -1381,40 +1381,40 @@ births_UNPD(are,1997,49113).
  births_UNPD(are,2029,82243).
  births_UNPD(are,2030,81085).
 
-si_UNPD(are,1997,49113).
- si_UNPD(are,1998,49459).
- si_UNPD(are,1999,50789).
- si_UNPD(are,2000,53456).
- si_UNPD(are,2001,55996).
- si_UNPD(are,2002,58545).
- si_UNPD(are,2003,61647).
- si_UNPD(are,2004,63303).
- si_UNPD(are,2005,62531).
- si_UNPD(are,2006,65308).
- si_UNPD(are,2007,76288).
- si_UNPD(are,2008,91138).
- si_UNPD(are,2009,105716).
- si_UNPD(are,2010,116038).
- si_UNPD(are,2011,114089).
- si_UNPD(are,2012,111989).
- si_UNPD(are,2013,108953).
- si_UNPD(are,2014,106019).
- si_UNPD(are,2015,102419).
- si_UNPD(are,2016,98939).
- si_UNPD(are,2017,96361).
- si_UNPD(are,2018,91874).
- si_UNPD(are,2019,89806).
- si_UNPD(are,2020,98648).
- si_UNPD(are,2021,96536).
- si_UNPD(are,2022,93343).
- si_UNPD(are,2023,91828).
- si_UNPD(are,2024,90424).
- si_UNPD(are,2025,89080).
- si_UNPD(are,2026,87277).
- si_UNPD(are,2027,85295).
- si_UNPD(are,2028,83612).
- si_UNPD(are,2029,82243).
- si_UNPD(are,2030,81085).
+si_UNPD(are,1997,48668).
+ si_UNPD(are,1998,49025).
+ si_UNPD(are,1999,50356).
+ si_UNPD(are,2000,53013).
+ si_UNPD(are,2001,55544).
+ si_UNPD(are,2002,58085).
+ si_UNPD(are,2003,61175).
+ si_UNPD(are,2004,62830).
+ si_UNPD(are,2005,62075).
+ si_UNPD(are,2006,64843).
+ si_UNPD(are,2007,75757).
+ si_UNPD(are,2008,90519).
+ si_UNPD(are,2009,105018).
+ si_UNPD(are,2010,115295).
+ si_UNPD(are,2011,113380).
+ si_UNPD(are,2012,111313).
+ si_UNPD(are,2013,108312).
+ si_UNPD(are,2014,105410).
+ si_UNPD(are,2015,101845).
+ si_UNPD(are,2016,98399).
+ si_UNPD(are,2017,95850).
+ si_UNPD(are,2018,91402).
+ si_UNPD(are,2019,89359).
+ si_UNPD(are,2020,98172).
+ si_UNPD(are,2021,96086).
+ si_UNPD(are,2022,92927).
+ si_UNPD(are,2023,91437).
+ si_UNPD(are,2024,90054).
+ si_UNPD(are,2025,88729).
+ si_UNPD(are,2026,86946).
+ si_UNPD(are,2027,84984).
+ si_UNPD(are,2028,83318).
+ si_UNPD(are,2029,81963).
+ si_UNPD(are,2030,80819).
 
 wgd(are,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(are,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).

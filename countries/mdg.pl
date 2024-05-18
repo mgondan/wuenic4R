@@ -1,8 +1,8 @@
 %  Madagascar - MDG 
-%  Wed Sep 06 18:56:11 2023 
+%  Fri May 17 12:11:02 2024 
 
 country(mdg,'Madagascar'). 
-date('Wed Sep 06 18:56:11 2023').
+date('Fri May 17 12:11:02 2024').
 
 estimate_required(mdg,bcg,1997,na,'na').
  estimate_required(mdg,bcg,1998,na,'na').
@@ -1159,40 +1159,40 @@ births_UNPD(mdg,1997,638274).
  births_UNPD(mdg,2029,977745).
  births_UNPD(mdg,2030,986067).
 
-si_UNPD(mdg,1997,638274).
- si_UNPD(mdg,1998,645260).
- si_UNPD(mdg,1999,652512).
- si_UNPD(mdg,2000,655449).
- si_UNPD(mdg,2001,665369).
- si_UNPD(mdg,2002,672895).
- si_UNPD(mdg,2003,685457).
- si_UNPD(mdg,2004,698684).
- si_UNPD(mdg,2005,714551).
- si_UNPD(mdg,2006,730792).
- si_UNPD(mdg,2007,746153).
- si_UNPD(mdg,2008,760188).
- si_UNPD(mdg,2009,776080).
- si_UNPD(mdg,2010,783282).
- si_UNPD(mdg,2011,783591).
- si_UNPD(mdg,2012,787102).
- si_UNPD(mdg,2013,794968).
- si_UNPD(mdg,2014,801103).
- si_UNPD(mdg,2015,814367).
- si_UNPD(mdg,2016,835638).
- si_UNPD(mdg,2017,850058).
- si_UNPD(mdg,2018,861570).
- si_UNPD(mdg,2019,872971).
- si_UNPD(mdg,2020,884817).
- si_UNPD(mdg,2021,895045).
- si_UNPD(mdg,2022,906130).
- si_UNPD(mdg,2023,918152).
- si_UNPD(mdg,2024,927190).
- si_UNPD(mdg,2025,937701).
- si_UNPD(mdg,2026,946788).
- si_UNPD(mdg,2027,958349).
- si_UNPD(mdg,2028,969625).
- si_UNPD(mdg,2029,977745).
- si_UNPD(mdg,2030,986067).
+si_UNPD(mdg,1997,602407).
+ si_UNPD(mdg,1998,610008).
+ si_UNPD(mdg,1999,617844).
+ si_UNPD(mdg,2000,621575).
+ si_UNPD(mdg,2001,632073).
+ si_UNPD(mdg,2002,640146).
+ si_UNPD(mdg,2003,653086).
+ si_UNPD(mdg,2004,666632).
+ si_UNPD(mdg,2005,682749).
+ si_UNPD(mdg,2006,699201).
+ si_UNPD(mdg,2007,714823).
+ si_UNPD(mdg,2008,729136).
+ si_UNPD(mdg,2009,745250).
+ si_UNPD(mdg,2010,752943).
+ si_UNPD(mdg,2011,753967).
+ si_UNPD(mdg,2012,757990).
+ si_UNPD(mdg,2013,766225).
+ si_UNPD(mdg,2014,772755).
+ si_UNPD(mdg,2015,786131).
+ si_UNPD(mdg,2016,807309).
+ si_UNPD(mdg,2017,821868).
+ si_UNPD(mdg,2018,833649).
+ si_UNPD(mdg,2019,845323).
+ si_UNPD(mdg,2020,857391).
+ si_UNPD(mdg,2021,867928).
+ si_UNPD(mdg,2022,880625).
+ si_UNPD(mdg,2023,893853).
+ si_UNPD(mdg,2024,902877).
+ si_UNPD(mdg,2025,912247).
+ si_UNPD(mdg,2026,921834).
+ si_UNPD(mdg,2027,933810).
+ si_UNPD(mdg,2028,945494).
+ si_UNPD(mdg,2029,954117).
+ si_UNPD(mdg,2030,962920).
 
 survey_results(mdg,dtp3,1998,mdg1999161,[title:'NA',type:'16',yrcoll:'1999',cr: 0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0], 63).
 

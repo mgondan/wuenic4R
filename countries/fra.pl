@@ -1,8 +1,8 @@
 %  France - FRA 
-%  Wed Sep 06 18:46:50 2023 
+%  Fri May 17 12:02:10 2024 
 
 country(fra,'France'). 
-date('Wed Sep 06 18:46:50 2023').
+date('Fri May 17 12:02:10 2024').
 
 estimate_required(fra,bcg,1997,na,'na').
  estimate_required(fra,bcg,1998,na,'na').
@@ -714,40 +714,40 @@ births_UNPD(fra,1997,716452).
  births_UNPD(fra,2029,669056).
  births_UNPD(fra,2030,667432).
 
-si_UNPD(fra,1997,716452).
- si_UNPD(fra,1998,736036).
- si_UNPD(fra,1999,745896).
- si_UNPD(fra,2000,769371).
- si_UNPD(fra,2001,765903).
- si_UNPD(fra,2002,755800).
- si_UNPD(fra,2003,754800).
- si_UNPD(fra,2004,761183).
- si_UNPD(fra,2005,765396).
- si_UNPD(fra,2006,786426).
- si_UNPD(fra,2007,776024).
- si_UNPD(fra,2008,788554).
- si_UNPD(fra,2009,788278).
- si_UNPD(fra,2010,797930).
- si_UNPD(fra,2011,787464).
- si_UNPD(fra,2012,783884).
- si_UNPD(fra,2013,775118).
- si_UNPD(fra,2014,773795).
- si_UNPD(fra,2015,752498).
- si_UNPD(fra,2016,735849).
- si_UNPD(fra,2017,721051).
- si_UNPD(fra,2018,710430).
- si_UNPD(fra,2019,701300).
- si_UNPD(fra,2020,681905).
- si_UNPD(fra,2021,677303).
- si_UNPD(fra,2022,672880).
- si_UNPD(fra,2023,671363).
- si_UNPD(fra,2024,670041).
- si_UNPD(fra,2025,669941).
- si_UNPD(fra,2026,669036).
- si_UNPD(fra,2027,666855).
- si_UNPD(fra,2028,669138).
- si_UNPD(fra,2029,669056).
- si_UNPD(fra,2030,667432).
+si_UNPD(fra,1997,713521).
+ si_UNPD(fra,1998,733049).
+ si_UNPD(fra,1999,743055).
+ si_UNPD(fra,2000,766342).
+ si_UNPD(fra,2001,762920).
+ si_UNPD(fra,2002,753099).
+ si_UNPD(fra,2003,752147).
+ si_UNPD(fra,2004,758551).
+ si_UNPD(fra,2005,762980).
+ si_UNPD(fra,2006,783855).
+ si_UNPD(fra,2007,773580).
+ si_UNPD(fra,2008,786037).
+ si_UNPD(fra,2009,785726).
+ si_UNPD(fra,2010,795475).
+ si_UNPD(fra,2011,785194).
+ si_UNPD(fra,2012,781553).
+ si_UNPD(fra,2013,772726).
+ si_UNPD(fra,2014,771488).
+ si_UNPD(fra,2015,750150).
+ si_UNPD(fra,2016,733572).
+ si_UNPD(fra,2017,718715).
+ si_UNPD(fra,2018,708100).
+ si_UNPD(fra,2019,699043).
+ si_UNPD(fra,2020,679753).
+ si_UNPD(fra,2021,675207).
+ si_UNPD(fra,2022,670978).
+ si_UNPD(fra,2023,669502).
+ si_UNPD(fra,2024,668224).
+ si_UNPD(fra,2025,668164).
+ si_UNPD(fra,2026,667295).
+ si_UNPD(fra,2027,665155).
+ si_UNPD(fra,2028,667466).
+ si_UNPD(fra,2029,667415).
+ si_UNPD(fra,2030,665825).
 
 wgd(fra,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,82,_,na).
  wgd(fra,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).

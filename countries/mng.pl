@@ -1,8 +1,8 @@
 %  Mongolia - MNG 
-%  Wed Sep 06 18:57:45 2023 
+%  Fri May 17 12:12:30 2024 
 
 country(mng,'Mongolia'). 
-date('Wed Sep 06 18:57:45 2023').
+date('Fri May 17 12:12:30 2024').
 
 estimate_required(mng,bcg,1997,na,'na').
  estimate_required(mng,bcg,1998,na,'na').
@@ -1379,40 +1379,40 @@ births_UNPD(mng,1997,52100).
  births_UNPD(mng,2029,60055).
  births_UNPD(mng,2030,60039).
 
-si_UNPD(mng,1997,52100).
- si_UNPD(mng,1998,50811).
- si_UNPD(mng,1999,50507).
- si_UNPD(mng,2000,50137).
- si_UNPD(mng,2001,49378).
- si_UNPD(mng,2002,48403).
- si_UNPD(mng,2003,47042).
- si_UNPD(mng,2004,46942).
- si_UNPD(mng,2005,47847).
- si_UNPD(mng,2006,51314).
- si_UNPD(mng,2007,55771).
- si_UNPD(mng,2008,60075).
- si_UNPD(mng,2009,63083).
- si_UNPD(mng,2010,63161).
- si_UNPD(mng,2011,66223).
- si_UNPD(mng,2012,70713).
- si_UNPD(mng,2013,75006).
- si_UNPD(mng,2014,77480).
- si_UNPD(mng,2015,78102).
- si_UNPD(mng,2016,76746).
- si_UNPD(mng,2017,74832).
- si_UNPD(mng,2018,75256).
- si_UNPD(mng,2019,75136).
- si_UNPD(mng,2020,73785).
- si_UNPD(mng,2021,71668).
- si_UNPD(mng,2022,69481).
- si_UNPD(mng,2023,67343).
- si_UNPD(mng,2024,65476).
- si_UNPD(mng,2025,63702).
- si_UNPD(mng,2026,62305).
- si_UNPD(mng,2027,60966).
- si_UNPD(mng,2028,60335).
- si_UNPD(mng,2029,60055).
- si_UNPD(mng,2030,60039).
+si_UNPD(mng,1997,49733).
+ si_UNPD(mng,1998,48596).
+ si_UNPD(mng,1999,48406).
+ si_UNPD(mng,2000,48157).
+ si_UNPD(mng,2001,47539).
+ si_UNPD(mng,2002,46712).
+ si_UNPD(mng,2003,45503).
+ si_UNPD(mng,2004,45513).
+ si_UNPD(mng,2005,46492).
+ si_UNPD(mng,2006,49964).
+ si_UNPD(mng,2007,54411).
+ si_UNPD(mng,2008,58712).
+ si_UNPD(mng,2009,61753).
+ si_UNPD(mng,2010,61933).
+ si_UNPD(mng,2011,65029).
+ si_UNPD(mng,2012,69521).
+ si_UNPD(mng,2013,73813).
+ si_UNPD(mng,2014,76309).
+ si_UNPD(mng,2015,76977).
+ si_UNPD(mng,2016,75693).
+ si_UNPD(mng,2017,73854).
+ si_UNPD(mng,2018,74319).
+ si_UNPD(mng,2019,74240).
+ si_UNPD(mng,2020,72943).
+ si_UNPD(mng,2021,70883).
+ si_UNPD(mng,2022,68948).
+ si_UNPD(mng,2023,66860).
+ si_UNPD(mng,2024,65037).
+ si_UNPD(mng,2025,63302).
+ si_UNPD(mng,2026,61940).
+ si_UNPD(mng,2027,60631).
+ si_UNPD(mng,2028,60025).
+ si_UNPD(mng,2029,59766).
+ si_UNPD(mng,2030,59763).
 
 survey_results(mng,pol1,1999,mng2000231,[title:'NA',type:'23',yrcoll:'2000',cr: 90,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:1255],  5.2).
 

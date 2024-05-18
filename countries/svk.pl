@@ -1,8 +1,8 @@
 %  Slovakia - SVK 
-%  Wed Sep 06 19:07:08 2023 
+%  Fri May 17 12:21:23 2024 
 
 country(svk,'Slovakia'). 
-date('Wed Sep 06 19:07:08 2023').
+date('Fri May 17 12:21:23 2024').
 
 estimate_required(svk,bcg,1997,na,'na').
  estimate_required(svk,bcg,1998,na,'na').
@@ -1220,40 +1220,40 @@ births_UNPD(svk,1997,58716).
  births_UNPD(svk,2029,49692).
  births_UNPD(svk,2030,48809).
 
-si_UNPD(svk,1997,58716).
- si_UNPD(svk,1998,57211).
- si_UNPD(svk,1999,55735).
- si_UNPD(svk,2000,54803).
- si_UNPD(svk,2001,51368).
- si_UNPD(svk,2002,50883).
- si_UNPD(svk,2003,51953).
- si_UNPD(svk,2004,53708).
- si_UNPD(svk,2005,54633).
- si_UNPD(svk,2006,54274).
- si_UNPD(svk,2007,54691).
- si_UNPD(svk,2008,57495).
- si_UNPD(svk,2009,61047).
- si_UNPD(svk,2010,60599).
- si_UNPD(svk,2011,60548).
- si_UNPD(svk,2012,56140).
- si_UNPD(svk,2013,55358).
- si_UNPD(svk,2014,55451).
- si_UNPD(svk,2015,55758).
- si_UNPD(svk,2016,57494).
- si_UNPD(svk,2017,57893).
- si_UNPD(svk,2018,57576).
- si_UNPD(svk,2019,57020).
- si_UNPD(svk,2020,55730).
- si_UNPD(svk,2021,54351).
- si_UNPD(svk,2022,53357).
- si_UNPD(svk,2023,62451).
- si_UNPD(svk,2024,58850).
- si_UNPD(svk,2025,55754).
- si_UNPD(svk,2026,53278).
- si_UNPD(svk,2027,51679).
- si_UNPD(svk,2028,50563).
- si_UNPD(svk,2029,49692).
- si_UNPD(svk,2030,48809).
+si_UNPD(svk,1997,58277).
+ si_UNPD(svk,1998,56776).
+ si_UNPD(svk,1999,55338).
+ si_UNPD(svk,2000,54398).
+ si_UNPD(svk,2001,51100).
+ si_UNPD(svk,2002,50545).
+ si_UNPD(svk,2003,51597).
+ si_UNPD(svk,2004,53389).
+ si_UNPD(svk,2005,54292).
+ si_UNPD(svk,2006,53966).
+ si_UNPD(svk,2007,54401).
+ si_UNPD(svk,2008,57197).
+ si_UNPD(svk,2009,60740).
+ si_UNPD(svk,2010,60302).
+ si_UNPD(svk,2011,60290).
+ si_UNPD(svk,2012,55869).
+ si_UNPD(svk,2013,55102).
+ si_UNPD(svk,2014,55177).
+ si_UNPD(svk,2015,55514).
+ si_UNPD(svk,2016,57225).
+ si_UNPD(svk,2017,57672).
+ si_UNPD(svk,2018,57334).
+ si_UNPD(svk,2019,56774).
+ si_UNPD(svk,2020,55496).
+ si_UNPD(svk,2021,54129).
+ si_UNPD(svk,2022,53142).
+ si_UNPD(svk,2023,62235).
+ si_UNPD(svk,2024,58652).
+ si_UNPD(svk,2025,55571).
+ si_UNPD(svk,2026,53108).
+ si_UNPD(svk,2027,51518).
+ si_UNPD(svk,2028,50410).
+ si_UNPD(svk,2029,49545).
+ si_UNPD(svk,2030,48669).
 
 wgd(svk,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(svk,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
@@ -1263,7 +1263,9 @@ wgd(svk,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(svk,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(svk,rcv1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
 
-wgd(svk,X,2019,2019,comment,' Reported target population reflects children registered in the health care system.',na,na,na,na).
+wgd(svk,X,2008,2008,comment,' A national review of health care provider records supports reported high levels of coverage.',na,na,na,na).
+ wgd(svk,X,2017,2017,comment,' Results of a 2017 facility-based survey are available at www.uvzsr.sk.',na,na,na,na).
+ wgd(svk,X,2019,2019,comment,' Reported target population reflects children registered in the health care system.',na,na,na,na).
  wgd(svk,X,2020,2020,comment,' Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.',na,na,na,na).
  wgd(svk,X,2021,2021,comment,' Reported target population reflects children officially registered in the health care system.',na,na,na,na).
  wgd(svk,X,2022,2022,comment,' No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.',na,na,na,na).
@@ -1289,6 +1291,4 @@ wgd(svk,X,2019,2019,comment,' Reported target population reflects children regis
  wgd(svk,pol3,2015,2015,comment,' Programme reports 2-3 month district level stockout of hexavalent DTP-HepB-Hib-IPV vaccine.',na,na,na,na).
  wgd(svk,pol3,2017,2017,comment,' Programme reports district-level vaccine stockouts.',na,na,na,na).
  wgd(svk,rcv1,2017,2017,comment,' Programme reports district-level vaccine stockouts.',na,na,na,na).
- wgd(svk,X,2008,2008,comment,' A national review of health care provider records supports reported high levels of coverage.',na,na,na,na).
- wgd(svk,X,2017,2017,comment,' Results of a 2017 facility-based survey are available at www.uvzsr.sk.',na,na,na,na).
 

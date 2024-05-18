@@ -1,8 +1,8 @@
 %  Sierra Leone - SLE 
-%  Wed Sep 06 19:05:33 2023 
+%  Fri May 17 12:19:55 2024 
 
 country(sle,'Sierra Leone'). 
-date('Wed Sep 06 19:05:33 2023').
+date('Fri May 17 12:19:55 2024').
 
 estimate_required(sle,bcg,1999,na,'na').
  estimate_required(sle,bcg,2000,na,'na').
@@ -1226,40 +1226,40 @@ births_UNPD(sle,1997,201613).
  births_UNPD(sle,2029,272836).
  births_UNPD(sle,2030,273274).
 
-si_UNPD(sle,1997,201613).
- si_UNPD(sle,1998,203743).
- si_UNPD(sle,1999,204162).
- si_UNPD(sle,2000,204408).
- si_UNPD(sle,2001,212085).
- si_UNPD(sle,2002,226053).
- si_UNPD(sle,2003,231198).
- si_UNPD(sle,2004,233391).
- si_UNPD(sle,2005,237115).
- si_UNPD(sle,2006,241433).
- si_UNPD(sle,2007,242437).
- si_UNPD(sle,2008,245614).
- si_UNPD(sle,2009,247911).
- si_UNPD(sle,2010,250167).
- si_UNPD(sle,2011,253028).
- si_UNPD(sle,2012,255038).
- si_UNPD(sle,2013,253976).
- si_UNPD(sle,2014,253722).
- si_UNPD(sle,2015,252786).
- si_UNPD(sle,2016,254816).
- si_UNPD(sle,2017,257718).
- si_UNPD(sle,2018,260265).
- si_UNPD(sle,2019,261970).
- si_UNPD(sle,2020,262770).
- si_UNPD(sle,2021,264106).
- si_UNPD(sle,2022,265023).
- si_UNPD(sle,2023,266774).
- si_UNPD(sle,2024,267219).
- si_UNPD(sle,2025,268121).
- si_UNPD(sle,2026,269644).
- si_UNPD(sle,2027,270048).
- si_UNPD(sle,2028,271566).
- si_UNPD(sle,2029,272836).
- si_UNPD(sle,2030,273274).
+si_UNPD(sle,1997,180832).
+ si_UNPD(sle,1998,182926).
+ si_UNPD(sle,1999,183901).
+ si_UNPD(sle,2000,184464).
+ si_UNPD(sle,2001,191864).
+ si_UNPD(sle,2002,204965).
+ si_UNPD(sle,2003,210130).
+ si_UNPD(sle,2004,212651).
+ si_UNPD(sle,2005,216609).
+ si_UNPD(sle,2006,221152).
+ si_UNPD(sle,2007,222703).
+ si_UNPD(sle,2008,226292).
+ si_UNPD(sle,2009,229066).
+ si_UNPD(sle,2010,231865).
+ si_UNPD(sle,2011,235184).
+ si_UNPD(sle,2012,237684).
+ si_UNPD(sle,2013,237321).
+ si_UNPD(sle,2014,237508).
+ si_UNPD(sle,2015,237184).
+ si_UNPD(sle,2016,239713).
+ si_UNPD(sle,2017,242886).
+ si_UNPD(sle,2018,245811).
+ si_UNPD(sle,2019,247757).
+ si_UNPD(sle,2020,248795).
+ si_UNPD(sle,2021,250337).
+ si_UNPD(sle,2022,251464).
+ si_UNPD(sle,2023,253055).
+ si_UNPD(sle,2024,253452).
+ si_UNPD(sle,2025,254468).
+ si_UNPD(sle,2026,256073).
+ si_UNPD(sle,2027,256612).
+ si_UNPD(sle,2028,258212).
+ si_UNPD(sle,2029,259575).
+ si_UNPD(sle,2030,260148).
 
 survey_results(sle,dtp1,1999,sle2000231,[title:'Sierra Leone, Multi-Indicator Cluster Survey-MICS2, Final Report, 2000',type:'23',yrcoll:'2000',cr: 35,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:547], 68).
 

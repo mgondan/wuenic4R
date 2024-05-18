@@ -1,8 +1,8 @@
 %  State of Palestine - PSE 
-%  Wed Sep 06 19:03:16 2023 
+%  Fri May 17 12:17:46 2024 
 
 country(pse,'State of Palestine'). 
-date('Wed Sep 06 19:03:16 2023').
+date('Fri May 17 12:17:46 2024').
 
 estimate_required(pse,bcg,1997,na,'na').
  estimate_required(pse,bcg,1998,na,'na').
@@ -1259,40 +1259,40 @@ births_UNPD(pse,1997,115215).
  births_UNPD(pse,2029,152525).
  births_UNPD(pse,2030,153811).
 
-si_UNPD(pse,1997,115215).
- si_UNPD(pse,1998,117858).
- si_UNPD(pse,1999,119571).
- si_UNPD(pse,2000,120965).
- si_UNPD(pse,2001,122380).
- si_UNPD(pse,2002,123287).
- si_UNPD(pse,2003,122824).
- si_UNPD(pse,2004,124062).
- si_UNPD(pse,2005,125005).
- si_UNPD(pse,2006,125496).
- si_UNPD(pse,2007,125407).
- si_UNPD(pse,2008,127841).
- si_UNPD(pse,2009,130738).
- si_UNPD(pse,2010,135156).
- si_UNPD(pse,2011,136931).
- si_UNPD(pse,2012,138097).
- si_UNPD(pse,2013,139711).
- si_UNPD(pse,2014,142747).
- si_UNPD(pse,2015,147200).
- si_UNPD(pse,2016,147006).
- si_UNPD(pse,2017,145989).
- si_UNPD(pse,2018,145148).
- si_UNPD(pse,2019,145039).
- si_UNPD(pse,2020,144740).
- si_UNPD(pse,2021,145128).
- si_UNPD(pse,2022,145449).
- si_UNPD(pse,2023,146578).
- si_UNPD(pse,2024,147537).
- si_UNPD(pse,2025,148529).
- si_UNPD(pse,2026,149180).
- si_UNPD(pse,2027,150745).
- si_UNPD(pse,2028,151802).
- si_UNPD(pse,2029,152525).
- si_UNPD(pse,2030,153811).
+si_UNPD(pse,1997,112421).
+ si_UNPD(pse,1998,115080).
+ si_UNPD(pse,1999,116826).
+ si_UNPD(pse,2000,118255).
+ si_UNPD(pse,2001,119713).
+ si_UNPD(pse,2002,120652).
+ si_UNPD(pse,2003,120289).
+ si_UNPD(pse,2004,121579).
+ si_UNPD(pse,2005,122578).
+ si_UNPD(pse,2006,123132).
+ si_UNPD(pse,2007,123115).
+ si_UNPD(pse,2008,125552).
+ si_UNPD(pse,2009,128458).
+ si_UNPD(pse,2010,132878).
+ si_UNPD(pse,2011,134685).
+ si_UNPD(pse,2012,135889).
+ si_UNPD(pse,2013,137528).
+ si_UNPD(pse,2014,140467).
+ si_UNPD(pse,2015,145006).
+ si_UNPD(pse,2016,144870).
+ si_UNPD(pse,2017,143930).
+ si_UNPD(pse,2018,143161).
+ si_UNPD(pse,2019,143100).
+ si_UNPD(pse,2020,142870).
+ si_UNPD(pse,2021,143284).
+ si_UNPD(pse,2022,143596).
+ si_UNPD(pse,2023,144722).
+ si_UNPD(pse,2024,145876).
+ si_UNPD(pse,2025,146916).
+ si_UNPD(pse,2026,147615).
+ si_UNPD(pse,2027,149218).
+ si_UNPD(pse,2028,150316).
+ si_UNPD(pse,2029,151084).
+ si_UNPD(pse,2030,152407).
 
 survey_results(pse,bcg,1999,pse2000231,[title:'NA',type:'23',yrcoll:'2000',cr: 87,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0], 74.7).
 

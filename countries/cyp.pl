@@ -1,8 +1,8 @@
 %  Cyprus - CYP 
-%  Wed Sep 06 18:43:40 2023 
+%  Fri May 17 11:59:10 2024 
 
 country(cyp,'Cyprus'). 
-date('Wed Sep 06 18:43:40 2023').
+date('Fri May 17 11:59:10 2024').
 
 estimate_required(cyp,dtp1,1997,na,'na').
  estimate_required(cyp,dtp1,1998,na,'na').
@@ -736,40 +736,40 @@ births_UNPD(cyp,1997,12708).
  births_UNPD(cyp,2029,11413).
  births_UNPD(cyp,2030,11283).
 
-si_UNPD(cyp,1997,12708).
- si_UNPD(cyp,1998,12292).
- si_UNPD(cyp,1999,11909).
- si_UNPD(cyp,2000,11923).
- si_UNPD(cyp,2001,11677).
- si_UNPD(cyp,2002,11494).
- si_UNPD(cyp,2003,11872).
- si_UNPD(cyp,2004,12258).
- si_UNPD(cyp,2005,12244).
- si_UNPD(cyp,2006,12846).
- si_UNPD(cyp,2007,12619).
- si_UNPD(cyp,2008,13219).
- si_UNPD(cyp,2009,13579).
- si_UNPD(cyp,2010,13536).
- si_UNPD(cyp,2011,13143).
- si_UNPD(cyp,2012,13577).
- si_UNPD(cyp,2013,12912).
- si_UNPD(cyp,2014,13114).
- si_UNPD(cyp,2015,13282).
- si_UNPD(cyp,2016,13652).
- si_UNPD(cyp,2017,13257).
- si_UNPD(cyp,2018,13189).
- si_UNPD(cyp,2019,13237).
- si_UNPD(cyp,2020,13081).
- si_UNPD(cyp,2021,12820).
- si_UNPD(cyp,2022,12517).
- si_UNPD(cyp,2023,12348).
- si_UNPD(cyp,2024,12193).
- si_UNPD(cyp,2025,12092).
- si_UNPD(cyp,2026,11928).
- si_UNPD(cyp,2027,11733).
- si_UNPD(cyp,2028,11564).
- si_UNPD(cyp,2029,11413).
- si_UNPD(cyp,2030,11283).
+si_UNPD(cyp,1997,12630).
+ si_UNPD(cyp,1998,12221).
+ si_UNPD(cyp,1999,11845).
+ si_UNPD(cyp,2000,11864).
+ si_UNPD(cyp,2001,11623).
+ si_UNPD(cyp,2002,11445).
+ si_UNPD(cyp,2003,11825).
+ si_UNPD(cyp,2004,12213).
+ si_UNPD(cyp,2005,12203).
+ si_UNPD(cyp,2006,12806).
+ si_UNPD(cyp,2007,12582).
+ si_UNPD(cyp,2008,13182).
+ si_UNPD(cyp,2009,13543).
+ si_UNPD(cyp,2010,13502).
+ si_UNPD(cyp,2011,13112).
+ si_UNPD(cyp,2012,13546).
+ si_UNPD(cyp,2013,12883).
+ si_UNPD(cyp,2014,13086).
+ si_UNPD(cyp,2015,13254).
+ si_UNPD(cyp,2016,13623).
+ si_UNPD(cyp,2017,13229).
+ si_UNPD(cyp,2018,13162).
+ si_UNPD(cyp,2019,13210).
+ si_UNPD(cyp,2020,13055).
+ si_UNPD(cyp,2021,12795).
+ si_UNPD(cyp,2022,12494).
+ si_UNPD(cyp,2023,12326).
+ si_UNPD(cyp,2024,12172).
+ si_UNPD(cyp,2025,12072).
+ si_UNPD(cyp,2026,11908).
+ si_UNPD(cyp,2027,11714).
+ si_UNPD(cyp,2028,11546).
+ si_UNPD(cyp,2029,11396).
+ si_UNPD(cyp,2030,11266).
 
 survey_results(cyp,dtp3,2007,cyp2009311,[title:'Cyprus  2009 Childrens  Immunization Survey',type:'31',yrcoll:'2009',cr:0,confirm:'card or history',age:'17-24 m',timead:'',val:'crude',ss:419], 99).
 

@@ -1,8 +1,8 @@
 %  Russian Federation - RUS 
-%  Wed Sep 06 19:03:52 2023 
+%  Fri May 17 12:18:22 2024 
 
 country(rus,'Russian Federation'). 
-date('Wed Sep 06 19:03:52 2023').
+date('Fri May 17 12:18:22 2024').
 
 estimate_required(rus,bcg,1997,na,'na').
  estimate_required(rus,bcg,1998,na,'na').
@@ -1088,40 +1088,40 @@ births_UNPD(rus,1997,1308640).
  births_UNPD(rus,2029,1263399).
  births_UNPD(rus,2030,1257994).
 
-si_UNPD(rus,1997,1308640).
- si_UNPD(rus,1998,1297957).
- si_UNPD(rus,1999,1261130).
- si_UNPD(rus,2000,1302106).
- si_UNPD(rus,2001,1355720).
- si_UNPD(rus,2002,1432163).
- si_UNPD(rus,2003,1492210).
- si_UNPD(rus,2004,1525677).
- si_UNPD(rus,2005,1510891).
- si_UNPD(rus,2006,1542646).
- si_UNPD(rus,2007,1635348).
- si_UNPD(rus,2008,1726919).
- si_UNPD(rus,2009,1784892).
- si_UNPD(rus,2010,1822528).
- si_UNPD(rus,2011,1861060).
- si_UNPD(rus,2012,1933629).
- si_UNPD(rus,2013,1946217).
- si_UNPD(rus,2014,1956041).
- si_UNPD(rus,2015,1941554).
- si_UNPD(rus,2016,1889864).
- si_UNPD(rus,2017,1688766).
- si_UNPD(rus,2018,1605282).
- si_UNPD(rus,2019,1486730).
- si_UNPD(rus,2020,1437461).
- si_UNPD(rus,2021,1397456).
- si_UNPD(rus,2022,1375808).
- si_UNPD(rus,2023,1375609).
- si_UNPD(rus,2024,1350768).
- si_UNPD(rus,2025,1325577).
- si_UNPD(rus,2026,1303000).
- si_UNPD(rus,2027,1286673).
- si_UNPD(rus,2028,1276566).
- si_UNPD(rus,2029,1263399).
- si_UNPD(rus,2030,1257994).
+si_UNPD(rus,1997,1287854).
+ si_UNPD(rus,1998,1278475).
+ si_UNPD(rus,1999,1242102).
+ si_UNPD(rus,2000,1283808).
+ si_UNPD(rus,2001,1337714).
+ si_UNPD(rus,2002,1414121).
+ si_UNPD(rus,2003,1475178).
+ si_UNPD(rus,2004,1509542).
+ si_UNPD(rus,2005,1496064).
+ si_UNPD(rus,2006,1528670).
+ si_UNPD(rus,2007,1621663).
+ si_UNPD(rus,2008,1713825).
+ si_UNPD(rus,2009,1772240).
+ si_UNPD(rus,2010,1810095).
+ si_UNPD(rus,2011,1849068).
+ si_UNPD(rus,2012,1919977).
+ si_UNPD(rus,2013,1933476).
+ si_UNPD(rus,2014,1944502).
+ si_UNPD(rus,2015,1931486).
+ si_UNPD(rus,2016,1881046).
+ si_UNPD(rus,2017,1682053).
+ si_UNPD(rus,2018,1599561).
+ si_UNPD(rus,2019,1481525).
+ si_UNPD(rus,2020,1432696).
+ si_UNPD(rus,2021,1392819).
+ si_UNPD(rus,2022,1371074).
+ si_UNPD(rus,2023,1371849).
+ si_UNPD(rus,2024,1347225).
+ si_UNPD(rus,2025,1322246).
+ si_UNPD(rus,2026,1299822).
+ si_UNPD(rus,2027,1283622).
+ si_UNPD(rus,2028,1273626).
+ si_UNPD(rus,2029,1260561).
+ si_UNPD(rus,2030,1255236).
 
 wgd(rus,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,94,_,na).
  wgd(rus,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).

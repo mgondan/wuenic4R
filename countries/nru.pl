@@ -1,8 +1,8 @@
 %  Nauru - NRU 
-%  Wed Sep 06 19:00:37 2023 
+%  Fri May 17 12:15:16 2024 
 
 country(nru,'Nauru'). 
-date('Wed Sep 06 19:00:37 2023').
+date('Fri May 17 12:15:16 2024').
 
 estimate_required(nru,bcg,1997,na,'na').
  estimate_required(nru,bcg,1998,na,'na').
@@ -1178,40 +1178,40 @@ births_UNPD(nru,1997,305).
  births_UNPD(nru,2029,303).
  births_UNPD(nru,2030,304).
 
-si_UNPD(nru,1997,305).
- si_UNPD(nru,1998,303).
- si_UNPD(nru,1999,302).
- si_UNPD(nru,2000,302).
- si_UNPD(nru,2001,301).
- si_UNPD(nru,2002,297).
- si_UNPD(nru,2003,295).
- si_UNPD(nru,2004,297).
- si_UNPD(nru,2005,302).
- si_UNPD(nru,2006,309).
- si_UNPD(nru,2007,321).
- si_UNPD(nru,2008,333).
- si_UNPD(nru,2009,346).
- si_UNPD(nru,2010,357).
- si_UNPD(nru,2011,363).
- si_UNPD(nru,2012,361).
- si_UNPD(nru,2013,359).
- si_UNPD(nru,2014,357).
- si_UNPD(nru,2015,357).
- si_UNPD(nru,2016,357).
- si_UNPD(nru,2017,355).
- si_UNPD(nru,2018,355).
- si_UNPD(nru,2019,355).
- si_UNPD(nru,2020,350).
- si_UNPD(nru,2021,346).
- si_UNPD(nru,2022,341).
- si_UNPD(nru,2023,333).
- si_UNPD(nru,2024,324).
- si_UNPD(nru,2025,317).
- si_UNPD(nru,2026,311).
- si_UNPD(nru,2027,307).
- si_UNPD(nru,2028,304).
- si_UNPD(nru,2029,303).
- si_UNPD(nru,2030,304).
+si_UNPD(nru,1997,299).
+ si_UNPD(nru,1998,297).
+ si_UNPD(nru,1999,295).
+ si_UNPD(nru,2000,295).
+ si_UNPD(nru,2001,294).
+ si_UNPD(nru,2002,290).
+ si_UNPD(nru,2003,288).
+ si_UNPD(nru,2004,290).
+ si_UNPD(nru,2005,294).
+ si_UNPD(nru,2006,301).
+ si_UNPD(nru,2007,313).
+ si_UNPD(nru,2008,325).
+ si_UNPD(nru,2009,338).
+ si_UNPD(nru,2010,349).
+ si_UNPD(nru,2011,355).
+ si_UNPD(nru,2012,353).
+ si_UNPD(nru,2013,352).
+ si_UNPD(nru,2014,350).
+ si_UNPD(nru,2015,351).
+ si_UNPD(nru,2016,351).
+ si_UNPD(nru,2017,349).
+ si_UNPD(nru,2018,350).
+ si_UNPD(nru,2019,350).
+ si_UNPD(nru,2020,345).
+ si_UNPD(nru,2021,341).
+ si_UNPD(nru,2022,336).
+ si_UNPD(nru,2023,329).
+ si_UNPD(nru,2024,320).
+ si_UNPD(nru,2025,313).
+ si_UNPD(nru,2026,307).
+ si_UNPD(nru,2027,303).
+ si_UNPD(nru,2028,300).
+ si_UNPD(nru,2029,299).
+ si_UNPD(nru,2030,300).
 
 survey_results(nru,mcv1,2006,nru2007141,[title:'Republic of Nauru Demographic and Health Survey 2007',type:'14',yrcoll:'2007',cr: 95,confirm:'c or h <18 months',age:'18-29 m',timead:'',val:'crude',ss:63], 60).
 

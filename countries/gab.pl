@@ -1,8 +1,8 @@
 %  Gabon - GAB 
-%  Wed Sep 06 18:47:11 2023 
+%  Fri May 17 12:02:30 2024 
 
 country(gab,'Gabon'). 
-date('Wed Sep 06 18:47:11 2023').
+date('Fri May 17 12:02:30 2024').
 
 estimate_required(gab,bcg,1997,na,'na').
  estimate_required(gab,bcg,1998,na,'na').
@@ -1131,40 +1131,40 @@ births_UNPD(gab,1997,40080).
  births_UNPD(gab,2029,65259).
  births_UNPD(gab,2030,65815).
 
-si_UNPD(gab,1997,40080).
- si_UNPD(gab,1998,40837).
- si_UNPD(gab,1999,41532).
- si_UNPD(gab,2000,42563).
- si_UNPD(gab,2001,43425).
- si_UNPD(gab,2002,44343).
- si_UNPD(gab,2003,45246).
- si_UNPD(gab,2004,46338).
- si_UNPD(gab,2005,47591).
- si_UNPD(gab,2006,48944).
- si_UNPD(gab,2007,50471).
- si_UNPD(gab,2008,52074).
- si_UNPD(gab,2009,54268).
- si_UNPD(gab,2010,56505).
- si_UNPD(gab,2011,58591).
- si_UNPD(gab,2012,59776).
- si_UNPD(gab,2013,60912).
- si_UNPD(gab,2014,61944).
- si_UNPD(gab,2015,62777).
- si_UNPD(gab,2016,63233).
- si_UNPD(gab,2017,63535).
- si_UNPD(gab,2018,63536).
- si_UNPD(gab,2019,63561).
- si_UNPD(gab,2020,63472).
- si_UNPD(gab,2021,63525).
- si_UNPD(gab,2022,64022).
- si_UNPD(gab,2023,63760).
- si_UNPD(gab,2024,63677).
- si_UNPD(gab,2025,63807).
- si_UNPD(gab,2026,64339).
- si_UNPD(gab,2027,64433).
- si_UNPD(gab,2028,64746).
- si_UNPD(gab,2029,65259).
- si_UNPD(gab,2030,65815).
+si_UNPD(gab,1997,38314).
+ si_UNPD(gab,1998,39050).
+ si_UNPD(gab,1999,39730).
+ si_UNPD(gab,2000,40735).
+ si_UNPD(gab,2001,41583).
+ si_UNPD(gab,2002,42486).
+ si_UNPD(gab,2003,43383).
+ si_UNPD(gab,2004,44462).
+ si_UNPD(gab,2005,45701).
+ si_UNPD(gab,2006,47036).
+ si_UNPD(gab,2007,48549).
+ si_UNPD(gab,2008,50139).
+ si_UNPD(gab,2009,52306).
+ si_UNPD(gab,2010,54520).
+ si_UNPD(gab,2011,56588).
+ si_UNPD(gab,2012,57789).
+ si_UNPD(gab,2013,58943).
+ si_UNPD(gab,2014,60001).
+ si_UNPD(gab,2015,60875).
+ si_UNPD(gab,2016,61401).
+ si_UNPD(gab,2017,61751).
+ si_UNPD(gab,2018,61797).
+ si_UNPD(gab,2019,61854).
+ si_UNPD(gab,2020,61806).
+ si_UNPD(gab,2021,61903).
+ si_UNPD(gab,2022,62375).
+ si_UNPD(gab,2023,62101).
+ si_UNPD(gab,2024,62124).
+ si_UNPD(gab,2025,62277).
+ si_UNPD(gab,2026,62823).
+ si_UNPD(gab,2027,62939).
+ si_UNPD(gab,2028,63269).
+ si_UNPD(gab,2029,63795).
+ si_UNPD(gab,2030,64363).
 
 survey_results(gab,pol3,1999,gab2000141,[title:'Gabon Demographic and Health Survey 2000',type:'14',yrcoll:'2000',cr:63,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:803], 27).
 

@@ -1,8 +1,8 @@
 %  Lithuania - LTU 
-%  Wed Sep 06 18:55:22 2023 
+%  Fri May 17 12:10:15 2024 
 
 country(ltu,'Lithuania'). 
-date('Wed Sep 06 18:55:22 2023').
+date('Fri May 17 12:10:15 2024').
 
 estimate_required(ltu,bcg,1997,na,'na').
  estimate_required(ltu,bcg,1998,na,'na').
@@ -1474,40 +1474,40 @@ births_UNPD(ltu,1997,39808).
  births_UNPD(ltu,2029,21794).
  births_UNPD(ltu,2030,21268).
 
-si_UNPD(ltu,1997,39808).
- si_UNPD(ltu,1998,39054).
- si_UNPD(ltu,1999,38357).
- si_UNPD(ltu,2000,35951).
- si_UNPD(ltu,2001,32674).
- si_UNPD(ltu,2002,31010).
- si_UNPD(ltu,2003,31055).
- si_UNPD(ltu,2004,30729).
- si_UNPD(ltu,2005,30556).
- si_UNPD(ltu,2006,30621).
- si_UNPD(ltu,2007,30808).
- si_UNPD(ltu,2008,31900).
- si_UNPD(ltu,2009,32220).
- si_UNPD(ltu,2010,31469).
- si_UNPD(ltu,2011,31715).
- si_UNPD(ltu,2012,31961).
- si_UNPD(ltu,2013,31224).
- si_UNPD(ltu,2014,31360).
- si_UNPD(ltu,2015,32015).
- si_UNPD(ltu,2016,31174).
- si_UNPD(ltu,2017,29600).
- si_UNPD(ltu,2018,29026).
- si_UNPD(ltu,2019,28075).
- si_UNPD(ltu,2020,27494).
- si_UNPD(ltu,2021,26862).
- si_UNPD(ltu,2022,26206).
- si_UNPD(ltu,2023,25605).
- si_UNPD(ltu,2024,25012).
- si_UNPD(ltu,2025,24281).
- si_UNPD(ltu,2026,23655).
- si_UNPD(ltu,2027,22958).
- si_UNPD(ltu,2028,22313).
- si_UNPD(ltu,2029,21794).
- si_UNPD(ltu,2030,21268).
+si_UNPD(ltu,1997,39423).
+ si_UNPD(ltu,1998,38698).
+ si_UNPD(ltu,1999,38019).
+ si_UNPD(ltu,2000,35656).
+ si_UNPD(ltu,2001,32432).
+ si_UNPD(ltu,2002,30768).
+ si_UNPD(ltu,2003,30856).
+ si_UNPD(ltu,2004,30516).
+ si_UNPD(ltu,2005,30380).
+ si_UNPD(ltu,2006,30420).
+ si_UNPD(ltu,2007,30631).
+ si_UNPD(ltu,2008,31748).
+ si_UNPD(ltu,2009,32069).
+ si_UNPD(ltu,2010,31335).
+ si_UNPD(ltu,2011,31590).
+ si_UNPD(ltu,2012,31846).
+ si_UNPD(ltu,2013,31126).
+ si_UNPD(ltu,2014,31252).
+ si_UNPD(ltu,2015,31904).
+ si_UNPD(ltu,2016,31065).
+ si_UNPD(ltu,2017,29530).
+ si_UNPD(ltu,2018,28946).
+ si_UNPD(ltu,2019,27997).
+ si_UNPD(ltu,2020,27431).
+ si_UNPD(ltu,2021,26793).
+ si_UNPD(ltu,2022,26143).
+ si_UNPD(ltu,2023,25549).
+ si_UNPD(ltu,2024,24959).
+ si_UNPD(ltu,2025,24231).
+ si_UNPD(ltu,2026,23607).
+ si_UNPD(ltu,2027,22913).
+ si_UNPD(ltu,2028,22271).
+ si_UNPD(ltu,2029,21754).
+ si_UNPD(ltu,2030,21230).
 
 wgd(ltu,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(ltu,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).

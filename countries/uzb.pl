@@ -1,8 +1,8 @@
 %  Uzbekistan - UZB 
-%  Wed Sep 06 19:10:59 2023 
+%  Fri May 17 12:25:27 2024 
 
 country(uzb,'Uzbekistan'). 
-date('Wed Sep 06 19:10:59 2023').
+date('Fri May 17 12:25:27 2024').
 
 estimate_required(uzb,bcg,1997,na,'na').
  estimate_required(uzb,bcg,1998,na,'na').
@@ -1393,40 +1393,40 @@ births_UNPD(uzb,1997,621977).
  births_UNPD(uzb,2029,672981).
  births_UNPD(uzb,2030,671944).
 
-si_UNPD(uzb,1997,621977).
- si_UNPD(uzb,1998,586185).
- si_UNPD(uzb,1999,564733).
- si_UNPD(uzb,2000,554015).
- si_UNPD(uzb,2001,550458).
- si_UNPD(uzb,2002,548757).
- si_UNPD(uzb,2003,536210).
- si_UNPD(uzb,2004,544459).
- si_UNPD(uzb,2005,550525).
- si_UNPD(uzb,2006,570624).
- si_UNPD(uzb,2007,605190).
- si_UNPD(uzb,2008,635702).
- si_UNPD(uzb,2009,651193).
- si_UNPD(uzb,2010,648000).
- si_UNPD(uzb,2011,644737).
- si_UNPD(uzb,2012,654496).
- si_UNPD(uzb,2013,680263).
- si_UNPD(uzb,2014,706753).
- si_UNPD(uzb,2015,723124).
- si_UNPD(uzb,2016,726814).
- si_UNPD(uzb,2017,729145).
- si_UNPD(uzb,2018,779886).
- si_UNPD(uzb,2019,802857).
- si_UNPD(uzb,2020,832060).
- si_UNPD(uzb,2021,802875).
- si_UNPD(uzb,2022,776815).
- si_UNPD(uzb,2023,755105).
- si_UNPD(uzb,2024,732525).
- si_UNPD(uzb,2025,714952).
- si_UNPD(uzb,2026,698119).
- si_UNPD(uzb,2027,684830).
- si_UNPD(uzb,2028,678347).
- si_UNPD(uzb,2029,672981).
- si_UNPD(uzb,2030,671944).
+si_UNPD(uzb,1997,594789).
+ si_UNPD(uzb,1998,561007).
+ si_UNPD(uzb,1999,541061).
+ si_UNPD(uzb,2000,531520).
+ si_UNPD(uzb,2001,528994).
+ si_UNPD(uzb,2002,528327).
+ si_UNPD(uzb,2003,517259).
+ si_UNPD(uzb,2004,526280).
+ si_UNPD(uzb,2005,533227).
+ si_UNPD(uzb,2006,553789).
+ si_UNPD(uzb,2007,588495).
+ si_UNPD(uzb,2008,619342).
+ si_UNPD(uzb,2009,635593).
+ si_UNPD(uzb,2010,633565).
+ si_UNPD(uzb,2011,631378).
+ si_UNPD(uzb,2012,641976).
+ si_UNPD(uzb,2013,668257).
+ si_UNPD(uzb,2014,695208).
+ si_UNPD(uzb,2015,712161).
+ si_UNPD(uzb,2016,716557).
+ si_UNPD(uzb,2017,719538).
+ si_UNPD(uzb,2018,770244).
+ si_UNPD(uzb,2019,793533).
+ si_UNPD(uzb,2020,822981).
+ si_UNPD(uzb,2021,794642).
+ si_UNPD(uzb,2022,768382).
+ si_UNPD(uzb,2023,747109).
+ si_UNPD(uzb,2024,724968).
+ si_UNPD(uzb,2025,707753).
+ si_UNPD(uzb,2026,691267).
+ si_UNPD(uzb,2027,678283).
+ si_UNPD(uzb,2028,672006).
+ si_UNPD(uzb,2029,666828).
+ si_UNPD(uzb,2030,665933).
 
 survey_results(uzb,mcv1,1999,uzb2000231,[title:'Multiple Indicator Cluster Survey, Uzbekistan 2000',type:'23',yrcoll:'2000',cr:  0,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:630], 91.9).
 

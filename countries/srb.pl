@@ -1,8 +1,8 @@
 %  Serbia - SRB 
-%  Wed Sep 06 19:06:34 2023 
+%  Fri May 17 12:20:51 2024 
 
 country(srb,'Serbia'). 
-date('Wed Sep 06 19:06:34 2023').
+date('Fri May 17 12:20:51 2024').
 
 estimate_required(srb,bcg,1997,na,'na').
  estimate_required(srb,bcg,1998,na,'na').
@@ -1170,40 +1170,40 @@ births_UNPD(srb,1997,94306).
  births_UNPD(srb,2029,57606).
  births_UNPD(srb,2030,56733).
 
-si_UNPD(srb,1997,94306).
- si_UNPD(srb,1998,74526).
- si_UNPD(srb,1999,77993).
- si_UNPD(srb,2000,85487).
- si_UNPD(srb,2001,91628).
- si_UNPD(srb,2002,91239).
- si_UNPD(srb,2003,89941).
- si_UNPD(srb,2004,80946).
- si_UNPD(srb,2005,76735).
- si_UNPD(srb,2006,64881).
- si_UNPD(srb,2007,65618).
- si_UNPD(srb,2008,68476).
- si_UNPD(srb,2009,69032).
- si_UNPD(srb,2010,71262).
- si_UNPD(srb,2011,70960).
- si_UNPD(srb,2012,72305).
- si_UNPD(srb,2013,70820).
- si_UNPD(srb,2014,71558).
- si_UNPD(srb,2015,70873).
- si_UNPD(srb,2016,70071).
- si_UNPD(srb,2017,70179).
- si_UNPD(srb,2018,69380).
- si_UNPD(srb,2019,69672).
- si_UNPD(srb,2020,68556).
- si_UNPD(srb,2021,67609).
- si_UNPD(srb,2022,66557).
- si_UNPD(srb,2023,65195).
- si_UNPD(srb,2024,64006).
- si_UNPD(srb,2025,62797).
- si_UNPD(srb,2026,61587).
- si_UNPD(srb,2027,60158).
- si_UNPD(srb,2028,58899).
- si_UNPD(srb,2029,57606).
- si_UNPD(srb,2030,56733).
+si_UNPD(srb,1997,93127).
+ si_UNPD(srb,1998,73591).
+ si_UNPD(srb,1999,77037).
+ si_UNPD(srb,2000,84665).
+ si_UNPD(srb,2001,90763).
+ si_UNPD(srb,2002,90452).
+ si_UNPD(srb,2003,89240).
+ si_UNPD(srb,2004,80394).
+ si_UNPD(srb,2005,76250).
+ si_UNPD(srb,2006,64492).
+ si_UNPD(srb,2007,65242).
+ si_UNPD(srb,2008,68111).
+ si_UNPD(srb,2009,68646).
+ si_UNPD(srb,2010,70902).
+ si_UNPD(srb,2011,70616).
+ si_UNPD(srb,2012,71957).
+ si_UNPD(srb,2013,70478).
+ si_UNPD(srb,2014,71235).
+ si_UNPD(srb,2015,70594).
+ si_UNPD(srb,2016,69781).
+ si_UNPD(srb,2017,69907).
+ si_UNPD(srb,2018,69115).
+ si_UNPD(srb,2019,69404).
+ si_UNPD(srb,2020,68298).
+ si_UNPD(srb,2021,67352).
+ si_UNPD(srb,2022,66304).
+ si_UNPD(srb,2023,64959).
+ si_UNPD(srb,2024,63814).
+ si_UNPD(srb,2025,62615).
+ si_UNPD(srb,2026,61415).
+ si_UNPD(srb,2027,59994).
+ si_UNPD(srb,2028,58743).
+ si_UNPD(srb,2029,57458).
+ si_UNPD(srb,2030,56591).
 
 survey_results(srb,bcg,1999,srb2000231,[title:'Federal Republic of Yugoslavia, Multiple Indicator Cluster Survey II 2000 (excluding Kosovo)',type:'23',yrcoll:'2000',cr:76,confirm:'c or h <12 months',age:'12-23 m',timead:'',val:'crude',ss:341],100).
 

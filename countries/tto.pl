@@ -1,8 +1,8 @@
 %  Trinidad and Tobago - TTO 
-%  Wed Sep 06 19:09:17 2023 
+%  Fri May 17 12:23:30 2024 
 
 country(tto,'Trinidad and Tobago'). 
-date('Wed Sep 06 19:09:17 2023').
+date('Fri May 17 12:23:30 2024').
 
 estimate_required(tto,dtp1,1997,na,'na').
  estimate_required(tto,dtp1,1998,na,'na').
@@ -1261,40 +1261,40 @@ births_UNPD(tto,1997,20307).
  births_UNPD(tto,2029,15781).
  births_UNPD(tto,2030,15707).
 
-si_UNPD(tto,1997,20307).
- si_UNPD(tto,1998,20169).
- si_UNPD(tto,1999,20283).
- si_UNPD(tto,2000,20304).
- si_UNPD(tto,2001,20308).
- si_UNPD(tto,2002,20246).
- si_UNPD(tto,2003,20325).
- si_UNPD(tto,2004,20297).
- si_UNPD(tto,2005,20431).
- si_UNPD(tto,2006,20803).
- si_UNPD(tto,2007,21113).
- si_UNPD(tto,2008,21186).
- si_UNPD(tto,2009,20870).
- si_UNPD(tto,2010,20949).
- si_UNPD(tto,2011,21001).
- si_UNPD(tto,2012,20850).
- si_UNPD(tto,2013,20582).
- si_UNPD(tto,2014,20253).
- si_UNPD(tto,2015,19866).
- si_UNPD(tto,2016,19529).
- si_UNPD(tto,2017,19076).
- si_UNPD(tto,2018,18670).
- si_UNPD(tto,2019,18904).
- si_UNPD(tto,2020,18119).
- si_UNPD(tto,2021,17814).
- si_UNPD(tto,2022,17429).
- si_UNPD(tto,2023,17014).
- si_UNPD(tto,2024,16702).
- si_UNPD(tto,2025,16528).
- si_UNPD(tto,2026,16347).
- si_UNPD(tto,2027,16138).
- si_UNPD(tto,2028,15943).
- si_UNPD(tto,2029,15781).
- si_UNPD(tto,2030,15707).
+si_UNPD(tto,1997,19860).
+ si_UNPD(tto,1998,19727).
+ si_UNPD(tto,1999,19839).
+ si_UNPD(tto,2000,19862).
+ si_UNPD(tto,2001,19868).
+ si_UNPD(tto,2002,19811).
+ si_UNPD(tto,2003,19894).
+ si_UNPD(tto,2004,19874).
+ si_UNPD(tto,2005,20014).
+ si_UNPD(tto,2006,20389).
+ si_UNPD(tto,2007,20704).
+ si_UNPD(tto,2008,20787).
+ si_UNPD(tto,2009,20488).
+ si_UNPD(tto,2010,20577).
+ si_UNPD(tto,2011,20639).
+ si_UNPD(tto,2012,20501).
+ si_UNPD(tto,2013,20248).
+ si_UNPD(tto,2014,19935).
+ si_UNPD(tto,2015,19563).
+ si_UNPD(tto,2016,19240).
+ si_UNPD(tto,2017,18802).
+ si_UNPD(tto,2018,18405).
+ si_UNPD(tto,2019,18645).
+ si_UNPD(tto,2020,17880).
+ si_UNPD(tto,2021,17585).
+ si_UNPD(tto,2022,17199).
+ si_UNPD(tto,2023,16796).
+ si_UNPD(tto,2024,16494).
+ si_UNPD(tto,2025,16328).
+ si_UNPD(tto,2026,16155).
+ si_UNPD(tto,2027,15954).
+ si_UNPD(tto,2028,15766).
+ si_UNPD(tto,2029,15611).
+ si_UNPD(tto,2030,15543).
 
 survey_results(tto,pol1,1999,tto2000231,[title:'Trinidad and Tobago Multiple Indicator Cluster Survey 2000, Preliminary Report',type:'23',yrcoll:'2000',cr:74,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:187], 91).
 

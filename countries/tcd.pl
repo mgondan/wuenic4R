@@ -1,8 +1,8 @@
 %  Chad - TCD 
-%  Wed Sep 06 19:08:02 2023 
+%  Fri May 17 12:22:15 2024 
 
 country(tcd,'Chad'). 
-date('Wed Sep 06 19:08:02 2023').
+date('Fri May 17 12:22:15 2024').
 
 estimate_required(tcd,bcg,1997,na,'na').
  estimate_required(tcd,bcg,1998,na,'na').
@@ -1152,40 +1152,40 @@ births_UNPD(tcd,1997,390282).
  births_UNPD(tcd,2029,863892).
  births_UNPD(tcd,2030,881686).
 
-si_UNPD(tcd,1997,390282).
- si_UNPD(tcd,1998,402606).
- si_UNPD(tcd,1999,412518).
- si_UNPD(tcd,2000,424082).
- si_UNPD(tcd,2001,436167).
- si_UNPD(tcd,2002,444184).
- si_UNPD(tcd,2003,456819).
- si_UNPD(tcd,2004,480865).
- si_UNPD(tcd,2005,503107).
- si_UNPD(tcd,2006,517022).
- si_UNPD(tcd,2007,533450).
- si_UNPD(tcd,2008,545645).
- si_UNPD(tcd,2009,562333).
- si_UNPD(tcd,2010,579936).
- si_UNPD(tcd,2011,595079).
- si_UNPD(tcd,2012,612411).
- si_UNPD(tcd,2013,626171).
- si_UNPD(tcd,2014,643412).
- si_UNPD(tcd,2015,656908).
- si_UNPD(tcd,2016,662902).
- si_UNPD(tcd,2017,675766).
- si_UNPD(tcd,2018,691482).
- si_UNPD(tcd,2019,713707).
- si_UNPD(tcd,2020,729836).
- si_UNPD(tcd,2021,744834).
- si_UNPD(tcd,2022,765648).
- si_UNPD(tcd,2023,779346).
- si_UNPD(tcd,2024,794344).
- si_UNPD(tcd,2025,808202).
- si_UNPD(tcd,2026,821405).
- si_UNPD(tcd,2027,837331).
- si_UNPD(tcd,2028,850444).
- si_UNPD(tcd,2029,863892).
- si_UNPD(tcd,2030,881686).
+si_UNPD(tcd,1997,360049).
+ si_UNPD(tcd,1998,371849).
+ si_UNPD(tcd,1999,381444).
+ si_UNPD(tcd,2000,392629).
+ si_UNPD(tcd,2001,404369).
+ si_UNPD(tcd,2002,412396).
+ si_UNPD(tcd,2003,424665).
+ si_UNPD(tcd,2004,447560).
+ si_UNPD(tcd,2005,468901).
+ si_UNPD(tcd,2006,482439).
+ si_UNPD(tcd,2007,498231).
+ si_UNPD(tcd,2008,510088).
+ si_UNPD(tcd,2009,526183).
+ si_UNPD(tcd,2010,543191).
+ si_UNPD(tcd,2011,557943).
+ si_UNPD(tcd,2012,574822).
+ si_UNPD(tcd,2013,588349).
+ si_UNPD(tcd,2014,605160).
+ si_UNPD(tcd,2015,618478).
+ si_UNPD(tcd,2016,624825).
+ si_UNPD(tcd,2017,637718).
+ si_UNPD(tcd,2018,653289).
+ si_UNPD(tcd,2019,675064).
+ si_UNPD(tcd,2020,691134).
+ si_UNPD(tcd,2021,706141).
+ si_UNPD(tcd,2022,727088).
+ si_UNPD(tcd,2023,740604).
+ si_UNPD(tcd,2024,754641).
+ si_UNPD(tcd,2025,766930).
+ si_UNPD(tcd,2026,779828).
+ si_UNPD(tcd,2027,795333).
+ si_UNPD(tcd,2028,808167).
+ si_UNPD(tcd,2029,821333).
+ si_UNPD(tcd,2030,838645).
 
 survey_results(tcd,pol3,1999,tcd2000231,[title:'Chad Multiple Indicator Cluster Survey 2000',type:'23',yrcoll:'2000',cr:23,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:873],50.6).
 

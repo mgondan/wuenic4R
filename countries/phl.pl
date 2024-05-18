@@ -1,8 +1,8 @@
 %  Philippines - PHL 
-%  Wed Sep 06 19:02:03 2023 
+%  Fri May 17 12:16:35 2024 
 
 country(phl,'Philippines'). 
-date('Wed Sep 06 19:02:03 2023').
+date('Fri May 17 12:16:35 2024').
 
 estimate_required(phl,bcg,1997,na,'na').
  estimate_required(phl,bcg,1998,na,'na').
@@ -1309,40 +1309,40 @@ births_UNPD(phl,1997,2193786).
  births_UNPD(phl,2029,2533521).
  births_UNPD(phl,2030,2534075).
 
-si_UNPD(phl,1997,2193786).
- si_UNPD(phl,1998,2218639).
- si_UNPD(phl,1999,2236538).
- si_UNPD(phl,2000,2244864).
- si_UNPD(phl,2001,2299567).
- si_UNPD(phl,2002,2311516).
- si_UNPD(phl,2003,2324514).
- si_UNPD(phl,2004,2326503).
- si_UNPD(phl,2005,2333817).
- si_UNPD(phl,2006,2370246).
- si_UNPD(phl,2007,2386243).
- si_UNPD(phl,2008,2407922).
- si_UNPD(phl,2009,2433602).
- si_UNPD(phl,2010,2416792).
- si_UNPD(phl,2011,2352912).
- si_UNPD(phl,2012,2399459).
- si_UNPD(phl,2013,2423855).
- si_UNPD(phl,2014,2417178).
- si_UNPD(phl,2015,2395675).
- si_UNPD(phl,2016,2394064).
- si_UNPD(phl,2017,2418897).
- si_UNPD(phl,2018,2437103).
- si_UNPD(phl,2019,2456896).
- si_UNPD(phl,2020,2473218).
- si_UNPD(phl,2021,2485008).
- si_UNPD(phl,2022,2499081).
- si_UNPD(phl,2023,2500423).
- si_UNPD(phl,2024,2511946).
- si_UNPD(phl,2025,2512672).
- si_UNPD(phl,2026,2522208).
- si_UNPD(phl,2027,2523837).
- si_UNPD(phl,2028,2529862).
- si_UNPD(phl,2029,2533521).
- si_UNPD(phl,2030,2534075).
+si_UNPD(phl,1997,2131320).
+ si_UNPD(phl,1998,2156884).
+ si_UNPD(phl,1999,2175517).
+ si_UNPD(phl,2000,2184700).
+ si_UNPD(phl,2001,2239051).
+ si_UNPD(phl,2002,2251688).
+ si_UNPD(phl,2003,2265367).
+ si_UNPD(phl,2004,2268138).
+ si_UNPD(phl,2005,2276345).
+ si_UNPD(phl,2006,2312539).
+ si_UNPD(phl,2007,2329084).
+ si_UNPD(phl,2008,2350872).
+ si_UNPD(phl,2009,2376526).
+ si_UNPD(phl,2010,2360760).
+ si_UNPD(phl,2011,2298749).
+ si_UNPD(phl,2012,2344827).
+ si_UNPD(phl,2013,2368879).
+ si_UNPD(phl,2014,2363559).
+ si_UNPD(phl,2015,2343182).
+ si_UNPD(phl,2016,2342389).
+ si_UNPD(phl,2017,2367549).
+ si_UNPD(phl,2018,2386385).
+ si_UNPD(phl,2019,2406847).
+ si_UNPD(phl,2020,2424248).
+ si_UNPD(phl,2021,2437200).
+ si_UNPD(phl,2022,2450775).
+ si_UNPD(phl,2023,2452924).
+ si_UNPD(phl,2024,2465002).
+ si_UNPD(phl,2025,2466497).
+ si_UNPD(phl,2026,2476649).
+ si_UNPD(phl,2027,2479002).
+ si_UNPD(phl,2028,2485669).
+ si_UNPD(phl,2029,2489961).
+ si_UNPD(phl,2030,2491289).
 
 survey_results(phl,mcv1,1997,phl1998141,[title:'NA',type:'14',yrcoll:'1998',cr: 41,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:1474], 35).
 

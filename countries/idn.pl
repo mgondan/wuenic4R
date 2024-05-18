@@ -1,8 +1,8 @@
 %  Indonesia - IDN 
-%  Wed Sep 06 18:50:21 2023 
+%  Fri May 17 12:05:29 2024 
 
 country(idn,'Indonesia'). 
-date('Wed Sep 06 18:50:21 2023').
+date('Fri May 17 12:05:29 2024').
 
 estimate_required(idn,bcg,1997,na,'na').
  estimate_required(idn,bcg,1998,na,'na').
@@ -1297,40 +1297,40 @@ births_UNPD(idn,1997,4830773).
  births_UNPD(idn,2029,4355716).
  births_UNPD(idn,2030,4355673).
 
-si_UNPD(idn,1997,4830773).
- si_UNPD(idn,1998,4778351).
- si_UNPD(idn,1999,4716855).
- si_UNPD(idn,2000,4714621).
- si_UNPD(idn,2001,4714255).
- si_UNPD(idn,2002,4661603).
- si_UNPD(idn,2003,4657532).
- si_UNPD(idn,2004,4678356).
- si_UNPD(idn,2005,4745818).
- si_UNPD(idn,2006,4819324).
- si_UNPD(idn,2007,4923101).
- si_UNPD(idn,2008,4927000).
- si_UNPD(idn,2009,4912941).
- si_UNPD(idn,2010,4919751).
- si_UNPD(idn,2011,5028613).
- si_UNPD(idn,2012,5028089).
- si_UNPD(idn,2013,4917392).
- si_UNPD(idn,2014,4856532).
- si_UNPD(idn,2015,4779601).
- si_UNPD(idn,2016,4717655).
- si_UNPD(idn,2017,4633621).
- si_UNPD(idn,2018,4587901).
- si_UNPD(idn,2019,4558836).
- si_UNPD(idn,2020,4526200).
- si_UNPD(idn,2021,4496383).
- si_UNPD(idn,2022,4462212).
- si_UNPD(idn,2023,4434122).
- si_UNPD(idn,2024,4413909).
- si_UNPD(idn,2025,4405993).
- si_UNPD(idn,2026,4385581).
- si_UNPD(idn,2027,4368297).
- si_UNPD(idn,2028,4369549).
- si_UNPD(idn,2029,4355716).
- si_UNPD(idn,2030,4355673).
+si_UNPD(idn,1997,4645635).
+ si_UNPD(idn,1998,4601389).
+ si_UNPD(idn,1999,4547998).
+ si_UNPD(idn,2000,4552294).
+ si_UNPD(idn,2001,4557513).
+ si_UNPD(idn,2002,4512701).
+ si_UNPD(idn,2003,4513870).
+ si_UNPD(idn,2004,4532125).
+ si_UNPD(idn,2005,4609285).
+ si_UNPD(idn,2006,4685115).
+ si_UNPD(idn,2007,4790822).
+ si_UNPD(idn,2008,4799142).
+ si_UNPD(idn,2009,4789643).
+ si_UNPD(idn,2010,4800370).
+ si_UNPD(idn,2011,4910727).
+ si_UNPD(idn,2012,4914146).
+ si_UNPD(idn,2013,4809660).
+ si_UNPD(idn,2014,4753759).
+ si_UNPD(idn,2015,4681882).
+ si_UNPD(idn,2016,4624733).
+ si_UNPD(idn,2017,4545767).
+ si_UNPD(idn,2018,4503852).
+ si_UNPD(idn,2019,4478366).
+ si_UNPD(idn,2020,4449025).
+ si_UNPD(idn,2021,4422245).
+ si_UNPD(idn,2022,4392068).
+ si_UNPD(idn,2023,4365010).
+ si_UNPD(idn,2024,4347132).
+ si_UNPD(idn,2025,4341067).
+ si_UNPD(idn,2026,4322695).
+ si_UNPD(idn,2027,4307418).
+ si_UNPD(idn,2028,4310329).
+ si_UNPD(idn,2029,4298129).
+ si_UNPD(idn,2030,4299631).
 
 survey_results(idn,dtp1,2001,idn2002311,[title:'NID + Routine Coverage Survey',type:'31',yrcoll:'2002',cr:66,confirm:'card or history',age:'12-35 m',timead:'',val:'crude',ss:0], 77).
 

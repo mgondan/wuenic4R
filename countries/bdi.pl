@@ -1,8 +1,8 @@
-%  Burundi - BDI
-%  Wed Sep 06 18:37:43 2023
+%  Burundi - BDI 
+%  Fri May 17 11:53:59 2024 
 
-country(bdi,'Burundi').
-date('Wed Sep 06 18:37:43 2023').
+country(bdi,'Burundi'). 
+date('Fri May 17 11:53:59 2024').
 
 estimate_required(bdi,bcg,1997,na,'na').
  estimate_required(bdi,bcg,1998,na,'na').
@@ -1242,40 +1242,40 @@ births_UNPD(bdi,1997,249706).
  births_UNPD(bdi,2029,479339).
  births_UNPD(bdi,2030,487080).
 
-si_UNPD(bdi,1997,249706).
- si_UNPD(bdi,1998,249258).
- si_UNPD(bdi,1999,260402).
- si_UNPD(bdi,2000,268825).
- si_UNPD(bdi,2001,277120).
- si_UNPD(bdi,2002,291756).
- si_UNPD(bdi,2003,304505).
- si_UNPD(bdi,2004,321627).
- si_UNPD(bdi,2005,339874).
- si_UNPD(bdi,2006,354990).
- si_UNPD(bdi,2007,369271).
- si_UNPD(bdi,2008,383774).
- si_UNPD(bdi,2009,402474).
- si_UNPD(bdi,2010,426118).
- si_UNPD(bdi,2011,431538).
- si_UNPD(bdi,2012,434602).
- si_UNPD(bdi,2013,440647).
- si_UNPD(bdi,2014,444733).
- si_UNPD(bdi,2015,448194).
- si_UNPD(bdi,2016,432480).
- si_UNPD(bdi,2017,426555).
- si_UNPD(bdi,2018,424108).
- si_UNPD(bdi,2019,431143).
- si_UNPD(bdi,2020,435303).
- si_UNPD(bdi,2021,437599).
- si_UNPD(bdi,2022,439648).
- si_UNPD(bdi,2023,443059).
- si_UNPD(bdi,2024,447212).
- si_UNPD(bdi,2025,450531).
- si_UNPD(bdi,2026,457042).
- si_UNPD(bdi,2027,465221).
- si_UNPD(bdi,2028,471800).
- si_UNPD(bdi,2029,479339).
- si_UNPD(bdi,2030,487080).
+si_UNPD(bdi,1997,232633).
+ si_UNPD(bdi,1998,232573).
+ si_UNPD(bdi,1999,243218).
+ si_UNPD(bdi,2000,251314).
+ si_UNPD(bdi,2001,259409).
+ si_UNPD(bdi,2002,273519).
+ si_UNPD(bdi,2003,285906).
+ si_UNPD(bdi,2004,302537).
+ si_UNPD(bdi,2005,320327).
+ si_UNPD(bdi,2006,335349).
+ si_UNPD(bdi,2007,349652).
+ si_UNPD(bdi,2008,364229).
+ si_UNPD(bdi,2009,382836).
+ si_UNPD(bdi,2010,406192).
+ si_UNPD(bdi,2011,412228).
+ si_UNPD(bdi,2012,415972).
+ si_UNPD(bdi,2013,422545).
+ si_UNPD(bdi,2014,427166).
+ si_UNPD(bdi,2015,431087).
+ si_UNPD(bdi,2016,416534).
+ si_UNPD(bdi,2017,411329).
+ si_UNPD(bdi,2018,409406).
+ si_UNPD(bdi,2019,416630).
+ si_UNPD(bdi,2020,421064).
+ si_UNPD(bdi,2021,423658).
+ si_UNPD(bdi,2022,426016).
+ si_UNPD(bdi,2023,429119).
+ si_UNPD(bdi,2024,433168).
+ si_UNPD(bdi,2025,436556).
+ si_UNPD(bdi,2026,443038).
+ si_UNPD(bdi,2027,451146).
+ si_UNPD(bdi,2028,457682).
+ si_UNPD(bdi,2029,465165).
+ si_UNPD(bdi,2030,472847).
 
 survey_results(bdi,pol1,1999,bdi2000231,[title:'Burundi National Survey of Living Conditions of Women and Children (ENECEF-BURUNDI 2000)',type:'23',yrcoll:'2000',cr:62,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:598], 87).
 

@@ -1,8 +1,8 @@
 %  Niue - NIU 
-%  Wed Sep 06 19:00:07 2023 
+%  Fri May 17 12:14:47 2024 
 
 country(niu,'Niue'). 
-date('Wed Sep 06 19:00:07 2023').
+date('Fri May 17 12:14:47 2024').
 
 estimate_required(niu,bcg,1997,na,'na').
  estimate_required(niu,bcg,1998,na,'na').
@@ -1378,27 +1378,27 @@ births_UNPD(niu,1997,45).
  births_UNPD(niu,2029,29).
  births_UNPD(niu,2030,29).
 
-si_UNPD(niu,1997,45).
- si_UNPD(niu,1998,42).
- si_UNPD(niu,1999,40).
- si_UNPD(niu,2000,38).
- si_UNPD(niu,2001,36).
- si_UNPD(niu,2002,35).
- si_UNPD(niu,2003,35).
- si_UNPD(niu,2004,36).
- si_UNPD(niu,2005,36).
- si_UNPD(niu,2006,36).
- si_UNPD(niu,2007,35).
- si_UNPD(niu,2008,35).
- si_UNPD(niu,2009,34).
- si_UNPD(niu,2010,33).
- si_UNPD(niu,2011,31).
- si_UNPD(niu,2012,30).
- si_UNPD(niu,2013,29).
- si_UNPD(niu,2014,28).
- si_UNPD(niu,2015,27).
- si_UNPD(niu,2016,26).
- si_UNPD(niu,2017,25).
+si_UNPD(niu,1997,44).
+ si_UNPD(niu,1998,41).
+ si_UNPD(niu,1999,39).
+ si_UNPD(niu,2000,37).
+ si_UNPD(niu,2001,35).
+ si_UNPD(niu,2002,34).
+ si_UNPD(niu,2003,34).
+ si_UNPD(niu,2004,35).
+ si_UNPD(niu,2005,35).
+ si_UNPD(niu,2006,35).
+ si_UNPD(niu,2007,34).
+ si_UNPD(niu,2008,34).
+ si_UNPD(niu,2009,33).
+ si_UNPD(niu,2010,32).
+ si_UNPD(niu,2011,30).
+ si_UNPD(niu,2012,29).
+ si_UNPD(niu,2013,28).
+ si_UNPD(niu,2014,27).
+ si_UNPD(niu,2015,26).
+ si_UNPD(niu,2016,25).
+ si_UNPD(niu,2017,24).
  si_UNPD(niu,2018,25).
  si_UNPD(niu,2019,25).
  si_UNPD(niu,2020,27).

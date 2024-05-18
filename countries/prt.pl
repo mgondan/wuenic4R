@@ -1,8 +1,8 @@
 %  Portugal - PRT 
-%  Wed Sep 06 19:02:58 2023 
+%  Fri May 17 12:17:29 2024 
 
 country(prt,'Portugal'). 
-date('Wed Sep 06 19:02:58 2023').
+date('Fri May 17 12:17:29 2024').
 
 estimate_required(prt,bcg,1997,na,'na').
  estimate_required(prt,bcg,1998,na,'na').
@@ -927,40 +927,40 @@ births_UNPD(prt,1997,112422).
  births_UNPD(prt,2029,78117).
  births_UNPD(prt,2030,78195).
 
-si_UNPD(prt,1997,112422).
- si_UNPD(prt,1998,113200).
- si_UNPD(prt,1999,115779).
- si_UNPD(prt,2000,119128).
- si_UNPD(prt,2001,112935).
- si_UNPD(prt,2002,113599).
- si_UNPD(prt,2003,112043).
- si_UNPD(prt,2004,109322).
- si_UNPD(prt,2005,109248).
- si_UNPD(prt,2006,105203).
- si_UNPD(prt,2007,102491).
- si_UNPD(prt,2008,104021).
- si_UNPD(prt,2009,99721).
- si_UNPD(prt,2010,100988).
- si_UNPD(prt,2011,96555).
- si_UNPD(prt,2012,89960).
- si_UNPD(prt,2013,83058).
- si_UNPD(prt,2014,82476).
- si_UNPD(prt,2015,85275).
- si_UNPD(prt,2016,86863).
- si_UNPD(prt,2017,86042).
- si_UNPD(prt,2018,86504).
- si_UNPD(prt,2019,85439).
- si_UNPD(prt,2020,82935).
- si_UNPD(prt,2021,80480).
- si_UNPD(prt,2022,80033).
- si_UNPD(prt,2023,79465).
- si_UNPD(prt,2024,78946).
- si_UNPD(prt,2025,78392).
- si_UNPD(prt,2026,78339).
- si_UNPD(prt,2027,78197).
- si_UNPD(prt,2028,78224).
- si_UNPD(prt,2029,78117).
- si_UNPD(prt,2030,78195).
+si_UNPD(prt,1997,111790).
+ si_UNPD(prt,1998,112605).
+ si_UNPD(prt,1999,115204).
+ si_UNPD(prt,2000,118538).
+ si_UNPD(prt,2001,112457).
+ si_UNPD(prt,2002,113098).
+ si_UNPD(prt,2003,111651).
+ si_UNPD(prt,2004,108967).
+ si_UNPD(prt,2005,108920).
+ si_UNPD(prt,2006,104910).
+ si_UNPD(prt,2007,102191).
+ si_UNPD(prt,2008,103727).
+ si_UNPD(prt,2009,99416).
+ si_UNPD(prt,2010,100765).
+ si_UNPD(prt,2011,96305).
+ si_UNPD(prt,2012,89708).
+ si_UNPD(prt,2013,82858).
+ si_UNPD(prt,2014,82273).
+ si_UNPD(prt,2015,85058).
+ si_UNPD(prt,2016,86622).
+ si_UNPD(prt,2017,85850).
+ si_UNPD(prt,2018,86258).
+ si_UNPD(prt,2019,85233).
+ si_UNPD(prt,2020,82767).
+ si_UNPD(prt,2021,80296).
+ si_UNPD(prt,2022,79868).
+ si_UNPD(prt,2023,79309).
+ si_UNPD(prt,2024,78798).
+ si_UNPD(prt,2025,78251).
+ si_UNPD(prt,2026,78204).
+ si_UNPD(prt,2027,78068).
+ si_UNPD(prt,2028,78099).
+ si_UNPD(prt,2029,77997).
+ si_UNPD(prt,2030,78079).
 
 survey_results(prt,pol3,1997,prt1998321,[title:'NA',type:'32',yrcoll:'1998',cr:0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0], 97).
 

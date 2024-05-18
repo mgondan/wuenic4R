@@ -1,8 +1,8 @@
 %  Djibouti - DJI 
-%  Wed Sep 06 18:44:06 2023 
+%  Fri May 17 11:59:35 2024 
 
 country(dji,'Djibouti'). 
-date('Wed Sep 06 18:44:06 2023').
+date('Fri May 17 11:59:35 2024').
 
 estimate_required(dji,bcg,1997,na,'na').
  estimate_required(dji,bcg,1998,na,'na').
@@ -1217,40 +1217,40 @@ births_UNPD(dji,1997,22281).
  births_UNPD(dji,2029,24901).
  births_UNPD(dji,2030,24941).
 
-si_UNPD(dji,1997,22281).
- si_UNPD(dji,1998,23025).
- si_UNPD(dji,1999,23893).
- si_UNPD(dji,2000,24571).
- si_UNPD(dji,2001,25234).
- si_UNPD(dji,2002,25795).
- si_UNPD(dji,2003,26018).
- si_UNPD(dji,2004,25565).
- si_UNPD(dji,2005,25168).
- si_UNPD(dji,2006,24660).
- si_UNPD(dji,2007,24493).
- si_UNPD(dji,2008,24189).
- si_UNPD(dji,2009,24103).
- si_UNPD(dji,2010,23978).
- si_UNPD(dji,2011,23881).
- si_UNPD(dji,2012,23888).
- si_UNPD(dji,2013,23938).
- si_UNPD(dji,2014,23920).
- si_UNPD(dji,2015,24018).
- si_UNPD(dji,2016,24044).
- si_UNPD(dji,2017,24196).
- si_UNPD(dji,2018,24280).
- si_UNPD(dji,2019,24417).
- si_UNPD(dji,2020,24496).
- si_UNPD(dji,2021,24541).
- si_UNPD(dji,2022,24549).
- si_UNPD(dji,2023,24643).
- si_UNPD(dji,2024,24604).
- si_UNPD(dji,2025,24620).
- si_UNPD(dji,2026,24763).
- si_UNPD(dji,2027,24837).
- si_UNPD(dji,2028,24909).
- si_UNPD(dji,2029,24901).
- si_UNPD(dji,2030,24941).
+si_UNPD(dji,1997,21120).
+ si_UNPD(dji,1998,21841).
+ si_UNPD(dji,1999,22680).
+ si_UNPD(dji,2000,23339).
+ si_UNPD(dji,2001,23990).
+ si_UNPD(dji,2002,24545).
+ si_UNPD(dji,2003,24779).
+ si_UNPD(dji,2004,24359).
+ si_UNPD(dji,2005,24013).
+ si_UNPD(dji,2006,23551).
+ si_UNPD(dji,2007,23412).
+ si_UNPD(dji,2008,23143).
+ si_UNPD(dji,2009,23083).
+ si_UNPD(dji,2010,22982).
+ si_UNPD(dji,2011,22909).
+ si_UNPD(dji,2012,22936).
+ si_UNPD(dji,2013,23004).
+ si_UNPD(dji,2014,23007).
+ si_UNPD(dji,2015,23120).
+ si_UNPD(dji,2016,23165).
+ si_UNPD(dji,2017,23331).
+ si_UNPD(dji,2018,23431).
+ si_UNPD(dji,2019,23582).
+ si_UNPD(dji,2020,23678).
+ si_UNPD(dji,2021,23740).
+ si_UNPD(dji,2022,23785).
+ si_UNPD(dji,2023,23904).
+ si_UNPD(dji,2024,23870).
+ si_UNPD(dji,2025,23868).
+ si_UNPD(dji,2026,24020).
+ si_UNPD(dji,2027,24105).
+ si_UNPD(dji,2028,24188).
+ si_UNPD(dji,2029,24192).
+ si_UNPD(dji,2030,24243).
 
 survey_results(dji,dtp1,2002,dji2003171,[title:'Djibouti Family Health Survey, Preliminary Report',type:'17',yrcoll:'2003',cr: 0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:0], 75).
 

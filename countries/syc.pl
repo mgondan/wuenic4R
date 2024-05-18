@@ -1,8 +1,8 @@
 %  Seychelles - SYC 
-%  Wed Sep 06 19:07:43 2023 
+%  Fri May 17 12:21:56 2024 
 
 country(syc,'Seychelles'). 
-date('Wed Sep 06 19:07:43 2023').
+date('Fri May 17 12:21:56 2024').
 
 estimate_required(syc,bcg,1997,na,'na').
  estimate_required(syc,bcg,1998,na,'na').
@@ -1367,40 +1367,40 @@ births_UNPD(syc,1997,1433).
  births_UNPD(syc,2029,1480).
  births_UNPD(syc,2030,1466).
 
-si_UNPD(syc,1997,1433).
- si_UNPD(syc,1998,1409).
- si_UNPD(syc,1999,1429).
- si_UNPD(syc,2000,1461).
- si_UNPD(syc,2001,1411).
- si_UNPD(syc,2002,1454).
- si_UNPD(syc,2003,1475).
- si_UNPD(syc,2004,1470).
- si_UNPD(syc,2005,1583).
- si_UNPD(syc,2006,1523).
- si_UNPD(syc,2007,1610).
- si_UNPD(syc,2008,1674).
- si_UNPD(syc,2009,1708).
- si_UNPD(syc,2010,1584).
- si_UNPD(syc,2011,1710).
- si_UNPD(syc,2012,1742).
- si_UNPD(syc,2013,1650).
- si_UNPD(syc,2014,1641).
- si_UNPD(syc,2015,1684).
- si_UNPD(syc,2016,1746).
- si_UNPD(syc,2017,1764).
- si_UNPD(syc,2018,1735).
- si_UNPD(syc,2019,1704).
- si_UNPD(syc,2020,1668).
- si_UNPD(syc,2021,1642).
- si_UNPD(syc,2022,1611).
- si_UNPD(syc,2023,1586).
- si_UNPD(syc,2024,1563).
- si_UNPD(syc,2025,1540).
- si_UNPD(syc,2026,1523).
- si_UNPD(syc,2027,1505).
- si_UNPD(syc,2028,1490).
- si_UNPD(syc,2029,1480).
- si_UNPD(syc,2030,1466).
+si_UNPD(syc,1997,1417).
+ si_UNPD(syc,1998,1394).
+ si_UNPD(syc,1999,1414).
+ si_UNPD(syc,2000,1446).
+ si_UNPD(syc,2001,1397).
+ si_UNPD(syc,2002,1439).
+ si_UNPD(syc,2003,1460).
+ si_UNPD(syc,2004,1455).
+ si_UNPD(syc,2005,1567).
+ si_UNPD(syc,2006,1507).
+ si_UNPD(syc,2007,1593).
+ si_UNPD(syc,2008,1657).
+ si_UNPD(syc,2009,1690).
+ si_UNPD(syc,2010,1567).
+ si_UNPD(syc,2011,1692).
+ si_UNPD(syc,2012,1723).
+ si_UNPD(syc,2013,1632).
+ si_UNPD(syc,2014,1623).
+ si_UNPD(syc,2015,1665).
+ si_UNPD(syc,2016,1727).
+ si_UNPD(syc,2017,1745).
+ si_UNPD(syc,2018,1716).
+ si_UNPD(syc,2019,1686).
+ si_UNPD(syc,2020,1651).
+ si_UNPD(syc,2021,1625).
+ si_UNPD(syc,2022,1595).
+ si_UNPD(syc,2023,1573).
+ si_UNPD(syc,2024,1550).
+ si_UNPD(syc,2025,1528).
+ si_UNPD(syc,2026,1512).
+ si_UNPD(syc,2027,1494).
+ si_UNPD(syc,2028,1480).
+ si_UNPD(syc,2029,1470).
+ si_UNPD(syc,2030,1456).
 
 wgd(syc,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(syc,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).

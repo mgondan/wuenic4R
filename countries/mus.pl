@@ -1,8 +1,8 @@
 %  Mauritius - MUS 
-%  Wed Sep 06 18:58:33 2023 
+%  Fri May 17 12:13:15 2024 
 
 country(mus,'Mauritius'). 
-date('Wed Sep 06 18:58:33 2023').
+date('Fri May 17 12:13:15 2024').
 
 estimate_required(mus,bcg,1997,na,'na').
  estimate_required(mus,bcg,1998,na,'na').
@@ -1311,40 +1311,40 @@ births_UNPD(mus,1997,20652).
  births_UNPD(mus,2029,13078).
  births_UNPD(mus,2030,12978).
 
-si_UNPD(mus,1997,20652).
- si_UNPD(mus,1998,19567).
- si_UNPD(mus,1999,20935).
- si_UNPD(mus,2000,20485).
- si_UNPD(mus,2001,20047).
- si_UNPD(mus,2002,20340).
- si_UNPD(mus,2003,19847).
- si_UNPD(mus,2004,19807).
- si_UNPD(mus,2005,19220).
- si_UNPD(mus,2006,18025).
- si_UNPD(mus,2007,17544).
- si_UNPD(mus,2008,16748).
- si_UNPD(mus,2009,15872).
- si_UNPD(mus,2010,15454).
- si_UNPD(mus,2011,15263).
- si_UNPD(mus,2012,15097).
- si_UNPD(mus,2013,13949).
- si_UNPD(mus,2014,13880).
- si_UNPD(mus,2015,13265).
- si_UNPD(mus,2016,13456).
- si_UNPD(mus,2017,13755).
- si_UNPD(mus,2018,13431).
- si_UNPD(mus,2019,13282).
- si_UNPD(mus,2020,13462).
- si_UNPD(mus,2021,13437).
- si_UNPD(mus,2022,13266).
- si_UNPD(mus,2023,13182).
- si_UNPD(mus,2024,13214).
- si_UNPD(mus,2025,13251).
- si_UNPD(mus,2026,13192).
- si_UNPD(mus,2027,13149).
- si_UNPD(mus,2028,13186).
- si_UNPD(mus,2029,13078).
- si_UNPD(mus,2030,12978).
+si_UNPD(mus,1997,20305).
+ si_UNPD(mus,1998,19249).
+ si_UNPD(mus,1999,20618).
+ si_UNPD(mus,2000,20199).
+ si_UNPD(mus,2001,19786).
+ si_UNPD(mus,2002,20089).
+ si_UNPD(mus,2003,19610).
+ si_UNPD(mus,2004,19575).
+ si_UNPD(mus,2005,18996).
+ si_UNPD(mus,2006,17818).
+ si_UNPD(mus,2007,17345).
+ si_UNPD(mus,2008,16562).
+ si_UNPD(mus,2009,15699).
+ si_UNPD(mus,2010,15287).
+ si_UNPD(mus,2011,15097).
+ si_UNPD(mus,2012,14929).
+ si_UNPD(mus,2013,13792).
+ si_UNPD(mus,2014,13728).
+ si_UNPD(mus,2015,13122).
+ si_UNPD(mus,2016,13311).
+ si_UNPD(mus,2017,13603).
+ si_UNPD(mus,2018,13277).
+ si_UNPD(mus,2019,13124).
+ si_UNPD(mus,2020,13297).
+ si_UNPD(mus,2021,13267).
+ si_UNPD(mus,2022,13110).
+ si_UNPD(mus,2023,13054).
+ si_UNPD(mus,2024,13090).
+ si_UNPD(mus,2025,13130).
+ si_UNPD(mus,2026,13075).
+ si_UNPD(mus,2027,13036).
+ si_UNPD(mus,2028,13075).
+ si_UNPD(mus,2029,12971).
+ si_UNPD(mus,2030,12875).
 
 wgd(mus,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,87,_,na).
  wgd(mus,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).

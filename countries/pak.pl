@@ -1,8 +1,8 @@
 %  Pakistan - PAK 
-%  Wed Sep 06 19:01:07 2023 
+%  Fri May 17 12:15:44 2024 
 
 country(pak,'Pakistan'). 
-date('Wed Sep 06 19:01:07 2023').
+date('Fri May 17 12:15:44 2024').
 
 estimate_required(pak,bcg,1997,na,'na').
  estimate_required(pak,bcg,1998,na,'na').
@@ -1182,40 +1182,40 @@ births_UNPD(pak,1997,5323160).
  births_UNPD(pak,2029,6772974).
  births_UNPD(pak,2030,6821226).
 
-si_UNPD(pak,1997,5323160).
- si_UNPD(pak,1998,5391873).
- si_UNPD(pak,1999,5457820).
- si_UNPD(pak,2000,5503880).
- si_UNPD(pak,2001,5621718).
- si_UNPD(pak,2002,5707878).
- si_UNPD(pak,2003,5705869).
- si_UNPD(pak,2004,5728041).
- si_UNPD(pak,2005,5741665).
- si_UNPD(pak,2006,5780328).
- si_UNPD(pak,2007,5939254).
- si_UNPD(pak,2008,6026112).
- si_UNPD(pak,2009,6126953).
- si_UNPD(pak,2010,6251649).
- si_UNPD(pak,2011,6344791).
- si_UNPD(pak,2012,6416601).
- si_UNPD(pak,2013,6432644).
- si_UNPD(pak,2014,6374716).
- si_UNPD(pak,2015,6297466).
- si_UNPD(pak,2016,6291208).
- si_UNPD(pak,2017,6289965).
- si_UNPD(pak,2018,6302081).
- si_UNPD(pak,2019,6330933).
- si_UNPD(pak,2020,6362705).
- si_UNPD(pak,2021,6374741).
- si_UNPD(pak,2022,6424944).
- si_UNPD(pak,2023,6474370).
- si_UNPD(pak,2024,6512176).
- si_UNPD(pak,2025,6559877).
- si_UNPD(pak,2026,6623023).
- si_UNPD(pak,2027,6692327).
- si_UNPD(pak,2028,6737602).
- si_UNPD(pak,2029,6772974).
- si_UNPD(pak,2030,6821226).
+si_UNPD(pak,1997,4983062).
+ si_UNPD(pak,1998,5052939).
+ si_UNPD(pak,1999,5120638).
+ si_UNPD(pak,2000,5169479).
+ si_UNPD(pak,2001,5285460).
+ si_UNPD(pak,2002,5371543).
+ si_UNPD(pak,2003,5374222).
+ si_UNPD(pak,2004,5399375).
+ si_UNPD(pak,2005,5413602).
+ si_UNPD(pak,2006,5456489).
+ si_UNPD(pak,2007,5610516).
+ si_UNPD(pak,2008,5696890).
+ si_UNPD(pak,2009,5796475).
+ si_UNPD(pak,2010,5919106).
+ si_UNPD(pak,2011,6013167).
+ si_UNPD(pak,2012,6087249).
+ si_UNPD(pak,2013,6108539).
+ si_UNPD(pak,2014,6059904).
+ si_UNPD(pak,2015,5992810).
+ si_UNPD(pak,2016,5993247).
+ si_UNPD(pak,2017,5998503).
+ si_UNPD(pak,2018,6016526).
+ si_UNPD(pak,2019,6050660).
+ si_UNPD(pak,2020,6087559).
+ si_UNPD(pak,2021,6105641).
+ si_UNPD(pak,2022,6155881).
+ si_UNPD(pak,2023,6205333).
+ si_UNPD(pak,2024,6246000).
+ si_UNPD(pak,2025,6296321).
+ si_UNPD(pak,2026,6361409).
+ si_UNPD(pak,2027,6432627).
+ si_UNPD(pak,2028,6480527).
+ si_UNPD(pak,2029,6518871).
+ si_UNPD(pak,2030,6569710).
 
 survey_results(pak,mcv1,1998,pak1999161,[title:'NA',type:'16',yrcoll:'1999',cr:37,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:3664], 54).
 

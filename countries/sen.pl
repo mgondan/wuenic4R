@@ -1,8 +1,8 @@
 %  Senegal - SEN 
-%  Wed Sep 06 19:04:36 2023 
+%  Fri May 17 12:19:04 2024 
 
 country(sen,'Senegal'). 
-date('Wed Sep 06 19:04:36 2023').
+date('Fri May 17 12:19:04 2024').
 
 estimate_required(sen,bcg,1997,na,'na').
  estimate_required(sen,bcg,1998,na,'na').
@@ -1361,40 +1361,40 @@ births_UNPD(sen,1997,356266).
  births_UNPD(sen,2029,608007).
  births_UNPD(sen,2030,616648).
 
-si_UNPD(sen,1997,356266).
- si_UNPD(sen,1998,363901).
- si_UNPD(sen,1999,374758).
- si_UNPD(sen,2000,381017).
- si_UNPD(sen,2001,387416).
- si_UNPD(sen,2002,394576).
- si_UNPD(sen,2003,403780).
- si_UNPD(sen,2004,411222).
- si_UNPD(sen,2005,422547).
- si_UNPD(sen,2006,436406).
- si_UNPD(sen,2007,442235).
- si_UNPD(sen,2008,450758).
- si_UNPD(sen,2009,465658).
- si_UNPD(sen,2010,473819).
- si_UNPD(sen,2011,483824).
- si_UNPD(sen,2012,493250).
- si_UNPD(sen,2013,501507).
- si_UNPD(sen,2014,508203).
- si_UNPD(sen,2015,508147).
- si_UNPD(sen,2016,511960).
- si_UNPD(sen,2017,519212).
- si_UNPD(sen,2018,529314).
- si_UNPD(sen,2019,535968).
- si_UNPD(sen,2020,543219).
- si_UNPD(sen,2021,549984).
- si_UNPD(sen,2022,555696).
- si_UNPD(sen,2023,562482).
- si_UNPD(sen,2024,568369).
- si_UNPD(sen,2025,575820).
- si_UNPD(sen,2026,583961).
- si_UNPD(sen,2027,590692).
- si_UNPD(sen,2028,600396).
- si_UNPD(sen,2029,608007).
- si_UNPD(sen,2030,616648).
+si_UNPD(sen,1997,336788).
+ si_UNPD(sen,1998,344116).
+ si_UNPD(sen,1999,354628).
+ si_UNPD(sen,2000,361011).
+ si_UNPD(sen,2001,367699).
+ si_UNPD(sen,2002,375261).
+ si_UNPD(sen,2003,384891).
+ si_UNPD(sen,2004,392898).
+ si_UNPD(sen,2005,404596).
+ si_UNPD(sen,2006,418795).
+ si_UNPD(sen,2007,425218).
+ si_UNPD(sen,2008,434187).
+ si_UNPD(sen,2009,449274).
+ si_UNPD(sen,2010,457840).
+ si_UNPD(sen,2011,468168).
+ si_UNPD(sen,2012,477932).
+ si_UNPD(sen,2013,486577).
+ si_UNPD(sen,2014,493711).
+ si_UNPD(sen,2015,494287).
+ si_UNPD(sen,2016,498616).
+ si_UNPD(sen,2017,506259).
+ si_UNPD(sen,2018,516636).
+ si_UNPD(sen,2019,523610).
+ si_UNPD(sen,2020,531119).
+ si_UNPD(sen,2021,538096).
+ si_UNPD(sen,2022,545212).
+ si_UNPD(sen,2023,553223).
+ si_UNPD(sen,2024,559401).
+ si_UNPD(sen,2025,566237).
+ si_UNPD(sen,2026,574756).
+ si_UNPD(sen,2027,581866).
+ si_UNPD(sen,2028,591899).
+ si_UNPD(sen,2029,599850).
+ si_UNPD(sen,2030,608825).
 
 survey_results(sen,pol1,1998,sen1999141,[title:'Senegal Standard Demographic and Health Survey, 1999',type:'14',yrcoll:'1999',cr:59,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:2137], 86).
 

@@ -1,8 +1,8 @@
 %  Nigeria - NGA 
-%  Wed Sep 06 18:59:21 2023 
+%  Fri May 17 12:14:01 2024 
 
 country(nga,'Nigeria'). 
-date('Wed Sep 06 18:59:21 2023').
+date('Fri May 17 12:14:01 2024').
 
 estimate_required(nga,bcg,1997,na,'na').
  estimate_required(nga,bcg,1998,na,'na').
@@ -1138,40 +1138,40 @@ births_UNPD(nga,1997,4909645).
  births_UNPD(nga,2029,8708649).
  births_UNPD(nga,2030,8765211).
 
-si_UNPD(nga,1997,4909645).
- si_UNPD(nga,1998,5001845).
- si_UNPD(nga,1999,5177035).
- si_UNPD(nga,2000,5344502).
- si_UNPD(nga,2001,5495767).
- si_UNPD(nga,2002,5645138).
- si_UNPD(nga,2003,5779349).
- si_UNPD(nga,2004,5901685).
- si_UNPD(nga,2005,6053810).
- si_UNPD(nga,2006,6191393).
- si_UNPD(nga,2007,6337230).
- si_UNPD(nga,2008,6506155).
- si_UNPD(nga,2009,6644734).
- si_UNPD(nga,2010,6775913).
- si_UNPD(nga,2011,6916425).
- si_UNPD(nga,2012,7014004).
- si_UNPD(nga,2013,7094942).
- si_UNPD(nga,2014,7189276).
- si_UNPD(nga,2015,7273185).
- si_UNPD(nga,2016,7384114).
- si_UNPD(nga,2017,7486698).
- si_UNPD(nga,2018,7590288).
- si_UNPD(nga,2019,7697868).
- si_UNPD(nga,2020,7806449).
- si_UNPD(nga,2021,7923294).
- si_UNPD(nga,2022,8002758).
- si_UNPD(nga,2023,8109136).
- si_UNPD(nga,2024,8234398).
- si_UNPD(nga,2025,8321052).
- si_UNPD(nga,2026,8417807).
- si_UNPD(nga,2027,8515800).
- si_UNPD(nga,2028,8600296).
- si_UNPD(nga,2029,8708649).
- si_UNPD(nga,2030,8765211).
+si_UNPD(nga,1997,4520078).
+ si_UNPD(nga,1998,4612539).
+ si_UNPD(nga,1999,4782526).
+ si_UNPD(nga,2000,4947329).
+ si_UNPD(nga,2001,5097635).
+ si_UNPD(nga,2002,5247252).
+ si_UNPD(nga,2003,5383189).
+ si_UNPD(nga,2004,5507452).
+ si_UNPD(nga,2005,5656206).
+ si_UNPD(nga,2006,5791386).
+ si_UNPD(nga,2007,5934051).
+ si_UNPD(nga,2008,6098047).
+ si_UNPD(nga,2009,6233254).
+ si_UNPD(nga,2010,6360870).
+ si_UNPD(nga,2011,6496898).
+ si_UNPD(nga,2012,6592086).
+ si_UNPD(nga,2013,6671149).
+ si_UNPD(nga,2014,6762519).
+ si_UNPD(nga,2015,6844303).
+ si_UNPD(nga,2016,6952311).
+ si_UNPD(nga,2017,7053281).
+ si_UNPD(nga,2018,7156402).
+ si_UNPD(nga,2019,7264420).
+ si_UNPD(nga,2020,7373502).
+ si_UNPD(nga,2021,7490708).
+ si_UNPD(nga,2022,7570882).
+ si_UNPD(nga,2023,7677215).
+ si_UNPD(nga,2024,7801513).
+ si_UNPD(nga,2025,7889301).
+ si_UNPD(nga,2026,7986481).
+ si_UNPD(nga,2027,8084778).
+ si_UNPD(nga,2028,8170299).
+ si_UNPD(nga,2029,8278851).
+ si_UNPD(nga,2030,8338228).
 
 survey_results(nga,mcv1,1998,nga1999141,[title:'Nigeria Demographic and Health Survey  1999, 2000',type:'14',yrcoll:'1999',cr: 0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:1161],40).
 
@@ -2334,7 +2334,43 @@ wgd(nga,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,29,_,na).
  wgd(nga,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,38,_,na).
  wgd(nga,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,25,_,na).
 
-wgd(nga,X,1997,1998,interpolate,' Fluctuation in reported data suggest poor quality administrative recording and reporting.',na,na,na,na).
+wgd(nga,hib3,2019,2019,assignAnchor,' Estimate informed by 2021 MICS/NICS results adjusted for recall for the 2019 birth cohort.',na,66,na,na).
+ wgd(nga,hib3,2020,2020,assignAnchor,' Estimated coverage informed by 2021 MICS/NICS results adjusted for recall bias for 2020 birth cohort.',na,62,na,na).
+ wgd(nga,hib3,2021,2022,assignWUENIC,' Estimated coverage informed by prior year estimate.',na,62,na,na).
+ wgd(nga,hib3,2021,2021,internalComment,' The country official 2021 reported coverage is based on the 2021 MICS NICS survey, which largely reflects coverage achieved in the 2020 birth cohort. Estimated coverage is informed by an extrapolation from the estimated value for 2020.',na,56,na,na).
+ wgd(nga,hib3,2022,2022,comment,' Official reported coverage informed by the survey result for the youngest annual cohort (the 2020 cohort) from the 2021 MICS/NICS survey. Government has indicated that the 2021 official coverage estimate is also based on survey results. Note that reported official coverage reflects crude survey results for the 3rd dose that do not account for recall bias in the absence of documented evidence of vaccination. For antigens with reported administrative data in 2022, there is the appearance of increases in the number of doses administered from levels reported for 2021; however, it remains unclear whether the transition to DHIS2 has matured sufficiently to monitor trends in coverage. Alongside continued implementation of the national data quality improvement plan activities, WHO and UNICEF encourage continued efforts to independently assess the quality of the administrative recording and reporting system at all levels.',na,na,na,na).
+ wgd(nga,ipv1,2015,2015,assignWUENIC,' Estimate is informed by survey result. Inactivated polio vaccine introduced in early 2015. Government reports an exceptionally high year-to-year increase in the number of surviving infants compared to the UN Population Division.',na,42,na,na).
+ wgd(nga,ipv1,2016,2016,assignWUENIC,' Estimate is informed by survey result.',na,52,na,na).
+ wgd(nga,ipv1,2017,2017,assignWUENIC,' Estimate is informed by survey result.',na,53,na,na).
+ wgd(nga,ipv1,2018,2018,assignWUENIC,' Estimate is informed by interpolation between estimated coverage levels in 2017 and 2019.',na,59,na,na).
+ wgd(nga,ipv1,2019,2019,assignWUENIC,' Estimate is informed by 2021 MICS/NICS results for 2019 birth cohort.',na,66,na,na).
+ wgd(nga,ipv1,2020,2020,assignWUENIC,' Estimate is informed by 2021 MICS/NICS results for 2020 birth cohort.',na,62,na,na).
+ wgd(nga,ipv1,2021,2021,assignWUENIC,' Estimate is informed by prior year estimated coverage.',na,62,na,na).
+ wgd(nga,ipv1,2022,2022,assignWUENIC,' Estimate is informed by prior year estimated coverage.',na,62,na,na).
+ wgd(nga,mcv1,1999,1999,assignAnchor,' Anchor point resolved to survey data. Fluctuations in reported data suggest poor quality administrative recording and reporting.',na,35,na,na).
+ wgd(nga,mcv1,2002,2002,assignAnchor,' Anchor point resolved to survey data. Fluctuations in reported data suggest poor quality administrative recording and reporting.',na,30,na,na).
+ wgd(nga,mcv1,2005,2005,ignoreSurvey,' Survey results not consistent with comparable survey data.',na,na,na,na).
+ wgd(nga,mcv1,2011,2011,interpolate,' Estimate based on interpolated value between 2010 and 2012 survey values.',na,na,na,na).
+ wgd(nga,mcv1,2013,2013,comment,' Administrative data documents recovery from pentavalent DTP-HepB-Hib and MCV stockout.',na,na,na,na).
+ wgd(nga,mcv1,2014,2014,ignoreSurvey,' The results of the 2015 Nigeria National Nutrition and Health Survey are presented such that coverage by card and by recall cannot be assessed and thus are not considered.',nga2015331,na,na,na).
+ wgd(nga,mcv1,2016,2016,ignoreSurvey,' Survey results likely include campaign doses.',na,na,na,na).
+ wgd(nga,mcv1,2017,2017,assignAnchor,' Estimate is based on survey result.',na,54,na,na).
+ wgd(nga,mcv1,2018,2018,comment,' Official estimates based on a review of strategic plan targets, 2018 Nutrition and Health Survey results, and routine immunization lot-quality assurance survey results. Sharp increases between 2015 and 2016-18 period may be partially explained by the timing of survey fieldwork vis-a-vis investments and activity to improve routine immunization.',na,na,na,na).
+ wgd(nga,mcv1,2019,2019,ignoreSurvey,' Survey results for 2019 birth cohort likely reflect the contribution of a large measles-yellow fever-meningitis campaign conducted in the northern states rather than routine vaccination coverage.',na,na,na,na).
+ wgd(nga,mcv1,2020,2020,assignAnchor,' Estimated coverage informed by 2021 MICS/NICS results for 2020 birth cohort.',na,60,na,na).
+ wgd(nga,mcv1,2021,2022,assignWUENIC,' Estimated coverage informed by prior year estimate.',na,60,na,na).
+ wgd(nga,mcv1,2021,2021,internalComment,' The country official 2021 reported coverage is based on the 2021 MICS NICS survey, which largely reflects coverage achieved in the 2020 birth cohort. Estimated coverage is informed by an extrapolation from the estimated value for 2020.',na,59,na,na).
+ wgd(nga,mcv1,2022,2022,comment,' Official reported coverage informed by the survey result for the youngest annual cohort (the 2020 cohort) from the 2021 MICS/NICS survey. Government has indicated that the 2021 official coverage estimate is also based on survey results, though there are discrepancies with their reported coverage for 2021 and 2022 vis-a-vis survey results. For antigens with reported administrative data in 2022, there is the appearance of increases in the number of doses administered from levels reported for 2021; however, it remains unclear whether the transition to DHIS2 has matured sufficiently to monitor trends in coverage. Alongside continued implementation of the national data quality improvement plan activities, WHO and UNICEF encourage continued efforts to independently assess the quality of the administrative recording and reporting system at all levels. Programme reports one month vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(nga,mcv2,2019,2019,assignGoC,' Consistency with other antigens.',na,1,na,na).
+ wgd(nga,mcv2,2019,2019,assignWUENIC,' Second dose of measles containing vaccine introduced during October 2019.',na,9,na,na).
+ wgd(nga,mcv2,2020,2020,assignAnchor,' The country official 2021 reported coverage informed by the 2021 MICS NICS survey, which largely reflects coverage achieved in the 2020 birth cohort.',na,38,na,na).
+ wgd(nga,mcv2,2021,2021,acceptReported,'.',na,na,na,na).
+ wgd(nga,mcv2,2021,2021,assignAnchor,' Estimate informed by survey.',na,38,na,na).
+ wgd(nga,mcv2,2021,2021,internalComment,' The country official 2021 reported coverage is based on the 2021 MICS NICS survey, which largely reflects coverage achieved in the 2020 birth cohort. Estimated coverage is informed by an extrapolation from the estimated value for 2020.',na,36,na,na).
+ wgd(nga,mcv2,2022,2022,assignWUENIC,' Estimated coverage informed by prior year estimate.',na,38,na,na).
+ wgd(nga,mcv2,2022,2022,comment,' Official reported coverage informed by the survey result for the youngest annual cohort (the 2020 cohort) from the 2021 MICS/NICS survey. Government has indicated that the 2021 official coverage estimate is also based on survey results, though there are discrepancies with their reported coverage for 2021 and 2022 vis-a-vis survey results. For antigens with reported administrative data in 2022, there is the appearance of increases in the number of doses administered from levels reported for 2021; however, it remains unclear whether the transition to DHIS2 has matured sufficiently to monitor trends in coverage. Alongside continued implementation of the national data quality improvement plan activities, WHO and UNICEF encourage continued efforts to independently assess the quality of the administrative recording and reporting system at all levels. Programme reports one month vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(nga,pcv3,2015,2015,assignWUENIC,' Estimate based on results of the 2016-17 MICS/NICS survey adjusted for recall bias.',na,36,na,na).
+ wgd(nga,X,1997,1998,interpolate,' Fluctuation in reported data suggest poor quality administrative recording and reporting.',na,na,na,na).
  wgd(nga,X,1998,1999,interpolate,' Fluctuation in reported data suggest poor quality administrative recording and reporting.',na,na,na,na).
  wgd(nga,X,1999,2002,interpolate,' Fluctuation in reported data suggest poor quality administrative recording and reporting.',na,na,na,na).
  wgd(nga,X,2002,2006,interpolate,' Fluctuation in reported data suggest poor quality administrative recording and reporting.',na,na,na,na).
@@ -2444,42 +2480,6 @@ wgd(nga,X,1997,1998,interpolate,' Fluctuation in reported data suggest poor qual
  wgd(nga,hib3,2016,2016,assignAnchor,' Estimate is based on survey result.',na,53,na,na).
  wgd(nga,hib3,2017,2017,assignAnchor,' Estimate is based on survey result.',na,55,na,na).
  wgd(nga,hib3,2018,2018,comment,' Official estimates based on a review of strategic plan targets, 2018 Nutrition and Health Survey results, and routine immunization lot-quality assurance survey results. Sharp increases between 2015 and 2016-18 period may be partially explained by the timing of survey fieldwork vis-a-vis investments and activity to improve routine immunization.',na,na,na,na).
- wgd(nga,hib3,2019,2019,assignAnchor,' Estimate informed by 2021 MICS/NICS results adjusted for recall for the 2019 birth cohort.',na,66,na,na).
- wgd(nga,hib3,2020,2020,assignAnchor,' Estimated coverage informed by 2021 MICS/NICS results adjusted for recall bias for 2020 birth cohort.',na,62,na,na).
- wgd(nga,hib3,2021,2022,assignWUENIC,' Estimated coverage informed by prior year estimate.',na,62,na,na).
- wgd(nga,hib3,2021,2021,internalComment,' The country official 2021 reported coverage is based on the 2021 MICS NICS survey, which largely reflects coverage achieved in the 2020 birth cohort. Estimated coverage is informed by an extrapolation from the estimated value for 2020.',na,56,na,na).
- wgd(nga,hib3,2022,2022,comment,' Official reported coverage informed by the survey result for the youngest annual cohort (the 2020 cohort) from the 2021 MICS/NICS survey. Government has indicated that the 2021 official coverage estimate is also based on survey results. Note that reported official coverage reflects crude survey results for the 3rd dose that do not account for recall bias in the absence of documented evidence of vaccination. For antigens with reported administrative data in 2022, there is the appearance of increases in the number of doses administered from levels reported for 2021; however, it remains unclear whether the transition to DHIS2 has matured sufficiently to monitor trends in coverage. Alongside continued implementation of the national data quality improvement plan activities, WHO and UNICEF encourage continued efforts to independently assess the quality of the administrative recording and reporting system at all levels.',na,na,na,na).
- wgd(nga,ipv1,2015,2015,assignWUENIC,' Estimate is informed by survey result. Inactivated polio vaccine introduced in early 2015. Government reports an exceptionally high year-to-year increase in the number of surviving infants compared to the UN Population Division.',na,42,na,na).
- wgd(nga,ipv1,2016,2016,assignWUENIC,' Estimate is informed by survey result.',na,52,na,na).
- wgd(nga,ipv1,2017,2017,assignWUENIC,' Estimate is informed by survey result.',na,53,na,na).
- wgd(nga,ipv1,2018,2018,assignWUENIC,' Estimate is informed by interpolation between estimated coverage levels in 2017 and 2019.',na,59,na,na).
- wgd(nga,ipv1,2019,2019,assignWUENIC,' Estimate is informed by 2021 MICS/NICS results for 2019 birth cohort.',na,66,na,na).
- wgd(nga,ipv1,2020,2020,assignWUENIC,' Estimate is informed by 2021 MICS/NICS results for 2020 birth cohort.',na,62,na,na).
- wgd(nga,ipv1,2021,2021,assignWUENIC,' Estimate is informed by prior year estimated coverage.',na,62,na,na).
- wgd(nga,ipv1,2022,2022,assignWUENIC,' Estimate is informed by prior year estimated coverage.',na,62,na,na).
- wgd(nga,mcv1,1999,1999,assignAnchor,' Anchor point resolved to survey data. Fluctuations in reported data suggest poor quality administrative recording and reporting.',na,35,na,na).
- wgd(nga,mcv1,2002,2002,assignAnchor,' Anchor point resolved to survey data. Fluctuations in reported data suggest poor quality administrative recording and reporting.',na,30,na,na).
- wgd(nga,mcv1,2005,2005,ignoreSurvey,' Survey results not consistent with comparable survey data.',na,na,na,na).
- wgd(nga,mcv1,2011,2011,interpolate,' Estimate based on interpolated value between 2010 and 2012 survey values.',na,na,na,na).
- wgd(nga,mcv1,2013,2013,comment,' Administrative data documents recovery from pentavalent DTP-HepB-Hib and MCV stockout.',na,na,na,na).
- wgd(nga,mcv1,2014,2014,ignoreSurvey,' The results of the 2015 Nigeria National Nutrition and Health Survey are presented such that coverage by card and by recall cannot be assessed and thus are not considered.',nga2015331,na,na,na).
- wgd(nga,mcv1,2016,2016,ignoreSurvey,' Survey results likely include campaign doses.',na,na,na,na).
- wgd(nga,mcv1,2017,2017,assignAnchor,' Estimate is based on survey result.',na,54,na,na).
- wgd(nga,mcv1,2018,2018,comment,' Official estimates based on a review of strategic plan targets, 2018 Nutrition and Health Survey results, and routine immunization lot-quality assurance survey results. Sharp increases between 2015 and 2016-18 period may be partially explained by the timing of survey fieldwork vis-a-vis investments and activity to improve routine immunization.',na,na,na,na).
- wgd(nga,mcv1,2019,2019,ignoreSurvey,' Survey results for 2019 birth cohort likely reflect the contribution of a large measles-yellow fever-meningitis campaign conducted in the northern states rather than routine vaccination coverage.',na,na,na,na).
- wgd(nga,mcv1,2020,2020,assignAnchor,' Estimated coverage informed by 2021 MICS/NICS results for 2020 birth cohort.',na,60,na,na).
- wgd(nga,mcv1,2021,2022,assignWUENIC,' Estimated coverage informed by prior year estimate.',na,60,na,na).
- wgd(nga,mcv1,2021,2021,internalComment,' The country official 2021 reported coverage is based on the 2021 MICS NICS survey, which largely reflects coverage achieved in the 2020 birth cohort. Estimated coverage is informed by an extrapolation from the estimated value for 2020.',na,59,na,na).
- wgd(nga,mcv1,2022,2022,comment,' Official reported coverage informed by the survey result for the youngest annual cohort (the 2020 cohort) from the 2021 MICS/NICS survey. Government has indicated that the 2021 official coverage estimate is also based on survey results, though there are discrepancies with their reported coverage for 2021 and 2022 vis-a-vis survey results. For antigens with reported administrative data in 2022, there is the appearance of increases in the number of doses administered from levels reported for 2021; however, it remains unclear whether the transition to DHIS2 has matured sufficiently to monitor trends in coverage. Alongside continued implementation of the national data quality improvement plan activities, WHO and UNICEF encourage continued efforts to independently assess the quality of the administrative recording and reporting system at all levels. Programme reports one month vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(nga,mcv2,2019,2019,assignGoC,' Consistency with other antigens.',na,1,na,na).
- wgd(nga,mcv2,2019,2019,assignWUENIC,' Second dose of measles containing vaccine introduced during October 2019.',na,9,na,na).
- wgd(nga,mcv2,2020,2020,assignAnchor,' The country official 2021 reported coverage informed by the 2021 MICS NICS survey, which largely reflects coverage achieved in the 2020 birth cohort.',na,38,na,na).
- wgd(nga,mcv2,2021,2021,acceptReported,'.',na,na,na,na).
- wgd(nga,mcv2,2021,2021,assignAnchor,' Estimate informed by survey.',na,38,na,na).
- wgd(nga,mcv2,2021,2021,internalComment,' The country official 2021 reported coverage is based on the 2021 MICS NICS survey, which largely reflects coverage achieved in the 2020 birth cohort. Estimated coverage is informed by an extrapolation from the estimated value for 2020.',na,36,na,na).
- wgd(nga,mcv2,2022,2022,assignWUENIC,' Estimated coverage informed by prior year estimate.',na,38,na,na).
- wgd(nga,mcv2,2022,2022,comment,' Official reported coverage informed by the survey result for the youngest annual cohort (the 2020 cohort) from the 2021 MICS/NICS survey. Government has indicated that the 2021 official coverage estimate is also based on survey results, though there are discrepancies with their reported coverage for 2021 and 2022 vis-a-vis survey results. For antigens with reported administrative data in 2022, there is the appearance of increases in the number of doses administered from levels reported for 2021; however, it remains unclear whether the transition to DHIS2 has matured sufficiently to monitor trends in coverage. Alongside continued implementation of the national data quality improvement plan activities, WHO and UNICEF encourage continued efforts to independently assess the quality of the administrative recording and reporting system at all levels. Programme reports one month vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(nga,pcv3,2015,2015,assignWUENIC,' Estimate based on results of the 2016-17 MICS/NICS survey adjusted for recall bias.',na,36,na,na).
  wgd(nga,pcv3,2015,2015,comment,' Pneumococcal conjugate vaccine introduced in 2015.',na,na,na,na).
  wgd(nga,pcv3,2016,2016,assignAnchor,' Estimate is based on survey result.',na,49,na,na).
  wgd(nga,pcv3,2016,2016,comment,' Reported official government estimate received June 2017 is based on preliminary 2016-17 MICS/NICS results applied to the 2015 birth cohort.',na,na,na,na).

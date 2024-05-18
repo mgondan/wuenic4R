@@ -1,8 +1,8 @@
 %  Vanuatu - VUT 
-%  Wed Sep 06 19:11:41 2023 
+%  Fri May 17 12:26:12 2024 
 
 country(vut,'Vanuatu'). 
-date('Wed Sep 06 19:11:41 2023').
+date('Fri May 17 12:26:12 2024').
 
 estimate_required(vut,bcg,1997,na,'na').
  estimate_required(vut,bcg,1998,na,'na').
@@ -1024,40 +1024,40 @@ births_UNPD(vut,1997,6130).
  births_UNPD(vut,2029,10215).
  births_UNPD(vut,2030,10348).
 
-si_UNPD(vut,1997,6130).
- si_UNPD(vut,1998,6194).
- si_UNPD(vut,1999,6257).
- si_UNPD(vut,2000,6370).
- si_UNPD(vut,2001,6521).
- si_UNPD(vut,2002,6606).
- si_UNPD(vut,2003,6711).
- si_UNPD(vut,2004,6825).
- si_UNPD(vut,2005,6941).
- si_UNPD(vut,2006,7110).
- si_UNPD(vut,2007,7345).
- si_UNPD(vut,2008,7607).
- si_UNPD(vut,2009,7871).
- si_UNPD(vut,2010,8131).
- si_UNPD(vut,2011,8381).
- si_UNPD(vut,2012,8573).
- si_UNPD(vut,2013,8735).
- si_UNPD(vut,2014,8883).
- si_UNPD(vut,2015,8976).
- si_UNPD(vut,2016,9079).
- si_UNPD(vut,2017,9145).
- si_UNPD(vut,2018,9190).
- si_UNPD(vut,2019,9261).
- si_UNPD(vut,2020,9336).
- si_UNPD(vut,2021,9398).
- si_UNPD(vut,2022,9466).
- si_UNPD(vut,2023,9531).
- si_UNPD(vut,2024,9590).
- si_UNPD(vut,2025,9673).
- si_UNPD(vut,2026,9773).
- si_UNPD(vut,2027,9930).
- si_UNPD(vut,2028,10061).
- si_UNPD(vut,2029,10215).
- si_UNPD(vut,2030,10348).
+si_UNPD(vut,1997,5998).
+ si_UNPD(vut,1998,6062).
+ si_UNPD(vut,1999,6120).
+ si_UNPD(vut,2000,6236).
+ si_UNPD(vut,2001,6385).
+ si_UNPD(vut,2002,6469).
+ si_UNPD(vut,2003,6572).
+ si_UNPD(vut,2004,6683).
+ si_UNPD(vut,2005,6796).
+ si_UNPD(vut,2006,6961).
+ si_UNPD(vut,2007,7190).
+ si_UNPD(vut,2008,7446).
+ si_UNPD(vut,2009,7703).
+ si_UNPD(vut,2010,7957).
+ si_UNPD(vut,2011,8201).
+ si_UNPD(vut,2012,8388).
+ si_UNPD(vut,2013,8548).
+ si_UNPD(vut,2014,8694).
+ si_UNPD(vut,2015,8788).
+ si_UNPD(vut,2016,8893).
+ si_UNPD(vut,2017,8962).
+ si_UNPD(vut,2018,9010).
+ si_UNPD(vut,2019,9085).
+ si_UNPD(vut,2020,9162).
+ si_UNPD(vut,2021,9228).
+ si_UNPD(vut,2022,9308).
+ si_UNPD(vut,2023,9378).
+ si_UNPD(vut,2024,9442).
+ si_UNPD(vut,2025,9529).
+ si_UNPD(vut,2026,9633).
+ si_UNPD(vut,2027,9793).
+ si_UNPD(vut,2028,9927).
+ si_UNPD(vut,2029,10084).
+ si_UNPD(vut,2030,10220).
 
 survey_results(vut,pol1,2006,vut2007231,[title:'Vanuatu Multiple Indicator Cluster Survey 2007',type:'23',yrcoll:'2007',cr:69,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:359], 78).
 

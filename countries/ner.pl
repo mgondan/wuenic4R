@@ -1,8 +1,8 @@
 %  Niger - NER 
-%  Wed Sep 06 18:59:06 2023 
+%  Fri May 17 12:13:47 2024 
 
 country(ner,'Niger'). 
-date('Wed Sep 06 18:59:06 2023').
+date('Fri May 17 12:13:47 2024').
 
 estimate_required(ner,bcg,1997,na,'na').
  estimate_required(ner,bcg,1998,na,'na').
@@ -1302,40 +1302,40 @@ births_UNPD(ner,1997,563612).
  births_UNPD(ner,2029,1450574).
  births_UNPD(ner,2030,1483504).
 
-si_UNPD(ner,1997,563612).
- si_UNPD(ner,1998,579983).
- si_UNPD(ner,1999,595241).
- si_UNPD(ner,2000,612412).
- si_UNPD(ner,2001,628644).
- si_UNPD(ner,2002,646177).
- si_UNPD(ner,2003,664234).
- si_UNPD(ner,2004,682918).
- si_UNPD(ner,2005,701952).
- si_UNPD(ner,2006,720105).
- si_UNPD(ner,2007,740834).
- si_UNPD(ner,2008,762405).
- si_UNPD(ner,2009,784472).
- si_UNPD(ner,2010,808092).
- si_UNPD(ner,2011,829876).
- si_UNPD(ner,2012,850851).
- si_UNPD(ner,2013,879453).
- si_UNPD(ner,2014,905960).
- si_UNPD(ner,2015,937161).
- si_UNPD(ner,2016,973456).
- si_UNPD(ner,2017,1008227).
- si_UNPD(ner,2018,1041983).
- si_UNPD(ner,2019,1075960).
- si_UNPD(ner,2020,1109922).
- si_UNPD(ner,2021,1144371).
- si_UNPD(ner,2022,1180654).
- si_UNPD(ner,2023,1216927).
- si_UNPD(ner,2024,1256001).
- si_UNPD(ner,2025,1296167).
- si_UNPD(ner,2026,1332695).
- si_UNPD(ner,2027,1371490).
- si_UNPD(ner,2028,1410212).
- si_UNPD(ner,2029,1450574).
- si_UNPD(ner,2030,1483504).
+si_UNPD(ner,1997,522369).
+ si_UNPD(ner,1998,538903).
+ si_UNPD(ner,1999,554386).
+ si_UNPD(ner,2000,571558).
+ si_UNPD(ner,2001,587549).
+ si_UNPD(ner,2002,604929).
+ si_UNPD(ner,2003,623008).
+ si_UNPD(ner,2004,641832).
+ si_UNPD(ner,2005,661107).
+ si_UNPD(ner,2006,679664).
+ si_UNPD(ner,2007,700741).
+ si_UNPD(ner,2008,722673).
+ si_UNPD(ner,2009,745157).
+ si_UNPD(ner,2010,769167).
+ si_UNPD(ner,2011,791401).
+ si_UNPD(ner,2012,812727).
+ si_UNPD(ner,2013,841319).
+ si_UNPD(ner,2014,867828).
+ si_UNPD(ner,2015,898805).
+ si_UNPD(ner,2016,934677).
+ si_UNPD(ner,2017,969076).
+ si_UNPD(ner,2018,1002507).
+ si_UNPD(ner,2019,1036231).
+ si_UNPD(ner,2020,1069907).
+ si_UNPD(ner,2021,1104024).
+ si_UNPD(ner,2022,1140790).
+ si_UNPD(ner,2023,1175562).
+ si_UNPD(ner,2024,1214367).
+ si_UNPD(ner,2025,1254105).
+ si_UNPD(ner,2026,1290339).
+ si_UNPD(ner,2027,1328798).
+ si_UNPD(ner,2028,1367214).
+ si_UNPD(ner,2029,1407231).
+ si_UNPD(ner,2030,1440112).
 
 survey_results(ner,pol1,1997,ner1998141,[title:'NA',type:'14',yrcoll:'1998',cr:35,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:1431], 20).
 

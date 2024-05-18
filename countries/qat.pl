@@ -1,8 +1,8 @@
 %  Qatar - QAT 
-%  Wed Sep 06 19:03:29 2023 
+%  Fri May 17 12:17:59 2024 
 
 country(qat,'Qatar'). 
-date('Wed Sep 06 19:03:29 2023').
+date('Fri May 17 12:17:59 2024').
 
 estimate_required(qat,bcg,1997,na,'na').
  estimate_required(qat,bcg,1998,na,'na').
@@ -1557,40 +1557,40 @@ births_UNPD(qat,1997,10505).
  births_UNPD(qat,2029,23166).
  births_UNPD(qat,2030,23585).
 
-si_UNPD(qat,1997,10505).
- si_UNPD(qat,1998,10886).
- si_UNPD(qat,1999,11481).
- si_UNPD(qat,2000,12183).
- si_UNPD(qat,2001,12838).
- si_UNPD(qat,2002,13016).
- si_UNPD(qat,2003,13138).
- si_UNPD(qat,2004,13016).
- si_UNPD(qat,2005,12728).
- si_UNPD(qat,2006,13145).
- si_UNPD(qat,2007,14391).
- si_UNPD(qat,2008,15503).
- si_UNPD(qat,2009,16522).
- si_UNPD(qat,2010,18161).
- si_UNPD(qat,2011,20036).
- si_UNPD(qat,2012,20938).
- si_UNPD(qat,2013,22097).
- si_UNPD(qat,2014,23038).
- si_UNPD(qat,2015,24016).
- si_UNPD(qat,2016,25480).
- si_UNPD(qat,2017,27496).
- si_UNPD(qat,2018,29263).
- si_UNPD(qat,2019,30078).
- si_UNPD(qat,2020,30968).
- si_UNPD(qat,2021,26529).
- si_UNPD(qat,2022,24497).
- si_UNPD(qat,2023,23932).
- si_UNPD(qat,2024,23445).
- si_UNPD(qat,2025,23063).
- si_UNPD(qat,2026,22844).
- si_UNPD(qat,2027,22810).
- si_UNPD(qat,2028,22932).
- si_UNPD(qat,2029,23166).
- si_UNPD(qat,2030,23585).
+si_UNPD(qat,1997,10395).
+ si_UNPD(qat,1998,10777).
+ si_UNPD(qat,1999,11370).
+ si_UNPD(qat,2000,12069).
+ si_UNPD(qat,2001,12723).
+ si_UNPD(qat,2002,12904).
+ si_UNPD(qat,2003,13029).
+ si_UNPD(qat,2004,12911).
+ si_UNPD(qat,2005,12629).
+ si_UNPD(qat,2006,13046).
+ si_UNPD(qat,2007,14286).
+ si_UNPD(qat,2008,15392).
+ si_UNPD(qat,2009,16407).
+ si_UNPD(qat,2010,18038).
+ si_UNPD(qat,2011,19903).
+ si_UNPD(qat,2012,20803).
+ si_UNPD(qat,2013,21959).
+ si_UNPD(qat,2014,22899).
+ si_UNPD(qat,2015,23878).
+ si_UNPD(qat,2016,25341).
+ si_UNPD(qat,2017,27355).
+ si_UNPD(qat,2018,29122).
+ si_UNPD(qat,2019,29942).
+ si_UNPD(qat,2020,30837).
+ si_UNPD(qat,2021,26425).
+ si_UNPD(qat,2022,24392).
+ si_UNPD(qat,2023,23833).
+ si_UNPD(qat,2024,23351).
+ si_UNPD(qat,2025,22974).
+ si_UNPD(qat,2026,22759).
+ si_UNPD(qat,2027,22728).
+ si_UNPD(qat,2028,22852).
+ si_UNPD(qat,2029,23088).
+ si_UNPD(qat,2030,23508).
 
 survey_results(qat,pol3,1997,qat1998171,[title:'NA',type:'17',yrcoll:'1998',cr:89,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:724], 88).
 

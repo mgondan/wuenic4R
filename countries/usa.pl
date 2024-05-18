@@ -1,8 +1,8 @@
 %  United States of America - USA 
-%  Wed Sep 06 19:10:50 2023 
+%  Fri May 17 12:25:20 2024 
 
 country(usa,'United States of America'). 
-date('Wed Sep 06 19:10:50 2023').
+date('Fri May 17 12:25:20 2024').
 
 estimate_required(usa,dtp1,1997,na,'na').
  estimate_required(usa,dtp1,1998,na,'na').
@@ -802,40 +802,40 @@ births_UNPD(usa,1997,3888133).
  births_UNPD(usa,2029,3840523).
  births_UNPD(usa,2030,3855251).
 
-si_UNPD(usa,1997,3888133).
- si_UNPD(usa,1998,3945474).
- si_UNPD(usa,1999,3981083).
- si_UNPD(usa,2000,4074588).
- si_UNPD(usa,2001,4047723).
- si_UNPD(usa,2002,4044209).
- si_UNPD(usa,2003,4103255).
- si_UNPD(usa,2004,4127653).
- si_UNPD(usa,2005,4165894).
- si_UNPD(usa,2006,4277082).
- si_UNPD(usa,2007,4324121).
- si_UNPD(usa,2008,4264295).
- si_UNPD(usa,2009,4150728).
- si_UNPD(usa,2010,4036757).
- si_UNPD(usa,2011,3986301).
- si_UNPD(usa,2012,3982539).
- si_UNPD(usa,2013,3966458).
- si_UNPD(usa,2014,4003811).
- si_UNPD(usa,2015,3995991).
- si_UNPD(usa,2016,3957371).
- si_UNPD(usa,2017,3869955).
- si_UNPD(usa,2018,3801511).
- si_UNPD(usa,2019,3756830).
- si_UNPD(usa,2020,3670490).
- si_UNPD(usa,2021,3722822).
- si_UNPD(usa,2022,3726867).
- si_UNPD(usa,2023,3745361).
- si_UNPD(usa,2024,3759063).
- si_UNPD(usa,2025,3775418).
- si_UNPD(usa,2026,3795116).
- si_UNPD(usa,2027,3808564).
- si_UNPD(usa,2028,3831537).
- si_UNPD(usa,2029,3840523).
- si_UNPD(usa,2030,3855251).
+si_UNPD(usa,1997,3863162).
+ si_UNPD(usa,1998,3919919).
+ si_UNPD(usa,1999,3955916).
+ si_UNPD(usa,2000,4049291).
+ si_UNPD(usa,2001,4023563).
+ si_UNPD(usa,2002,4019646).
+ si_UNPD(usa,2003,4078414).
+ si_UNPD(usa,2004,4102886).
+ si_UNPD(usa,2005,4140534).
+ si_UNPD(usa,2006,4251197).
+ si_UNPD(usa,2007,4297898).
+ si_UNPD(usa,2008,4239362).
+ si_UNPD(usa,2009,4127304).
+ si_UNPD(usa,2010,4015207).
+ si_UNPD(usa,2011,3965541).
+ si_UNPD(usa,2012,3961989).
+ si_UNPD(usa,2013,3946210).
+ si_UNPD(usa,2014,3983673).
+ si_UNPD(usa,2015,3975771).
+ si_UNPD(usa,2016,3937466).
+ si_UNPD(usa,2017,3850890).
+ si_UNPD(usa,2018,3783242).
+ si_UNPD(usa,2019,3738909).
+ si_UNPD(usa,2020,3653213).
+ si_UNPD(usa,2021,3705532).
+ si_UNPD(usa,2022,3710714).
+ si_UNPD(usa,2023,3729572).
+ si_UNPD(usa,2024,3743677).
+ si_UNPD(usa,2025,3760392).
+ si_UNPD(usa,2026,3780414).
+ si_UNPD(usa,2027,3794251).
+ si_UNPD(usa,2028,3817512).
+ si_UNPD(usa,2029,3826853).
+ si_UNPD(usa,2030,3841876).
 
 survey_results(usa,hepb3,2000,usa2002251,[title:'National Immunization Survey 2002',type:'25',yrcoll:'2002',cr:0,confirm:'card or history',age:'19-35 m',timead:'',val:'crude',ss:0], 88).
 

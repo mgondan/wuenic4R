@@ -1,8 +1,8 @@
 %  Barbados - BRB 
-%  Wed Sep 06 18:40:28 2023 
+%  Fri May 17 11:56:32 2024 
 
 country(brb,'Barbados'). 
-date('Wed Sep 06 18:40:28 2023').
+date('Fri May 17 11:56:32 2024').
 
 estimate_required(brb,dtp1,1997,na,'na').
  estimate_required(brb,dtp1,1998,na,'na').
@@ -1093,40 +1093,40 @@ births_UNPD(brb,1997,3786).
  births_UNPD(brb,2029,2919).
  births_UNPD(brb,2030,2898).
 
-si_UNPD(brb,1997,3786).
- si_UNPD(brb,1998,3750).
- si_UNPD(brb,1999,3722).
- si_UNPD(brb,2000,3698).
- si_UNPD(brb,2001,3669).
- si_UNPD(brb,2002,3670).
- si_UNPD(brb,2003,3660).
- si_UNPD(brb,2004,3638).
- si_UNPD(brb,2005,3604).
- si_UNPD(brb,2006,3564).
- si_UNPD(brb,2007,3513).
- si_UNPD(brb,2008,3454).
- si_UNPD(brb,2009,3391).
- si_UNPD(brb,2010,3327).
- si_UNPD(brb,2011,3263).
- si_UNPD(brb,2012,3205).
- si_UNPD(brb,2013,3154).
- si_UNPD(brb,2014,3114).
- si_UNPD(brb,2015,3085).
- si_UNPD(brb,2016,3068).
- si_UNPD(brb,2017,3058).
- si_UNPD(brb,2018,3053).
- si_UNPD(brb,2019,3050).
- si_UNPD(brb,2020,3048).
- si_UNPD(brb,2021,3046).
- si_UNPD(brb,2022,3037).
- si_UNPD(brb,2023,3011).
- si_UNPD(brb,2024,3001).
- si_UNPD(brb,2025,2993).
- si_UNPD(brb,2026,2968).
- si_UNPD(brb,2027,2963).
- si_UNPD(brb,2028,2942).
- si_UNPD(brb,2029,2919).
- si_UNPD(brb,2030,2898).
+si_UNPD(brb,1997,3741).
+ si_UNPD(brb,1998,3706).
+ si_UNPD(brb,1999,3678).
+ si_UNPD(brb,2000,3654).
+ si_UNPD(brb,2001,3624).
+ si_UNPD(brb,2002,3625).
+ si_UNPD(brb,2003,3614).
+ si_UNPD(brb,2004,3592).
+ si_UNPD(brb,2005,3559).
+ si_UNPD(brb,2006,3520).
+ si_UNPD(brb,2007,3470).
+ si_UNPD(brb,2008,3412).
+ si_UNPD(brb,2009,3350).
+ si_UNPD(brb,2010,3287).
+ si_UNPD(brb,2011,3225).
+ si_UNPD(brb,2012,3168).
+ si_UNPD(brb,2013,3118).
+ si_UNPD(brb,2014,3079).
+ si_UNPD(brb,2015,3051).
+ si_UNPD(brb,2016,3035).
+ si_UNPD(brb,2017,3026).
+ si_UNPD(brb,2018,3022).
+ si_UNPD(brb,2019,3019).
+ si_UNPD(brb,2020,3018).
+ si_UNPD(brb,2021,3017).
+ si_UNPD(brb,2022,3009).
+ si_UNPD(brb,2023,2985).
+ si_UNPD(brb,2024,2975).
+ si_UNPD(brb,2025,2968).
+ si_UNPD(brb,2026,2944).
+ si_UNPD(brb,2027,2940).
+ si_UNPD(brb,2028,2919).
+ si_UNPD(brb,2029,2897).
+ si_UNPD(brb,2030,2877).
 
 survey_results(brb,rcv1,2014,brb2015161,[title:'Barbados Immunization and Anthropometric Survey 2015',type:'16',yrcoll:'2015',cr:0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:340], 93).
 

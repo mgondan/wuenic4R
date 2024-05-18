@@ -1,8 +1,8 @@
 %  Malawi - MWI 
-%  Wed Sep 06 18:58:40 2023 
+%  Fri May 17 12:13:22 2024 
 
 country(mwi,'Malawi'). 
-date('Wed Sep 06 18:58:40 2023').
+date('Fri May 17 12:13:22 2024').
 
 estimate_required(mwi,bcg,1997,na,'na').
  estimate_required(mwi,bcg,1998,na,'na').
@@ -1236,40 +1236,40 @@ births_UNPD(mwi,1997,485740).
  births_UNPD(mwi,2029,736141).
  births_UNPD(mwi,2030,746353).
 
-si_UNPD(mwi,1997,485740).
- si_UNPD(mwi,1998,496726).
- si_UNPD(mwi,1999,505525).
- si_UNPD(mwi,2000,510145).
- si_UNPD(mwi,2001,520411).
- si_UNPD(mwi,2002,532093).
- si_UNPD(mwi,2003,545608).
- si_UNPD(mwi,2004,558882).
- si_UNPD(mwi,2005,573485).
- si_UNPD(mwi,2006,582845).
- si_UNPD(mwi,2007,589088).
- si_UNPD(mwi,2008,593115).
- si_UNPD(mwi,2009,598085).
- si_UNPD(mwi,2010,601115).
- si_UNPD(mwi,2011,604469).
- si_UNPD(mwi,2012,604738).
- si_UNPD(mwi,2013,606818).
- si_UNPD(mwi,2014,606439).
- si_UNPD(mwi,2015,605977).
- si_UNPD(mwi,2016,606249).
- si_UNPD(mwi,2017,614279).
- si_UNPD(mwi,2018,623309).
- si_UNPD(mwi,2019,634083).
- si_UNPD(mwi,2020,644116).
- si_UNPD(mwi,2021,653703).
- si_UNPD(mwi,2022,665678).
- si_UNPD(mwi,2023,678962).
- si_UNPD(mwi,2024,687950).
- si_UNPD(mwi,2025,698306).
- si_UNPD(mwi,2026,709710).
- si_UNPD(mwi,2027,717845).
- si_UNPD(mwi,2028,727908).
- si_UNPD(mwi,2029,736141).
- si_UNPD(mwi,2030,746353).
+si_UNPD(mwi,1997,445698).
+ si_UNPD(mwi,1998,456819).
+ si_UNPD(mwi,1999,466289).
+ si_UNPD(mwi,2000,472545).
+ si_UNPD(mwi,2001,484621).
+ si_UNPD(mwi,2002,498203).
+ si_UNPD(mwi,2003,513842).
+ si_UNPD(mwi,2004,528563).
+ si_UNPD(mwi,2005,543678).
+ si_UNPD(mwi,2006,553520).
+ si_UNPD(mwi,2007,560164).
+ si_UNPD(mwi,2008,564936).
+ si_UNPD(mwi,2009,570605).
+ si_UNPD(mwi,2010,574509).
+ si_UNPD(mwi,2011,579071).
+ si_UNPD(mwi,2012,580888).
+ si_UNPD(mwi,2013,584603).
+ si_UNPD(mwi,2014,585726).
+ si_UNPD(mwi,2015,586349).
+ si_UNPD(mwi,2016,587738).
+ si_UNPD(mwi,2017,596505).
+ si_UNPD(mwi,2018,606213).
+ si_UNPD(mwi,2019,617453).
+ si_UNPD(mwi,2020,627928).
+ si_UNPD(mwi,2021,637864).
+ si_UNPD(mwi,2022,649567).
+ si_UNPD(mwi,2023,662231).
+ si_UNPD(mwi,2024,671897).
+ si_UNPD(mwi,2025,682339).
+ si_UNPD(mwi,2026,693804).
+ si_UNPD(mwi,2027,702078).
+ si_UNPD(mwi,2028,712209).
+ si_UNPD(mwi,2029,720546).
+ si_UNPD(mwi,2030,730820).
 
 survey_results(mwi,pol3,1998,mwi1999161,[title:'NA',type:'16',yrcoll:'1999',cr: 93,confirm:'card or history',age:'11-23 m',timead:'',val:'crude',ss:210], 93).
 

@@ -1,8 +1,8 @@
 %  Croatia - HRV 
-%  Wed Sep 06 18:49:55 2023 
+%  Fri May 17 12:05:06 2024 
 
 country(hrv,'Croatia'). 
-date('Wed Sep 06 18:49:55 2023').
+date('Fri May 17 12:05:06 2024').
 
 estimate_required(hrv,bcg,1997,na,'na').
  estimate_required(hrv,bcg,1998,na,'na').
@@ -1099,40 +1099,40 @@ births_UNPD(hrv,1997,57510).
  births_UNPD(hrv,2029,31180).
  births_UNPD(hrv,2030,30813).
 
-si_UNPD(hrv,1997,57510).
- si_UNPD(hrv,1998,49338).
- si_UNPD(hrv,1999,46840).
- si_UNPD(hrv,2000,45393).
- si_UNPD(hrv,2001,44567).
- si_UNPD(hrv,2002,43316).
- si_UNPD(hrv,2003,42607).
- si_UNPD(hrv,2004,42998).
- si_UNPD(hrv,2005,44700).
- si_UNPD(hrv,2006,43551).
- si_UNPD(hrv,2007,43830).
- si_UNPD(hrv,2008,45414).
- si_UNPD(hrv,2009,45999).
- si_UNPD(hrv,2010,44589).
- si_UNPD(hrv,2011,42436).
- si_UNPD(hrv,2012,42523).
- si_UNPD(hrv,2013,40653).
- si_UNPD(hrv,2014,39853).
- si_UNPD(hrv,2015,37817).
- si_UNPD(hrv,2016,37675).
- si_UNPD(hrv,2017,37027).
- si_UNPD(hrv,2018,37421).
- si_UNPD(hrv,2019,36700).
- si_UNPD(hrv,2020,35757).
- si_UNPD(hrv,2021,34733).
- si_UNPD(hrv,2022,33924).
- si_UNPD(hrv,2023,33537).
- si_UNPD(hrv,2024,33117).
- si_UNPD(hrv,2025,32744).
- si_UNPD(hrv,2026,32361).
- si_UNPD(hrv,2027,31948).
- si_UNPD(hrv,2028,31550).
- si_UNPD(hrv,2029,31180).
- si_UNPD(hrv,2030,30813).
+si_UNPD(hrv,1997,57042).
+ si_UNPD(hrv,1998,48993).
+ si_UNPD(hrv,1999,46545).
+ si_UNPD(hrv,2000,45127).
+ si_UNPD(hrv,2001,44263).
+ si_UNPD(hrv,2002,43051).
+ si_UNPD(hrv,2003,42361).
+ si_UNPD(hrv,2004,42778).
+ si_UNPD(hrv,2005,44476).
+ si_UNPD(hrv,2006,43354).
+ si_UNPD(hrv,2007,43631).
+ si_UNPD(hrv,2008,45231).
+ si_UNPD(hrv,2009,45795).
+ si_UNPD(hrv,2010,44438).
+ si_UNPD(hrv,2011,42278).
+ si_UNPD(hrv,2012,42391).
+ si_UNPD(hrv,2013,40526).
+ si_UNPD(hrv,2014,39698).
+ si_UNPD(hrv,2015,37692).
+ si_UNPD(hrv,2016,37552).
+ si_UNPD(hrv,2017,36909).
+ si_UNPD(hrv,2018,37297).
+ si_UNPD(hrv,2019,36586).
+ si_UNPD(hrv,2020,35642).
+ si_UNPD(hrv,2021,34617).
+ si_UNPD(hrv,2022,33836).
+ si_UNPD(hrv,2023,33452).
+ si_UNPD(hrv,2024,33036).
+ si_UNPD(hrv,2025,32666).
+ si_UNPD(hrv,2026,32287).
+ si_UNPD(hrv,2027,31877).
+ si_UNPD(hrv,2028,31482).
+ si_UNPD(hrv,2029,31115).
+ si_UNPD(hrv,2030,30751).
 
 wgd(hrv,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(hrv,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).

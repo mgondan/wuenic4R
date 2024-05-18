@@ -1,8 +1,8 @@
 %  Finland - FIN 
-%  Wed Sep 06 18:46:15 2023 
+%  Fri May 17 12:01:36 2024 
 
 country(fin,'Finland'). 
-date('Wed Sep 06 18:46:15 2023').
+date('Fri May 17 12:01:36 2024').
 
 estimate_required(fin,bcg,1997,na,'na').
  estimate_required(fin,bcg,1998,na,'na').
@@ -586,40 +586,40 @@ births_UNPD(fin,1997,59078).
  births_UNPD(fin,2029,47609).
  births_UNPD(fin,2030,47488).
 
-si_UNPD(fin,1997,59078).
- si_UNPD(fin,1998,57551).
- si_UNPD(fin,1999,57503).
- si_UNPD(fin,2000,56710).
- si_UNPD(fin,2001,55887).
- si_UNPD(fin,2002,55530).
- si_UNPD(fin,2003,56342).
- si_UNPD(fin,2004,57561).
- si_UNPD(fin,2005,57477).
- si_UNPD(fin,2006,58606).
- si_UNPD(fin,2007,58614).
- si_UNPD(fin,2008,59353).
- si_UNPD(fin,2009,60232).
- si_UNPD(fin,2010,60636).
- si_UNPD(fin,2011,59822).
- si_UNPD(fin,2012,59367).
- si_UNPD(fin,2013,57973).
- si_UNPD(fin,2014,56973).
- si_UNPD(fin,2015,55285).
- si_UNPD(fin,2016,52673).
- si_UNPD(fin,2017,50169).
- si_UNPD(fin,2018,47532).
- si_UNPD(fin,2019,45790).
- si_UNPD(fin,2020,46241).
- si_UNPD(fin,2021,46891).
- si_UNPD(fin,2022,47136).
- si_UNPD(fin,2023,47143).
- si_UNPD(fin,2024,47462).
- si_UNPD(fin,2025,47507).
- si_UNPD(fin,2026,47405).
- si_UNPD(fin,2027,47560).
- si_UNPD(fin,2028,47653).
- si_UNPD(fin,2029,47609).
- si_UNPD(fin,2030,47488).
+si_UNPD(fin,1997,58883).
+ si_UNPD(fin,1998,57349).
+ si_UNPD(fin,1999,57324).
+ si_UNPD(fin,2000,56530).
+ si_UNPD(fin,2001,55733).
+ si_UNPD(fin,2002,55385).
+ si_UNPD(fin,2003,56192).
+ si_UNPD(fin,2004,57397).
+ si_UNPD(fin,2005,57328).
+ si_UNPD(fin,2006,58463).
+ si_UNPD(fin,2007,58477).
+ si_UNPD(fin,2008,59219).
+ si_UNPD(fin,2009,60092).
+ si_UNPD(fin,2010,60518).
+ si_UNPD(fin,2011,59702).
+ si_UNPD(fin,2012,59247).
+ si_UNPD(fin,2013,57892).
+ si_UNPD(fin,2014,56868).
+ si_UNPD(fin,2015,55206).
+ si_UNPD(fin,2016,52588).
+ si_UNPD(fin,2017,50085).
+ si_UNPD(fin,2018,47450).
+ si_UNPD(fin,2019,45710).
+ si_UNPD(fin,2020,46170).
+ si_UNPD(fin,2021,46814).
+ si_UNPD(fin,2022,47070).
+ si_UNPD(fin,2023,47080).
+ si_UNPD(fin,2024,47400).
+ si_UNPD(fin,2025,47447).
+ si_UNPD(fin,2026,47347).
+ si_UNPD(fin,2027,47504).
+ si_UNPD(fin,2028,47598).
+ si_UNPD(fin,2029,47556).
+ si_UNPD(fin,2030,47436).
 
 survey_results(fin,pol3,1998,fin1999311,[title:'conducted by National Public Health Institute, KTL, Finland',type:'31',yrcoll:'1999',cr:0,confirm:'card',age:'13-24 m',timead:'',val:'crude',ss:987], 95).
 

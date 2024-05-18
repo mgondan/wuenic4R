@@ -1,8 +1,8 @@
 %  Lao People’s Democratic Republic - LAO 
-%  Wed Sep 06 18:54:02 2023 
+%  Fri May 17 12:08:57 2024 
 
 country(lao,'Lao People’s Democratic Republic'). 
-date('Wed Sep 06 18:54:02 2023').
+date('Fri May 17 12:08:57 2024').
 
 estimate_required(lao,bcg,1997,na,'na').
  estimate_required(lao,bcg,1998,na,'na').
@@ -1187,40 +1187,40 @@ births_UNPD(lao,1997,186409).
  births_UNPD(lao,2029,154182).
  births_UNPD(lao,2030,152707).
 
-si_UNPD(lao,1997,186409).
- si_UNPD(lao,1998,184315).
- si_UNPD(lao,1999,184767).
- si_UNPD(lao,2000,179704).
- si_UNPD(lao,2001,176592).
- si_UNPD(lao,2002,173554).
- si_UNPD(lao,2003,172572).
- si_UNPD(lao,2004,172922).
- si_UNPD(lao,2005,171603).
- si_UNPD(lao,2006,173661).
- si_UNPD(lao,2007,174689).
- si_UNPD(lao,2008,174138).
- si_UNPD(lao,2009,173413).
- si_UNPD(lao,2010,171394).
- si_UNPD(lao,2011,170211).
- si_UNPD(lao,2012,168363).
- si_UNPD(lao,2013,166974).
- si_UNPD(lao,2014,165593).
- si_UNPD(lao,2015,166108).
- si_UNPD(lao,2016,166438).
- si_UNPD(lao,2017,166076).
- si_UNPD(lao,2018,165223).
- si_UNPD(lao,2019,164445).
- si_UNPD(lao,2020,164431).
- si_UNPD(lao,2021,163261).
- si_UNPD(lao,2022,161682).
- si_UNPD(lao,2023,160515).
- si_UNPD(lao,2024,159480).
- si_UNPD(lao,2025,158759).
- si_UNPD(lao,2026,157668).
- si_UNPD(lao,2027,156472).
- si_UNPD(lao,2028,155336).
- si_UNPD(lao,2029,154182).
- si_UNPD(lao,2030,152707).
+si_UNPD(lao,1997,175147).
+ si_UNPD(lao,1998,173426).
+ si_UNPD(lao,1999,174091).
+ si_UNPD(lao,2000,169558).
+ si_UNPD(lao,2001,166867).
+ si_UNPD(lao,2002,164249).
+ si_UNPD(lao,2003,163568).
+ si_UNPD(lao,2004,164149).
+ si_UNPD(lao,2005,163151).
+ si_UNPD(lao,2006,165368).
+ si_UNPD(lao,2007,166613).
+ si_UNPD(lao,2008,166337).
+ si_UNPD(lao,2009,165902).
+ si_UNPD(lao,2010,164216).
+ si_UNPD(lao,2011,163320).
+ si_UNPD(lao,2012,161783).
+ si_UNPD(lao,2013,160646).
+ si_UNPD(lao,2014,159542).
+ si_UNPD(lao,2015,160232).
+ si_UNPD(lao,2016,160738).
+ si_UNPD(lao,2017,160575).
+ si_UNPD(lao,2018,159891).
+ si_UNPD(lao,2019,159311).
+ si_UNPD(lao,2020,159437).
+ si_UNPD(lao,2021,158442).
+ si_UNPD(lao,2022,157386).
+ si_UNPD(lao,2023,156426).
+ si_UNPD(lao,2024,155587).
+ si_UNPD(lao,2025,155045).
+ si_UNPD(lao,2026,154133).
+ si_UNPD(lao,2027,153110).
+ si_UNPD(lao,2028,152135).
+ si_UNPD(lao,2029,151137).
+ si_UNPD(lao,2030,149817).
 
 survey_results(lao,dtp1,1999,lao2000231,[title:'Lao PDR Multiple Indicator Cluster Survey MICS-II 2000, 2001',type:'23',yrcoll:'2000',cr:44,confirm:'card',age:'12-23 m',timead:'',val:'crude',ss:398],83).
 

@@ -1,8 +1,8 @@
 %  Dominican Republic - DOM 
-%  Wed Sep 06 18:44:39 2023 
+%  Fri May 17 12:00:07 2024 
 
 country(dom,'Dominican Republic'). 
-date('Wed Sep 06 18:44:39 2023').
+date('Fri May 17 12:00:07 2024').
 
 estimate_required(dom,bcg,1997,na,'na').
  estimate_required(dom,bcg,1998,na,'na').
@@ -1379,40 +1379,40 @@ births_UNPD(dom,1997,212907).
  births_UNPD(dom,2029,190496).
  births_UNPD(dom,2030,189213).
 
-si_UNPD(dom,1997,212907).
- si_UNPD(dom,1998,209217).
- si_UNPD(dom,1999,210728).
- si_UNPD(dom,2000,212564).
- si_UNPD(dom,2001,211171).
- si_UNPD(dom,2002,210285).
- si_UNPD(dom,2003,209303).
- si_UNPD(dom,2004,208084).
- si_UNPD(dom,2005,206409).
- si_UNPD(dom,2006,203321).
- si_UNPD(dom,2007,204419).
- si_UNPD(dom,2008,209382).
- si_UNPD(dom,2009,213903).
- si_UNPD(dom,2010,215791).
- si_UNPD(dom,2011,216161).
- si_UNPD(dom,2012,215533).
- si_UNPD(dom,2013,215305).
- si_UNPD(dom,2014,214875).
- si_UNPD(dom,2015,214628).
- si_UNPD(dom,2016,213572).
- si_UNPD(dom,2017,213169).
- si_UNPD(dom,2018,213047).
- si_UNPD(dom,2019,210196).
- si_UNPD(dom,2020,206696).
- si_UNPD(dom,2021,205050).
- si_UNPD(dom,2022,203625).
- si_UNPD(dom,2023,200635).
- si_UNPD(dom,2024,199286).
- si_UNPD(dom,2025,196763).
- si_UNPD(dom,2026,195224).
- si_UNPD(dom,2027,193545).
- si_UNPD(dom,2028,192411).
- si_UNPD(dom,2029,190496).
- si_UNPD(dom,2030,189213).
+si_UNPD(dom,1997,206194).
+ si_UNPD(dom,1998,202788).
+ si_UNPD(dom,1999,204464).
+ si_UNPD(dom,2000,206433).
+ si_UNPD(dom,2001,205262).
+ si_UNPD(dom,2002,204576).
+ si_UNPD(dom,2003,203803).
+ si_UNPD(dom,2004,202558).
+ si_UNPD(dom,2005,201110).
+ si_UNPD(dom,2006,198147).
+ si_UNPD(dom,2007,199241).
+ si_UNPD(dom,2008,204121).
+ si_UNPD(dom,2009,208551).
+ si_UNPD(dom,2010,210409).
+ si_UNPD(dom,2011,210767).
+ si_UNPD(dom,2012,210173).
+ si_UNPD(dom,2013,209955).
+ si_UNPD(dom,2014,209536).
+ si_UNPD(dom,2015,209294).
+ si_UNPD(dom,2016,208262).
+ si_UNPD(dom,2017,207879).
+ si_UNPD(dom,2018,207787).
+ si_UNPD(dom,2019,205053).
+ si_UNPD(dom,2020,201711).
+ si_UNPD(dom,2021,200195).
+ si_UNPD(dom,2022,199209).
+ si_UNPD(dom,2023,196404).
+ si_UNPD(dom,2024,195203).
+ si_UNPD(dom,2025,192854).
+ si_UNPD(dom,2026,191471).
+ si_UNPD(dom,2027,189948).
+ si_UNPD(dom,2028,188948).
+ si_UNPD(dom,2029,187177).
+ si_UNPD(dom,2030,186028).
 
 survey_results(dom,pol1,1998,dom1999141,[title:'Dominican Republic Demographic and Health Survey 1999',type:'14',yrcoll:'1999',cr:48,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:73], 95.1).
 

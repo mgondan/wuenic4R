@@ -1,8 +1,8 @@
 %  Saint Lucia - LCA 
-%  Wed Sep 06 18:54:54 2023 
+%  Fri May 17 12:09:48 2024 
 
 country(lca,'Saint Lucia'). 
-date('Wed Sep 06 18:54:54 2023').
+date('Fri May 17 12:09:48 2024').
 
 estimate_required(lca,bcg,1997,na,'na').
  estimate_required(lca,bcg,1998,na,'na').
@@ -1205,40 +1205,40 @@ births_UNPD(lca,1997,3467).
  births_UNPD(lca,2029,1900).
  births_UNPD(lca,2030,1875).
 
-si_UNPD(lca,1997,3467).
- si_UNPD(lca,1998,3308).
- si_UNPD(lca,1999,3135).
- si_UNPD(lca,2000,2957).
- si_UNPD(lca,2001,2793).
- si_UNPD(lca,2002,2647).
- si_UNPD(lca,2003,2526).
- si_UNPD(lca,2004,2423).
- si_UNPD(lca,2005,2345).
- si_UNPD(lca,2006,2290).
- si_UNPD(lca,2007,2248).
- si_UNPD(lca,2008,2211).
- si_UNPD(lca,2009,2180).
- si_UNPD(lca,2010,2152).
- si_UNPD(lca,2011,2159).
- si_UNPD(lca,2012,2163).
- si_UNPD(lca,2013,2165).
- si_UNPD(lca,2014,2166).
- si_UNPD(lca,2015,2164).
- si_UNPD(lca,2016,2157).
- si_UNPD(lca,2017,2146).
- si_UNPD(lca,2018,2132).
- si_UNPD(lca,2019,2113).
- si_UNPD(lca,2020,2091).
- si_UNPD(lca,2021,2064).
- si_UNPD(lca,2022,2035).
- si_UNPD(lca,2023,2009).
- si_UNPD(lca,2024,1994).
- si_UNPD(lca,2025,1976).
- si_UNPD(lca,2026,1969).
- si_UNPD(lca,2027,1944).
- si_UNPD(lca,2028,1921).
- si_UNPD(lca,2029,1900).
- si_UNPD(lca,2030,1875).
+si_UNPD(lca,1997,3419).
+ si_UNPD(lca,1998,3262).
+ si_UNPD(lca,1999,3092).
+ si_UNPD(lca,2000,2917).
+ si_UNPD(lca,2001,2755).
+ si_UNPD(lca,2002,2611).
+ si_UNPD(lca,2003,2492).
+ si_UNPD(lca,2004,2390).
+ si_UNPD(lca,2005,2313).
+ si_UNPD(lca,2006,2258).
+ si_UNPD(lca,2007,2217).
+ si_UNPD(lca,2008,2180).
+ si_UNPD(lca,2009,2149).
+ si_UNPD(lca,2010,2121).
+ si_UNPD(lca,2011,2128).
+ si_UNPD(lca,2012,2132).
+ si_UNPD(lca,2013,2134).
+ si_UNPD(lca,2014,2137).
+ si_UNPD(lca,2015,2136).
+ si_UNPD(lca,2016,2131).
+ si_UNPD(lca,2017,2121).
+ si_UNPD(lca,2018,2109).
+ si_UNPD(lca,2019,2091).
+ si_UNPD(lca,2020,2069).
+ si_UNPD(lca,2021,2043).
+ si_UNPD(lca,2022,2014).
+ si_UNPD(lca,2023,1991).
+ si_UNPD(lca,2024,1976).
+ si_UNPD(lca,2025,1959).
+ si_UNPD(lca,2026,1953).
+ si_UNPD(lca,2027,1928).
+ si_UNPD(lca,2028,1906).
+ si_UNPD(lca,2029,1886).
+ si_UNPD(lca,2030,1861).
 
 wgd(lca,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(lca,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).

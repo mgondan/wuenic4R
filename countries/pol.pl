@@ -1,8 +1,8 @@
 %  Poland - POL 
-%  Wed Sep 06 19:02:41 2023 
+%  Fri May 17 12:17:13 2024 
 
 country(pol,'Poland'). 
-date('Wed Sep 06 19:02:41 2023').
+date('Fri May 17 12:17:13 2024').
 
 estimate_required(pol,bcg,1997,na,'na').
  estimate_required(pol,bcg,1998,na,'na').
@@ -1115,40 +1115,40 @@ births_UNPD(pol,1997,407459).
  births_UNPD(pol,2029,327651).
  births_UNPD(pol,2030,321035).
 
-si_UNPD(pol,1997,407459).
- si_UNPD(pol,1998,392641).
- si_UNPD(pol,1999,377774).
- si_UNPD(pol,2000,379791).
- si_UNPD(pol,2001,374203).
- si_UNPD(pol,2002,360316).
- si_UNPD(pol,2003,356940).
- si_UNPD(pol,2004,361274).
- si_UNPD(pol,2005,369184).
- si_UNPD(pol,2006,380669).
- si_UNPD(pol,2007,393056).
- si_UNPD(pol,2008,416586).
- si_UNPD(pol,2009,420179).
- si_UNPD(pol,2010,422613).
- si_UNPD(pol,2011,400024).
- si_UNPD(pol,2012,395663).
- si_UNPD(pol,2013,380533).
- si_UNPD(pol,2014,385896).
- si_UNPD(pol,2015,379211).
- si_UNPD(pol,2016,390297).
- si_UNPD(pol,2017,407670).
- si_UNPD(pol,2018,399342).
- si_UNPD(pol,2019,382527).
- si_UNPD(pol,2020,372990).
- si_UNPD(pol,2021,363427).
- si_UNPD(pol,2022,353840).
- si_UNPD(pol,2023,423741).
- si_UNPD(pol,2024,397091).
- si_UNPD(pol,2025,374563).
- si_UNPD(pol,2026,355451).
- si_UNPD(pol,2027,343507).
- si_UNPD(pol,2028,334398).
- si_UNPD(pol,2029,327651).
- si_UNPD(pol,2030,321035).
+si_UNPD(pol,1997,403934).
+ si_UNPD(pol,1998,389441).
+ si_UNPD(pol,1999,374923).
+ si_UNPD(pol,2000,377152).
+ si_UNPD(pol,2001,371786).
+ si_UNPD(pol,2002,358040).
+ si_UNPD(pol,2003,354804).
+ si_UNPD(pol,2004,359173).
+ si_UNPD(pol,2005,367161).
+ si_UNPD(pol,2006,378722).
+ si_UNPD(pol,2007,391073).
+ si_UNPD(pol,2008,414584).
+ si_UNPD(pol,2009,418248).
+ si_UNPD(pol,2010,420848).
+ si_UNPD(pol,2011,398445).
+ si_UNPD(pol,2012,394085).
+ si_UNPD(pol,2013,379043).
+ si_UNPD(pol,2014,384456).
+ si_UNPD(pol,2015,377896).
+ si_UNPD(pol,2016,388910).
+ si_UNPD(pol,2017,406230).
+ si_UNPD(pol,2018,398023).
+ si_UNPD(pol,2019,381284).
+ si_UNPD(pol,2020,371829).
+ si_UNPD(pol,2021,362344).
+ si_UNPD(pol,2022,352814).
+ si_UNPD(pol,2023,422547).
+ si_UNPD(pol,2024,396002).
+ si_UNPD(pol,2025,373563).
+ si_UNPD(pol,2026,354529).
+ si_UNPD(pol,2027,342640).
+ si_UNPD(pol,2028,333577).
+ si_UNPD(pol,2029,326869).
+ si_UNPD(pol,2030,320290).
 
 wgd(pol,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,96,_,na).
  wgd(pol,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).

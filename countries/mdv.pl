@@ -1,8 +1,8 @@
 %  Maldives - MDV 
-%  Wed Sep 06 18:56:22 2023 
+%  Fri May 17 12:11:12 2024 
 
 country(mdv,'Maldives'). 
-date('Wed Sep 06 18:56:22 2023').
+date('Fri May 17 12:11:12 2024').
 
 estimate_required(mdv,bcg,1997,na,'na').
  estimate_required(mdv,bcg,1998,na,'na').
@@ -1256,40 +1256,40 @@ births_UNPD(mdv,1997,6992).
  births_UNPD(mdv,2029,5188).
  births_UNPD(mdv,2030,5008).
 
-si_UNPD(mdv,1997,6992).
- si_UNPD(mdv,1998,6581).
- si_UNPD(mdv,1999,6153).
- si_UNPD(mdv,2000,5799).
- si_UNPD(mdv,2001,5585).
- si_UNPD(mdv,2002,5532).
- si_UNPD(mdv,2003,5580).
- si_UNPD(mdv,2004,5694).
- si_UNPD(mdv,2005,5829).
- si_UNPD(mdv,2006,6111).
- si_UNPD(mdv,2007,6624).
- si_UNPD(mdv,2008,7142).
- si_UNPD(mdv,2009,7497).
- si_UNPD(mdv,2010,7592).
- si_UNPD(mdv,2011,7623).
- si_UNPD(mdv,2012,7634).
- si_UNPD(mdv,2013,7508).
- si_UNPD(mdv,2014,7407).
- si_UNPD(mdv,2015,7498).
- si_UNPD(mdv,2016,7526).
- si_UNPD(mdv,2017,7524).
- si_UNPD(mdv,2018,7523).
- si_UNPD(mdv,2019,7517).
- si_UNPD(mdv,2020,7490).
- si_UNPD(mdv,2021,7337).
- si_UNPD(mdv,2022,7197).
- si_UNPD(mdv,2023,6875).
- si_UNPD(mdv,2024,6554).
- si_UNPD(mdv,2025,6245).
- si_UNPD(mdv,2026,5951).
- si_UNPD(mdv,2027,5673).
- si_UNPD(mdv,2028,5414).
- si_UNPD(mdv,2029,5188).
- si_UNPD(mdv,2030,5008).
+si_UNPD(mdv,1997,6749).
+ si_UNPD(mdv,1998,6368).
+ si_UNPD(mdv,1999,5969).
+ si_UNPD(mdv,2000,5640).
+ si_UNPD(mdv,2001,5446).
+ si_UNPD(mdv,2002,5408).
+ si_UNPD(mdv,2003,5468).
+ si_UNPD(mdv,2004,5587).
+ si_UNPD(mdv,2005,5736).
+ si_UNPD(mdv,2006,6023).
+ si_UNPD(mdv,2007,6537).
+ si_UNPD(mdv,2008,7056).
+ si_UNPD(mdv,2009,7414).
+ si_UNPD(mdv,2010,7514).
+ si_UNPD(mdv,2011,7549).
+ si_UNPD(mdv,2012,7565).
+ si_UNPD(mdv,2013,7445).
+ si_UNPD(mdv,2014,7349).
+ si_UNPD(mdv,2015,7444).
+ si_UNPD(mdv,2016,7476).
+ si_UNPD(mdv,2017,7478).
+ si_UNPD(mdv,2018,7481).
+ si_UNPD(mdv,2019,7478).
+ si_UNPD(mdv,2020,7455).
+ si_UNPD(mdv,2021,7305).
+ si_UNPD(mdv,2022,7160).
+ si_UNPD(mdv,2023,6841).
+ si_UNPD(mdv,2024,6523).
+ si_UNPD(mdv,2025,6217).
+ si_UNPD(mdv,2026,5925).
+ si_UNPD(mdv,2027,5649).
+ si_UNPD(mdv,2028,5392).
+ si_UNPD(mdv,2029,5168).
+ si_UNPD(mdv,2030,4989).
 
 survey_results(mdv,dtp1,2000,mdv2001231,[title:'Maldives Multiple Indicator Cluster Survey 2001',type:'23',yrcoll:'2001',cr: 0,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:158], 96).
 

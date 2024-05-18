@@ -1,8 +1,8 @@
 %  Zambia - ZMB 
-%  Wed Sep 06 19:12:41 2023 
+%  Fri May 17 12:27:08 2024 
 
 country(zmb,'Zambia'). 
-date('Wed Sep 06 19:12:41 2023').
+date('Fri May 17 12:27:08 2024').
 
 estimate_required(zmb,bcg,1997,na,'na').
  estimate_required(zmb,bcg,1998,na,'na').
@@ -1140,40 +1140,40 @@ births_UNPD(zmb,1997,425450).
  births_UNPD(zmb,2029,755639).
  births_UNPD(zmb,2030,765497).
 
-si_UNPD(zmb,1997,425450).
- si_UNPD(zmb,1998,434934).
- si_UNPD(zmb,1999,444593).
- si_UNPD(zmb,2000,453873).
- si_UNPD(zmb,2001,460477).
- si_UNPD(zmb,2002,470222).
- si_UNPD(zmb,2003,480837).
- si_UNPD(zmb,2004,496149).
- si_UNPD(zmb,2005,511013).
- si_UNPD(zmb,2006,526413).
- si_UNPD(zmb,2007,538320).
- si_UNPD(zmb,2008,551728).
- si_UNPD(zmb,2009,563832).
- si_UNPD(zmb,2010,576081).
- si_UNPD(zmb,2011,587043).
- si_UNPD(zmb,2012,594874).
- si_UNPD(zmb,2013,601658).
- si_UNPD(zmb,2014,606963).
- si_UNPD(zmb,2015,614471).
- si_UNPD(zmb,2016,624251).
- si_UNPD(zmb,2017,632854).
- si_UNPD(zmb,2018,642576).
- si_UNPD(zmb,2019,651591).
- si_UNPD(zmb,2020,661531).
- si_UNPD(zmb,2021,672000).
- si_UNPD(zmb,2022,683355).
- si_UNPD(zmb,2023,694807).
- si_UNPD(zmb,2024,704170).
- si_UNPD(zmb,2025,714029).
- si_UNPD(zmb,2026,725472).
- si_UNPD(zmb,2027,738616).
- si_UNPD(zmb,2028,745885).
- si_UNPD(zmb,2029,755639).
- si_UNPD(zmb,2030,765497).
+si_UNPD(zmb,1997,395788).
+ si_UNPD(zmb,1998,405038).
+ si_UNPD(zmb,1999,414546).
+ si_UNPD(zmb,2000,424118).
+ si_UNPD(zmb,2001,431749).
+ si_UNPD(zmb,2002,442692).
+ si_UNPD(zmb,2003,454467).
+ si_UNPD(zmb,2004,470122).
+ si_UNPD(zmb,2005,485408).
+ si_UNPD(zmb,2006,501136).
+ si_UNPD(zmb,2007,513310).
+ si_UNPD(zmb,2008,526875).
+ si_UNPD(zmb,2009,539337).
+ si_UNPD(zmb,2010,551959).
+ si_UNPD(zmb,2011,562913).
+ si_UNPD(zmb,2012,570870).
+ si_UNPD(zmb,2013,578178).
+ si_UNPD(zmb,2014,583909).
+ si_UNPD(zmb,2015,591285).
+ si_UNPD(zmb,2016,601263).
+ si_UNPD(zmb,2017,609724).
+ si_UNPD(zmb,2018,618903).
+ si_UNPD(zmb,2019,627918).
+ si_UNPD(zmb,2020,638202).
+ si_UNPD(zmb,2021,649282).
+ si_UNPD(zmb,2022,661373).
+ si_UNPD(zmb,2023,673251).
+ si_UNPD(zmb,2024,682015).
+ si_UNPD(zmb,2025,690257).
+ si_UNPD(zmb,2026,701651).
+ si_UNPD(zmb,2027,714697).
+ si_UNPD(zmb,2028,722049).
+ si_UNPD(zmb,2029,731812).
+ si_UNPD(zmb,2030,741675).
 
 survey_results(zmb,bcg,1998,zmb1999231,[title:'Zambia Multiple Indicator Cluster Suvey 1999',type:'23',yrcoll:'1999',cr: 0,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:328], 13).
 
@@ -1754,7 +1754,11 @@ wgd(zmb,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(zmb,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,86,_,na).
  wgd(zmb,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,82,_,na).
 
-wgd(zmb,X,1997,2001,interpolate,' Unexplained temporal change in numerator and denominator levels.',na,na,na,na).
+wgd(zmb,rotac,2015,2015,assignAnchor,' Estimate based on reported data.',na,82,na,na).
+ wgd(zmb,rotac,2016,2016,assignWUENIC,' Estimate is based on a four percentage point adjustment to the reported administrative coverage derived from the difference between the reported administrative coverage for DTP1 and the best possible performance coverage level of 99 percent.',na,90,na,na).
+ wgd(zmb,rotac,2021,2021,comment,' Programme reports a four months vaccine stockout.',na,na,na,na).
+ wgd(zmb,rotac,2022,2022,acceptReported,' Programme reports four months vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(zmb,X,1997,2001,interpolate,' Unexplained temporal change in numerator and denominator levels.',na,na,na,na).
  wgd(zmb,X,2001,2006,interpolate,' Unexplained temporal change in numerator and denominator levels.',na,na,na,na).
  wgd(zmb,X,2014,2014,comment,' Official reported estimate is based on the results of the 2014 Demographic and Health Survey.',na,na,na,na).
  wgd(zmb,X,2016,2016,ignoreGov,' Reported official government estimates are based on unexplained adjustments to the administrative coverage.',na,na,na,na).
@@ -1828,8 +1832,4 @@ wgd(zmb,X,1997,2001,interpolate,' Unexplained temporal change in numerator and d
  wgd(zmb,pol3,2019,2019,assignGoC,' Consistency with other antigens.',na,1,na,na).
  wgd(zmb,rcv1,2017,2017,comment,' Rubella containing vaccine introduced in 2017 as Measles-Rubella vaccine. 2018 DHS Key Indicators Report coverage of 91.',na,na,na,na).
  wgd(zmb,rotac,2014,2014,comment,' Rotavirus vaccine introduced during 2013. Reporting began during 2014.',na,na,na,na).
- wgd(zmb,rotac,2015,2015,assignAnchor,' Estimate based on reported data.',na,82,na,na).
- wgd(zmb,rotac,2016,2016,assignWUENIC,' Estimate is based on a four percentage point adjustment to the reported administrative coverage derived from the difference between the reported administrative coverage for DTP1 and the best possible performance coverage level of 99 percent.',na,90,na,na).
- wgd(zmb,rotac,2021,2021,comment,' Programme reports a four months vaccine stockout.',na,na,na,na).
- wgd(zmb,rotac,2022,2022,acceptReported,' Programme reports four months vaccine stockout at national and subnational levels.',na,na,na,na).
 

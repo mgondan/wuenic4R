@@ -1,8 +1,8 @@
 %  Republic of Korea - KOR 
-%  Wed Sep 06 18:53:43 2023 
+%  Fri May 17 12:08:40 2024 
 
 country(kor,'Republic of Korea'). 
-date('Wed Sep 06 18:53:43 2023').
+date('Fri May 17 12:08:40 2024').
 
 estimate_required(kor,bcg,1997,na,'na').
  estimate_required(kor,bcg,1998,na,'na').
@@ -1326,40 +1326,40 @@ births_UNPD(kor,1997,659248).
  births_UNPD(kor,2029,305108).
  births_UNPD(kor,2030,302451).
 
-si_UNPD(kor,1997,659248).
- si_UNPD(kor,1998,632466).
- si_UNPD(kor,1999,606683).
- si_UNPD(kor,2000,585841).
- si_UNPD(kor,2001,531046).
- si_UNPD(kor,2002,483211).
- si_UNPD(kor,2003,468465).
- si_UNPD(kor,2004,452204).
- si_UNPD(kor,2005,432555).
- si_UNPD(kor,2006,440382).
- si_UNPD(kor,2007,461047).
- si_UNPD(kor,2008,449060).
- si_UNPD(kor,2009,439272).
- si_UNPD(kor,2010,453037).
- si_UNPD(kor,2011,459245).
- si_UNPD(kor,2012,460837).
- si_UNPD(kor,2013,440136).
- si_UNPD(kor,2014,432046).
- si_UNPD(kor,2015,425505).
- si_UNPD(kor,2016,399649).
- si_UNPD(kor,2017,361088).
- si_UNPD(kor,2018,328956).
- si_UNPD(kor,2019,306304).
- si_UNPD(kor,2020,294239).
- si_UNPD(kor,2021,289006).
- si_UNPD(kor,2022,285686).
- si_UNPD(kor,2023,287848).
- si_UNPD(kor,2024,290594).
- si_UNPD(kor,2025,294491).
- si_UNPD(kor,2026,299521).
- si_UNPD(kor,2027,300904).
- si_UNPD(kor,2028,303333).
- si_UNPD(kor,2029,305108).
- si_UNPD(kor,2030,302451).
+si_UNPD(kor,1997,654787).
+ si_UNPD(kor,1998,628408).
+ si_UNPD(kor,1999,603075).
+ si_UNPD(kor,2000,582558).
+ si_UNPD(kor,2001,528228).
+ si_UNPD(kor,2002,480785).
+ si_UNPD(kor,2003,466254).
+ si_UNPD(kor,2004,450213).
+ si_UNPD(kor,2005,430788).
+ si_UNPD(kor,2006,438715).
+ si_UNPD(kor,2007,459429).
+ si_UNPD(kor,2008,447585).
+ si_UNPD(kor,2009,437908).
+ si_UNPD(kor,2010,451693).
+ si_UNPD(kor,2011,457930).
+ si_UNPD(kor,2012,459569).
+ si_UNPD(kor,2013,438967).
+ si_UNPD(kor,2014,430933).
+ si_UNPD(kor,2015,424444).
+ si_UNPD(kor,2016,398682).
+ si_UNPD(kor,2017,360240).
+ si_UNPD(kor,2018,328207).
+ si_UNPD(kor,2019,305630).
+ si_UNPD(kor,2020,293613).
+ si_UNPD(kor,2021,288419).
+ si_UNPD(kor,2022,285127).
+ si_UNPD(kor,2023,287297).
+ si_UNPD(kor,2024,290050).
+ si_UNPD(kor,2025,293952).
+ si_UNPD(kor,2026,298985).
+ si_UNPD(kor,2027,300376).
+ si_UNPD(kor,2028,302813).
+ si_UNPD(kor,2029,304596).
+ si_UNPD(kor,2030,301955).
 
 survey_results(kor,pol3,2008,kor2008311,[title:'Republic of Korea Nationwide vaccine coverage level: Conceptual Methodology and Survey',type:'31',yrcoll:'2008',cr:0,confirm:'card or history',age:'0-72 m',timead:'',val:'crude',ss:1026], 89).
 

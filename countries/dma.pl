@@ -1,8 +1,8 @@
 %  Dominica - DMA 
-%  Wed Sep 06 18:44:18 2023 
+%  Fri May 17 11:59:46 2024 
 
 country(dma,'Dominica'). 
-date('Wed Sep 06 18:44:18 2023').
+date('Fri May 17 11:59:46 2024').
 
 estimate_required(dma,bcg,1997,na,'na').
  estimate_required(dma,bcg,1998,na,'na').
@@ -1232,40 +1232,40 @@ births_UNPD(dma,1997,1297).
  births_UNPD(dma,2029,921).
  births_UNPD(dma,2030,903).
 
-si_UNPD(dma,1997,1297).
- si_UNPD(dma,1998,1248).
- si_UNPD(dma,1999,1346).
- si_UNPD(dma,2000,1219).
- si_UNPD(dma,2001,1292).
- si_UNPD(dma,2002,1153).
- si_UNPD(dma,2003,1105).
- si_UNPD(dma,2004,1086).
- si_UNPD(dma,2005,1074).
- si_UNPD(dma,2006,1099).
- si_UNPD(dma,2007,1065).
- si_UNPD(dma,2008,1028).
- si_UNPD(dma,2009,990).
- si_UNPD(dma,2010,965).
- si_UNPD(dma,2011,940).
- si_UNPD(dma,2012,930).
- si_UNPD(dma,2013,923).
- si_UNPD(dma,2014,899).
- si_UNPD(dma,2015,944).
- si_UNPD(dma,2016,921).
- si_UNPD(dma,2017,923).
- si_UNPD(dma,2018,933).
- si_UNPD(dma,2019,946).
- si_UNPD(dma,2020,957).
- si_UNPD(dma,2021,965).
- si_UNPD(dma,2022,966).
- si_UNPD(dma,2023,964).
- si_UNPD(dma,2024,961).
- si_UNPD(dma,2025,958).
- si_UNPD(dma,2026,953).
- si_UNPD(dma,2027,949).
- si_UNPD(dma,2028,935).
- si_UNPD(dma,2029,921).
- si_UNPD(dma,2030,903).
+si_UNPD(dma,1997,1281).
+ si_UNPD(dma,1998,1234).
+ si_UNPD(dma,1999,1323).
+ si_UNPD(dma,2000,1201).
+ si_UNPD(dma,2001,1269).
+ si_UNPD(dma,2002,1139).
+ si_UNPD(dma,2003,1088).
+ si_UNPD(dma,2004,1072).
+ si_UNPD(dma,2005,1057).
+ si_UNPD(dma,2006,1086).
+ si_UNPD(dma,2007,1049).
+ si_UNPD(dma,2008,1016).
+ si_UNPD(dma,2009,972).
+ si_UNPD(dma,2010,947).
+ si_UNPD(dma,2011,915).
+ si_UNPD(dma,2012,907).
+ si_UNPD(dma,2013,894).
+ si_UNPD(dma,2014,871).
+ si_UNPD(dma,2015,917).
+ si_UNPD(dma,2016,897).
+ si_UNPD(dma,2017,895).
+ si_UNPD(dma,2018,923).
+ si_UNPD(dma,2019,936).
+ si_UNPD(dma,2020,947).
+ si_UNPD(dma,2021,955).
+ si_UNPD(dma,2022,956).
+ si_UNPD(dma,2023,955).
+ si_UNPD(dma,2024,952).
+ si_UNPD(dma,2025,950).
+ si_UNPD(dma,2026,945).
+ si_UNPD(dma,2027,941).
+ si_UNPD(dma,2028,927).
+ si_UNPD(dma,2029,914).
+ si_UNPD(dma,2030,896).
 
 wgd(dma,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(dma,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).

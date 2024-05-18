@@ -1,8 +1,8 @@
 %  Burkina Faso - BFA 
-%  Wed Sep 06 18:38:37 2023 
+%  Fri May 17 11:54:52 2024 
 
 country(bfa,'Burkina Faso'). 
-date('Wed Sep 06 18:38:37 2023').
+date('Fri May 17 11:54:52 2024').
 
 estimate_required(bfa,bcg,1997,na,'na').
  estimate_required(bfa,bcg,1998,na,'na').
@@ -1338,40 +1338,40 @@ births_UNPD(bfa,1997,499616).
  births_UNPD(bfa,2029,859738).
  births_UNPD(bfa,2030,868480).
 
-si_UNPD(bfa,1997,499616).
- si_UNPD(bfa,1998,510176).
- si_UNPD(bfa,1999,523063).
- si_UNPD(bfa,2000,536982).
- si_UNPD(bfa,2001,548789).
- si_UNPD(bfa,2002,561418).
- si_UNPD(bfa,2003,579168).
- si_UNPD(bfa,2004,594532).
- si_UNPD(bfa,2005,613548).
- si_UNPD(bfa,2006,635544).
- si_UNPD(bfa,2007,652343).
- si_UNPD(bfa,2008,668001).
- si_UNPD(bfa,2009,682185).
- si_UNPD(bfa,2010,697421).
- si_UNPD(bfa,2011,711565).
- si_UNPD(bfa,2012,725124).
- si_UNPD(bfa,2013,736440).
- si_UNPD(bfa,2014,744796).
- si_UNPD(bfa,2015,750846).
- si_UNPD(bfa,2016,751461).
- si_UNPD(bfa,2017,752036).
- si_UNPD(bfa,2018,761074).
- si_UNPD(bfa,2019,769252).
- si_UNPD(bfa,2020,776842).
- si_UNPD(bfa,2021,785817).
- si_UNPD(bfa,2022,793031).
- si_UNPD(bfa,2023,801037).
- si_UNPD(bfa,2024,810065).
- si_UNPD(bfa,2025,819320).
- si_UNPD(bfa,2026,829433).
- si_UNPD(bfa,2027,838900).
- si_UNPD(bfa,2028,847849).
- si_UNPD(bfa,2029,859738).
- si_UNPD(bfa,2030,868480).
+si_UNPD(bfa,1997,466763).
+ si_UNPD(bfa,1998,477012).
+ si_UNPD(bfa,1999,489369).
+ si_UNPD(bfa,2000,502735).
+ si_UNPD(bfa,2001,514177).
+ si_UNPD(bfa,2002,526399).
+ si_UNPD(bfa,2003,543616).
+ si_UNPD(bfa,2004,558738).
+ si_UNPD(bfa,2005,577437).
+ si_UNPD(bfa,2006,599005).
+ si_UNPD(bfa,2007,615770).
+ si_UNPD(bfa,2008,631647).
+ si_UNPD(bfa,2009,646011).
+ si_UNPD(bfa,2010,661355).
+ si_UNPD(bfa,2011,675695).
+ si_UNPD(bfa,2012,689399).
+ si_UNPD(bfa,2013,700970).
+ si_UNPD(bfa,2014,709723).
+ si_UNPD(bfa,2015,716285).
+ si_UNPD(bfa,2016,717624).
+ si_UNPD(bfa,2017,718952).
+ si_UNPD(bfa,2018,728334).
+ si_UNPD(bfa,2019,736803).
+ si_UNPD(bfa,2020,744797).
+ si_UNPD(bfa,2021,754125).
+ si_UNPD(bfa,2022,762151).
+ si_UNPD(bfa,2023,770576).
+ si_UNPD(bfa,2024,779249).
+ si_UNPD(bfa,2025,787464).
+ si_UNPD(bfa,2026,797583).
+ si_UNPD(bfa,2027,807102).
+ si_UNPD(bfa,2028,816113).
+ si_UNPD(bfa,2029,827964).
+ si_UNPD(bfa,2030,836798).
 
 survey_results(bfa,pol1,1997,bfa1999141,[title:'Burkina Faso Demographic and Health Survey 1998-1999',type:'14',yrcoll:'1998',cr: 56,confirm:'history',age:'12-23 m',timead:'',val:'crude',ss:1041], 30.8).
 

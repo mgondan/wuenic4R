@@ -1,8 +1,8 @@
 %  Paraguay - PRY 
-%  Wed Sep 06 19:03:06 2023 
+%  Fri May 17 12:17:36 2024 
 
 country(pry,'Paraguay'). 
-date('Wed Sep 06 19:03:06 2023').
+date('Fri May 17 12:17:36 2024').
 
 estimate_required(pry,bcg,1997,na,'na').
  estimate_required(pry,bcg,1998,na,'na').
@@ -1460,40 +1460,40 @@ births_UNPD(pry,1997,142381).
  births_UNPD(pry,2029,131980).
  births_UNPD(pry,2030,131206).
 
-si_UNPD(pry,1997,142381).
- si_UNPD(pry,1998,141599).
- si_UNPD(pry,1999,140614).
- si_UNPD(pry,2000,139425).
- si_UNPD(pry,2001,137632).
- si_UNPD(pry,2002,135747).
- si_UNPD(pry,2003,133956).
- si_UNPD(pry,2004,132884).
- si_UNPD(pry,2005,132204).
- si_UNPD(pry,2006,131935).
- si_UNPD(pry,2007,131626).
- si_UNPD(pry,2008,131433).
- si_UNPD(pry,2009,131167).
- si_UNPD(pry,2010,130699).
- si_UNPD(pry,2011,130690).
- si_UNPD(pry,2012,130920).
- si_UNPD(pry,2013,133838).
- si_UNPD(pry,2014,136658).
- si_UNPD(pry,2015,138768).
- si_UNPD(pry,2016,139710).
- si_UNPD(pry,2017,139763).
- si_UNPD(pry,2018,139766).
- si_UNPD(pry,2019,139138).
- si_UNPD(pry,2020,138721).
- si_UNPD(pry,2021,138365).
- si_UNPD(pry,2022,137960).
- si_UNPD(pry,2023,137368).
- si_UNPD(pry,2024,136586).
- si_UNPD(pry,2025,135746).
- si_UNPD(pry,2026,135253).
- si_UNPD(pry,2027,134015).
- si_UNPD(pry,2028,133242).
- si_UNPD(pry,2029,131980).
- si_UNPD(pry,2030,131206).
+si_UNPD(pry,1997,138711).
+ si_UNPD(pry,1998,138012).
+ si_UNPD(pry,1999,137130).
+ si_UNPD(pry,2000,136036).
+ si_UNPD(pry,2001,134351).
+ si_UNPD(pry,2002,132575).
+ si_UNPD(pry,2003,130888).
+ si_UNPD(pry,2004,129904).
+ si_UNPD(pry,2005,129300).
+ si_UNPD(pry,2006,129101).
+ si_UNPD(pry,2007,128861).
+ si_UNPD(pry,2008,128737).
+ si_UNPD(pry,2009,128547).
+ si_UNPD(pry,2010,128162).
+ si_UNPD(pry,2011,128232).
+ si_UNPD(pry,2012,128534).
+ si_UNPD(pry,2013,131474).
+ si_UNPD(pry,2014,134321).
+ si_UNPD(pry,2015,136470).
+ si_UNPD(pry,2016,137467).
+ si_UNPD(pry,2017,137592).
+ si_UNPD(pry,2018,137675).
+ si_UNPD(pry,2019,137118).
+ si_UNPD(pry,2020,136776).
+ si_UNPD(pry,2021,136478).
+ si_UNPD(pry,2022,135965).
+ si_UNPD(pry,2023,135441).
+ si_UNPD(pry,2024,134708).
+ si_UNPD(pry,2025,133920).
+ si_UNPD(pry,2026,133471).
+ si_UNPD(pry,2027,132288).
+ si_UNPD(pry,2028,131562).
+ si_UNPD(pry,2029,130354).
+ si_UNPD(pry,2030,129624).
 
 survey_results(pry,dtp1,2003,pry2004311,[title:'Survey of Demography and Reproductive and Sexual Health, ENDSSR-2004',type:'31',yrcoll:'2004',cr:69,confirm:'card or history',age:'12-23 m',timead:'',val:'crude',ss:898], 95).
 
