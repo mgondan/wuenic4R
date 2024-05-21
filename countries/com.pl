@@ -1,8 +1,8 @@
 %  Comoros - COM 
-%  Fri May 17 11:58:30 2024 
+%  Mon May 20 19:51:49 2024 
 
 country(com,'Comoros'). 
-date('Fri May 17 11:58:30 2024').
+date('Mon May 20 19:51:49 2024').
 
 estimate_required(com,bcg,1997,na,'na').
  estimate_required(com,bcg,1998,na,'na').

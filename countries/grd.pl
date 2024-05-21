@@ -1,8 +1,8 @@
 %  Grenada - GRD 
-%  Fri May 17 12:03:58 2024 
+%  Mon May 20 19:56:56 2024 
 
 country(grd,'Grenada'). 
-date('Fri May 17 12:03:58 2024').
+date('Mon May 20 19:56:56 2024').
 
 estimate_required(grd,dtp1,1997,na,'na').
  estimate_required(grd,dtp1,1998,na,'na').
@@ -1158,9 +1158,7 @@ wgd(grd,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(grd,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(grd,rcv1,1997,1997,assignAnchor,'Legacy estimate.',na,92,_,na).
 
-wgd(grd,pol3,2021,2021,assignWUENIC,' Estimate informed by estimated DTP3.',na,77,na,na).
- wgd(grd,rcv1,2017,2017,comment,' Programme reports one month stockout.',na,na,na,na).
- wgd(grd,X,2022,2022,comment,' No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.',na,na,na,na).
+wgd(grd,X,2022,2022,comment,' No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.',na,na,na,na).
  wgd(grd,dtp1,2004,2004,acceptReported,' Vaccine supply interrupted by Hurricane Ivan. Attempts were made to identify and vaccinate children in specific target groups.',na,na,na,na).
  wgd(grd,dtp1,2004,2004,assignAnchor,' Estimate based on reported data.',na,87,na,na).
  wgd(grd,dtp1,2020,2020,acceptReported,' Programme reports a one month vaccine stockout at national and subnational levels.',na,na,na,na).
@@ -1198,4 +1196,6 @@ wgd(grd,pol3,2021,2021,assignWUENIC,' Estimate informed by estimated DTP3.',na,7
  wgd(grd,pol3,2015,2015,acceptReported,' Reported coverage suggests recovery from prior year stockout though programme reports three months stockout at national level during 2015.',na,na,na,na).
  wgd(grd,pol3,2017,2017,comment,' Programme reports one month stockout.',na,na,na,na).
  wgd(grd,pol3,2020,2020,assignWUENIC,' Estimate based on DTP3. Programme reports a one month vaccine stockout at national and subnational levels.',na,72,na,na).
+ wgd(grd,pol3,2021,2021,assignWUENIC,' Estimate informed by estimated DTP3.',na,77,na,na).
+ wgd(grd,rcv1,2017,2017,comment,' Programme reports one month stockout.',na,na,na,na).
 

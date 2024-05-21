@@ -1,8 +1,8 @@
 %  Singapore - SGP 
-%  Fri May 17 12:19:40 2024 
+%  Mon May 20 20:11:04 2024 
 
 country(sgp,'Singapore'). 
-date('Fri May 17 12:19:40 2024').
+date('Mon May 20 20:11:04 2024').
 
 estimate_required(sgp,bcg,1997,na,'na').
  estimate_required(sgp,bcg,1998,na,'na').

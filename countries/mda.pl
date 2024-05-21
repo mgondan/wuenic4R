@@ -1,8 +1,8 @@
 %  Republic of Moldova - MDA 
-%  Fri May 17 12:10:55 2024 
+%  Mon May 20 20:03:13 2024 
 
 country(mda,'Republic of Moldova'). 
-date('Fri May 17 12:10:55 2024').
+date('Mon May 20 20:03:13 2024').
 
 estimate_required(mda,bcg,1997,na,'na').
  estimate_required(mda,bcg,1998,na,'na').

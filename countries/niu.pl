@@ -1,8 +1,8 @@
 %  Niue - NIU 
-%  Fri May 17 12:14:47 2024 
+%  Mon May 20 20:06:38 2024 
 
 country(niu,'Niue'). 
-date('Fri May 17 12:14:47 2024').
+date('Mon May 20 20:06:38 2024').
 
 estimate_required(niu,bcg,1997,na,'na').
  estimate_required(niu,bcg,1998,na,'na').

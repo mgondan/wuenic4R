@@ -1,8 +1,8 @@
 %  Kenya - KEN 
-%  Fri May 17 12:07:32 2024 
+%  Mon May 20 20:00:03 2024 
 
 country(ken,'Kenya'). 
-date('Fri May 17 12:07:32 2024').
+date('Mon May 20 20:00:03 2024').
 
 estimate_required(ken,bcg,1997,na,'na').
  estimate_required(ken,bcg,1998,na,'na').

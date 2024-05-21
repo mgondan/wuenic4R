@@ -1,8 +1,8 @@
 %  Fiji - FJI 
-%  Fri May 17 12:01:46 2024 
+%  Mon May 20 19:54:52 2024 
 
 country(fji,'Fiji'). 
-date('Fri May 17 12:01:46 2024').
+date('Mon May 20 19:54:52 2024').
 
 estimate_required(fji,bcg,1997,na,'na').
  estimate_required(fji,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Cook Islands - COK 
-%  Fri May 17 11:58:15 2024 
+%  Mon May 20 19:51:35 2024 
 
 country(cok,'Cook Islands'). 
-date('Fri May 17 11:58:15 2024').
+date('Mon May 20 19:51:35 2024').
 
 estimate_required(cok,bcg,1997,na,'na').
  estimate_required(cok,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Mali - MLI 
-%  Fri May 17 12:11:50 2024 
+%  Mon May 20 20:04:07 2024 
 
 country(mli,'Mali'). 
-date('Fri May 17 12:11:50 2024').
+date('Mon May 20 20:04:07 2024').
 
 estimate_required(mli,bcg,1997,na,'na').
  estimate_required(mli,bcg,1998,na,'na').
@@ -2305,7 +2305,19 @@ wgd(mli,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,84,_,na).
  wgd(mli,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,56,_,na).
  wgd(mli,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,52,_,na).
 
-wgd(mli,X,2009,2009,comment,' Decline in 2009 due to an increase the denominator issued by du Recensement General de la Population et de l Habitat in 2009.',na,na,na,na).
+wgd(mli,rotac,2021,2022,assignWUENIC,' Estimate informed by the difference in reported administrative coverage for DTP3 and RotaC applied to the estimated coverage level for DTP3.',na,70,na,na).
+ wgd(mli,yfv,1998,1998,comment,' YFV partially introduced in 1998 nationally in 2002 reporting started in 1998.',na,na,na,na).
+ wgd(mli,yfv,2001,2001,assignAnchor,' The last year before financial support started for the yellow fever vaccination programme.',na,8,na,na).
+ wgd(mli,yfv,2005,2005,assignAnchor,' Estimate follows MCV coverage levels.',na,72,na,na).
+ wgd(mli,yfv,2005,2005,ignoreSurvey,' Results based on only one of two surveys available in review year.',na,na,na,na).
+ wgd(mli,yfv,2009,2013,interpolate,' Estimate based on interpolation between survey coverage.',na,na,na,na).
+ wgd(mli,yfv,2011,2011,ignoreSurvey,' Survey results inconsistent with other vaccines.',na,na,na,na).
+ wgd(mli,yfv,2016,2016,assignAnchor,' Estimate is based on survey result.',na,68,na,na).
+ wgd(mli,yfv,2017,2017,assignAnchor,' Estimate is based on survey result.',na,66,na,na).
+ wgd(mli,yfv,2018,2018,internalComment,' Estimate based on reported official coverage that is based on 2018 DHS Key Indicators Report. Please see below.',na,67,na,na).
+ wgd(mli,yfv,2019,2019,ignoreReported,'.',na,na,na,na).
+ wgd(mli,yfv,2020,2020,assignWUENIC,' Estimate exceptionally based on the difference between administrative coverage 2019 to 2020 applied to the 2019 WUENIC estimate.',na,58,na,na).
+ wgd(mli,X,2009,2009,comment,' Decline in 2009 due to an increase the denominator issued by du Recensement General de la Population et de l Habitat in 2009.',na,na,na,na).
  wgd(mli,X,2014,2017,ignoreReported,' Programme reports data quality issues affecting both coverage denominator and numerator.',na,na,na,na).
  wgd(mli,X,2014,2014,ignoreSurvey,' Coverage by card is higher than cards seen and other inconsistencies such as coverage with final doses higher than earlier doses in the series. Also, EPI survey results inconsistent with MICS for the same cohort and previous surveys.',mli2016161,na,na,na).
  wgd(mli,X,2016,2017,comment,' Official estimates based on January-February 2016 vaccination coverage survey for 2014 cohort, which has internal inconsistencies in the results.',na,na,na,na).
@@ -2427,16 +2439,4 @@ wgd(mli,X,2009,2009,comment,' Decline in 2009 due to an increase the denominator
  wgd(mli,rotac,2018,2018,internalComment,' Estimate based on reported official coverage that is based on 2018 DHS Key Indicators Report. Please see below.',na,63,na,na).
  wgd(mli,rotac,2019,2019,ignoreReported,'.',na,na,na,na).
  wgd(mli,rotac,2020,2020,assignWUENIC,' Estimate exceptionally based on the difference between administrative coverage 2019 to 2020 applied to the 2019 WUENIC estimate.',na,68,na,na).
- wgd(mli,rotac,2021,2022,assignWUENIC,' Estimate informed by the difference in reported administrative coverage for DTP3 and RotaC applied to the estimated coverage level for DTP3.',na,70,na,na).
- wgd(mli,yfv,1998,1998,comment,' YFV partially introduced in 1998 nationally in 2002 reporting started in 1998.',na,na,na,na).
- wgd(mli,yfv,2001,2001,assignAnchor,' The last year before financial support started for the yellow fever vaccination programme.',na,8,na,na).
- wgd(mli,yfv,2005,2005,assignAnchor,' Estimate follows MCV coverage levels.',na,72,na,na).
- wgd(mli,yfv,2005,2005,ignoreSurvey,' Results based on only one of two surveys available in review year.',na,na,na,na).
- wgd(mli,yfv,2009,2013,interpolate,' Estimate based on interpolation between survey coverage.',na,na,na,na).
- wgd(mli,yfv,2011,2011,ignoreSurvey,' Survey results inconsistent with other vaccines.',na,na,na,na).
- wgd(mli,yfv,2016,2016,assignAnchor,' Estimate is based on survey result.',na,68,na,na).
- wgd(mli,yfv,2017,2017,assignAnchor,' Estimate is based on survey result.',na,66,na,na).
- wgd(mli,yfv,2018,2018,internalComment,' Estimate based on reported official coverage that is based on 2018 DHS Key Indicators Report. Please see below.',na,67,na,na).
- wgd(mli,yfv,2019,2019,ignoreReported,'.',na,na,na,na).
- wgd(mli,yfv,2020,2020,assignWUENIC,' Estimate exceptionally based on the difference between administrative coverage 2019 to 2020 applied to the 2019 WUENIC estimate.',na,58,na,na).
 

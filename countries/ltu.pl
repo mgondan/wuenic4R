@@ -1,8 +1,8 @@
 %  Lithuania - LTU 
-%  Fri May 17 12:10:15 2024 
+%  Mon May 20 20:02:35 2024 
 
 country(ltu,'Lithuania'). 
-date('Fri May 17 12:10:15 2024').
+date('Mon May 20 20:02:35 2024').
 
 estimate_required(ltu,bcg,1997,na,'na').
  estimate_required(ltu,bcg,1998,na,'na').

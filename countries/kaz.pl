@@ -1,8 +1,8 @@
 %  Kazakhstan - KAZ 
-%  Fri May 17 12:07:25 2024 
+%  Mon May 20 19:59:56 2024 
 
 country(kaz,'Kazakhstan'). 
-date('Fri May 17 12:07:25 2024').
+date('Mon May 20 19:59:56 2024').
 
 estimate_required(kaz,bcg,1997,na,'na').
  estimate_required(kaz,bcg,1998,na,'na').

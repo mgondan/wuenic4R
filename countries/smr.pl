@@ -1,8 +1,8 @@
 %  San Marino - SMR 
-%  Fri May 17 12:20:32 2024 
+%  Mon May 20 20:11:47 2024 
 
 country(smr,'San Marino'). 
-date('Fri May 17 12:20:32 2024').
+date('Mon May 20 20:11:47 2024').
 
 estimate_required(smr,dtp1,1997,na,'na').
  estimate_required(smr,dtp1,1998,na,'na').
@@ -1242,8 +1242,7 @@ wgd(smr,dtp1,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(smr,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).
  wgd(smr,rcv1,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
 
-wgd(smr,X,2001,2203,internalComment,' Estimate is based on the reported data.',na,na,na,na).
- wgd(smr,X,2020,2020,comment,' Administrative coverage is calculated for the total number of live births whereas the reported official coverage accounts for all individuals living in San Marino per year of birth.',na,na,na,na).
+wgd(smr,X,2020,2020,comment,' Administrative coverage is calculated for the total number of live births whereas the reported official coverage accounts for all individuals living in San Marino per year of birth.',na,na,na,na).
  wgd(smr,X,2021,2021,comment,' Fluctuation in reported data may be explained by small birth cohort.',na,na,na,na).
  wgd(smr,dtp1,1998,1998,assignWUENIC,' Reported data calibrated to 1997 and 1999 levels.',na,99,na,na).
  wgd(smr,dtp1,2000,2000,internalComment,' Estimate is based on the reported data.',na,97,na,na).
@@ -1262,4 +1261,5 @@ wgd(smr,X,2001,2203,internalComment,' Estimate is based on the reported data.',n
  wgd(smr,mcv2,2016,2016,internalComment,' Unexplained decline in reported coverage.',na,na,na,na).
  wgd(smr,pcv3,2016,2016,comment,' Pneumococcal conjugate vaccine introduced in 2016, reporting started in 2016.',na,na,na,na).
  wgd(smr,pol3,2002,2002,assignAnchor,' Estimate is based on the reported data.',na,95,na,na).
+ wgd(smr,X,2001,2203,internalComment,' Estimate is based on the reported data.',na,na,na,na).
 

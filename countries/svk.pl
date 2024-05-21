@@ -1,8 +1,8 @@
 %  Slovakia - SVK 
-%  Fri May 17 12:21:23 2024 
+%  Mon May 20 20:12:36 2024 
 
 country(svk,'Slovakia'). 
-date('Fri May 17 12:21:23 2024').
+date('Mon May 20 20:12:36 2024').
 
 estimate_required(svk,bcg,1997,na,'na').
  estimate_required(svk,bcg,1998,na,'na').

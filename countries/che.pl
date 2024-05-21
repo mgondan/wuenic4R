@@ -1,8 +1,8 @@
 %  Switzerland - CHE 
-%  Fri May 17 11:57:30 2024 
+%  Mon May 20 19:50:50 2024 
 
 country(che,'Switzerland'). 
-date('Fri May 17 11:57:30 2024').
+date('Mon May 20 19:50:50 2024').
 
 estimate_required(che,dtp1,1997,na,'na').
  estimate_required(che,dtp1,1998,na,'na').

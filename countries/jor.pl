@@ -1,8 +1,8 @@
 %  Jordan - JOR 
-%  Fri May 17 12:07:07 2024 
+%  Mon May 20 19:59:39 2024 
 
 country(jor,'Jordan'). 
-date('Fri May 17 12:07:07 2024').
+date('Mon May 20 19:59:39 2024').
 
 estimate_required(jor,bcg,2002,na,'na').
  estimate_required(jor,bcg,2003,na,'na').

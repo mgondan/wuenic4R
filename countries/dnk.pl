@@ -1,8 +1,8 @@
 %  Denmark - DNK 
-%  Fri May 17 11:59:56 2024 
+%  Mon May 20 19:53:14 2024 
 
 country(dnk,'Denmark'). 
-date('Fri May 17 11:59:56 2024').
+date('Mon May 20 19:53:14 2024').
 
 estimate_required(dnk,dtp1,1997,na,'na').
  estimate_required(dnk,dtp1,1998,na,'na').

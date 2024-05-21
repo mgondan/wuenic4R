@@ -1,8 +1,8 @@
 %  Colombia - COL 
-%  Fri May 17 11:58:22 2024 
+%  Mon May 20 19:51:42 2024 
 
 country(col,'Colombia'). 
-date('Fri May 17 11:58:22 2024').
+date('Mon May 20 19:51:42 2024').
 
 estimate_required(col,bcg,1997,na,'na').
  estimate_required(col,bcg,1998,na,'na').

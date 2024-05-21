@@ -1,8 +1,8 @@
 %  Monaco - MCO 
-%  Fri May 17 12:10:48 2024 
+%  Mon May 20 20:03:06 2024 
 
 country(mco,'Monaco'). 
-date('Fri May 17 12:10:48 2024').
+date('Mon May 20 20:03:06 2024').
 
 estimate_required(mco,bcg,1997,na,'na').
  estimate_required(mco,bcg,1998,na,'na').

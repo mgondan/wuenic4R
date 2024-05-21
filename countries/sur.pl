@@ -1,8 +1,8 @@
 %  Suriname - SUR 
-%  Fri May 17 12:21:15 2024 
+%  Mon May 20 20:12:28 2024 
 
 country(sur,'Suriname'). 
-date('Fri May 17 12:21:15 2024').
+date('Mon May 20 20:12:28 2024').
 
 estimate_required(sur,dtp1,1997,na,'na').
  estimate_required(sur,dtp1,1998,na,'na').

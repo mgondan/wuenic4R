@@ -1,8 +1,8 @@
 %  Japan - JPN 
-%  Fri May 17 12:07:15 2024 
+%  Mon May 20 19:59:47 2024 
 
 country(jpn,'Japan'). 
-date('Fri May 17 12:07:15 2024').
+date('Mon May 20 19:59:47 2024').
 
 estimate_required(jpn,bcg,2007,na,'na').
  estimate_required(jpn,bcg,2008,na,'na').

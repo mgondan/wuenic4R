@@ -1,8 +1,8 @@
 %  Samoa - WSM 
-%  Fri May 17 12:26:32 2024 
+%  Mon May 20 20:16:51 2024 
 
 country(wsm,'Samoa'). 
-date('Fri May 17 12:26:32 2024').
+date('Mon May 20 20:16:51 2024').
 
 estimate_required(wsm,bcg,1997,na,'na').
  estimate_required(wsm,bcg,1998,na,'na').

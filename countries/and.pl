@@ -1,8 +1,8 @@
 %  Andorra - AND 
-%  Fri May 17 11:52:31 2024 
+%  Mon May 20 19:45:38 2024 
 
 country(and,'Andorra'). 
-date('Fri May 17 11:52:31 2024').
+date('Mon May 20 19:45:38 2024').
 
 estimate_required(and,dtp1,1997,na,'na').
  estimate_required(and,dtp1,1998,na,'na').

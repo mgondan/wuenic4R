@@ -1,8 +1,8 @@
 %  Democratic Republic of the Congo - COD 
-%  Fri May 17 11:58:00 2024 
+%  Mon May 20 19:51:21 2024 
 
 country(cod,'Democratic Republic of the Congo'). 
-date('Fri May 17 11:58:00 2024').
+date('Mon May 20 19:51:21 2024').
 
 estimate_required(cod,bcg,1997,na,'na').
  estimate_required(cod,bcg,1998,na,'na').

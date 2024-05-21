@@ -1,8 +1,8 @@
 %  Brazil - BRA 
-%  Fri May 17 11:56:01 2024 
+%  Mon May 20 19:49:16 2024 
 
 country(bra,'Brazil'). 
-date('Fri May 17 11:56:01 2024').
+date('Mon May 20 19:49:16 2024').
 
 estimate_required(bra,bcg,1997,na,'na').
  estimate_required(bra,bcg,1998,na,'na').

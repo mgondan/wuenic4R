@@ -1,8 +1,8 @@
 %  Nauru - NRU 
-%  Fri May 17 12:15:16 2024 
+%  Mon May 20 20:07:07 2024 
 
 country(nru,'Nauru'). 
-date('Fri May 17 12:15:16 2024').
+date('Mon May 20 20:07:07 2024').
 
 estimate_required(nru,bcg,1997,na,'na').
  estimate_required(nru,bcg,1998,na,'na').

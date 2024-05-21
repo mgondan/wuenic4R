@@ -1,8 +1,8 @@
 %  Israel - ISR 
-%  Fri May 17 12:06:45 2024 
+%  Mon May 20 19:59:17 2024 
 
 country(isr,'Israel'). 
-date('Fri May 17 12:06:45 2024').
+date('Mon May 20 19:59:17 2024').
 
 estimate_required(isr,dtp1,1997,na,'na').
  estimate_required(isr,dtp1,1998,na,'na').

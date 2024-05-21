@@ -1,8 +1,8 @@
 %  New Zealand - NZL 
-%  Fri May 17 12:15:26 2024 
+%  Mon May 20 20:07:17 2024 
 
 country(nzl,'New Zealand'). 
-date('Fri May 17 12:15:26 2024').
+date('Mon May 20 20:07:17 2024').
 
 estimate_required(nzl,dtp1,1997,na,'na').
  estimate_required(nzl,dtp1,1998,na,'na').

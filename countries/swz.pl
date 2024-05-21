@@ -1,8 +1,8 @@
 %  Eswatini - SWZ 
-%  Fri May 17 12:21:44 2024 
+%  Mon May 20 20:12:57 2024 
 
 country(swz,'Eswatini'). 
-date('Fri May 17 12:21:44 2024').
+date('Mon May 20 20:12:57 2024').
 
 estimate_required(swz,bcg,1997,na,'na').
  estimate_required(swz,bcg,1998,na,'na').

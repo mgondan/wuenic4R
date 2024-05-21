@@ -1,8 +1,8 @@
 %  Belize - BLZ 
-%  Fri May 17 11:55:43 2024 
+%  Mon May 20 19:48:58 2024 
 
 country(blz,'Belize'). 
-date('Fri May 17 11:55:43 2024').
+date('Mon May 20 19:48:58 2024').
 
 estimate_required(blz,bcg,1997,na,'na').
  estimate_required(blz,bcg,1998,na,'na').

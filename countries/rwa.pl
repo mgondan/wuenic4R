@@ -1,8 +1,8 @@
 %  Rwanda - RWA 
-%  Fri May 17 12:18:29 2024 
+%  Mon May 20 20:10:08 2024 
 
 country(rwa,'Rwanda'). 
-date('Fri May 17 12:18:29 2024').
+date('Mon May 20 20:10:08 2024').
 
 estimate_required(rwa,bcg,1997,na,'na').
  estimate_required(rwa,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Russian Federation - RUS 
-%  Fri May 17 12:18:22 2024 
+%  Mon May 20 20:10:01 2024 
 
 country(rus,'Russian Federation'). 
-date('Fri May 17 12:18:22 2024').
+date('Mon May 20 20:10:01 2024').
 
 estimate_required(rus,bcg,1997,na,'na').
  estimate_required(rus,bcg,1998,na,'na').

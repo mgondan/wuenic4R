@@ -1,8 +1,8 @@
 %  Georgia - GEO 
-%  Fri May 17 12:02:45 2024 
+%  Mon May 20 19:55:45 2024 
 
 country(geo,'Georgia'). 
-date('Fri May 17 12:02:45 2024').
+date('Mon May 20 19:55:45 2024').
 
 estimate_required(geo,bcg,1997,na,'na').
  estimate_required(geo,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  India - IND 
-%  Fri May 17 12:05:58 2024 
+%  Mon May 20 19:58:31 2024 
 
 country(ind,'India'). 
-date('Fri May 17 12:05:58 2024').
+date('Mon May 20 19:58:31 2024').
 
 estimate_required(ind,bcg,1997,na,'na').
  estimate_required(ind,bcg,1998,na,'na').

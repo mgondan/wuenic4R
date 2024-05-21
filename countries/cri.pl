@@ -1,8 +1,8 @@
 %  Costa Rica - CRI 
-%  Fri May 17 11:58:48 2024 
+%  Mon May 20 19:52:08 2024 
 
 country(cri,'Costa Rica'). 
-date('Fri May 17 11:58:48 2024').
+date('Mon May 20 19:52:08 2024').
 
 estimate_required(cri,bcg,1997,na,'na').
  estimate_required(cri,bcg,1998,na,'na').

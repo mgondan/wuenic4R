@@ -1,8 +1,8 @@
 %  Kuwait - KWT 
-%  Fri May 17 12:08:47 2024 
+%  Mon May 20 20:01:12 2024 
 
 country(kwt,'Kuwait'). 
-date('Fri May 17 12:08:47 2024').
+date('Mon May 20 20:01:12 2024').
 
 estimate_required(kwt,bcg,2006,na,'na').
  estimate_required(kwt,bcg,2007,na,'na').

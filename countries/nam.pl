@@ -1,8 +1,8 @@
 %  Namibia - NAM 
-%  Fri May 17 12:13:37 2024 
+%  Mon May 20 20:05:41 2024 
 
 country(nam,'Namibia'). 
-date('Fri May 17 12:13:37 2024').
+date('Mon May 20 20:05:41 2024').
 
 estimate_required(nam,bcg,1997,na,'na').
  estimate_required(nam,bcg,1998,na,'na').

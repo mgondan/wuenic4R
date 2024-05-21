@@ -1,8 +1,8 @@
 %  Libya - LBY 
-%  Fri May 17 12:09:28 2024 
+%  Mon May 20 20:01:52 2024 
 
 country(lby,'Libya'). 
-date('Fri May 17 12:09:28 2024').
+date('Mon May 20 20:01:52 2024').
 
 estimate_required(lby,bcg,1997,na,'na').
  estimate_required(lby,bcg,1998,na,'na').

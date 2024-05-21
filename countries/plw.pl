@@ -1,8 +1,8 @@
 %  Palau - PLW 
-%  Fri May 17 12:16:54 2024 
+%  Mon May 20 20:08:35 2024 
 
 country(plw,'Palau'). 
-date('Fri May 17 12:16:54 2024').
+date('Mon May 20 20:08:35 2024').
 
 estimate_required(plw,dtp1,1997,na,'na').
  estimate_required(plw,dtp1,1998,na,'na').

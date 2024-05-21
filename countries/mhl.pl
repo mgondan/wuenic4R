@@ -1,8 +1,8 @@
 %  Marshall Islands - MHL 
-%  Fri May 17 12:11:30 2024 
+%  Mon May 20 20:03:47 2024 
 
 country(mhl,'Marshall Islands'). 
-date('Fri May 17 12:11:30 2024').
+date('Mon May 20 20:03:47 2024').
 
 estimate_required(mhl,bcg,1997,na,'na').
  estimate_required(mhl,bcg,1998,na,'na').

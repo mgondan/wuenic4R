@@ -1,8 +1,8 @@
 %  Equatorial Guinea - GNQ 
-%  Fri May 17 12:03:39 2024 
+%  Mon May 20 19:56:37 2024 
 
 country(gnq,'Equatorial Guinea'). 
-date('Fri May 17 12:03:39 2024').
+date('Mon May 20 19:56:37 2024').
 
 estimate_required(gnq,bcg,1997,na,'na').
  estimate_required(gnq,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Malta - MLT 
-%  Fri May 17 12:12:08 2024 
+%  Mon May 20 20:04:23 2024 
 
 country(mlt,'Malta'). 
-date('Fri May 17 12:12:08 2024').
+date('Mon May 20 20:04:23 2024').
 
 estimate_required(mlt,dtp1,1997,na,'na').
  estimate_required(mlt,dtp1,1998,na,'na').

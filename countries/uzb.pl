@@ -1,8 +1,8 @@
 %  Uzbekistan - UZB 
-%  Fri May 17 12:25:27 2024 
+%  Mon May 20 20:15:57 2024 
 
 country(uzb,'Uzbekistan'). 
-date('Fri May 17 12:25:27 2024').
+date('Mon May 20 20:15:57 2024').
 
 estimate_required(uzb,bcg,1997,na,'na').
  estimate_required(uzb,bcg,1998,na,'na').

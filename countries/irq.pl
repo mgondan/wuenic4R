@@ -1,8 +1,8 @@
 %  Iraq - IRQ 
-%  Fri May 17 12:06:25 2024 
+%  Mon May 20 19:58:57 2024 
 
 country(irq,'Iraq'). 
-date('Fri May 17 12:06:25 2024').
+date('Mon May 20 19:58:57 2024').
 
 estimate_required(irq,bcg,1997,na,'na').
  estimate_required(irq,bcg,1998,na,'na').

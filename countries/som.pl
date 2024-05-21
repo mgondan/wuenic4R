@@ -1,8 +1,8 @@
 %  Somalia - SOM 
-%  Fri May 17 12:20:40 2024 
+%  Mon May 20 20:11:54 2024 
 
 country(som,'Somalia'). 
-date('Fri May 17 12:20:40 2024').
+date('Mon May 20 20:11:54 2024').
 
 estimate_required(som,bcg,1997,na,'na').
  estimate_required(som,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Central African Republic - CAF 
-%  Fri May 17 11:57:07 2024 
+%  Mon May 20 19:50:26 2024 
 
 country(caf,'Central African Republic'). 
-date('Fri May 17 11:57:07 2024').
+date('Mon May 20 19:50:26 2024').
 
 estimate_required(caf,bcg,1997,na,'na').
  estimate_required(caf,bcg,1998,na,'na').

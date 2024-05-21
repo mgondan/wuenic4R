@@ -1,8 +1,8 @@
 %  Mozambique - MOZ 
-%  Fri May 17 12:12:37 2024 
+%  Mon May 20 20:04:51 2024 
 
 country(moz,'Mozambique'). 
-date('Fri May 17 12:12:37 2024').
+date('Mon May 20 20:04:51 2024').
 
 estimate_required(moz,bcg,1997,na,'na').
  estimate_required(moz,bcg,1998,na,'na').

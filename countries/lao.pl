@@ -1,8 +1,8 @@
 %  Lao People’s Democratic Republic - LAO 
-%  Fri May 17 12:08:57 2024 
+%  Mon May 20 20:01:21 2024 
 
 country(lao,'Lao People’s Democratic Republic'). 
-date('Fri May 17 12:08:57 2024').
+date('Mon May 20 20:01:21 2024').
 
 estimate_required(lao,bcg,1997,na,'na').
  estimate_required(lao,bcg,1998,na,'na').

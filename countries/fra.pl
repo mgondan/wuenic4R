@@ -1,8 +1,8 @@
 %  France - FRA 
-%  Fri May 17 12:02:10 2024 
+%  Mon May 20 19:55:10 2024 
 
 country(fra,'France'). 
-date('Fri May 17 12:02:10 2024').
+date('Mon May 20 19:55:10 2024').
 
 estimate_required(fra,bcg,1997,na,'na').
  estimate_required(fra,bcg,1998,na,'na').

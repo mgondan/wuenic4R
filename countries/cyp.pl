@@ -1,8 +1,8 @@
 %  Cyprus - CYP 
-%  Fri May 17 11:59:10 2024 
+%  Mon May 20 19:52:29 2024 
 
 country(cyp,'Cyprus'). 
-date('Fri May 17 11:59:10 2024').
+date('Mon May 20 19:52:29 2024').
 
 estimate_required(cyp,dtp1,1997,na,'na').
  estimate_required(cyp,dtp1,1998,na,'na').

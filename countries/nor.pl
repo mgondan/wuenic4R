@@ -1,8 +1,8 @@
 %  Norway - NOR 
-%  Fri May 17 12:15:02 2024 
+%  Mon May 20 20:06:53 2024 
 
 country(nor,'Norway'). 
-date('Fri May 17 12:15:02 2024').
+date('Mon May 20 20:06:53 2024').
 
 estimate_required(nor,dtp1,1997,na,'na').
  estimate_required(nor,dtp1,1998,na,'na').

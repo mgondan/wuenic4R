@@ -1,8 +1,8 @@
 %  Iceland - ISL 
-%  Fri May 17 12:06:38 2024 
+%  Mon May 20 19:59:10 2024 
 
 country(isl,'Iceland'). 
-date('Fri May 17 12:06:38 2024').
+date('Mon May 20 19:59:10 2024').
 
 estimate_required(isl,dtp1,1997,na,'na').
  estimate_required(isl,dtp1,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Tuvalu - TUV 
-%  Fri May 17 12:23:55 2024 
+%  Mon May 20 20:14:53 2024 
 
 country(tuv,'Tuvalu'). 
-date('Fri May 17 12:23:55 2024').
+date('Mon May 20 20:14:53 2024').
 
 estimate_required(tuv,bcg,1997,na,'na').
  estimate_required(tuv,bcg,1998,na,'na').

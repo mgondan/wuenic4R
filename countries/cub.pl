@@ -1,8 +1,8 @@
 %  Cuba - CUB 
-%  Fri May 17 11:58:56 2024 
+%  Mon May 20 19:52:16 2024 
 
 country(cub,'Cuba'). 
-date('Fri May 17 11:58:56 2024').
+date('Mon May 20 19:52:16 2024').
 
 estimate_required(cub,bcg,1997,na,'na').
  estimate_required(cub,bcg,1998,na,'na').

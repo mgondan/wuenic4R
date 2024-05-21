@@ -1,8 +1,8 @@
 %  Armenia - ARM 
-%  Fri May 17 11:53:06 2024 
+%  Mon May 20 19:46:14 2024 
 
 country(arm,'Armenia'). 
-date('Fri May 17 11:53:06 2024').
+date('Mon May 20 19:46:14 2024').
 
 estimate_required(arm,bcg,1997,na,'na').
  estimate_required(arm,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Angola - AGO 
-%  Fri May 17 11:51:58 2024 
+%  Mon May 20 19:45:03 2024 
 
 country(ago,'Angola'). 
-date('Fri May 17 11:51:58 2024').
+date('Mon May 20 19:45:03 2024').
 
 estimate_required(ago,bcg,1997,na,'na').
  estimate_required(ago,bcg,1998,na,'na').

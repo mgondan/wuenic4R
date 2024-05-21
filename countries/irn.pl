@@ -1,8 +1,8 @@
 %  Iran (Islamic Republic of) - IRN 
-%  Fri May 17 12:06:18 2024 
+%  Mon May 20 19:58:50 2024 
 
 country(irn,'Iran (Islamic Republic of)'). 
-date('Fri May 17 12:06:18 2024').
+date('Mon May 20 19:58:50 2024').
 
 estimate_required(irn,bcg,1997,na,'na').
  estimate_required(irn,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Algeria - DZA 
-%  Fri May 17 12:00:18 2024 
+%  Mon May 20 19:53:35 2024 
 
 country(dza,'Algeria'). 
-date('Fri May 17 12:00:18 2024').
+date('Mon May 20 19:53:35 2024').
 
 estimate_required(dza,bcg,1997,na,'na').
  estimate_required(dza,bcg,1998,na,'na').

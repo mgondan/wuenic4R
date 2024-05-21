@@ -1,8 +1,8 @@
 %  Papua New Guinea - PNG 
-%  Fri May 17 12:17:03 2024 
+%  Mon May 20 20:08:44 2024 
 
 country(png,'Papua New Guinea'). 
-date('Fri May 17 12:17:03 2024').
+date('Mon May 20 20:08:44 2024').
 
 estimate_required(png,bcg,1997,na,'na').
  estimate_required(png,bcg,1998,na,'na').

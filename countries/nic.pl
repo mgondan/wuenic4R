@@ -1,8 +1,8 @@
 %  Nicaragua - NIC 
-%  Fri May 17 12:14:34 2024 
+%  Mon May 20 20:06:25 2024 
 
 country(nic,'Nicaragua'). 
-date('Fri May 17 12:14:34 2024').
+date('Mon May 20 20:06:25 2024').
 
 estimate_required(nic,bcg,1997,na,'na').
  estimate_required(nic,bcg,1998,na,'na').

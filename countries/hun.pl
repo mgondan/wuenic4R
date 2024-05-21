@@ -1,8 +1,8 @@
 %  Hungary - HUN 
-%  Fri May 17 12:05:22 2024 
+%  Mon May 20 19:58:04 2024 
 
 country(hun,'Hungary'). 
-date('Fri May 17 12:05:22 2024').
+date('Mon May 20 19:58:04 2024').
 
 estimate_required(hun,bcg,1997,na,'na').
  estimate_required(hun,bcg,1998,na,'na').

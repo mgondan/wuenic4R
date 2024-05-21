@@ -1,8 +1,8 @@
 %  Guyana - GUY 
-%  Fri May 17 12:04:19 2024 
+%  Mon May 20 19:57:16 2024 
 
 country(guy,'Guyana'). 
-date('Fri May 17 12:04:19 2024').
+date('Mon May 20 19:57:16 2024').
 
 estimate_required(guy,bcg,1997,na,'na').
  estimate_required(guy,bcg,1998,na,'na').

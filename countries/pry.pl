@@ -1,8 +1,8 @@
 %  Paraguay - PRY 
-%  Fri May 17 12:17:36 2024 
+%  Mon May 20 20:09:17 2024 
 
 country(pry,'Paraguay'). 
-date('Fri May 17 12:17:36 2024').
+date('Mon May 20 20:09:17 2024').
 
 estimate_required(pry,bcg,1997,na,'na').
  estimate_required(pry,bcg,1998,na,'na').

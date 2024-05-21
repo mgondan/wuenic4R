@@ -1,8 +1,8 @@
 %  Chad - TCD 
-%  Fri May 17 12:22:15 2024 
+%  Mon May 20 20:13:25 2024 
 
 country(tcd,'Chad'). 
-date('Fri May 17 12:22:15 2024').
+date('Mon May 20 20:13:25 2024').
 
 estimate_required(tcd,bcg,1997,na,'na').
  estimate_required(tcd,bcg,1998,na,'na').

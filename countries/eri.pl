@@ -1,8 +1,8 @@
 %  Eritrea - ERI 
-%  Fri May 17 12:01:05 2024 
+%  Mon May 20 19:54:11 2024 
 
 country(eri,'Eritrea'). 
-date('Fri May 17 12:01:05 2024').
+date('Mon May 20 19:54:11 2024').
 
 estimate_required(eri,bcg,1997,na,'na').
  estimate_required(eri,bcg,1998,na,'na').

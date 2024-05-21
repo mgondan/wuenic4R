@@ -1,8 +1,8 @@
 %  Mongolia - MNG 
-%  Fri May 17 12:12:30 2024 
+%  Mon May 20 20:04:44 2024 
 
 country(mng,'Mongolia'). 
-date('Fri May 17 12:12:30 2024').
+date('Mon May 20 20:04:44 2024').
 
 estimate_required(mng,bcg,1997,na,'na').
  estimate_required(mng,bcg,1998,na,'na').

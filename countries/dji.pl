@@ -1,8 +1,8 @@
 %  Djibouti - DJI 
-%  Fri May 17 11:59:35 2024 
+%  Mon May 20 19:52:54 2024 
 
 country(dji,'Djibouti'). 
-date('Fri May 17 11:59:35 2024').
+date('Mon May 20 19:52:54 2024').
 
 estimate_required(dji,bcg,1997,na,'na').
  estimate_required(dji,bcg,1998,na,'na').

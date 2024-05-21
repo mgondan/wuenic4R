@@ -1,8 +1,8 @@
 %  Czechia - CZE 
-%  Fri May 17 11:59:17 2024 
+%  Mon May 20 19:52:36 2024 
 
 country(cze,'Czechia'). 
-date('Fri May 17 11:59:17 2024').
+date('Mon May 20 19:52:36 2024').
 
 estimate_required(cze,bcg,1997,na,'na').
  estimate_required(cze,bcg,1998,na,'na').

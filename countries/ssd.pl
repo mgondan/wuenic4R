@@ -1,8 +1,8 @@
 %  South Sudan - SSD 
-%  Fri May 17 12:20:58 2024 
+%  Mon May 20 20:12:12 2024 
 
 country(ssd,'South Sudan'). 
-date('Fri May 17 12:20:58 2024').
+date('Mon May 20 20:12:12 2024').
 
 estimate_required(ssd,bcg,2011,na,'na').
  estimate_required(ssd,bcg,2012,na,'na').

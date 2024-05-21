@@ -1,8 +1,8 @@
 %  Kyrgyzstan - KGZ 
-%  Fri May 17 12:07:55 2024 
+%  Mon May 20 20:00:21 2024 
 
 country(kgz,'Kyrgyzstan'). 
-date('Fri May 17 12:07:55 2024').
+date('Mon May 20 20:00:21 2024').
 
 estimate_required(kgz,bcg,1997,na,'na').
  estimate_required(kgz,bcg,1998,na,'na').

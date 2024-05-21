@@ -1,8 +1,8 @@
 %  Afghanistan - AFG 
-%  Fri May 17 11:51:44 2024 
+%  Mon May 20 19:44:49 2024 
 
 country(afg,'Afghanistan'). 
-date('Fri May 17 11:51:44 2024').
+date('Mon May 20 19:44:49 2024').
 
 estimate_required(afg,bcg,1997,na,'na').
  estimate_required(afg,bcg,1998,na,'na').

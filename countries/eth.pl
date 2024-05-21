@@ -1,8 +1,8 @@
 %  Ethiopia - ETH 
-%  Fri May 17 12:01:26 2024 
+%  Mon May 20 19:54:32 2024 
 
 country(eth,'Ethiopia'). 
-date('Fri May 17 12:01:26 2024').
+date('Mon May 20 19:54:32 2024').
 
 estimate_required(eth,bcg,1997,na,'na').
  estimate_required(eth,bcg,1998,na,'na').
@@ -1962,18 +1962,7 @@ wgd(eth,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,54,_,na).
  wgd(eth,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,51,_,na).
  wgd(eth,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,83,_,na).
 
-wgd(eth,pol3,2011,2011,assignAnchor,'.',na,70,na,na).
- wgd(eth,pol3,2011,2011,comment,' OPV coverage is not include in the Health Management Information System and the third dose of DTP-HepB-Hib coverage is used as a proxy indicator for coverage of third dose of polio vaccine.',na,na,na,na).
- wgd(eth,pol3,2012,2012,assignGoC,'Consistency with other antigens',na,1,na,na).
- wgd(eth,pol3,2012,2021,comment,' Estimated coverage for polio is likely overestimated due to frequent campaigns conducted in the country.',na,na,na,na).
- wgd(eth,pol3,2013,2013,internalComment,' Estimate is based on estimated DTP3 level.',na,59,na,na).
- wgd(eth,pol3,2014,2014,comment,' Observed increases between 2013 and 2014 in the reported official coverage are of such magnitude that additional supporting evidence of the increase is needed.',na,na,na,na).
- wgd(eth,pol3,2014,2014,internalComment,' Estimate is based on estimated DTP3 level.',na,61,na,na).
- wgd(eth,pol3,2018,2018,ignoreReported,' Unexplained decline in reported coverage.',na,na,na,na).
- wgd(eth,pol3,2022,2022,comment,' Estimated coverage for polio is likely overestimated due to frequent campaigns conducted in the country, though no polio campaigns were reported for 2022.',na,na,na,na).
- wgd(eth,rotac,2014,2014,comment,' Rotavirus vaccine introduced during November 2013 and reporting began during 2014.',na,na,na,na).
- wgd(eth,rotac,2014,2017,interpolate,'.',na,na,na,na).
- wgd(eth,X,2000,2000,ignoreSurvey,' Survey results inconsistent with other data.',na,na,na,na).
+wgd(eth,X,2000,2000,ignoreSurvey,' Survey results inconsistent with other data.',na,na,na,na).
  wgd(eth,X,2005,2005,ignoreSurvey,' Survey results inconsistent with other data.',na,na,na,na).
  wgd(eth,X,2010,2010,ignoreSurvey,' Survey results do not include data obtained from health facility records.',na,na,na,na).
  wgd(eth,X,2011,2011,comment,' Information on child immunization was available from immunization cards for 47 percent of children aged 12-23 months, additional documented information was obtained through health facility review.',na,na,na,na).
@@ -2041,4 +2030,15 @@ wgd(eth,pol3,2011,2011,assignAnchor,'.',na,70,na,na).
  wgd(eth,pcv3,2014,2014,comment,' Observed increases between 2013 and 2014 in the reported official coverage are of such magnitude that additional supporting evidence of the increase is needed.',na,na,na,na).
  wgd(eth,pcv3,2014,2017,interpolate,'.',na,na,na,na).
  wgd(eth,pol3,1998,2012,ignoreReported,' See comment in 2013 regarding deficiencies in administrative reporting system.',na,na,na,na).
+ wgd(eth,pol3,2011,2011,assignAnchor,'.',na,70,na,na).
+ wgd(eth,pol3,2011,2011,comment,' OPV coverage is not include in the Health Management Information System and the third dose of DTP-HepB-Hib coverage is used as a proxy indicator for coverage of third dose of polio vaccine.',na,na,na,na).
+ wgd(eth,pol3,2012,2012,assignGoC,'Consistency with other antigens',na,1,na,na).
+ wgd(eth,pol3,2012,2021,comment,' Estimated coverage for polio is likely overestimated due to frequent campaigns conducted in the country.',na,na,na,na).
+ wgd(eth,pol3,2013,2013,internalComment,' Estimate is based on estimated DTP3 level.',na,59,na,na).
+ wgd(eth,pol3,2014,2014,comment,' Observed increases between 2013 and 2014 in the reported official coverage are of such magnitude that additional supporting evidence of the increase is needed.',na,na,na,na).
+ wgd(eth,pol3,2014,2014,internalComment,' Estimate is based on estimated DTP3 level.',na,61,na,na).
+ wgd(eth,pol3,2018,2018,ignoreReported,' Unexplained decline in reported coverage.',na,na,na,na).
+ wgd(eth,pol3,2022,2022,comment,' Estimated coverage for polio is likely overestimated due to frequent campaigns conducted in the country, though no polio campaigns were reported for 2022.',na,na,na,na).
+ wgd(eth,rotac,2014,2014,comment,' Rotavirus vaccine introduced during November 2013 and reporting began during 2014.',na,na,na,na).
+ wgd(eth,rotac,2014,2017,interpolate,'.',na,na,na,na).
 

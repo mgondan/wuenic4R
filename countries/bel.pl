@@ -1,8 +1,8 @@
 %  Belgium - BEL 
-%  Fri May 17 11:54:10 2024 
+%  Mon May 20 19:47:20 2024 
 
 country(bel,'Belgium'). 
-date('Fri May 17 11:54:10 2024').
+date('Mon May 20 19:47:20 2024').
 
 estimate_required(bel,dtp1,1997,na,'na').
  estimate_required(bel,dtp1,1998,na,'na').

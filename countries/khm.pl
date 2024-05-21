@@ -1,8 +1,8 @@
 %  Cambodia - KHM 
-%  Fri May 17 12:08:02 2024 
+%  Mon May 20 20:00:28 2024 
 
 country(khm,'Cambodia'). 
-date('Fri May 17 12:08:02 2024').
+date('Mon May 20 20:00:28 2024').
 
 estimate_required(khm,bcg,1997,na,'na').
  estimate_required(khm,bcg,1998,na,'na').

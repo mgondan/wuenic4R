@@ -1,8 +1,8 @@
 %  Sierra Leone - SLE 
-%  Fri May 17 12:19:55 2024 
+%  Mon May 20 20:11:20 2024 
 
 country(sle,'Sierra Leone'). 
-date('Fri May 17 12:19:55 2024').
+date('Mon May 20 20:11:20 2024').
 
 estimate_required(sle,bcg,1999,na,'na').
  estimate_required(sle,bcg,2000,na,'na').

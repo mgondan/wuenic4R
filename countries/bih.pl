@@ -1,8 +1,8 @@
 %  Bosnia and Herzegovina - BIH 
-%  Fri May 17 11:54:30 2024 
+%  Mon May 20 19:47:41 2024 
 
 country(bih,'Bosnia and Herzegovina'). 
-date('Fri May 17 11:54:30 2024').
+date('Mon May 20 19:47:41 2024').
 
 estimate_required(bih,bcg,1997,na,'na').
  estimate_required(bih,bcg,1998,na,'na').

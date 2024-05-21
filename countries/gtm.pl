@@ -1,8 +1,8 @@
 %  Guatemala - GTM 
-%  Fri May 17 12:04:10 2024 
+%  Mon May 20 19:57:08 2024 
 
 country(gtm,'Guatemala'). 
-date('Fri May 17 12:04:10 2024').
+date('Mon May 20 19:57:08 2024').
 
 estimate_required(gtm,bcg,1997,na,'na').
  estimate_required(gtm,bcg,1998,na,'na').

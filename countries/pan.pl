@@ -1,8 +1,8 @@
 %  Panama - PAN 
-%  Fri May 17 12:15:55 2024 
+%  Mon May 20 20:07:46 2024 
 
 country(pan,'Panama'). 
-date('Fri May 17 12:15:55 2024').
+date('Mon May 20 20:07:46 2024').
 
 estimate_required(pan,bcg,1997,na,'na').
  estimate_required(pan,bcg,1998,na,'na').
@@ -1615,39 +1615,7 @@ wgd(pan,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(pan,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(pan,rcv1,1997,1997,assignAnchor,'Legacy estimate.',na,92,_,na).
 
-wgd(pan,X,2022,2022,comment,' No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.',na,na,na,na).
- wgd(pan,bcg,2012,2012,comment,' Results from the 2013 Multiple Indicator Cluster Survey for the 2012 birth cohort suggest coverage of 96 percent.',na,na,na,na).
- wgd(pan,bcg,2018,2018,comment,' Programme reports a four-month vaccine stockout.',na,na,na,na).
- wgd(pan,bcg,2019,2019,comment,' Programme reports a one month vaccine stockout.',na,na,na,na).
- wgd(pan,dtp1,2003,2003,assignAnchor,' Estimate based on reported data.',na,92,na,na).
- wgd(pan,dtp1,2005,2005,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
- wgd(pan,dtp1,2007,2008,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
- wgd(pan,dtp1,2012,2012,comment,' Results from the 2013 Multiple Indicator Cluster Survey for the 2012 birth cohort suggest coverage of 92 percent.',na,na,na,na).
- wgd(pan,dtp1,2016,2016,comment,' Programme reports a one-month vaccine stockout in 2016.',na,na,na,na).
- wgd(pan,dtp1,2020,2020,assignWUENIC,' Estimate is based on decline in reported administrative coverage. Programme reports a three months vaccine stockout at national and subnational levels.',na,93,na,na).
- wgd(pan,dtp1x,2021,2021,assignWUENIC,' Estimate based on extrapolation from prior year.',na,93,na,na).
- wgd(pan,dtp3,2005,2005,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
- wgd(pan,dtp3,2007,2008,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
- wgd(pan,dtp3,2012,2012,comment,' Results from the 2013 Multiple Indicator Cluster Survey for the 2012 birth cohort supports reported coverage levels.',na,na,na,na).
- wgd(pan,dtp3,2016,2016,comment,' Programme reports a one-month vaccine stockout.',na,na,na,na).
- wgd(pan,dtp3,2020,2020,acceptReported,' Estimate is based on decline in reported administrative coverage. Programme reports a three months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(pan,dtp3,2021,2021,acceptReported,'.',na,na,na,na).
- wgd(pan,hepb3,2001,2001,comment,' HepB vaccine introduced in 1999. Reporting started in 2001.',na,na,na,na).
- wgd(pan,hepb3,2005,2005,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
- wgd(pan,hepb3,2007,2008,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
- wgd(pan,hepb3,2016,2016,comment,' Programme reports a one-month vaccine stockout.',na,na,na,na).
- wgd(pan,hepb3,2020,2020,acceptReported,' Estimate is based on decline in reported administrative coverage. Programme reports a three months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(pan,hepb3,2021,2021,acceptReported,'.',na,na,na,na).
- wgd(pan,hepbb,2019,2019,comment,' Programme reports eight months vaccine stockout.',na,na,na,na).
- wgd(pan,hib3,2001,2001,comment,' Hib vaccine introduced in 2000. Reporting started in 2001.',na,na,na,na).
- wgd(pan,hib3,2005,2005,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
- wgd(pan,hib3,2007,2008,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
- wgd(pan,hib3,2016,2016,comment,' Programme reports a one-month vaccine stockout.',na,na,na,na).
- wgd(pan,hib3,2020,2020,acceptReported,' Estimate is based on decline in reported administrative coverage. Programme reports a three months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(pan,hib3,2021,2021,acceptReported,'.',na,na,na,na).
- wgd(pan,ipv1,2016,2016,assignWUENIC,' Coverage set at level of estimate for DTP1. Country is using hexavalent DTaP-Hib-HepB-IPV.',na,96,na,na).
- wgd(pan,ipv1,2017,2017,assignWUENIC,' Coverage set at level of estimate for DTP1. Country is using hexavalent DTaP-Hib-HepB-IPV.',na,96,na,na).
- wgd(pan,ipv1,2018,2019,assignWUENIC,' Estimate is based on DTP1 coverage estimate.',na,97,na,na).
+wgd(pan,ipv1,2018,2019,assignWUENIC,' Estimate is based on DTP1 coverage estimate.',na,97,na,na).
  wgd(pan,ipv1,2020,2020,assignWUENIC,' Estimate is based on DTP1 coverage estimate.',na,93,na,na).
  wgd(pan,ipv1x,2021,2021,assignWUENIC,' Estimate based on extrapolation from prior year.',na,93,na,na).
  wgd(pan,mcv1,2005,2005,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
@@ -1685,6 +1653,38 @@ wgd(pan,X,2022,2022,comment,' No nationally representative household survey with
  wgd(pan,yfv,2015,2015,assignWUENIC,' Sixty percent coverage reached in eight percent of the national birth cohort. Estimate is based on annualized coverage among the total national birth cohort.',na,5,na,na).
  wgd(pan,yfv,2016,2016,assignWUENIC,' Eighty-one percent coverage reached in eight percent of the national birth cohort. Estimate is based on annualized coverage among the total national birth cohort.',na,6,na,na).
  wgd(pan,yfv,2017,2017,assignWUENIC,' Ninety-two percent coverage reached in eight percent of the national birth cohort. Estimate is based on annualized coverage among the total national birth cohort.',na,6,na,na).
+ wgd(pan,X,2022,2022,comment,' No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.',na,na,na,na).
+ wgd(pan,bcg,2012,2012,comment,' Results from the 2013 Multiple Indicator Cluster Survey for the 2012 birth cohort suggest coverage of 96 percent.',na,na,na,na).
+ wgd(pan,bcg,2018,2018,comment,' Programme reports a four-month vaccine stockout.',na,na,na,na).
+ wgd(pan,bcg,2019,2019,comment,' Programme reports a one month vaccine stockout.',na,na,na,na).
+ wgd(pan,dtp1,2003,2003,assignAnchor,' Estimate based on reported data.',na,92,na,na).
+ wgd(pan,dtp1,2005,2005,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
+ wgd(pan,dtp1,2007,2008,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
+ wgd(pan,dtp1,2012,2012,comment,' Results from the 2013 Multiple Indicator Cluster Survey for the 2012 birth cohort suggest coverage of 92 percent.',na,na,na,na).
+ wgd(pan,dtp1,2016,2016,comment,' Programme reports a one-month vaccine stockout in 2016.',na,na,na,na).
+ wgd(pan,dtp1,2020,2020,assignWUENIC,' Estimate is based on decline in reported administrative coverage. Programme reports a three months vaccine stockout at national and subnational levels.',na,93,na,na).
+ wgd(pan,dtp1x,2021,2021,assignWUENIC,' Estimate based on extrapolation from prior year.',na,93,na,na).
+ wgd(pan,dtp3,2005,2005,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
+ wgd(pan,dtp3,2007,2008,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
+ wgd(pan,dtp3,2012,2012,comment,' Results from the 2013 Multiple Indicator Cluster Survey for the 2012 birth cohort supports reported coverage levels.',na,na,na,na).
+ wgd(pan,dtp3,2016,2016,comment,' Programme reports a one-month vaccine stockout.',na,na,na,na).
+ wgd(pan,dtp3,2020,2020,acceptReported,' Estimate is based on decline in reported administrative coverage. Programme reports a three months vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(pan,dtp3,2021,2021,acceptReported,'.',na,na,na,na).
+ wgd(pan,hepb3,2001,2001,comment,' HepB vaccine introduced in 1999. Reporting started in 2001.',na,na,na,na).
+ wgd(pan,hepb3,2005,2005,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
+ wgd(pan,hepb3,2007,2008,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
+ wgd(pan,hepb3,2016,2016,comment,' Programme reports a one-month vaccine stockout.',na,na,na,na).
+ wgd(pan,hepb3,2020,2020,acceptReported,' Estimate is based on decline in reported administrative coverage. Programme reports a three months vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(pan,hepb3,2021,2021,acceptReported,'.',na,na,na,na).
+ wgd(pan,hepbb,2019,2019,comment,' Programme reports eight months vaccine stockout.',na,na,na,na).
+ wgd(pan,hib3,2001,2001,comment,' Hib vaccine introduced in 2000. Reporting started in 2001.',na,na,na,na).
+ wgd(pan,hib3,2005,2005,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
+ wgd(pan,hib3,2007,2008,comment,' Denominator based on number of children receiving BCG.',na,na,na,na).
+ wgd(pan,hib3,2016,2016,comment,' Programme reports a one-month vaccine stockout.',na,na,na,na).
+ wgd(pan,hib3,2020,2020,acceptReported,' Estimate is based on decline in reported administrative coverage. Programme reports a three months vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(pan,hib3,2021,2021,acceptReported,'.',na,na,na,na).
+ wgd(pan,ipv1,2016,2016,assignWUENIC,' Coverage set at level of estimate for DTP1. Country is using hexavalent DTaP-Hib-HepB-IPV.',na,96,na,na).
+ wgd(pan,ipv1,2017,2017,assignWUENIC,' Coverage set at level of estimate for DTP1. Country is using hexavalent DTaP-Hib-HepB-IPV.',na,96,na,na).
  wgd(pan,yfv,2018,2018,assignWUENIC,' Eighty-five percent coverage reached in seven percent of the national birth cohort. Estimate is based on annualized coverage among the total national birth cohort.',na,6,na,na).
  wgd(pan,yfv,2019,2019,assignWUENIC,' Programme reports 107 percent coverage reached in seven percent of the national birth cohort. Estimate is based on annualized coverage among the total national birth cohort.',na,7,na,na).
  wgd(pan,yfv,2020,2020,assignWUENIC,' Programme reports 69 percent coverage reached in seven percent of the national birth cohort in the three regions at risk for yellow fever. Estimate is based on annualized coverage among the total national birth cohort.',na,5,na,na).

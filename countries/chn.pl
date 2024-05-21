@@ -1,8 +1,8 @@
 %  China - CHN 
-%  Fri May 17 11:57:45 2024 
+%  Mon May 20 19:51:06 2024 
 
 country(chn,'China'). 
-date('Fri May 17 11:57:45 2024').
+date('Mon May 20 19:51:06 2024').
 
 estimate_required(chn,bcg,1997,na,'na').
  estimate_required(chn,bcg,1998,na,'na').

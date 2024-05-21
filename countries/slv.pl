@@ -1,8 +1,8 @@
 %  El Salvador - SLV 
-%  Fri May 17 12:20:24 2024 
+%  Mon May 20 20:11:39 2024 
 
 country(slv,'El Salvador'). 
-date('Fri May 17 12:20:24 2024').
+date('Mon May 20 20:11:39 2024').
 
 estimate_required(slv,bcg,1997,na,'na').
  estimate_required(slv,bcg,1998,na,'na').

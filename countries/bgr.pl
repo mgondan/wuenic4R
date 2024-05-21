@@ -1,8 +1,8 @@
 %  Bulgaria - BGR 
-%  Fri May 17 11:55:22 2024 
+%  Mon May 20 19:48:36 2024 
 
 country(bgr,'Bulgaria'). 
-date('Fri May 17 11:55:22 2024').
+date('Mon May 20 19:48:36 2024').
 
 estimate_required(bgr,bcg,1997,na,'na').
  estimate_required(bgr,bcg,1998,na,'na').

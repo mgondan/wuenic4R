@@ -1,8 +1,8 @@
 %  Austria - AUT 
-%  Fri May 17 11:53:33 2024 
+%  Mon May 20 19:46:41 2024 
 
 country(aut,'Austria'). 
-date('Fri May 17 11:53:33 2024').
+date('Mon May 20 19:46:41 2024').
 
 estimate_required(aut,dtp1,1997,na,'na').
  estimate_required(aut,dtp1,1998,na,'na').

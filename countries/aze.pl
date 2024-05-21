@@ -1,8 +1,8 @@
 %  Azerbaijan - AZE 
-%  Fri May 17 11:53:52 2024 
+%  Mon May 20 19:46:59 2024 
 
 country(aze,'Azerbaijan'). 
-date('Fri May 17 11:53:52 2024').
+date('Mon May 20 19:46:59 2024').
 
 estimate_required(aze,bcg,1997,na,'na').
  estimate_required(aze,bcg,1998,na,'na').

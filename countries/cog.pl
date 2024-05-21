@@ -1,8 +1,8 @@
 %  Congo - COG 
-%  Fri May 17 11:58:07 2024 
+%  Mon May 20 19:51:28 2024 
 
 country(cog,'Congo'). 
-date('Fri May 17 11:58:07 2024').
+date('Mon May 20 19:51:28 2024').
 
 estimate_required(cog,bcg,1997,na,'na').
  estimate_required(cog,bcg,1998,na,'na').

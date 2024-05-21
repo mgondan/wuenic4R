@@ -1,8 +1,8 @@
 %  Mauritania - MRT 
-%  Fri May 17 12:13:06 2024 
+%  Mon May 20 20:05:10 2024 
 
 country(mrt,'Mauritania'). 
-date('Fri May 17 12:13:06 2024').
+date('Mon May 20 20:05:10 2024').
 
 estimate_required(mrt,bcg,1997,na,'na').
  estimate_required(mrt,bcg,1998,na,'na').

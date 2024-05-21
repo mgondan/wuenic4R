@@ -1,8 +1,8 @@
 %  Uruguay - URY 
-%  Fri May 17 12:25:11 2024 
+%  Mon May 20 20:15:42 2024 
 
 country(ury,'Uruguay'). 
-date('Fri May 17 12:25:11 2024').
+date('Mon May 20 20:15:42 2024').
 
 estimate_required(ury,bcg,1997,na,'na').
  estimate_required(ury,bcg,1998,na,'na').

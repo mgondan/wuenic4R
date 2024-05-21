@@ -1,8 +1,8 @@
 %  Democratic People’s Republic of Korea - PRK 
-%  Fri May 17 12:17:21 2024 
+%  Mon May 20 20:09:02 2024 
 
 country(prk,'Democratic People’s Republic of Korea'). 
-date('Fri May 17 12:17:21 2024').
+date('Mon May 20 20:09:02 2024').
 
 estimate_required(prk,bcg,1997,na,'na').
  estimate_required(prk,bcg,1998,na,'na').

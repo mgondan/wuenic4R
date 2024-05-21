@@ -1,8 +1,8 @@
 %  Solomon Islands - SLB 
-%  Fri May 17 12:19:47 2024 
+%  Mon May 20 20:11:11 2024 
 
 country(slb,'Solomon Islands'). 
-date('Fri May 17 12:19:47 2024').
+date('Mon May 20 20:11:11 2024').
 
 estimate_required(slb,bcg,1997,na,'na').
  estimate_required(slb,bcg,1998,na,'na').

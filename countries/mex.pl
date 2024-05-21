@@ -1,8 +1,8 @@
 %  Mexico - MEX 
-%  Fri May 17 12:11:19 2024 
+%  Mon May 20 20:03:37 2024 
 
 country(mex,'Mexico'). 
-date('Fri May 17 12:11:19 2024').
+date('Mon May 20 20:03:37 2024').
 
 estimate_required(mex,bcg,1997,na,'na').
  estimate_required(mex,bcg,1998,na,'na').

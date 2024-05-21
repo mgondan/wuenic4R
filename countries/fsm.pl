@@ -1,8 +1,8 @@
 %  Micronesia (Federated States of ) - FSM 
-%  Fri May 17 12:02:18 2024 
+%  Mon May 20 19:55:18 2024 
 
 country(fsm,'Micronesia (Federated States of )'). 
-date('Fri May 17 12:02:18 2024').
+date('Mon May 20 19:55:18 2024').
 
 estimate_required(fsm,bcg,1997,na,'na').
  estimate_required(fsm,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Ecuador - ECU 
-%  Fri May 17 12:00:27 2024 
+%  Mon May 20 19:53:45 2024 
 
 country(ecu,'Ecuador'). 
-date('Fri May 17 12:00:27 2024').
+date('Mon May 20 19:53:45 2024').
 
 estimate_required(ecu,bcg,1997,na,'na').
  estimate_required(ecu,bcg,1998,na,'na').

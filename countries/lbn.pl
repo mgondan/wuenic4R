@@ -1,8 +1,8 @@
 %  Lebanon - LBN 
-%  Fri May 17 12:09:06 2024 
+%  Mon May 20 20:01:30 2024 
 
 country(lbn,'Lebanon'). 
-date('Fri May 17 12:09:06 2024').
+date('Mon May 20 20:01:30 2024').
 
 estimate_required(lbn,dtp1,1997,na,'na').
  estimate_required(lbn,dtp1,1998,na,'na').

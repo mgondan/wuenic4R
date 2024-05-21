@@ -1,8 +1,8 @@
 %  Peru - PER 
-%  Fri May 17 12:16:10 2024 
+%  Mon May 20 20:08:00 2024 
 
 country(per,'Peru'). 
-date('Fri May 17 12:16:10 2024').
+date('Mon May 20 20:08:00 2024').
 
 estimate_required(per,bcg,1997,na,'na').
  estimate_required(per,bcg,1998,na,'na').

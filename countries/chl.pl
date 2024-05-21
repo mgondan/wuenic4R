@@ -1,8 +1,8 @@
 %  Chile - CHL 
-%  Fri May 17 11:57:38 2024 
+%  Mon May 20 19:50:58 2024 
 
 country(chl,'Chile'). 
-date('Fri May 17 11:57:38 2024').
+date('Mon May 20 19:50:58 2024').
 
 estimate_required(chl,bcg,1997,na,'na').
  estimate_required(chl,bcg,1998,na,'na').

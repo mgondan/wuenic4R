@@ -1,8 +1,8 @@
 %  Haiti - HTI 
-%  Fri May 17 12:05:12 2024 
+%  Mon May 20 19:57:55 2024 
 
 country(hti,'Haiti'). 
-date('Fri May 17 12:05:12 2024').
+date('Mon May 20 19:57:55 2024').
 
 estimate_required(hti,bcg,1997,na,'na').
  estimate_required(hti,bcg,1998,na,'na').

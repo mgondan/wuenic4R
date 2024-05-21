@@ -1,8 +1,8 @@
 %  South Africa - ZAF 
-%  Fri May 17 12:26:47 2024 
+%  Mon May 20 20:17:05 2024 
 
 country(zaf,'South Africa'). 
-date('Fri May 17 12:26:47 2024').
+date('Mon May 20 20:17:05 2024').
 
 estimate_required(zaf,bcg,1997,na,'na').
  estimate_required(zaf,bcg,1998,na,'na').

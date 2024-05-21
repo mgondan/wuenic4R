@@ -1,8 +1,8 @@
 %  Finland - FIN 
-%  Fri May 17 12:01:36 2024 
+%  Mon May 20 19:54:42 2024 
 
 country(fin,'Finland'). 
-date('Fri May 17 12:01:36 2024').
+date('Mon May 20 19:54:42 2024').
 
 estimate_required(fin,bcg,1997,na,'na').
  estimate_required(fin,bcg,1998,na,'na').

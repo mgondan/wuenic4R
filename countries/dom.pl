@@ -1,8 +1,8 @@
 %  Dominican Republic - DOM 
-%  Fri May 17 12:00:07 2024 
+%  Mon May 20 19:53:24 2024 
 
 country(dom,'Dominican Republic'). 
-date('Fri May 17 12:00:07 2024').
+date('Mon May 20 19:53:24 2024').
 
 estimate_required(dom,bcg,1997,na,'na').
  estimate_required(dom,bcg,1998,na,'na').

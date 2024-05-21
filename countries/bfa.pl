@@ -1,8 +1,8 @@
 %  Burkina Faso - BFA 
-%  Fri May 17 11:54:52 2024 
+%  Mon May 20 19:48:02 2024 
 
 country(bfa,'Burkina Faso'). 
-date('Fri May 17 11:54:52 2024').
+date('Mon May 20 19:48:02 2024').
 
 estimate_required(bfa,bcg,1997,na,'na').
  estimate_required(bfa,bcg,1998,na,'na').

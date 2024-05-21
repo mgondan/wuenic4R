@@ -1,8 +1,8 @@
 %  Egypt - EGY 
-%  Fri May 17 12:00:57 2024 
+%  Mon May 20 19:54:04 2024 
 
 country(egy,'Egypt'). 
-date('Fri May 17 12:00:57 2024').
+date('Mon May 20 19:54:04 2024').
 
 estimate_required(egy,bcg,1997,na,'na').
  estimate_required(egy,bcg,1998,na,'na').

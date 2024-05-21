@@ -1,8 +1,8 @@
 %  State of Palestine - PSE 
-%  Fri May 17 12:17:46 2024 
+%  Mon May 20 20:09:26 2024 
 
 country(pse,'State of Palestine'). 
-date('Fri May 17 12:17:46 2024').
+date('Mon May 20 20:09:26 2024').
 
 estimate_required(pse,bcg,1997,na,'na').
  estimate_required(pse,bcg,1998,na,'na').

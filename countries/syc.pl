@@ -1,8 +1,8 @@
 %  Seychelles - SYC 
-%  Fri May 17 12:21:56 2024 
+%  Mon May 20 20:13:07 2024 
 
 country(syc,'Seychelles'). 
-date('Fri May 17 12:21:56 2024').
+date('Mon May 20 20:13:07 2024').
 
 estimate_required(syc,bcg,1997,na,'na').
  estimate_required(syc,bcg,1998,na,'na').

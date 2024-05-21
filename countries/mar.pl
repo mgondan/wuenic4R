@@ -1,8 +1,8 @@
 %  Morocco - MAR 
-%  Fri May 17 12:10:39 2024 
+%  Mon May 20 20:02:58 2024 
 
 country(mar,'Morocco'). 
-date('Fri May 17 12:10:39 2024').
+date('Mon May 20 20:02:58 2024').
 
 estimate_required(mar,bcg,1997,na,'na').
  estimate_required(mar,bcg,1998,na,'na').

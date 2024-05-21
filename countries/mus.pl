@@ -1,8 +1,8 @@
 %  Mauritius - MUS 
-%  Fri May 17 12:13:15 2024 
+%  Mon May 20 20:05:20 2024 
 
 country(mus,'Mauritius'). 
-date('Fri May 17 12:13:15 2024').
+date('Mon May 20 20:05:20 2024').
 
 estimate_required(mus,bcg,1997,na,'na').
  estimate_required(mus,bcg,1998,na,'na').

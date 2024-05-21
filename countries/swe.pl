@@ -1,8 +1,8 @@
 %  Sweden - SWE 
-%  Fri May 17 12:21:37 2024 
+%  Mon May 20 20:12:50 2024 
 
 country(swe,'Sweden'). 
-date('Fri May 17 12:21:37 2024').
+date('Mon May 20 20:12:50 2024').
 
 estimate_required(swe,bcg,1997,na,'na').
  estimate_required(swe,bcg,1998,na,'na').

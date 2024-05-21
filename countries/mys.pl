@@ -1,8 +1,8 @@
 %  Malaysia - MYS 
-%  Fri May 17 12:13:30 2024 
+%  Mon May 20 20:05:34 2024 
 
 country(mys,'Malaysia'). 
-date('Fri May 17 12:13:30 2024').
+date('Mon May 20 20:05:34 2024').
 
 estimate_required(mys,bcg,1997,na,'na').
  estimate_required(mys,bcg,1998,na,'na').

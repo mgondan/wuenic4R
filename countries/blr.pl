@@ -1,8 +1,8 @@
 %  Belarus - BLR 
-%  Fri May 17 11:54:45 2024 
+%  Mon May 20 19:47:55 2024 
 
 country(blr,'Belarus'). 
-date('Fri May 17 11:54:45 2024').
+date('Mon May 20 19:47:55 2024').
 
 estimate_required(blr,bcg,1997,na,'na').
  estimate_required(blr,bcg,1998,na,'na').

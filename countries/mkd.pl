@@ -1,8 +1,8 @@
 %  North Macedonia - MKD 
-%  Fri May 17 12:11:41 2024 
+%  Mon May 20 20:03:58 2024 
 
 country(mkd,'North Macedonia'). 
-date('Fri May 17 12:11:41 2024').
+date('Mon May 20 20:03:58 2024').
 
 estimate_required(mkd,bcg,1997,na,'na').
  estimate_required(mkd,bcg,1998,na,'na').

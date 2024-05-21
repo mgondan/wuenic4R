@@ -1,8 +1,8 @@
 %  Philippines - PHL 
-%  Fri May 17 12:16:35 2024 
+%  Mon May 20 20:08:19 2024 
 
 country(phl,'Philippines'). 
-date('Fri May 17 12:16:35 2024').
+date('Mon May 20 20:08:19 2024').
 
 estimate_required(phl,bcg,1997,na,'na').
  estimate_required(phl,bcg,1998,na,'na').

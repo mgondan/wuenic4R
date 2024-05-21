@@ -1,8 +1,8 @@
 %  Guinea - GIN 
-%  Fri May 17 12:03:02 2024 
+%  Mon May 20 19:56:01 2024 
 
 country(gin,'Guinea'). 
-date('Fri May 17 12:03:02 2024').
+date('Mon May 20 19:56:01 2024').
 
 estimate_required(gin,bcg,1997,na,'na').
  estimate_required(gin,bcg,1998,na,'na').

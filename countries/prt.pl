@@ -1,8 +1,8 @@
 %  Portugal - PRT 
-%  Fri May 17 12:17:29 2024 
+%  Mon May 20 20:09:09 2024 
 
 country(prt,'Portugal'). 
-date('Fri May 17 12:17:29 2024').
+date('Mon May 20 20:09:09 2024').
 
 estimate_required(prt,bcg,1997,na,'na').
  estimate_required(prt,bcg,1998,na,'na').

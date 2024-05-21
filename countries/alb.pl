@@ -1,8 +1,8 @@
 %  Albania - ALB 
-%  Fri May 17 11:52:24 2024 
+%  Mon May 20 19:45:30 2024 
 
 country(alb,'Albania'). 
-date('Fri May 17 11:52:24 2024').
+date('Mon May 20 19:45:30 2024').
 
 estimate_required(alb,bcg,1997,na,'na').
  estimate_required(alb,bcg,1998,na,'na').

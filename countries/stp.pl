@@ -1,8 +1,8 @@
 %  São Tomé and Principe - STP 
-%  Fri May 17 12:21:06 2024 
+%  Mon May 20 20:12:20 2024 
 
 country(stp,'São Tomé and Principe'). 
-date('Fri May 17 12:21:06 2024').
+date('Mon May 20 20:12:20 2024').
 
 estimate_required(stp,bcg,1997,na,'na').
  estimate_required(stp,bcg,1998,na,'na').

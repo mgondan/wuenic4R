@@ -1,8 +1,8 @@
 %  Yemen - YEM 
-%  Fri May 17 12:26:40 2024 
+%  Mon May 20 20:16:58 2024 
 
 country(yem,'Yemen'). 
-date('Fri May 17 12:26:40 2024').
+date('Mon May 20 20:16:58 2024').
 
 estimate_required(yem,bcg,1997,na,'na').
  estimate_required(yem,bcg,1998,na,'na').

@@ -1,8 +1,8 @@
 %  Saint Lucia - LCA 
-%  Fri May 17 12:09:48 2024 
+%  Mon May 20 20:02:08 2024 
 
 country(lca,'Saint Lucia'). 
-date('Fri May 17 12:09:48 2024').
+date('Mon May 20 20:02:08 2024').
 
 estimate_required(lca,bcg,1997,na,'na').
  estimate_required(lca,bcg,1998,na,'na').
@@ -1247,7 +1247,19 @@ wgd(lca,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,99,_,na).
  wgd(lca,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,98,_,na).
  wgd(lca,rcv1,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
 
-wgd(lca,X,1900,2203,acceptReported,'.',na,na,na,na).
+wgd(lca,mcv1,2019,2019,comment,' Programme reports two months national level vaccine stockout.',na,na,na,na).
+ wgd(lca,mcv1,2020,2020,comment,' Programme reports a two months vaccine stockout at the national and subnational levels.',na,na,na,na).
+ wgd(lca,mcv1,2022,2022,comment,' Programme reports two months vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(lca,mcv2,2015,2015,comment,' Increase in coverage may reflect doses administered during vaccination intensification activities.',na,na,na,na).
+ wgd(lca,mcv2,2016,2016,comment,' Recommended age for MMR2 changed from pre-school age to 18 months.',na,na,na,na).
+ wgd(lca,mcv2,2018,2018,comment,' Reported coverage does not reflect doses administered late, e.g., after 24 month of age.',na,na,na,na).
+ wgd(lca,mcv2,2019,2019,comment,' Programme reports two months national level vaccine stockout.',na,na,na,na).
+ wgd(lca,mcv2,2020,2020,comment,' Programme reports a two months vaccine stockout at the national and subnational levels.',na,na,na,na).
+ wgd(lca,pcv3,2022,2022,comment,' Programme reports three months vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(lca,pol3,2019,2019,comment,' Programme reports one month national level vaccine stockout.',na,na,na,na).
+ wgd(lca,pol3,2022,2022,comment,' Programme reports one month vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(lca,yfv,2022,2022,comment,' Programme reports one month vaccine stockout at national and subnational levels.',na,na,na,na).
+ wgd(lca,X,1900,2203,acceptReported,'.',na,na,na,na).
  wgd(lca,X,2017,2017,comment,' Fluctuation in reported data is attributed to small birth cohort.',na,na,na,na).
  wgd(lca,X,2019,2019,comment,' Programme reports a four months supply disruption of disposable syringes.',na,na,na,na).
  wgd(lca,X,2022,2022,comment,' No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage',na,na,na,na).
@@ -1269,16 +1281,4 @@ wgd(lca,X,1900,2203,acceptReported,'.',na,na,na,na).
  wgd(lca,ipv1,2017,2017,comment,' Country reports stockout of two months.',na,na,na,na).
  wgd(lca,ipv1,2019,2019,comment,' Programme reports one month national level vaccine stockout.',na,na,na,na).
  wgd(lca,ipv1,2022,2022,comment,' Programme reports four months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(lca,mcv1,2019,2019,comment,' Programme reports two months national level vaccine stockout.',na,na,na,na).
- wgd(lca,mcv1,2020,2020,comment,' Programme reports a two months vaccine stockout at the national and subnational levels.',na,na,na,na).
- wgd(lca,mcv1,2022,2022,comment,' Programme reports two months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(lca,mcv2,2015,2015,comment,' Increase in coverage may reflect doses administered during vaccination intensification activities.',na,na,na,na).
- wgd(lca,mcv2,2016,2016,comment,' Recommended age for MMR2 changed from pre-school age to 18 months.',na,na,na,na).
- wgd(lca,mcv2,2018,2018,comment,' Reported coverage does not reflect doses administered late, e.g., after 24 month of age.',na,na,na,na).
- wgd(lca,mcv2,2019,2019,comment,' Programme reports two months national level vaccine stockout.',na,na,na,na).
- wgd(lca,mcv2,2020,2020,comment,' Programme reports a two months vaccine stockout at the national and subnational levels.',na,na,na,na).
- wgd(lca,pcv3,2022,2022,comment,' Programme reports three months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(lca,pol3,2019,2019,comment,' Programme reports one month national level vaccine stockout.',na,na,na,na).
- wgd(lca,pol3,2022,2022,comment,' Programme reports one month vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(lca,yfv,2022,2022,comment,' Programme reports one month vaccine stockout at national and subnational levels.',na,na,na,na).
 

@@ -1,8 +1,8 @@
 %  Syrian Arab Republic - SYR 
-%  Fri May 17 12:22:03 2024 
+%  Mon May 20 20:13:14 2024 
 
 country(syr,'Syrian Arab Republic'). 
-date('Fri May 17 12:22:03 2024').
+date('Mon May 20 20:13:14 2024').
 
 estimate_required(syr,bcg,1997,na,'na').
  estimate_required(syr,bcg,1998,na,'na').
@@ -1526,17 +1526,7 @@ wgd(syr,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,91,_,na).
  wgd(syr,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,84,_,na).
  wgd(syr,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,87,_,na).
 
-wgd(syr,mcv2,2007,2007,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
- wgd(syr,mcv2,2008,2008,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
- wgd(syr,mcv2,2009,2009,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
- wgd(syr,mcv2,2010,2010,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
- wgd(syr,mcv2,2011,2011,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,71,na,na).
- wgd(syr,mcv2,2012,2012,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,53,na,na).
- wgd(syr,mcv2,2013,2013,ignoreReported,' Reported coverage levels may reflect doses delivered during campaign.',na,na,na,na).
- wgd(syr,mcv2,2022,2022,acceptReported,' Programme reports a three months vaccine stockout at the national and subnational level.',na,na,na,na).
- wgd(syr,pol3,2012,2014,comment,' Higher estimated coverage levels versus those for the third dose of DTP containing vaccine may suggest inclusion of campaign doses.',na,na,na,na).
- wgd(syr,pol3,2013,2013,ignoreReported,' Reported coverage levels may reflect doses delivered during campaign.',na,na,na,na).
- wgd(syr,X,2012,2013,acceptReported,' Low levels of coverage associated with the interruption of health services during period of civil unrest.',na,na,na,na).
+wgd(syr,X,2012,2013,acceptReported,' Low levels of coverage associated with the interruption of health services during period of civil unrest.',na,na,na,na).
  wgd(syr,X,2014,2014,comment,' Low levels of coverage continue associated with the interruption of health services during period of civil unrest.',na,na,na,na).
  wgd(syr,X,2015,2015,comment,' Low levels of coverage continue associated with the interruption of health services during period of civil unrest. Reported target population estimates have exceptionally remained largely unchanged during the period of civil unrest between 2014 and 2015.',na,na,na,na).
  wgd(syr,X,2016,2018,comment,' Low levels of coverage, associated with the interruption of health services during a period of civil unrest, continue.',na,na,na,na).
@@ -1617,4 +1607,14 @@ wgd(syr,mcv2,2007,2007,assignAnchor,' Coverage level follows coverage for MCV fi
  wgd(syr,mcv2,2004,2004,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
  wgd(syr,mcv2,2005,2005,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
  wgd(syr,mcv2,2006,2006,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
+ wgd(syr,mcv2,2007,2007,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
+ wgd(syr,mcv2,2008,2008,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,81,na,na).
+ wgd(syr,mcv2,2009,2009,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
+ wgd(syr,mcv2,2010,2010,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,82,na,na).
+ wgd(syr,mcv2,2011,2011,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,71,na,na).
+ wgd(syr,mcv2,2012,2012,assignAnchor,' Coverage level follows coverage for MCV first dose with adjustment based on the difference between estimated coverage and official government estimate for MCV.',na,53,na,na).
+ wgd(syr,mcv2,2013,2013,ignoreReported,' Reported coverage levels may reflect doses delivered during campaign.',na,na,na,na).
+ wgd(syr,mcv2,2022,2022,acceptReported,' Programme reports a three months vaccine stockout at the national and subnational level.',na,na,na,na).
+ wgd(syr,pol3,2012,2014,comment,' Higher estimated coverage levels versus those for the third dose of DTP containing vaccine may suggest inclusion of campaign doses.',na,na,na,na).
+ wgd(syr,pol3,2013,2013,ignoreReported,' Reported coverage levels may reflect doses delivered during campaign.',na,na,na,na).
 

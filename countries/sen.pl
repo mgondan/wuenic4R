@@ -1,8 +1,8 @@
 %  Senegal - SEN 
-%  Fri May 17 12:19:04 2024 
+%  Mon May 20 20:10:41 2024 
 
 country(sen,'Senegal'). 
-date('Fri May 17 12:19:04 2024').
+date('Mon May 20 20:10:41 2024').
 
 estimate_required(sen,bcg,1997,na,'na').
  estimate_required(sen,bcg,1998,na,'na').

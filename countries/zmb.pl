@@ -1,8 +1,8 @@
 %  Zambia - ZMB 
-%  Fri May 17 12:27:08 2024 
+%  Mon May 20 20:17:24 2024 
 
 country(zmb,'Zambia'). 
-date('Fri May 17 12:27:08 2024').
+date('Mon May 20 20:17:24 2024').
 
 estimate_required(zmb,bcg,1997,na,'na').
  estimate_required(zmb,bcg,1998,na,'na').
@@ -1754,11 +1754,7 @@ wgd(zmb,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,95,_,na).
  wgd(zmb,mcv1,1997,1997,assignAnchor,'Legacy estimate.',na,86,_,na).
  wgd(zmb,pol3,1997,1997,assignAnchor,'Legacy estimate.',na,82,_,na).
 
-wgd(zmb,rotac,2015,2015,assignAnchor,' Estimate based on reported data.',na,82,na,na).
- wgd(zmb,rotac,2016,2016,assignWUENIC,' Estimate is based on a four percentage point adjustment to the reported administrative coverage derived from the difference between the reported administrative coverage for DTP1 and the best possible performance coverage level of 99 percent.',na,90,na,na).
- wgd(zmb,rotac,2021,2021,comment,' Programme reports a four months vaccine stockout.',na,na,na,na).
- wgd(zmb,rotac,2022,2022,acceptReported,' Programme reports four months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(zmb,X,1997,2001,interpolate,' Unexplained temporal change in numerator and denominator levels.',na,na,na,na).
+wgd(zmb,X,1997,2001,interpolate,' Unexplained temporal change in numerator and denominator levels.',na,na,na,na).
  wgd(zmb,X,2001,2006,interpolate,' Unexplained temporal change in numerator and denominator levels.',na,na,na,na).
  wgd(zmb,X,2014,2014,comment,' Official reported estimate is based on the results of the 2014 Demographic and Health Survey.',na,na,na,na).
  wgd(zmb,X,2016,2016,ignoreGov,' Reported official government estimates are based on unexplained adjustments to the administrative coverage.',na,na,na,na).
@@ -1832,4 +1828,8 @@ wgd(zmb,rotac,2015,2015,assignAnchor,' Estimate based on reported data.',na,82,n
  wgd(zmb,pol3,2019,2019,assignGoC,' Consistency with other antigens.',na,1,na,na).
  wgd(zmb,rcv1,2017,2017,comment,' Rubella containing vaccine introduced in 2017 as Measles-Rubella vaccine. 2018 DHS Key Indicators Report coverage of 91.',na,na,na,na).
  wgd(zmb,rotac,2014,2014,comment,' Rotavirus vaccine introduced during 2013. Reporting began during 2014.',na,na,na,na).
+ wgd(zmb,rotac,2015,2015,assignAnchor,' Estimate based on reported data.',na,82,na,na).
+ wgd(zmb,rotac,2016,2016,assignWUENIC,' Estimate is based on a four percentage point adjustment to the reported administrative coverage derived from the difference between the reported administrative coverage for DTP1 and the best possible performance coverage level of 99 percent.',na,90,na,na).
+ wgd(zmb,rotac,2021,2021,comment,' Programme reports a four months vaccine stockout.',na,na,na,na).
+ wgd(zmb,rotac,2022,2022,acceptReported,' Programme reports four months vaccine stockout at national and subnational levels.',na,na,na,na).
 
