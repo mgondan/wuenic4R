@@ -1,8 +1,8 @@
 %  Jamaica - JAM 
-%  Mon May 20 19:59:32 2024 
+%  Fri May 17 12:07:00 2024 
 
 country(jam,'Jamaica'). 
-date('Mon May 20 19:59:32 2024').
+date('Fri May 17 12:07:00 2024').
 
 estimate_required(jam,bcg,1997,na,'na').
  estimate_required(jam,bcg,1998,na,'na').
@@ -1461,16 +1461,16 @@ wgd(jam,bcg,1997,1997,assignAnchor,'Legacy estimate.',na,97,_,na).
 
 wgd(jam,X,2019,2019,comment,' Programme reports a six month shortage of AD syringes.',na,na,na,na).
  wgd(jam,X,2022,2022,comment,' WHO and UNICEF are aware of a 2022 Multiple Indicator Cluster Survey and await the final results.',na,na,na,na).
- wgd(jam,bcg,2004,2004,acceptSurvey,'.',96,na,na,na).
+ wgd(jam,bcg,2004,2004,acceptSurvey,'.',jam2005231,96,na,na).
  wgd(jam,bcg,2019,2019,comment,' Programme reports three months vaccine stockout.',na,na,na,na).
  wgd(jam,bcg,2021,2021,comment,' Programme reports a two months vaccine stockout at the national and subnational levels.',na,na,na,na).
  wgd(jam,bcg,2022,2022,comment,' Programme reports three months vaccine stockout at national and subnational levels.',na,na,na,na).
  wgd(jam,dtp1,2000,2000,assignAnchor,' Estimate based on reported data.',na,87,na,na).
- wgd(jam,dtp1,2004,2004,acceptSurvey,'.',96,na,na,na).
+ wgd(jam,dtp1,2004,2004,acceptSurvey,'.',jam2005231,96,na,na).
  wgd(jam,dtp1,2013,2013,ignoreGov,' Official government estimate includes trivalent DTP coverage and does not include DTP doses administered as DTP-HepB-Hib pentavalent vaccine.',na,na,na,na).
  wgd(jam,dtp1,2018,2018,comment,' Programme reports four months vaccine stockout.',na,na,na,na).
  wgd(jam,dtp1,2020,2020,assignWUENIC,' Consistency with trend in numerator.',na,97,na,na).
- wgd(jam,dtp3,2004,2004,acceptSurvey,'.',87,na,na,na).
+ wgd(jam,dtp3,2004,2004,acceptSurvey,'.',jam2005231,87,na,na).
  wgd(jam,dtp3,2013,2013,ignoreGov,' Official government estimate includes trivalent DTP coverage and does not include DTP doses administered as DTP-HepB-Hib pentavalent vaccine.',na,na,na,na).
  wgd(jam,dtp3,2018,2018,comment,' Programme reports four months vaccine stockout.',na,na,na,na).
  wgd(jam,hepb3,2003,2003,comment,'HepB vaccine introduced in 2003.',na,na,na,na).
@@ -1478,7 +1478,7 @@ wgd(jam,X,2019,2019,comment,' Programme reports a six month shortage of AD syrin
  wgd(jam,ipv1,2015,2015,comment,' Inactivated polio vaccine in September 2015.',na,na,na,na).
  wgd(jam,ipv1,2016,2016,acceptReported,' National rollout of IPV.',na,na,na,na).
  wgd(jam,ipv1,2022,2022,comment,' Programme reports two months vaccine stockout at national level.',na,na,na,na).
- wgd(jam,mcv1,2004,2004,acceptSurvey,'.',91,na,na,na).
+ wgd(jam,mcv1,2004,2004,acceptSurvey,'.',jam2005231,91,na,na).
  wgd(jam,mcv1,2007,2007,acceptReported,'Interruption in routine services because of hurricane Dean',na,na,na,na).
  wgd(jam,mcv1,2016,2016,comment,' Programme report vaccine stockouts at district level.',na,na,na,na).
  wgd(jam,mcv1,2018,2018,comment,' Programme reports one month vaccine stockout at national level.',na,na,na,na).
@@ -1490,7 +1490,7 @@ wgd(jam,X,2019,2019,comment,' Programme reports a six month shortage of AD syrin
  wgd(jam,mcv2,2022,2022,comment,' Programme reports four months vaccine stockout at national level.',na,na,na,na).
  wgd(jam,pcv3,2015,2015,internalComment,' Pneumococcal conjugate vaccine introduced during 2014 to high risk groups. Reporting began in 2015 but no estimate made. Reported data removed from database.',na,na,na,na).
  wgd(jam,pcv3,2022,2022,comment,' Programme reports two months vaccine stockout at national and subnational levels.',na,na,na,na).
- wgd(jam,pol3,2004,2004,acceptSurvey,'.',86,na,na,na).
+ wgd(jam,pol3,2004,2004,acceptSurvey,'.',jam2005231,86,na,na).
  wgd(jam,pol3,2013,2013,comment,'Decline in reported administrative coverage is most likely due to national stockout for 1.5 months.',na,na,na,na).
  wgd(jam,pol3,2013,2013,ignoreGov,' Reported decline in government official estimate most likely a reporting error.',na,na,na,na).
  wgd(jam,pol3,2017,2017,comment,' Programme reports vaccine stockout for 0.5 month.',na,na,na,na).

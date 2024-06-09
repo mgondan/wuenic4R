@@ -1,7 +1,7 @@
 library(zoo)
 library(rolog)
 
-ccode = "hti"
+ccode = "jam"
 args = commandArgs(trailingOnly=TRUE)
 if(length(args))
     ccode = tools::file_path_sans_ext(args[1])
@@ -10,8 +10,8 @@ once(call("load_files", sprintf("countries/%s.pl", ccode), list(call("encoding",
 
 Vn = c("bcg", "bcgx", "dtp1", "dtp1x", "dtp3", "dtp3x", 
        "hepb0", "hepb1", "hepb3", "hepb3x", "hepbb","hepbbx", "hib1", "hib3", "hib3x",
-       "opv1", "ipv1", "ipv1x", "ipv2", "ipv2", "mcv1", "mcv1x", "mcv2", "pcv1", "pcv3", "pcv3x",
-       "pol1", "pol3", "pol3x", "rcv1", "rotac", "rotacx", "yfv")
+       "opv1", "ipv1", "ipv1x", "ipv2", "ipv2_frac", "ipv2x", "mcv1", "mcv1x", "mcv2", "pcv1", "pcv3", "pcv3x",
+       "pol1", "pol3", "pol3x", "rcv1", "rotac", "rotacx", "yfv", "menga")
 Yn = 1985:2022
 
 # MG, discuss: khm.pl has an "opv1" vaccine, I guess it is ipv1
@@ -284,7 +284,7 @@ Rep.Src[index] = NA
 # Todo: This code can be removed, data will be overwritten below
 
 gov = !is.na(Gov)
-ignore = Decisions$Dec == "ignoreGov"
+ignore = (Decisions$Dec == "ignoreGov")
 gov[cbind(Decisions$Y[ignore], Decisions$V[ignore])] = FALSE
 Rep.Cov[gov] = NA
 Rep.Src[gov] = NA
@@ -297,7 +297,7 @@ Rep.Src[gov] = NA
 #    Coverage = Cov0.
 
 gov = !is.na(Gov)
-ignore = Decisions$Dec == "ignoreGov"
+ignore = (Decisions$Dec == "ignoreGov")
 gov[cbind(Decisions$Y[ignore], Decisions$V[ignore])] = FALSE
 Rep.Cov[gov] = Gov[gov]
 Rep.Src[gov] = "gov"
@@ -644,7 +644,7 @@ if(any(cnf & age))
   #     C3 is round(C3Cov),
   #     member(title:Title, Description),
   #     concat_atom([Title, ' card or history results of ', SurveyCovRounded,
-  #         ' percent modifed for recall bias to ', Cov0,
+  #         ' percent modified for recall bias to ', Cov0,
   #         ' percent based on 1st dose card or history coverage of ',
   #         CH1, ' percent, 1st dose card only coverage of ',
   #         C1, ' percent and 3rd dose card only coverage of ',
@@ -657,7 +657,7 @@ if(any(cnf & age))
   if(any(index))
   {
     Svy.Info[index3] = sprintf(
-      "%s card or history results of %.0f percent modifed for recall bias to %.0f percent based on 1st dose card or history coverage of %.0f percent, 1st dose card only coverage of %.0f percent and 3rd dose card only coverage of %.0f percent. ", 
+      "%s card or history results of %.0f percent modified for recall bias to %.0f percent based on 1st dose card or history coverage of %.0f percent, 1st dose card only coverage of %.0f percent and 3rd dose card only coverage of %.0f percent. ", 
       Svy.Title[index3], tround(Svy.Ana[index3]), H3Adj[index3], tround(Svy.CH1[index1]), tround(Svy.C1[index1]), tround(Svy.C3[index3]))
     Svy.Ana[index3] = H3Adj[index3]
   }
