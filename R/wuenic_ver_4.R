@@ -1,7 +1,7 @@
 library(zoo)
 library(rolog)
 
-ccode = "ago"
+ccode = "hti"
 args = commandArgs(trailingOnly=TRUE)
 if(length(args))
     ccode = tools::file_path_sans_ext(args[1])
@@ -223,6 +223,9 @@ wgd = function()
   s = do.call("rbind", s)
   s$Cov = as.integer(s$Cov)
   s$Y = as.character(s$Y)
+  
+  # The string "NA" does not need to be shown
+  # s$Info[which(s$Info == "NA")] = ""
   return(s)
 }
 
@@ -1064,6 +1067,7 @@ Succ.Year = apply(Succ.Year, 2, FUN=na.locf, fromLast=TRUE, na.rm=FALSE)
 
 WI = YV_char
 WI[cbind(index$Y, index$V)] = index$Info
+WI[WI == "NA"] = ""
 WI[is.na(Prec.Rule) | is.na(Succ.Rule)] = NA
 
 index = !is.na(WI)
